@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2000-08-02
 
 # Partie législative
 
@@ -4528,17 +4528,9 @@ difficultés des entreprises sont applicables.
 
 ###### Article L321-5
 
-Tout associé a droit, dans les conditions et délais déterminés par décret, d'obtenir communication :
-
-1° Des comptes annuels et de la liste des administrateurs ;
-
-2° Des rapports du conseil d'administration et des commissaires aux comptes qui seront soumis à l'assemblée ;
-
-3° Le cas échéant, du texte et de l'exposé des motifs des résolutions proposées, ainsi que des renseignements concernant les
-candidats au conseil d'administration ;
-
-4° Du montant global, certifié exact par les commissaires aux comptes, des rémunérations versées aux personnes les mieux
-rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif excède ou non deux cents salariés.
+Le droit à la communication prévu par l'article 1855 du code civil s'applique aux sociétés civiles de répartition des droits,
+sans pour autant qu'un associé puisse obtenir communication du montant des droits répartis individuellement à tout autre
+ayant droit que lui-même. Un décret en Conseil d'Etat détermine les modalités d'exercice de ce droit.
 
 **Liens relatifs à cet article**
 
@@ -4550,15 +4542,23 @@ rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'e
 
 	  - Loi n°92-597 1992-07-01
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-719 2000-08-01 art. 91 (champ d'application territoriale - Nouvelle - Calédonie, TOM, Mayotte)
+
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2000-719 du 1 août 2000 - art. 12 () JORF 2 août 2000
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R321-2 (M)
 	  - Code de la propriété intellectuelle - art. R321-6-2 (V)
 	  - Code de la propriété intellectuelle - art. R321-8 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 1855 (V)
 
 
 ###### Article L321-6
@@ -4644,18 +4644,20 @@ qu'elles auraient à verser.
 ###### Article L321-9
 
 Ces sociétés utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant et à des actions de formation
-des artistes :
+des artistes : 
 
-1° 25 % des sommes provenant de la rémunération pour copie privée ;
+1° 25 % des sommes provenant de la rémunération pour copie privée ; 
 
 2° La totalité des sommes perçues en application des articles L. 122-10, L. 132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui
-n'ont pu être réparties à l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
+n'ont pu être réparties soit en application des conventions internationales auxquelles la France est partie, soit parce que
+leurs destinataires n'ont pas pu être identifiés ou retrouvés avant l'expiration du délai prévu au dernier alinéa de
+l'article L. 321-1. 
 
 Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à compter de la fin de la cinquième année suivant
 la date de leur mise en répartition, sans préjudice des demandes de paiement des droits non prescrits. La répartition des
 sommes correspondantes, qui ne peut bénéficier à un organisme unique, est soumise à un vote de l'assemblée générale de la
 société, qui se prononce à la majorité des deux tiers. A défaut d'une telle majorité, une nouvelle assemblée générale,
-convoquée spécialement à cet effet, statue à la majorité simple.
+convoquée spécialement à cet effet, statue à la majorité simple. 
 
 Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de
 répartition des droits au ministre chargé de la culture. Le commissaire aux comptes vérifie la sincérité et la concordance
@@ -4674,20 +4676,20 @@ spécial.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+	  - SPEC_APPLI: Loi n°2000-719 2000-08-01 art. 91 (champ d'application territoriale - Nouvelle - Calédonie, TOM, Mayotte)
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2000-719 du 1 août 2000 - art. 11 () JORF 2 août 2000
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L122-10 (V)
 	  - Code de la propriété intellectuelle - art. L132-20-1 (V)
-	  - Code de la propriété intellectuelle - art. L214-1 (M)
+	  - Code de la propriété intellectuelle - art. L214-1 (V)
 	  - Code de la propriété intellectuelle - art. L217-2 (V)
-	  - Code de la propriété intellectuelle - art. L311-1 (M)
-	  - Code de la propriété intellectuelle - art. L321-1 (M)
+	  - Code de la propriété intellectuelle - art. L311-1 (V)
+	  - Code de la propriété intellectuelle - art. L321-1 (V)
 
 	**Cité par**:
 
@@ -4785,6 +4787,78 @@ au présent article.
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R321-8 (V)
+
+
+###### Article L321-13
+
+I. - Il est institué une commission permanente de contrôle des sociétés de perception et de répartition des droits composée
+de cinq membres nommés par décret pour une durée de cinq ans :
+
+- un conseiller maître à la Cour des comptes, président, désigné par le premier président de la Cour des comptes ;
+
+- un conseiller d'Etat, désigné par le vice-président du Conseil d'Etat ;
+
+- un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation ;
+
+- un membre de l'inspection générale des finances, désigné par le ministre chargé des finances ;
+
+- un membre de l'inspection générale de l'administration des affaires culturelles, désigné par le ministre chargé de la
+culture ;
+
+La commission peut se faire assister de rapporteurs désignés parmi les membres du Conseil d'Etat et du corps des conseillers
+de tribunaux administratifs et cours administratives d'appel, les magistrats de la Cour de cassation et des cours et
+tribunaux, les magistrats de la Cour des comptes et des chambres régionales des comptes, les membres de l'inspection générale
+des finances et les membres du corps des administrateurs civils. Elle peut en outre bénéficier de la mise à disposition de
+fonctionnaires et faire appel au concours d'experts désignés par son président.
+
+II. - La commission contrôle les comptes et la gestion des sociétés de perception et de répartition des droits ainsi que ceux
+de leurs filiales et des organismes qu'elles contrôlent.
+
+A cet effet, les dirigeants de ces sociétés, filiales et organismes sont tenus de lui prêter leur concours, de lui
+communiquer tous documents et de répondre à toute demande d'information nécessaire à l'exercice de sa mission. Pour les
+opérations faisant appel à l'informatique, le droit de communication implique l'accès aux logiciels et aux données, ainsi que
+le droit d'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les
+besoins du contrôle.
+
+La commission peut demander aux commissaires aux comptes des sociétés de perception et de répartition des droits tous
+renseignements sur les sociétés qu'ils contrôlent. Les commissaires aux comptes sont alors déliés du secret professionnel à
+l'égard des membres de la commission.
+
+Elle peut effectuer sur pièces et sur place le contrôle des sociétés et organismes mentionnés au premier alinéa du présent
+paragraphe.
+
+III. - La commission de contrôle des sociétés de perception et de répartition des droits présente un rapport annuel au
+Parlement, au Gouvernement et aux assemblées générales des sociétés de perception et de répartition des droits.
+
+IV. - Le fait, pour tout dirigeant d'une société ou d'un organisme soumis au contrôle de la commission de contrôle des
+sociétés de perception et de répartition des droits, de ne pas répondre aux demandes d'information de la commission, de faire
+obstacle de quelque manière que ce soit à l'exercice de sa mission ou de lui communiquer sciemment des renseignements
+inexacts est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
+V. - La commission siège dans les locaux de la Cour des comptes, qui assure son secrétariat.
+
+VI. - Un décret en Conseil d'Etat fixe l'organisation et le fonctionnement de la commission, ainsi que les procédures
+applicables devant elle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-719 2000-08-01 art. 91 (champ d'application territoriale - Nouvelle - Calédonie, TOM, Mayotte)
+
+	**Créé par**:
+
+	  - Loi n°2000-719 du 1 août 2000 - art. 12 () JORF 2 août 2000
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L134-3 (V)
+	  - Code de la propriété intellectuelle - art. R325-1 (V)
+	  - Code de la propriété intellectuelle - art. R325-4 (V)
 
 
 #### Titre III : Procédures et sanctions
