@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1996-10-03
+Version Consolidée au 1996-12-19
 
 # Partie législative
 
@@ -275,8 +275,8 @@ bottiers et les fabriques de tissus d'ameublement.
 
 Les auteurs de traductions, d'adaptations, transformations ou arrangements des oeuvres de l'esprit jouissent de la protection
 instituée par le présent code sans préjudice des droits de l'auteur de l'oeuvre originale. Il en est de même des auteurs
-d'anthologies ou recueils d'oeuvres diverses qui, par le choix et la disposition des matières, constituent des créations
-intellectuelles.
+d'anthologies ou de recueils d'oeuvres ou de données diverses qui, par le choix ou la disposition des matières, constituent
+des créations intellectuelles.
 
 **Liens relatifs à cet article**
 
@@ -304,9 +304,13 @@ intellectuelles.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 1 () JORF 19 décembre 1996
 
 
 ###### Article L112-4
@@ -6638,26 +6642,29 @@ propriété industrielle qui confère à son titulaire ou à ses ayants cause un
 
 La délivrance du titre donne lieu à la diffusion légale prévue à l'article L. 612-21.
 
-Sans préjudice de l'application des dispositions de la convention de Paris pour la protection de la propriété industrielle,
-les étrangers dont le domicile ou l'établissement est situé en dehors du territoire où le présent titre est applicable
-jouissent du bénéfice du présent titre, sous la condition que les Français bénéficient de la réciprocité de protection dans
-les pays dont lesdits étrangers sont ressortissants.
+Sous réserve des dispositions des conventions internationales auxquelles la France est partie, les étrangers dont le domicile
+ou l'établissement est situé en dehors du territoire où le présent titre est applicable jouissent du bénéfice du présent
+titre, sous la condition que les Français bénéficient de la réciprocité de protection dans les pays dont lesdits étrangers
+sont ressortissants.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 du 2 janvier 1968 - art. 1 (M)
-	  - Loi n°68-1 du 2 janvier 1968 - art. 5 (Ab)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 1 (Ab)
+	  - Loi n°68-1 du 2 janvier 1968 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 2 () JORF 19 décembre 1996
 
 	**Cité par**:
 
@@ -6666,10 +6673,6 @@ les pays dont lesdits étrangers sont ressortissants.
 	  - Code de la propriété intellectuelle - art. L613-1 (V)
 	  - Code de la recherche - art. L329-7 (Ab)
 	  - Code de la recherche - art. L533-1 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-21 (V)
 
 
 ###### Article L611-2
@@ -7075,12 +7078,18 @@ toute méthode visée audit article ne soit pas contenue dans l'état de la tech
 
 ###### Article L611-12
 
-Si un premier dépôt a été effectué dans un Etat qui ne fait pas partie de l'Union de Paris, un droit de priorité attaché à ce
-dépôt ayant des effets équivalents à ceux prévus par la Convention de Paris ne peut être accordé dans les mêmes conditions
-que dans la mesure où cet Etat accorde, sur la base d'un premier dépôt d'une demande de brevet français ou d'une demande
-internationale ou de brevet européen désignant la France, un droit de priorité équivalent.
+Si un premier dépôt a été effectué dans un Etat qui ne fait pas partie de l'Union de Paris ou de l'Organisation mondiale du
+commerce, un droit de priorité attaché à ce dépôt ayant des effets équivalents à ceux prévus par la Convention de Paris ne
+peut être accordé dans les mêmes conditions que dans la mesure où cet Etat accorde, sur la base d'un premier dépôt d'une
+demande de brevet français ou d'une demande internationale ou de brevet européen désignant la France, un droit de priorité
+équivalent.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Accord OMC 1994-04-15, signé à Marrakech
+	  - Convention 1883-03-20, signée à Paris
 
 	**Anciens textes**:
 
@@ -7090,9 +7099,13 @@ internationale ou de brevet européen désignant la France, un droit de priorit�
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 3 () JORF 19 décembre 1996
 
 	**Cité par**:
 
@@ -8344,7 +8357,8 @@ Toute personne qui, de bonne foi, à la date de dépôt ou de priorité d'un bre
 est applicable en possession de l'invention objet du brevet, a le droit, à titre personnel, d'exploiter l'invention malgré
 l'existence du brevet.
 
-Le droit reconnu par le présent article ne peut être transmis qu'avec l'entreprise à laquelle il est attaché.
+Le droit reconnu par le présent article ne peut être transmis qu'avec le fonds de commerce, l'entreprise ou la partie de
+l'entreprise auquel il est attaché.
 
 **Liens relatifs à cet article**
 
@@ -8356,9 +8370,13 @@ Le droit reconnu par le présent article ne peut être transmis qu'avec l'entrep
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 4 () JORF 19 décembre 1996
 
 
 ##### Section 2 : Transmission et perte des droits
@@ -8501,16 +8519,18 @@ le territoire d'un Etat membre de la Communauté économique européenne ou d'un
 
 b) N'a pas commercialisé le produit objet du brevet en quantité suffisante pour satisfaire aux besoins du marché français.
 
-Il en est de même lorsque l'exploitation prévue au a) ci-dessus ou la commercialisation prévue au b) ci-dessus a été
-abandonnée depuis plus de trois ans.
+Il en est de même lorsque l'exploitation prévue au a ci-dessus ou la commercialisation prévue au b ci-dessus a été abandonnée
+depuis plus de trois ans.
+
+Pour l'application du présent article, l'importation de produits objets de brevets fabriqués dans un Etat partie à l'accord
+instituant l'Organisation mondiale du commerce est considérée comme une exploitation de ce brevet.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
-	  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
-	  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
+	  - Accord EEE 1992-05-02, signé à Porto
+	  - Accord OMC 1994-04-15, signé à Marrakech
 
 	**Anciens textes**:
 
@@ -8520,10 +8540,13 @@ abandonnée depuis plus de trois ans.
 
 	  - Loi n°92-597 1992-07-01
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 5 () JORF 1er janvier 1994
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 5 () JORF 19 décembre 1996
 
 	**Cité par**:
 
@@ -8543,8 +8566,8 @@ La demande de licence obligatoire est formée auprès du tribunal de grande inst
 justification que le demandeur n'a pu obtenir du propriétaire du brevet une licence d'exploitation et qu'il est en état
 d'exploiter l'invention de manière sérieuse et effective.
 
-La licence obligatoire ne peut être que non exclusive ; elle est accordée à des conditions déterminées, notamment quant à sa
-durée, son champ d'application et le montant des redevances auxquelles elle donne lieu.
+La licence obligatoire est accordée à des conditions déterminées, notamment quant à sa durée, son champ d'application et le
+montant des redevances auxquelles elle donne lieu.
 
 Ces conditions peuvent être modifiées par décision du tribunal, à la requête du propriétaire ou du licencié.
 
@@ -8558,9 +8581,13 @@ Ces conditions peuvent être modifiées par décision du tribunal, à la requêt
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 7 () JORF 19 décembre 1996
 
 	**Cité par**:
 
@@ -8570,9 +8597,8 @@ Ces conditions peuvent être modifiées par décision du tribunal, à la requêt
 
 ###### Article L613-13
 
-Toute cession des droits attachés à une licence obligatoire est, à peine de nullité, soumise à l'autorisation du tribunal.
-
-Les droits attachés à une licence d'office ne peuvent être ni cédés ni transmis.
+Les licences obligatoires et les licences d'office sont non exclusives. Les droits attachés à ces licences ne peuvent être
+transmis qu'avec le fonds de commerce, l'entreprise ou la partie de l'entreprise auquel ils sont attachés.
 
 **Liens relatifs à cet article**
 
@@ -8584,9 +8610,13 @@ Les droits attachés à une licence d'office ne peuvent être ni cédés ni tran
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 6 () JORF 19 décembre 1996
 
 
 ###### Article L613-14
@@ -8615,12 +8645,13 @@ Le propriétaire d'un brevet portant sur un perfectionnement à une invention d�
 exploiter son invention sans l'autorisation du titulaire du brevet antérieur ; ledit titulaire ne peut exploiter le
 perfectionnement breveté sans l'autorisation du titulaire du brevet de perfectionnement.
 
-Le tribunal de grande instance peut, le ministère public entendu, dans l'intérêt public, accorder sur sa demande, qui ne peut
-être antérieure à l'expiration du délai prévu à l'article L. 613-11, une licence non exclusive au titulaire du brevet de
+Le tribunal de grande instance peut, le ministère public entendu, accorder, dans l'intérêt public, sur sa demande, qui ne
+peut être antérieure à l'expiration du délai prévu à l'article L. 613-11, une licence au titulaire du brevet de
 perfectionnement dans la mesure nécessaire à l'exploitation de l'invention qui fait l'objet de ce brevet, et pour autant que
-l'invention, objet du brevet de perfectionnement, présente à l'égard du brevet antérieur un progrès technique important. Le
-propriétaire du premier brevet obtient, sur requête présentée au tribunal, la concession d'une licence sur le brevet de
-perfectionnement.
+l'invention, objet du brevet de perfectionnement, présente à l'égard du brevet antérieur un progrès technique et un intérêt
+économique importants. La licence accordée au titulaire du brevet de perfectionnement ne peut être transmise qu'avec ledit
+brevet. Le propriétaire du premier brevet obtient, sur requête présentée au tribunal, la concession d'une licence sur le
+brevet de perfectionnement.
 
 Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
@@ -8634,9 +8665,13 @@ Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 8 () JORF 19 décembre 1996
 
 	**Cite**:
 
@@ -8730,22 +8765,22 @@ publique, le montant des redevances est fixé par le tribunal de grande instance
 
 Le ministre chargé de la propriété industrielle peut mettre en demeure les propriétaires de brevets d'invention autres que
 ceux visés à l'article L. 613-16 d'en entreprendre l'exploitation de manière à satisfaire aux besoins de l'économie
-nationale.
+nationale. 
 
 Si la mise en demeure n'a pas été suivie d'effet dans le délai d'un an et si l'absence d'exploitation ou l'insuffisance en
 qualité ou en quantité de l'exploitation entreprise porte gravement préjudice au développement économique et à l'intérêt
 public, les brevets, objets de la mise en demeure, peuvent être soumis au régime de licence d'office par décret en Conseil
-d'Etat.
+d'Etat. 
 
 Le ministre chargé de la propriété industrielle peut prolonger le délai d'un an prévu ci-dessus lorsque le titulaire du
-brevet justifie d'excuses légitimes et compatibles avec les exigences de l'économie nationale.
+brevet justifie d'excuses légitimes et compatibles avec les exigences de l'économie nationale. 
 
 Du jour de la publication du décret qui soumet le brevet au régime de la licence d'office, toute personne qualifiée peut
-demander au ministre chargé de la propriété industrielle l'octroi d'une licence d'exploitation.
+demander au ministre chargé de la propriété industrielle l'octroi d'une licence d'exploitation. 
 
-Cette licence ne peut être que non exclusive : elle est accordée par arrêté dudit ministre à des conditions déterminées quant
-à sa durée et son champ d'application, mais à l'exclusion des redevances auxquelles elle donne lieu. Elle prend effet à la
-date de notification de l'arrêté aux parties.
+Cette licence est accordée par arrêté dudit ministre à des conditions déterminées quant à sa durée et son champ
+d'application, mais à l'exclusion des redevances auxquelles elle donne lieu. Elle prend effet à la date de notification de
+l'arrêté aux parties. 
 
 A défaut d'accord amiable, le montant des redevances est fixé par le tribunal de grande instance.
 
@@ -8759,13 +8794,17 @@ A défaut d'accord amiable, le montant des redevances est fixé par le tribunal 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 7 () JORF 19 décembre 1996
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L613-16 (M)
+	  - Code de la propriété intellectuelle - art. L613-16 (V)
 
 	**Cité par**:
 
@@ -8813,6 +8852,27 @@ juridiction, les débats ont lieu en chambre du conseil.
 	  - Code de la propriété intellectuelle - art. R613-34 (V)
 	  - Code de la propriété intellectuelle - art. R613-36 (V)
 	  - Code de la propriété intellectuelle - art. R613-42 (V)
+
+
+###### Article L613-19-1
+
+Si le brevet a pour objet une invention dans le domaine de la technologie des semi-conducteurs, une licence obligatoire ou
+d'office ne peut être accordée que pour une utilisation à des fins publiques non commerciales ou pour remédier à une pratique
+déclarée anticoncurrentielle à la suite d'une procédure juridictionnelle ou administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 9 () JORF 19 décembre 1996
 
 
 ###### Article L613-20
@@ -10424,6 +10484,36 @@ droit, sans préjudice d'éventuels dommages-intérêts.
 	  - Code de la propriété intellectuelle - art. L615-2 (M)
 
 
+###### Article L615-5-1
+
+Si le brevet a pour objet un procédé d'obtention d'un produit, le tribunal pourra ordonner au défendeur de prouver que le
+procédé utilisé pour obtenir un produit identique est différent du procédé breveté. Faute pour le défendeur d'apporter cette
+preuve, tout produit identique fabriqué sans le consentement du titulaire du brevet sera présumé avoir été obtenu par le
+procédé breveté dans les deux cas suivants :
+
+a) Le produit obtenu par le procédé breveté est nouveau ;
+
+b) La probabilité est grande que le produit identique a été obtenu par le procédé breveté, alors que le titulaire du brevet
+n'a pas pu, en dépit d'efforts raisonnables, déterminer quel procédé a été en fait utilisé.
+
+Dans la production de la preuve contraire, sont pris en considération les intérêts légitimes du défendeur pour la protection
+de ses secrets de fabrication et de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 10 () JORF 19 décembre 1996
+
+
 ###### Article L615-6
 
 Dans une instance en contrefaçon introduite en vertu d'une demande de certificat d'utilité, le demandeur devra produire un
@@ -11024,12 +11114,12 @@ Est nul tout dépôt qui ne répond pas aux conditions prévues au présent arti
 
 Sont admis au bénéfice du présent chapitre :
 
-a) Les créateurs ressortissants d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord
-sur l' Espace économique européen ou qui ont dans un tel Etat soit leur résidence habituelle, soit un établissement
-industriel ou commercial, effectif et sérieux, ainsi que leurs ayants cause ;
+a) Les créateurs ressortissants d'un Etat partie à l'accord instituant l'Organisation mondiale du commerce ou qui ont dans un
+tel Etat soit leur résidence habituelle, soit un établissement industriel ou commercial, effectif et sérieux, ainsi que leurs
+ayants cause ;
 
 b) Les personnes répondant aux conditions précitées de nationalité, résidence ou établissement, qui procèdent dans un Etat
-membre ou dans un autre Etat partie , pour la première fois au monde, à l'exploitation commerciale d'une topographie non
+membre ou dans un autre Etat partie, pour la première fois au monde, à l'exploitation commerciale d'une topographie non
 encore protégée par le présent chapitre et pour laquelle elles ont obtenu de la personne habilitée une autorisation exclusive
 pour l'ensemble de la Communauté économique européenne ou de l'Espace économique européen.
 
@@ -11038,11 +11128,9 @@ d'une constatation de réciprocité avec les pays dont elles sont ressortissante
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Accord EEE 1992-05-02, signé à Porto art. 129 *date d'effet*
-	  - SPEC_APPLI: Loi n°93-1420 1993-12-31 art. 9 *champ d'application territorial*, art. 10 *modalités*
-	  - SPEC_APPLI: Décret n°94-113 1994-02-01 *entrée en vigueur de l'accord sur l'Espace économique européen*
+	  - Accord OMC 1994-04-15, signé à Marrakech
 
 	**Anciens textes**:
 
@@ -11052,10 +11140,13 @@ d'une constatation de réciprocité avec les pays dont elles sont ressortissante
 
 	  - Loi n°92-597 1992-07-01
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 11 () JORF 19 décembre 1996
 
 	**Cité par**:
 
@@ -12426,7 +12517,8 @@ Le caractère distinctif peut, sauf dans le cas prévu au c, être acquis par l'
 Ne peut être adopté comme marque ou élément de marque un signe :
 
 a) Exclu par l'article 6 ter de la convention de Paris en date du 20 mars 1883, révisée, pour la protection de la propriété
-industrielle ;
+industrielle ou par le paragraphe 2 de l'article 23 de l'annexe I C à l'accord instituant l'Organisation mondiale du
+commerce ;
 
 b) Contraire à l'ordre public ou aux bonnes moeurs, ou dont l'utilisation est légalement interdite ;
 
@@ -12434,18 +12526,25 @@ c) De nature à tromper le public, notamment sur la nature, la qualité ou la pr
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Accord OMC 1994-04-15, signé à Marrakech, annexe I C, art. 23
+
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 3
 	  - Loi n°91-7 du 4 janvier 1991 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 12 () JORF 19 décembre 1996
 
 	**Cité par**:
 
@@ -12830,9 +12929,8 @@ Conseil d'Etat, être relevé des déchéances qu'il a pu encourir.
 
 ###### Article L712-11
 
-Sans préjudice de l'application des dispositions de la convention de Paris pour la protection de la propriété industrielle,
-l'étranger qui n'est ni établi ni domicilié sur le territoire national bénéficie des dispositions du présent livre.
-Toutefois, sous réserve des conventions internationales, ce bénéfice est subordonné aux conditions qu'il justifie avoir
+Sous réserve des dispositions des conventions internationales auxquelles la France est partie, l'étranger qui n'est ni établi
+ni domicilié sur le territoire national bénéficie des dispositions du présent livre aux conditions qu'il justifie avoir
 régulièrement déposé la marque ou obtenu son enregistrement dans le pays de son domicile ou de son établissement et que ce
 pays accorde la réciprocité de la protection aux marques françaises.
 
@@ -12840,16 +12938,19 @@ pays accorde la réciprocité de la protection aux marques françaises.
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 36
 	  - Loi n°91-7 du 4 janvier 1991 - art. 36 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 13 () JORF 19 décembre 1996
 
 
 ###### Article L712-12
@@ -12857,23 +12958,26 @@ pays accorde la réciprocité de la protection aux marques françaises.
 Le droit de priorité prévu à l'article 4 de la convention de Paris pour la protection de la propriété industrielle est étendu
 à toute marque préalablement déposée dans un pays étranger.
 
-Lorsque le demandeur ne peut prétendre au bénéfice de cette convention, le droit de priorité est subordonné à la
-reconnaissance par ledit pays du même droit lors du dépôt des marques françaises.
+Sous réserve des dispositions des conventions internationales auxquelles la France est partie, le droit de priorité est
+subordonné à la reconnaissance par ledit pays du même droit lors du dépôt des marques françaises.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 37
 	  - Loi n°91-7 du 4 janvier 1991 - art. 37 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°96-1106 du 18 décembre 1996 - art. 14 () JORF 19 décembre 1996
 
 
 ###### Article L712-13
