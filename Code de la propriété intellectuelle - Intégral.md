@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2002-10-25
+Version Consolidée au 2003-08-01
 
 # Partie législative
 
@@ -3236,6 +3236,149 @@ Un décret en Conseil d'Etat fixera les conditions d'application du présent art
 	  - Code de la propriété intellectuelle - art. L122-6 (V)
 
 
+##### Chapitre III : Rémunération au titre du prêt en bibliothèque
+
+###### Article L133-1
+
+Lorsqu'une oeuvre a fait l'objet d'un contrat d'édition en vue de sa publication et de sa diffusion sous forme de livre,
+l'auteur ne peut s'opposer au prêt d'exemplaires de cette édition par une bibliothèque accueillant du public. 
+
+Ce prêt ouvre droit à rémunération au profit de l'auteur selon les modalités prévues à l'article L. 133-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L133-2 (V)
+	  - Code de la propriété intellectuelle - art. L133-3 (V)
+	  - Code de la propriété intellectuelle - art. L811-1 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-4 (V)
+
+
+###### Article L133-2
+
+La rémunération prévue par l'article L. 133-1 est perçue par une ou plusieurs des sociétés de perception et de répartition
+des droits régies par le titre II du livre III et agréées à cet effet par le ministre chargé de la culture. 
+
+L'agrément prévu au premier alinéa est délivré en considération :
+
+- de la diversité des associés ;
+
+- de la qualification professionnelle des dirigeants ;
+
+- des moyens que la société propose de mettre en oeuvre pour assurer la perception et la répartition de la rémunération au
+titre du prêt en bibliothèque ;
+
+- de la représentation équitable des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants. 
+
+Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de cet agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L133-4 (M)
+	  - Code de la propriété intellectuelle - art. R326-1 (V)
+
+
+###### Article L133-3
+
+La rémunération prévue au second alinéa de l'article L. 133-1 comprend deux parts. 
+
+La première part, à la charge de l'Etat, est assise sur une contribution forfaitaire par usager inscrit dans les
+bibliothèques accueillant du public pour le prêt, à l'exception des bibliothèques scolaires. Un décret fixe le montant de
+cette contribution, qui peut être différent pour les bibliothèques des établissements d'enseignement supérieur, ainsi que les
+modalités de détermination du nombre d'usagers inscrits à prendre en compte pour le calcul de cette part. 
+
+La seconde part est assise sur le prix public de vente hors taxes des livres achetés, pour leurs bibliothèques accueillant du
+public pour le prêt, par les personnes morales mentionnées au troisième alinéa (2°) de l'article 3 de la loi n° 81-766 du 10
+août 1981 relative au prix du livre ; elle est versée par les fournisseurs qui réalisent ces ventes. Le taux de cette
+rémunération est de 6 % du prix public de vente.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°62-420 du 11 avril 1962 - art. 3 (V)
+	  - Loi n°81-766 du 10 août 1981 - art. 3 (V)
+	  - Loi n°2003-517 du 18 juin 2003 - art. 6 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 45 (V)
+	  - Code de la propriété intellectuelle - art. L335-4 (V)
+	  - Code de la propriété intellectuelle - art. R133-1 (V)
+	  - Code de la propriété intellectuelle - art. R133-2 (V)
+	  - Code de la sécurité sociale. - art. L382-12 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-1 (V)
+
+
+###### Article L133-4
+
+La rémunération au titre du prêt en bibliothèque est répartie dans les conditions suivantes : 
+
+1° Une première part est répartie à parts égales entre les auteurs et leurs éditeurs à raison du nombre d'exemplaires des
+livres achetés chaque année, pour leurs bibliothèques accueillant du public pour le prêt, par les personnes morales
+mentionnées au troisième alinéa (2°) de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée, déterminé sur la base des
+informations que ces personnes et leurs fournisseurs communiquent à la ou aux sociétés mentionnées à l'article L. 133-2 ; 
+
+2° Une seconde part, qui ne peut excéder la moitié du total, est affectée à la prise en charge d'une fraction des cotisations
+dues au titre de la retraite complémentaire par les personnes visées au second alinéa de l'article L. 382-12 du code de la
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°81-766 du 10 août 1981 - art. 3 (V)
+	  - Code de la propriété intellectuelle - art. L133-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L133-1 (V)
+	  - Code de la propriété intellectuelle - art. R133-1 (V)
+	  - Code de la sécurité sociale. - art. L382-12 (V)
+
+
 ### Livre II : Les droits voisins du droit d'auteur
 
 #### Titre unique
@@ -5361,10 +5504,10 @@ Est également un délit de contrefaçon la violation de l'un des droits de l'au
 
 ###### Article L335-4
 
-Est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*] toute fixation, reproduction,
-communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un
-phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-
-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
+Est punie de deux ans d'emprisonnement et de 150000 euros d'amende toute fixation, reproduction, communication ou mise à
+disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un
+vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur
+de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
 
 Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation
 du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
@@ -5372,6 +5515,9 @@ du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement de la rémunération due à l'auteur, à l'artiste-
 interprète ou au producteur de phonogrammes ou de vidéogrammes au titre de la copie privée ou de la communication publique
 ainsi que de la télédiffusion des phonogrammes.
+
+Est puni de la peine d'amende prévue au premier alinéa le défaut de versement du prélèvement mentionné au troisième alinéa de
+l'article L. 133-3.
 
 **Liens relatifs à cet article**
 
@@ -5390,7 +5536,11 @@ ainsi que de la télédiffusion des phonogrammes.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-3 (V)
 
 
 ###### Article L335-5
@@ -15815,7 +15965,7 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 ## Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
 
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les terres australes et antarctiques françaises et en Nouvelle - Calédonie
+### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
 #### Titre unique
 
@@ -15823,17 +15973,11 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 ###### Article L811-1
 
-Sous réserve des adaptations prévues aux articles suivants, les dispositions du présent code sont applicables à Mayotte.
-
-Sous les mêmes réserves, elles sont applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres
-australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte à l'exception des articles L. 421-1 à L. 422-10 et
-L. 423-2.
-
-**Nota:**
-
-Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
-référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
-"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
+Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des
+articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont
+applicables en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et
+en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à
+L. 422-10 et L. 423-2.
 
 **Liens relatifs à cet article**
 
@@ -15853,19 +15997,15 @@ référence à la "collectivité territoriale de Mayotte" est remplacée par la 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
-
 	**Modifié par**:
 
-	  - Ordonnance 2001-670 2001-07-25 art. 6 I, II, III JORF 28 juillet 2001
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 6 () JORF 28 juillet 2001
+	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L335-4 (M)
 	  - Code de la propriété intellectuelle - art. L423-2 (V)
-	  - Code de la propriété intellectuelle L421-1 à L422-10, L423-2
+	  - Code de la propriété intellectuelle L335-4, L133-1 à L133-4, L421-1 à L422-10, L423-2
 
 	**Nouveaux textes**:
 
