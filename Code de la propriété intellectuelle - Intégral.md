@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1996-05-01
+Version Consolidée au 1996-10-03
 
 # Partie législative
 
@@ -21931,7 +21931,10 @@ La liste des fonctionnaires et agents auteurs d'une invention est annexée à l'
 
 1. Les inventions faites par le fonctionnaire ou l'agent public dans l'exécution soit des tâches comportant une mission
 inventive correspondant à ses attributions, soit d'études ou de recherches qui lui sont explicitement confiées appartiennent
-à la personne publique pour le compte de laquelle il effectue lesdites tâches, études ou recherches.
+à la personne publique pour le compte de laquelle il effectue lesdites tâches, études ou recherches. Toutefois, si la
+personne publique décide de ne pas procéder à la valorisation de l'invention, le fonctionnaire ou agent public qui en est
+l'auteur peut disposer des droits patrimoniaux attachés à celle-ci, dans les conditions prévues par une convention conclue
+avec la personne publique.
 
 2. Toutes les autres inventions appartiennent au fonctionnaire ou à l'agent.
 
@@ -21946,6 +21949,10 @@ Soit dans le domaine des activités de l'organisme public concerné ;
 Soit par la connaissance ou l'utilisation de techniques, de moyens spécifiques à cet organisme ou de données procurées par
 lui.
 
+**Nota:**
+
+La liste des fonctionnaires et agents auteurs d'une invention est annexée à l'article R. 611-14-1 de ce code.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21956,9 +21963,9 @@ lui.
 
 	  - Décret n°80-645 du 4 août 1980 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°96-857 du 2 octobre 1996 - art. 1 () JORF 3 octobre 1996
 
 	**Cité par**:
 
@@ -28429,35 +28436,29 @@ exécutoire par décision du président du tribunal de grande instance dans le r
 
 Sous réserve des mesures prévues à l'article R. 615-31, les dispositions des articles R. 615-6 à R. 615-29 relatives à la
 commission paritaire de conciliation sont applicables aux contestations nées de l'application, dans les conditions prévues
-par les articles R. 611-11 à R. 611-14, de l'article L. 611-7.
+par les articles R. 611-11 à R. 611-14-1, de l'article L. 611-7.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 31 juillet 1991 - art. 2 (Ab)
+	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
+	  - Décret n°91-486 du 14 mai 1991 - art. 8 (V)
+	  - Décret n°94-943 du 28 octobre 1994 - art. 7 (VT)
+	  - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°80-645 du 4 août 1980 - art. 5 (Ab)
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Décret n°91-486 du 14 mai 1991 - art. 8 (V)
-	  - Arrêté du 31 juillet 1991 - art. 2 (Ab)
-	  - Décret n°94-943 du 28 octobre 1994 - art. 7 (VT)
-	  - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
-	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L611-7 (M)
-	  - Code de la propriété intellectuelle - art. R615-31 (V)
-	  - Code de la propriété intellectuelle R615-31, R615-6 à R615-29, R611-11 à R611-14, L611-7
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°96-857 du 2 octobre 1996 - art. 3 () JORF 3 octobre 1996
 
 
 ###### Article R615-31
