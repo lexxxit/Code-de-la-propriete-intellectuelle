@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-02-20
 
 # Partie législative
 
@@ -23219,15 +23219,16 @@ pourront accomplir les actes définis aux articles R. 712-2 et R. 712-13.
 
 ###### Article R422-2
 
-L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux conditions suivantes :
+L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux conditions suivantes : 
 
 1° Offrir ou s'engager à offrir dans un délai de trois mois au public les services prévus à l'article L. 422-1 soit à titre
 individuel ou en groupe, soit comme salarié d'un autre conseil en propriété industrielle ou d'une société de conseil en
-propriété industrielle ;
+propriété industrielle ; 
 
-2° Etre de nationalité française ou ressortissant d'un autre Etat membre de l'Union européenne ;
+2° Etre de nationalité française ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen ; 
 
-3° Avoir un domicile ou un établissement professionnel en France ;
+3° Avoir un domicile ou un établissement professionnel en France ; 
 
 4° Justifier de l'assurance et de la garantie prévues à l'article L. 422-8, ou prendre l'engagement de produire de telles
 justifications dans un délai de trois mois, ces justifications devant, après l'inscription, être produites tous les ans.
@@ -23238,15 +23239,19 @@ justifications dans un délai de trois mois, ces justifications devant, après l
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 11 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
+	  - Décret n°2002-215 du 18 février 2002 - art. 2 () JORF 20 février 2002
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-1 (M)
+	  - Code de la propriété intellectuelle - art. L422-1 (V)
 	  - Code de la propriété intellectuelle - art. L422-8 (V)
-	  - Code de la propriété intellectuelle - art. R422-1 (M)
+	  - Code de la propriété intellectuelle - art. R422-1 (V)
 
 	**Cité par**:
 
@@ -23436,6 +23441,75 @@ exerçant à titre principal l'une des activités ci-après :
 
 	  - Code de la propriété intellectuelle - art. L422-7 (V)
 	  - Code de la propriété intellectuelle - art. L423-2 (V)
+
+
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
+
+###### Article R422-7-1
+
+Lorsqu'un professionnel établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
+sur l'Espace économique européen est habilité à représenter en matière de propriété industrielle des personnes devant le
+service central de propriété industrielle de cet Etat, il peut faire usage en France de son titre professionnel, exprimé dans
+la ou l'une des langues de ce dernier Etat, pour représenter des personnes devant l'Institut national de la propriété
+industrielle, dès lors que son titre est attesté par l'autorité compétente de l'Etat où il est établi.
+
+Lorsque l'exercice de la profession dans l'Etat où l'intéressé est établi n'est pas subordonné à la possession d'un titre
+réglementé, le professionnel doit justifier auprès de l'Institut national de la propriété industrielle, par une attestation
+de l'autorité compétente de cet Etat, d'un tel exercice à titre habituel pendant deux ans au moins au cours des dix dernières
+années.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R422-7-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Créé par**:
+
+	  - Décret n°2002-215 du 18 février 2002 - art. 3 () JORF 20 février 2002
+
+
+###### Article R422-7-2
+
+Les professionnels mentionnés à l'article R. 422-7-1 sont tenus, dans l'exercice de leur activité en France, au respect des
+règles énoncées par les articles L. 422-8 et R. 422-52 à R. 422-54. En cas de manquement à leurs obligations, ils sont soumis
+aux dispositions des articles R. 422-56 à R. 422-66 et les sanctions prévues par l'article L. 422-10 leur sont applicables. 
+
+Toutefois, la mesure disciplinaire de la radiation temporaire ou définitive est remplacée par une mesure d'interdiction
+temporaire ou définitive d'exercer en France des activités professionnelles. La chambre de discipline peut demander à
+l'autorité compétente de l'Etat d'origine communication des renseignements professionnels concernant les intéressés. Elle
+informe cette dernière autorité de toute décision prise. Ces communications ne portent pas atteinte au caractère confidentiel
+des renseignements fournis.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
+	**Créé par**:
+
+	  - Décret n°2002-215 du 18 février 2002 - art. 3 () JORF 20 février 2002
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-10 (V)
+	  - Code de la propriété intellectuelle - art. L422-8 (V)
+	  - Code de la propriété intellectuelle - art. R422-52 (V)
+	  - Code de la propriété intellectuelle - art. R422-56 (V)
+	  - Code de la propriété intellectuelle - art. R422-7-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ##### Section 2 : La Compagnie nationale des conseils en propriété industrielle
@@ -24809,27 +24883,30 @@ qui lui était confiée ; la remise doit intervenir dans un délai permettant d'
 ###### Article R422-56
 
 La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements à leurs obligations des conseils en
-propriété industrielle, est composée de sept membres :
+propriété industrielle, est composée de sept membres : 
 
-1° Un magistrat de l'ordre judiciaire, président, nommé sur proposition du premier président de la cour d'appel de Paris ;
+1° Un magistrat de l'ordre judiciaire, président, nommé sur proposition du premier président de la cour d'appel de Paris ; 
 
-2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ; 
 
 3° Le président de la Compagnie nationale des conseils en propriété industrielle ou son suppléant désigné par lui pour la
-durée de son mandat parmi les vice-présidents de cette compagnie ;
+durée de son mandat parmi les vice-présidents de cette compagnie ; 
 
 4° Deux conseils en propriété industrielle, choisis sur une liste de huit candidats proposée, en dehors des membres de son
-bureau, par la Compagnie nationale des conseils en propriété industrielle ;
+bureau, par la Compagnie nationale des conseils en propriété industrielle ; 
 
-5° Deux personnalités qualifiées.
+5° Deux personnalités qualifiées. 
 
-Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les mêmes conditions.
+Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les mêmes conditions. 
+
+La chambre de discipline connaît également des manquements à leurs obligations des autres personnes admises à exercer en
+France des activités relevant de la profession de conseil en propriété industrielle.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
 
 	**Cite**:
 
@@ -24843,6 +24920,10 @@ Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
 
 
 ###### Article R422-57
@@ -24910,9 +24991,9 @@ Le secrétariat de la chambre est assuré par l'Institut national de la proprié
 
 ###### Article R422-60
 
-Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir du conseil en propriété industrielle mis en
-cause, de l'auteur de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications
-nécessaires à l'information de la chambre.
+Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir de la personne mise en cause, de l'auteur
+de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à
+l'information de la chambre.
 
 Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur
 l'existence d'une faute disciplinaire.
@@ -24930,9 +25011,13 @@ la chambre peut désigner un autre rapporteur parmi les membres de la compagnie 
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 25 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+	  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
 
 	**Cité par**:
 
@@ -24975,58 +25060,62 @@ déférée au Conseil d'Etat par la voie du recours en cassation.
 
 ###### Article R422-62
 
-Sauf lorsqu'il est fait application de l'article R. 422-61, le conseil en propriété industrielle qui fait l'objet d'une
-procédure disciplinaire est cité à comparaître devant la chambre de discipline par son président au moins quinze jours avant
-l'audience, par lettre recommandée avec demande d'avis de réception.
+Sauf lorsqu'il est fait application de l'article R. 422-61, la personne qui fait l'objet d'une procédure disciplinaire est
+cité à comparaître devant la chambre de discipline par son président au moins quinze jours avant l'audience, par lettre
+recommandée avec demande d'avis de réception. 
 
 Si la personne poursuivie est une personne morale, la citation est adressée dans les mêmes conditions à son représentant
-légal.
+légal. 
 
 La citation comporte, à peine de nullité, l'indication précise des faits à raison desquels la poursuite est intentée et la
 référence des dispositions législatives ou réglementaires sur le fondement desquelles ces faits sont poursuivis et réprimés.
 Elle est portée à la connaissance de l'autorité qui a saisi la chambre ou de l'auteur de la plainte, par lettre recommandée
 avec demande d'avis de réception. Un délai de quinze jours à compter de cette notification est imparti, tant au plaignant
-qu'au conseil en propriété industrielle, pour la présentation d'éventuelles observations écrites.
+qu'à la personne poursuivie, pour la présentation d'éventuelles observations écrites. 
 
-Le conseil poursuivi peut prendre connaissance auprès du secrétaire de la chambre du dossier de la poursuite, et notamment du
-rapport mentionné à l'article R. 422-60. Il peut à cet effet se faire assister d'un conseil en propriété industrielle et d'un
-avocat.
+La personne poursuivie, l'autorité qui a saisi la chambre ou l'auteur de la plainte peuvent prendre connaissance auprès du
+secrétaire de la chambre du dossier de la poursuite, et notamment du rapport mentionné à l'article R. 422-60. A cet effet, la
+personne poursuivie et l'auteur de la plainte peuvent se faire assister de la personne de leur choix. 
 
 Le dossier est également tenu à la disposition des membres de la chambre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 27 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+	  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R422-60 (M)
-	  - Code de la propriété intellectuelle - art. R422-61 (M)
+	  - Code de la propriété intellectuelle - art. R422-60 (V)
+	  - Code de la propriété intellectuelle - art. R422-61 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R422-63
 
 Sauf si l'un de ses membres et son suppléant relèvent d'une des causes de récusation prévues à l'article L. 731-1 du code de
 l'organisation judiciaire, la chambre de discipline ne peut siéger et délibérer valablement que si tous les membres ou leurs
-suppléants sont présents.
+suppléants sont présents. 
 
-La chambre entend le rapporteur qui donne lecture de son rapport.
+La chambre entend le rapporteur qui donne lecture de son rapport. 
 
-La chambre peut entendre tous témoins et faire procéder à toute investigation qu'elle estime utile.
+La chambre peut entendre tous témoins et faire procéder à toute investigation qu'elle estime utile. 
 
 Sauf lorsque la chambre se prononce en application de l'article R. 422-61, l'auteur de la plainte peut assister à l'audience
-et y être entendu. Sous la même réserve, le conseil poursuivi a la parole le dernier, et peut se faire assister d'un conseil
-en propriété industrielle et d'un avocat.
+et y être entendu. Sous la même réserve, la personne poursuivie a la parole en dernier et peut, ainsi que l'auteur de la
+plainte, se faire assister de la personne de son choix. 
 
 Les séances de la chambre sont publiques. Toutefois, le président peut, d'office ou à la demande d'une des parties, interdire
 au public l'accès de la salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou lorsque le respect de
@@ -25034,22 +25123,26 @@ la vie privée ou du secret des affaires le justifie.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
 	**Anciens textes**:
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 28 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+	  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R422-61 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. R422-61 (V)
+	  - Code de l'organisation judiciaire - art. L731-1 (Ab)
 
 
 ###### Article R422-64
@@ -25064,15 +25157,15 @@ La décision est notifiée, par le secrétaire, à l'intéressé, au plaignant, 
 sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande d'avis
 de réception dans un délai de quinze jours à compter de son prononcé.
 
-La décision est exécutoire à compter de sa notification au conseil qui en a fait l'objet.
+La décision est exécutoire à compter de sa notification à la personne qui en a fait l'objet.
 
 La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
 
 	**Cité par**:
 
@@ -25082,6 +25175,10 @@ La décision peut être déférée au Conseil d'Etat par la voie du recours en c
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
 
 
 ###### Article R422-65
@@ -25137,13 +25234,30 @@ diligence du directeur général de l'institut.
 Les conditions d'inscription sur la liste prévue à l'article L. 422-5 sont appréciées à la date d'entrée en vigueur de celui-
 ci. Ces conditions sont, en ce qui concerne les personnes morales, appréciées en la personne des auteurs de la demande. Le
 maintien de l'inscription est subordonné au respect des conditions au vu desquelles le directeur général de l'institut a
-statué.
+statué. 
+
+Les personnes inscrites sur la liste prévue à l'article L. 422-5 sont tenues, dans l'exercice de leur activité
+professionnelle, au respect des règles énoncées aux articles L. 422-8 et R. 422-52 à R. 422-54. En cas de manquement à leurs
+obligations, elles sont soumises aux dispositions des articles R. 422-56 à R. 422-66 et les sanctions prévues à l'article L.
+422-10 leur sont applicables.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 du 18 février 2002 - art. 5 () JORF 20 février 2002
+
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L422-10 (V)
 	  - Code de la propriété intellectuelle - art. L422-5 (V)
+	  - Code de la propriété intellectuelle - art. L422-8 (V)
+	  - Code de la propriété intellectuelle - art. R422-52 (V)
+	  - Code de la propriété intellectuelle - art. R422-56 (V)
 
 	**Cité par**:
 
@@ -25152,10 +25266,6 @@ statué.
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°97-863 du 17 septembre 1997 - art. 4 () JORF 24 septembre 1997
 
 
 ###### Article R423-2
@@ -25373,18 +25483,22 @@ Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de
 ###### Article R512-1
 
 Tout dépôt de dessin ou modèle peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son
-siège ou un établissement en France. Il en est accusé réception.
+siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace
+économique européen. Il en est accusé réception.
 
 Il peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis
-de réception ou d'un message par tout le mode de télétransmission défini par décision de son directeur général. Dans ce cas,
-la date de dépôt est celle de la réception à l'institut.
+de réception ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la
+date de dépôt est celle de la réception à l'institut.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-792 1992-08-13 art. 1
 	  - Décret n°92-792 du 13 août 1992 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 du 18 février 2002 - art. 6 () JORF 20 février 2002
 
 	**Cité par**:
 
@@ -25396,15 +25510,12 @@ la date de dépôt est celle de la réception à l'institut.
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R512-2
 
-Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans un délai qui leur est imparti par l'institut,
-constituer un mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie
+à l'accord sur l'Espace économique européen doivent, dans un délai qui leur est imparti par l'institut, constituer un
+mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
@@ -25416,12 +25527,11 @@ les notifications prévues aux chapitres II, III et IV du présent titre. Le pou
 
 	**Anciens textes**:
 
-	  - Décret n°92-792 1992-08-13 art. 2
 	  - Décret n°92-792 du 13 août 1992 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 du 18 février 2002 - art. 6 () JORF 20 février 2002
 
 	**Cite**:
 
@@ -26046,26 +26156,22 @@ renonciations ou prorogation dont il a fait l'objet ;
 
 ###### Article R513-1
 
-Le dépôt peut être prorogé pour une période de vingt-cinq ans s'ajoutant à celle qui est prévue à l'article L. 513-1 sur
-déclaration de son titulaire établie dans les conditions fixées par l'arrêté prévu à l'article R. 514-5. Il peut être précisé
-que la prorogation ne vaut que pour certains dessins ou modèles.
+La prorogation d'un dépôt de dessin ou modèle prévu à l'article L. 513-1 résulte d'une déclaration de son titulaire établie
+dans les conditions fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que
+pour certains dessins ou modèles.
 
 La déclaration doit, à peine d'irrecevabilité :
 
-1° Etre présentée au cours des six derniers mois qui précèdent l'expiration de la première période de protection, par
-l'intéressé ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété
-industrielle ;
+1° Etre présentée au cours des six derniers mois qui précèdent l'expiration de chaque période de protection par l'intéressé
+ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+Toutefois, la première prorogation peut être demandée lors du dépôt ;
 
-2° Comporter l'identification du titulaire et celle du dépôt à renouveler ;
+2° Comporter la désignation du dépôt à proroger et émaner du titulaire inscrit, au jour de la déclaration, au Registre
+national des dessins et modèles ;
 
 3° Etre accompagnée de la justification du paiement de la redevance prescrite.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-792 1992-08-13 art. 10
-	  - Décret n°92-792 du 13 août 1992 - art. 10 (Ab)
 
 	**Cité par**:
 
@@ -26075,17 +26181,21 @@ industrielle ;
 	  - Code de la propriété intellectuelle - art. R514-6 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°92-792 du 13 août 1992 - art. 10 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 du 18 février 2002 - art. 7 () JORF 20 février 2002
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L513-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R513-2
@@ -27352,14 +27462,16 @@ cas, la date de la remise des pièces est celle de la réception à l'Institut n
 ###### Article R612-2
 
 Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un
-établissement en France. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour
-le dépôt et pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du
-simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
+établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
+européen. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et
+pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple
+paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
 
-Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège en France doivent constituer un mandataire
-satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la
-notification qui leur est adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun satisfaisant aux
-mêmes conditions doit être constitué.
+Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauré européenne ou
+dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions
+prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est
+adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun satisfaisant aux mêmes conditions doit être
+constitué.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous
 réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la
@@ -27374,7 +27486,7 @@ R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légal
 
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 5 () JORF 24 septembre 1997
+	  - Décret n°2002-215 du 18 février 2002 - art. 8 () JORF 20 février 2002
 
 	**Cite**:
 
@@ -36192,14 +36304,16 @@ renouvellement prévues à l'article R. 712-24.
 ###### Article R712-2
 
 Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son
-établissement en France.
+établissement dans un Etat membre de la communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
+européen.
 
 Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire constitué pour le dépôt d'une demande
 d'enregistrement de marque et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement
 des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle.
 
-Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans le délai qui leur est imparti par l'institut,
-constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie
+à l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un
+mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
@@ -36215,7 +36329,7 @@ de toutes les notifications prévues au présent titre. Le pouvoir est dispensé
 
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 6 () JORF 24 septembre 1997
+	  - Décret n°2002-215 du 18 février 2002 - art. 8 () JORF 20 février 2002
 
 	**Cité par**:
 
@@ -37448,7 +37562,9 @@ Les modalités de présentation de la demande sont précisées par arrêté du m
 	  - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-#### Chapitre VII : Marques internationales
+#### Chapitre VII : Marque internationale et marque communautaire
+
+##### Section 1 : Marque internationale
 
 ###### Article R717-1
 
@@ -37460,12 +37576,7 @@ dans la limite et sous la réserve des dispositions prévues au présent chapitr
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 31
 	  - Décret n°92-100 du 30 janvier 1992 - art. 31 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 	**Liens**:
 
@@ -37475,6 +37586,11 @@ dans la limite et sous la réserve des dispositions prévues au présent chapitr
 	**Cité par**:
 
 	  - Arrêté du 6 décembre 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
 
 	**Cite**:
 
@@ -37491,25 +37607,25 @@ dans la limite et sous la réserve des dispositions prévues au présent chapitr
 
 Lorsque l'enregistrement international concerne une marque collective de certification, le règlement d'usage mentionné à
 l'article R. 712-3 (2°, d), accompagné, le cas échéant, de sa traduction en langue française, doit être fourni dans un délai
-de six mois à compter de l'inscription de la marque au Registre international.
+de six mois à compter de l'inscription de la marque au Registre international. 
 
 Lorsque cette prescription n'est pas respectée, l'enregistrement international est réputé ne pas porter en France sur une
 marque collective de certification.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-100 1992-01-30 art. 32
-	  - Décret n°92-100 du 30 janvier 1992 - art. 32 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°92-100 du 30 janvier 1992 - art. 32 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
 
 	**Cité par**:
 
@@ -37517,7 +37633,7 @@ marque collective de certification.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-3 (M)
+	  - Code de la propriété intellectuelle - art. R712-3 (V)
 
 
 ###### Article R717-3
@@ -37533,20 +37649,20 @@ la propriété industrielle.
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 33
 	  - Décret n°92-100 du 30 janvier 1992 - art. 33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Cité par**:
 
 	  - Arrêté du 31 janvier 1992 - art. 5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 	**Cite**:
 
@@ -37556,11 +37672,11 @@ la propriété industrielle.
 ###### Article R717-4
 
 L'examen prévu à l'article R. 712-10 est limité à la vérification de l'aptitude du signe à constituer une marque ou à être
-adopté à titre de marque.
+adopté à titre de marque. 
 
 Le délai de quatre mois dans lequel doivent être émises les notifications d'irrégularité, conformément à l'article R. 712-11
 (2°), court à compter de la notification à l'Institut national de la propriété industrielle de l'extension à la France de
-l'enregistrement international.
+l'enregistrement international. 
 
 Les irrégularités sont notifiées au titulaire de l'enregistrement international par l'intermédiaire du bureau international
 de l'Organisation mondiale de la propriété intellectuelle.
@@ -37569,17 +37685,17 @@ de l'Organisation mondiale de la propriété intellectuelle.
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 34
 	  - Décret n°92-100 du 30 janvier 1992 - art. 34 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. R712-10 (V)
-	  - Code de la propriété intellectuelle - art. R712-11 (M)
+	  - Code de la propriété intellectuelle - art. R712-11 (V)
 
 	**Cité par**:
 
@@ -37605,7 +37721,6 @@ jours à compter de la date d'émission de cette notification par l'Institut nat
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 35
 	  - Décret n°92-100 du 30 janvier 1992 - art. 35 (Ab)
 
 	**Cité par**:
@@ -37614,14 +37729,15 @@ jours à compter de la date d'émission de cette notification par l'Institut nat
 	  - Arrêté du 6 décembre 1995 - art. 1 (V)
 	  - Code de la propriété intellectuelle - art. R712-12 (V)
 
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 6 décembre 1995
 	  - TXT_SOURCE: Arrêté du 6 décembre 1995 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
 
 	**Cite**:
 
@@ -37641,18 +37757,18 @@ l'Organisation mondiale de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-100 1992-01-30 art. 36
-	  - Décret n°92-100 du 30 janvier 1992 - art. 36 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°92-100 du 30 janvier 1992 - art. 36 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
 
 
 ###### Article R717-7
@@ -37664,20 +37780,20 @@ national des marques, dès lors qu'ils ne sont pas susceptibles d'être inscrits
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 37
 	  - Décret n°92-100 du 30 janvier 1992 - art. 37 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Cité par**:
 
 	  - Arrêté du 31 janvier 1992 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R717-8
@@ -37698,22 +37814,112 @@ précédent. La date de saisine de l'Institut national de la propriété industr
 	  - Code de la propriété intellectuelle - art. R712-11 (M)
 	  - Code de la propriété intellectuelle - art. R712-26 (V)
 
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 38
 	  - Décret n°92-100 du 30 janvier 1992 - art. 38 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 9 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R712-12 (M)
 
+
+##### Section 2 : Marque communautaire
+
+###### Article R717-9
+
+La marque communautaire ou la demande de marque communautaire est transformée en demande de marque française dès la réception
+par l'Institut national de la propriété industrielle de la requête en transformation adressée à l'Office de l'harmonisation
+dans le marché intérieur. Un numéro national lui est attribué. 
+
+1° Un délai est imparti au demandeur pour fournir : 
+
+a) La demande d'enregistrement prévue au 1° de l'article R. 712-3 ; 
+
+b) La justification du paiement des redevances prévue au a du 2° de l'article R. 712-3 ; 
+
+c) La traduction en français, s'il y a lieu, de la requête en transformation et des pièces jointes à celle-ci. 
+
+Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à
+l'accord sur l'Espace économique européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux conditions
+prévues à l'article R. 712-2 et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété
+industrielle ; 
+
+2° La demande issue de la requête en transformation est rejetée si les pièces mentionnées au 1° ne sont pas produites dans le
+délai prescrit ; 
+
+3° Lorsque la demande issue de la requête en transformation est reconnue recevable, elle est publiée au Bulletin officiel de
+la propriété industrielle dans les six semaines qui suivent la réception par l'Institut national de la propriété industrielle
+des pièces visées au 1°. Sous réserve des dispositions du troisième alinéa de l'article L. 717-5, mention y est faite de la
+faculté ouverte à toute personne intéressée de formuler des observations dans le délai de deux mois et aux personnes
+mentionnées à l'article L. 712-4 de former dans ce même délai opposition à enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-215 2002-02-18 art. 9 I, III JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L712-4 (V)
+	  - Code de la propriété intellectuelle - art. L717-5 (V)
+	  - Code de la propriété intellectuelle - art. R712-2 (V)
+	  - Code de la propriété intellectuelle - art. R712-3 (V)
+
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R717-10
+
+La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les
+conditions prévues aux articles R. 712-9 à R. 712-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-215 2002-02-18 art. 9 I, III JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R712-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R717-11
+
+Ainsi qu'il est dit à l'article R. 312-10 du code de l'organisation judiciaire, les actions et demandes en matière de marque
+communautaire prévues par l'article L. 717-4 sont portées devant le tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Créé par**:
+
+	  - Décret n°2002-216 du 18 février 2002 - art. 2 () JORF 20 février 2002
 
 
 #### Chapitre VIII : Dispositions communes
@@ -37845,33 +38051,17 @@ propriété industrielle.
 
 Les dispositions du présent code sont applicables aux territoires d'outre-mer à l'exception :
 
-1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-63, R. 615-1 à R. 615-5 ;
+1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2, R. 615-1 à R. 615-5 ;
 
 2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R.
 613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les
 conseils en propriété industrielle.
 
-**Nota:**
-
-Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
-référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
-"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°78-1010 du 10 octobre 1978 - art. 12-1 (Ab)
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 21-1 (Ab)
-	  - Décret n°79-797 du 4 septembre 1979 - art. 35 (Ab)
-	  - Décret n°79-822 du 19 septembre 1979 - art. 129 (M)
-	  - Décret n°80-645 du 4 août 1980 - art. 7 (Ab)
 	  - Décret n°81-599 du 15 mai 1981 - art. 3-1 (Ab)
-	  - Décret n°86-1074 du 26 septembre 1986 - art. 9 (Ab)
-	  - Décret n°89-816 du 2 novembre 1989 - art. 10 (Ab)
-	  - Décret n°92-100 1992-01-30 art. 51
-	  - Décret n°92-792 1992-08-13 art. 28
-	  - Décret n°71-764 1969-09-09 art. 64
 	  - Décret n°69-975 du 18 octobre 1969 - art. 44 (Ab)
 
 	**Cité par**:
@@ -37882,12 +38072,15 @@ référence à la "collectivité territoriale de Mayotte" est remplacée par la 
 	  - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
 	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 10 I, II JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 10 () JORF 20 février 2002
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. R423-1 (M)
+	  - Code de la propriété intellectuelle - art. R423-2 (V)
 	  - Code de la propriété intellectuelle - art. R512-13 (V)
 	  - Code de la propriété intellectuelle - art. R512-15 (M)
 	  - Code de la propriété intellectuelle - art. R512-2 (M)
@@ -37906,8 +38099,7 @@ référence à la "collectivité territoriale de Mayotte" est remplacée par la 
 	  - Code de la propriété intellectuelle - art. R712-24 (M)
 	  - Code de la propriété intellectuelle - art. R714-4 (M)
 	  - Code de la propriété intellectuelle - art. R714-6 (M)
-	  - Code de la propriété intellectuelle - art. R811-2 (M)
-	  - Code de la propriété intellectuelle R421-1 à R421-12, R422-1 à R422-63, R615-1 à R615-5, R512-2, R512-3, R512-13, R512-15, R513-1, R513-2, R612-2, R612-38, R613-46, R613-56, R613-58, R712-2, R712-13, R712-14, R712-21, R712-24, R714-4, R714-6, R811-2
+	  - Code de la propriété intellectuelle R421-1 à R421-12, R422-1 à R422-66, R423-1, R423-2, R615-1 à R615-5, R512-2, R512-3, R512-13, R512-15, R513-1, R513-2, R612-2, R612-38, R613-46, R613-56, R613-58, R712-2, R712-13, R712-14, R712-21, R712-24, R714-4,
 
 	**Codifié par**:
 
@@ -37916,31 +38108,9 @@ référence à la "collectivité territoriale de Mayotte" est remplacée par la 
 
 ###### Article R811-2
 
-Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte.
-
-**Nota:**
-
-Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
-référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
-"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
+Les dispositions du présent code sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°78-1010 du 10 octobre 1978 - art. 12-1 (Ab)
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 21-1 (Ab)
-	  - Décret n°79-797 du 4 septembre 1979 - art. 35 (Ab)
-	  - Décret n°79-822 du 19 septembre 1979 - art. 129 (M)
-	  - Décret n°80-645 du 4 août 1980 - art. 7 (Ab)
-	  - Décret n°86-1074 du 26 septembre 1986 - art. 9 (Ab)
-	  - Décret n°89-816 du 2 novembre 1989 - art. 10 (Ab)
-	  - Décret n°92-100 1992-01-30 art. 51
-	  - Décret n°92-792 1992-08-13 art. 28
 
 	**Cité par**:
 
@@ -37949,50 +38119,50 @@ référence à la "collectivité territoriale de Mayotte" est remplacée par la 
 	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
 	  - Code de la propriété intellectuelle - art. R811-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 10 I, III JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 10 () JORF 20 février 2002
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R811-3
 
-Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à la collectivité
-territoriale de Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à Mayotte, les
+mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
 - "tribunal de grande instance" par "tribunal de première instance" ;
 
 - "juge d'instance" par "juge du tribunal de première instance" ;
 
-- "région" par "territoire" et, en ce qui concerne la collectivité de Mayotte, par "collectivité territoriale" ;
+- "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité départementale" ;
 
 - "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui
-concerne la collectivité territoriale de Mayotte ;
+concerne Mayotte ;
 
-- "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne la
-collectivité territoriale de Mayotte et "tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-
-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
+- "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne Mayotte et
+"tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de
+Wallis-et-Futuna ;
 
 - "conseil de prud'hommes" par "tribunal du travail".
 
-**Nota:**
-
-Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
-référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
-"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2002-215 2002-02-18 art. 10 I, III JORF 20 février 2002
+	  - Décret n°2002-215 du 18 février 2002 - art. 10 () JORF 20 février 2002
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 	  - Code de la propriété intellectuelle - art. R811-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
