@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2001-07-28
+Version Consolidée au 2001-09-08
 
 # Partie législative
 
@@ -17810,7 +17810,7 @@ culture doit comporter :
 A. - En ce qui concerne la gestion financière de la société :
 
 1. Dans le respect des règles comptables usuelles en matière de constatation de produits et de charges, un compte de gestion
-conforme à l'annexe 1 (Nota).
+conforme à l'annexe 1. 
 
 Les sociétés concernées auront également la faculté :
 
@@ -17853,64 +17853,99 @@ d'une information particulière sur :
 
 3. Un commentaire des orientations suivies en la matière par la société.
 
+4. La liste des conventions mentionnées à l'article R. 321-10.
+
 C. - Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles
 concernées par leur objet social.
 
-**Nota:**
-
-Nota : annexes non reproduites, se reporter au Journal officiel du 19 novembre 1998.
-
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-1040 du 18 novembre 1998 - art. 2 (V)
+	  - Code de la propriété intellectuelle - art. R321-6-1 (Ab)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-334 2001-04-17 art. 5 (champ d'application territoriale)
+	  - SPEC_APPLI: Décret n°2001-809 2001-09-06 art. 4 (champ d'application territoriale)
+
+	**Modifié par**:
+
+	  - Décret n°2001-809 du 6 septembre 2001 - art. 1 () JORF 8 septembre 2001
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L321-12 (M)
 	  - Code de la propriété intellectuelle - art. L321-9 (M)
-	  - Code de la propriété intellectuelle R321-6-1, L321-12, annexe 1, annexe 2, annexe 3, annexe 4, annexe 5, L321-9
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R321-6-1 (Ab)
-	  - Décret n°98-1040 du 18 novembre 1998 - art. 2 (V)
+	  - Code de la propriété intellectuelle - art. R321-10 (V)
+	  - Code de la propriété intellectuelle R321-6-1, L321-12, annexe 1, annexe 2, annexe 3, annexe 4, annexe 5, L321-9, R321-10
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Modifié par**:
-
-	  - Décret n°2001-334 du 17 avril 2001 - art. 1 () JORF 18 avril 2001
-
 
 ###### Article R321-9
 
-L'aide à la création mentionnée à l'article L. 321-9 s'entend :
+I.-L'aide à la création mentionnée à l'article L. 321-9 s'entend des concours apportés : 
 
-a) D'une part, des concours apportés à la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou
-d'une interprétation sur un phonogramme ou un vidéogramme ;
+a) A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un
+phonogramme ou un vidéogramme ; 
 
-b) D'autre part, des actions propres à assurer la défense et la promotion de la création.
+b) A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres. 
 
-L'aide à la formation d'artistes mentionnée au même article s'entend de la formation d'auteurs et de la formation d'artistes-
-interprètes.
+II.-L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 321-9 s'entend des concours apportés : 
+
+a) A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ; 
+
+b) A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant. 
+
+III.-L'aide à la formation d'artistes mentionnée à l'article L. 321-9 s'entend des concours apportés à des actions de
+formation des auteurs et des artistes-interprètes.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°98-1040 1998-11-18 art. 3 (champ d'application territoriale)
+	  - SPEC_APPLI: Décret n°2001-809 2001-09-06 art. 4 (champ d'application territoriale)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-1040 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+	  - Décret n°2001-809 du 6 septembre 2001 - art. 2 () JORF 8 septembre 2001
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L321-9 (M)
+	  - Code de la propriété intellectuelle - art. L321-9 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R321-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R321-10
+
+Toute aide allouée par une société de perception et de répartition des droits en application de l'article L. 321-9 fait
+l'objet d'une convention entre la société et le bénéficiaire. Cette convention prévoit les conditions d'utilisation du
+concours apporté ainsi que celles dans lesquelles le bénéficiaire communique à la société les éléments permettant de
+justifier que l'aide est utilisée conformément à sa destination.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-809 2001-09-06 art. 4 (champ d'application territoriale)
+
+	**Créé par**:
+
+	  - Décret n°2001-809 du 6 septembre 2001 - art. 3 () JORF 8 septembre 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L321-9 (V)
 
 	**Cité par**:
 
