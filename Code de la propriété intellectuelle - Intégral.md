@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-07-02
 
 # Partie législative
 
@@ -275,8 +275,11 @@ bottiers et les fabriques de tissus d'ameublement.
 
 Les auteurs de traductions, d'adaptations, transformations ou arrangements des oeuvres de l'esprit jouissent de la protection
 instituée par le présent code sans préjudice des droits de l'auteur de l'oeuvre originale. Il en est de même des auteurs
-d'anthologies ou de recueils d'oeuvres ou de données diverses qui, par le choix ou la disposition des matières, constituent
-des créations intellectuelles.
+d'anthologies ou de recueils d'oeuvres ou de données diverses, tels que les bases de données, qui, par le choix ou la
+disposition des matières, constituent des créations intellectuelles.
+
+On entend par base de données un recueil d'oeuvres, de données ou d'autres éléments indépendants, disposés de manière
+systématique ou méthodique, et individuellement accessibles par des moyens électroniques ou par tout autre moyen.
 
 **Liens relatifs à cet article**
 
@@ -310,7 +313,7 @@ des créations intellectuelles.
 
 	**Modifié par**:
 
-	  - Loi n°96-1106 du 18 décembre 1996 - art. 1 () JORF 19 décembre 1996
+	  - Loi n°98-536 du 1 juillet 1998 - art. 1 () JORF 2 juillet 1998
 
 
 ###### Article L112-4
@@ -1086,7 +1089,8 @@ Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
 2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation
 collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour
 lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les
-conditions prévues au II de l'article L. 122-6-1 ;
+conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données
+électronique;
 
 3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
@@ -1107,6 +1111,9 @@ Un décret en Conseil d'Etat fixe les caractéristiques des documents et les con
 
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
 
+5° Les actes nécessaires à l'accès au contenu d'une base de données électronique pour les besoins et dans les limites de
+l'utilisation prévue par contrat.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1123,7 +1130,8 @@ Un décret en Conseil d'Etat fixe les caractéristiques des documents et les con
 
 	**Modifié par**:
 
-	  - Loi n°97-283 du 27 mars 1997 - art. 17 () JORF 28 mars 1997
+	  - Loi n°98-536 du 1 juillet 1998 - art. 2 () JORF 2 juillet 1998
+	  - Loi n°98-536 du 1 juillet 1998 - art. 3 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4116,7 +4124,7 @@ médiateurs.
 	  - Code de la propriété intellectuelle - art. R324-1 (V)
 
 
-### Livre III : Dispositions générales
+### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données
 
 #### Titre Ier : Rémunération pour copie privée
 
@@ -4132,16 +4140,15 @@ conditions mentionnées au 2° de l'article 122-5 et au 2° de l'article L. 211-
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 31
 	  - Loi n°85-660 du 3 juillet 1985 - art. 31 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4175,9 +4182,9 @@ vidéogrammes fixés pour la première fois en France.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -4200,13 +4207,13 @@ deuxième alinéa de l'article L. 131-4.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L131-4 (M)
+	  - Code de la propriété intellectuelle - art. L131-4 (V)
 
 	**Cité par**:
 
@@ -4240,7 +4247,7 @@ Le montant de la rémunération est fonction du type de support et de la durée 
 
 	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 119 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4280,9 +4287,9 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4299,7 +4306,7 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 ###### Article L311-6
 
 La rémunération prévue à l'article L. 311-1 est perçue pour le compte des ayants droit par un ou plusieurs organismes
-mentionnés au titre II du présent livre.
+mentionnés au titre II du présent livre. 
 
 Elle est répartie entre les ayants droit par les organismes mentionnés à l'alinéa précédent, à raison des reproductions
 privées dont chaque oeuvre fait l'objet.
@@ -4314,9 +4321,9 @@ privées dont chaque oeuvre fait l'objet.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4326,7 +4333,7 @@ privées dont chaque oeuvre fait l'objet.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L311-1 (M)
+	  - Code de la propriété intellectuelle - art. L311-1 (V)
 
 
 ###### Article L311-7
@@ -4353,7 +4360,7 @@ artistes-interprètes et aux producteurs.
 
 	**Modifié par**:
 
-	  - Loi n°95-4 du 3 janvier 1995 - art. 2 () JORF 4 janvier 1995
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L311-8
@@ -4379,9 +4386,9 @@ supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4392,7 +4399,7 @@ supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs
 	  - Code de la propriété intellectuelle - art. L311-4-1 (VD)
 
 
-#### Titre II : Sociétes de perception et de répartition des droits
+#### Titre II : Sociétés de perception et de répartition des droits
 
 ##### Chapitre unique
 
@@ -4436,7 +4443,7 @@ perception, ce délai étant suspendu jusqu'à la date de leur mise en répartit
 
 	**Modifié par**:
 
-	  - Loi n°97-283 du 27 mars 1997 - art. 4 () JORF 28 mars 1997
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L321-2
@@ -4454,9 +4461,9 @@ les utilisateurs de tout ou partie de leur répertoire sont des actes civils.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L321-3
@@ -4474,16 +4481,15 @@ proposent de mettre en oeuvre pour assurer le recouvrement des droits et l'explo
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 39 II
 	  - Loi n°85-660 du 3 juillet 1985 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4510,16 +4516,15 @@ difficultés des entreprises sont applicables.
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 39 I
 	  - Loi n°85-660 du 3 juillet 1985 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L321-5
@@ -4540,16 +4545,15 @@ rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'e
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 39 III
 	  - Loi n°85-660 du 3 juillet 1985 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4573,16 +4577,15 @@ générale ; il reçoit la même publicité.
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 39 IV
 	  - Loi n°85-660 du 3 juillet 1985 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L321-7
@@ -4594,16 +4597,19 @@ répertoire complet des auteurs et compositeurs français et étrangers qu'elles
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 38
 	  - Loi n°85-660 du 3 juillet 1985 - art. 38 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 	**Cité par**:
 
@@ -4621,16 +4627,19 @@ qu'elles auraient à verser.
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 38
 	  - Loi n°85-660 du 3 juillet 1985 - art. 38 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 
 ###### Article L321-9
@@ -4670,7 +4679,7 @@ spécial.
 
 	**Modifié par**:
 
-	  - Loi n°97-283 du 27 mars 1997 - art. 4 () JORF 28 mars 1997
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -4707,14 +4716,18 @@ d'améliorer la diffusion de ceux-ci ou de promouvoir le progrès technique ou �
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L213-1 (V)
-	  - Code de la propriété intellectuelle - art. L215-1 (V)
+	  - Code de la propriété intellectuelle - art. L213-1
+	  - Code de la propriété intellectuelle - art. L215-1
 
 
 ###### Article L321-11
@@ -4733,11 +4746,15 @@ secteur d'activité ou pour un mode d'exploitation.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 
 ###### Article L321-12
@@ -4762,9 +4779,9 @@ au présent article.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4789,7 +4806,6 @@ intérêts dont ils ont statutairement la charge.
 	**Anciens textes**:
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 64 (Ab)
-	  - Loi n°57-298 du 11 mars 1957 - art. 65 (Ab)
 
 	**Cité par**:
 
@@ -4805,9 +4821,9 @@ intérêts dont ils ont statutairement la charge.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L331-2
@@ -4830,13 +4846,9 @@ Conseil d'Etat.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°94-361 du 10 mai 1994 - art. 10 () JORF 11 mai 1994
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4871,9 +4883,9 @@ le ministère public ou la partie lésée.
 
 	  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-361 du 10 mai 1994 - art. 10 () JORF 11 mai 1994
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -4882,6 +4894,29 @@ le ministère public ou la partie lésée.
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. L442-1 (V)
+
+
+###### Article L331-4
+
+Les droits mentionnés dans la première partie du présent code ne peuvent faire échec aux actes nécessaires à
+l'accomplissement d'une procédure juridictionnelle ou administrative prévue par la loi, ou entrepris à des fins de sécurité
+publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 6 () JORF 2 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L331-39 (MMN)
+	  - Code de la propriété intellectuelle - art. R329-7 (V)
+	  - Code de la propriété intellectuelle - art. R331-9 (V)
 
 
 ##### Chapitre II : Saisie-contrefaçon
@@ -4917,9 +4952,9 @@ par le saisissant d'un cautionnement convenable.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4951,9 +4986,9 @@ l'auteur pourrait prétendre.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4977,9 +5012,9 @@ pourra être ordonnée à la demande du saisi ou du tiers saisi par le présiden
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -4989,16 +5024,16 @@ pourra être ordonnée à la demande du saisi ou du tiers saisi par le présiden
 
 ###### Article L332-4
 
-En matière de logiciels, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur requête par le président du
-tribunal de grande instance. Le président autorise, s'il y a lieu, la saisie réelle.
+En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur
+requête par le président du tribunal de grande instance. Le président autorise, s'il y a lieu, la saisie réelle.
 
 L'huissier instrumentaire ou le commissaire de police peut être assisté d'un expert désigné par le requérant.
 
 A défaut d'assignation ou de citation dans la quinzaine de la saisie, la saisie-contrefaçon est nulle.
 
-En outre, les commissaires de police sont tenus, à la demande de tout auteur d'un logiciel protégé par le présent code ou de
-ses ayants droit, d'opérer une saisie-description du logiciel contrefaisant, saisie-description qui peut se concrétiser par
-une copie.
+En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de
+données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se
+concrétiser par une copie.
 
 **Liens relatifs à cet article**
 
@@ -5010,9 +5045,10 @@ une copie.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°98-536 du 1 juillet 1998 - art. 7
 
 	**Cité par**:
 
@@ -5038,9 +5074,9 @@ d'une quotité déterminée des sommes saisies.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L333-2
@@ -5055,15 +5091,14 @@ qu'à leur conjoint survivant contre lequel n'existe pas un jugement de séparat
 	**Anciens textes**:
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 75 (Ab)
-	  - Loi n°57-803 1957-07-19 art. 1
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L333-3
@@ -5074,17 +5109,13 @@ du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°57-803 1957-07-19 art. 2
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L333-4
@@ -5094,17 +5125,13 @@ civil relatives aux créances d'aliments.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°57-803 1957-07-19 art. 3
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ##### Chapitre IV : Droit de suite
@@ -5124,13 +5151,13 @@ solidairement, au profit des bénéficiaires du droit de suite, à des dommages-
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L122-8 (M)
+	  - Code de la propriété intellectuelle - art. L122-8 (V)
 
 
 ##### Chapitre V : Dispositions pénales
@@ -5151,9 +5178,9 @@ fabriqués ou importés illicitement et des matériels spécialement installés 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -5181,10 +5208,6 @@ Seront punis des mêmes peines le débit, l'exportation et l'importation des ouv
 
 	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
 
-	**Modifié par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 1 () JORF 8 février 1994
-
 	**Cité par**:
 
 	  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
@@ -5205,6 +5228,10 @@ Seront punis des mêmes peines le débit, l'exportation et l'importation des ouv
 	  - Code des douanes - art. 67 bis-1 (V)
 	  - Code monétaire et financier - art. L123-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
 	**Anciens textes**:
 
 	  - CODE PENAL - art. 426-1 (Ab)
@@ -5213,7 +5240,7 @@ Seront punis des mêmes peines le débit, l'exportation et l'importation des ouv
 ###### Article L335-3
 
 Est également un délit de contrefaçon toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une
-oeuvre de l'esprit en violation des droits de l'auteur, tels qu'ils sont définis et réglementés par la loi.
+oeuvre de l'esprit en violation des droits de l'auteur, tels qu'ils sont définis et réglementés par la loi. 
 
 Est également un délit de contrefaçon la violation de l'un des droits de l'auteur d'un logiciel définis à l'article L. 122-6.
 
@@ -5223,17 +5250,13 @@ Est également un délit de contrefaçon la violation de l'un des droits de l'au
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°94-361 du 10 mai 1994 - art. 8 () JORF 11 mai 1994
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L122-6 (M)
+	  - Code de la propriété intellectuelle - art. L122-6 (V)
 
 	**Cité par**:
 
@@ -5265,10 +5288,6 @@ ainsi que de la télédiffusion des phonogrammes.
 
 	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
 
-	**Modifié par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 2 () JORF 8 février 1994
-
 	**Cité par**:
 
 	  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
@@ -5277,6 +5296,10 @@ ainsi que de la télédiffusion des phonogrammes.
 	  - Code de la propriété intellectuelle - art. L335-1 (V)
 	  - Code de la propriété intellectuelle - art. L811-1 (V)
 	  - Code de procédure pénale - art. 398-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 
 ###### Article L335-5
@@ -5297,13 +5320,13 @@ mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
 	  - Loi n°92-597 1992-07-01
 
-	**Modifié par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 3 () JORF 8 février 1994
-
 	**Cité par**:
 
 	  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -5329,7 +5352,7 @@ journaux qu'il désigne, sans que les frais de cette publication puissent excéd
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -5345,17 +5368,13 @@ réglé par les voies ordinaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°57-298 1957-03-11 art. 74
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -5392,13 +5411,9 @@ laquelle l'infraction a été commise.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 4 () JORF 8 février 1994
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -5427,9 +5442,9 @@ convention avec la partie lésée, les peines encourues sont portées au double 
 
 	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 5 () JORF 8 février 1994
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -5468,10 +5483,6 @@ douanes, relatif au secret professionnel auquel sont tenus les agents de l'admin
 
 	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
 
-	**Créé par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 5 () JORF 8 février 1994
-
 	**Cité par**:
 
 	  - Décret n°94-836 du 27 septembre 1994 - art. 1 (Ab)
@@ -5487,13 +5498,15 @@ douanes, relatif au secret professionnel auquel sont tenus les agents de l'admin
 	  - Code de la propriété intellectuelle - art. L335-18 (V)
 	  - Code de la propriété intellectuelle - art. R335-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L332-1 (M)
 	  - Code des douanes - art. 59 bis (V)
 
-
-### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données
 
 #### Titre IV : Droits des producteurs de bases de données
 
