@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-07-28
 
 # Partie législative
 
@@ -6402,11 +6402,13 @@ du 26 novembre 1990 précitée.
 Les personnes qui souhaitent se faire représenter dans les procédures devant l'Institut national de la propriété industrielle
 ne peuvent le faire, pour les actes où la technicité de la matière l'impose, que par l'intermédiaire de conseils en propriété
 industrielle dont la spécialisation, déterminée en application du dernier alinéa de l'article L. 422-1, est en rapport avec
-l'acte.
+l'acte. 
 
-Les dispositions de l'alinéa précédent ne font obstacle à la faculté de recourir soit aux services d'un avocat ou d'un
-conseil juridique, soit à ceux d'une entreprise ou d'un établissement public auxquels le demandeur est contractuellement lié,
-soit à ceux d'une organisation professionnelle spécialisée.
+Les dispositions de l'alinéa précédent ne font pas obstacle à la faculté de recourir aux services d'un avocat ou à ceux d'une
+entreprise ou d'un établissement public auxquels le demandeur est contractuellement lié ou à ceux d'une organisation
+professionnelle spécialisée ou à ceux d'un professionnel établi sur le territoire d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen intervenant à titre occasionnel et habilité à
+représenter les personnes devant le service central de la propriété industrielle de cet Etat.
 
 **Liens relatifs à cet article**
 
@@ -6423,20 +6425,23 @@ soit à ceux d'une organisation professionnelle spécialisée.
 
 	**Anciens textes**:
 
-	  - Loi n°90-1052 1990-11-26 art. 36
 	  - Loi n°90-1052 du 26 novembre 1990 - art. 36 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 4 () JORF 28 juillet 2001
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-1 (M)
+	  - Code de la propriété intellectuelle - art. L422-1 (V)
 
 
 ###### Article L422-5
@@ -6756,30 +6761,39 @@ que les modalités de fixation du montant des cotisations qu'elle perçoit de se
 
 ### Livre V : Les dessins et modèles
 
-#### Titre Ier : Acquisition des droits
+#### Titre Ier : Conditions et modalités de la protection
 
-##### Chapitre Ier : Droits et oeuvres protégées
+##### Chapitre Ier : Champ d'application
+
+##### Section 1 : Objet de la protection
 
 ###### Article L511-1
 
-Tout créateur d'un dessin ou modèle et ses ayants cause ont le droit exclusif d'exploiter, vendre ou faire vendre ce dessin
-ou modèle dans les conditions prévues par le présent livre, sans préjudice des droits qu'ils tiendraient d'autres
-dispositions légales et notamment des livres Ier et III.
+Peut être protégée à titre de dessin ou modèle l'apparence d'un produit, ou d'une partie de produit, caractérisée en
+particulier par ses lignes, ses contours, ses couleurs, sa forme, sa texture ou ses matériaux. Ces caractéristiques peuvent
+être celles du produit lui-même ou de son ornementation.
+
+Est regardé comme un produit tout objet industriel ou artisanal, notamment les pièces conçues pour être assemblées en un
+produit complexe, les emballages, les présentations, les symboles graphiques et les caractères typographiques, à l'exclusion
+toutefois des programmes d'ordinateur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 1
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -6789,154 +6803,190 @@ dispositions légales et notamment des livres Ier et III.
 
 ###### Article L511-2
 
-La propriété d'un dessin ou modèle appartient à celui qui l'a créé ou à ses ayants droit ; mais le premier déposant dudit
-dessin ou modèle est présumé, jusqu'à preuve contraire, en être le créateur.
+Seul peut être protégé le dessin ou modèle qui est nouveau et présente un caractère propre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 3
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 ###### Article L511-3
 
-Les dispositions du présent livre sont applicables à tout dessin nouveau, à toute forme plastique nouvelle, à tout objet
-industriel qui se différencie de ses similaires, soit par une configuration distincte et reconnaissable lui conférant un
-caractère de nouveauté, soit par un ou plusieurs effets extérieurs lui donnant une physionomie propre et nouvelle.
-
-Mais, si le même objet peut être considéré à la fois comme un dessin ou modèle nouveau et comme une invention brevetable et
-si les éléments constitutifs de la nouveauté du dessin ou modèle sont inséparables de ceux de l'invention, ledit objet ne
-peut être protégé que conformément aux dispositions du livre VI.
+Un dessin ou modèle est regardé comme nouveau si, à la date de dépôt de la demande d'enregistrement ou à la date de la
+priorité revendiquée, aucun dessin ou modèle identique n'a été divulgué. Des dessins ou modèles sont considérés comme
+identiques lorsque leurs caractéristiques ne diffèrent que par des détails insignifiants.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 2
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 ###### Article L511-4
 
-Le bénéfice du présent livre s'applique aux dessins et modèles dont les auteurs ou leurs ayants cause sont français ou
-domiciliés en France, ou ont en France des établissements industriels ou commerciaux, ou sont, par leur nationalité, leur
-domicile ou leurs établissements industriels ou commerciaux, ressortissants d'un Etat qui assure la réciprocité, par sa
-législation intérieure ou ses conventions diplomatiques, pour les dessins et modèles français.
+Un dessin ou modèle a un caractère propre lorsque l'impression visuelle d'ensemble qu'il suscite chez l'observateur averti
+diffère de celle produite par tout dessin ou modèle divulgué avant la date de dépôt de la demande d'enregistrement ou avant
+la date de priorité revendiquée.
+
+Pour l'appréciation du caractère propre, il est tenu compte de la liberté laissée au créateur dans la réalisation du dessin
+ou modèle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 13
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 13 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 ###### Article L511-5
 
-Les dessins ou modèles régulièrement déposés jouissent seuls du bénéfice du présent livre.
+Le dessin ou modèle d'une pièce d'un produit complexe n'est regardé comme nouveau et présentant un caractère propre que dans
+la mesure où :
+
+a) La pièce, une fois incorporée dans le produit complexe, reste visible lors d'une utilisation normale de ce produit par
+l'utilisateur final, à l'exception de l'entretien, du service ou de la réparation ;
+
+b) Les caractéristiques visibles de la pièce remplissent en tant que telles les conditions de nouveauté et de caractère
+propre.
+
+Est considéré comme produit complexe un produit composé de pièces multiples qui peuvent être remplacées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 3
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 ###### Article L511-6
 
-La publicité donnée à un dessin ou modèle, antérieurement à son dépôt, par une mise en vente ou par tout autre moyen,
-n'entraîne la déchéance ni du droit de propriété ni de la protection spéciale accordée par le présent livre.
+Un dessin ou modèle est réputé avoir été divulgué s'il a été rendu accessible au public par une publication, un usage ou tout
+autre moyen. Il n'y a pas divulgation lorsque le dessin ou modèle n'a pu être raisonnablement connu, selon la pratique
+courante des affaires dans le secteur intéressé, par des professionnels agissant dans la Communauté européenne, avant la date
+du dépôt de la demande d'enregistrement ou avant la date de priorité revendiquée.
+
+Toutefois, le dessin ou modèle n'est pas réputé avoir été divulgué au public du seul fait qu'il a été divulgué à un tiers
+sous condition, explicite ou implicite, de secret.
+
+Lorsqu'elle a eu lieu dans les douze mois précédant la date du dépôt de la demande ou la date de priorité revendiquée, la
+divulgation n'est pas prise en considération :
+
+a) Si le dessin ou modèle a été divulgué par le créateur ou son ayant cause, ou par un tiers à partir d'informations fournies
+ou d'actes accomplis par le créateur ou son ayant cause ;
+
+b) Ou si le dessin ou modèle a été divulgué à la suite d'un comportement abusif à l'encontre du créateur ou de son ayant
+cause.
+
+Le délai de douze mois prévu au présent article n'est pas applicable lorsque la divulgation est intervenue avant le 1er
+octobre 2001.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 3
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 ###### Article L511-7
 
-Des mesures réglementaires spéciales à certaines industries pourront prescrire les mesures nécessaires pour permettre aux
-industriels de faire constater leur priorité d'emploi d'un dessin ou modèle, notamment par la tenue de registres privés
-soumis au visa de l'Institut national de la propriété industrielle.
+Les dessins ou modèles contraires à l'ordre public ou aux bonnes moeurs ne sont pas protégés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 4
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
-##### Chapitre II : Formalités de dépôt
+###### Article L511-8
 
-###### Article L512-1
+N'est pas susceptible de protection :
 
-Le dépôt est effectué, sous peine de nullité, à l'Institut national de la propriété industrielle lorsque le domicile du
-déposant est situé à Paris ou hors de France. Il est effectué à l'Institut national de la propriété industrielle ou au greffe
-du tribunal de commerce du domicile du déposant, à son choix, lorsque ce domicile est situé en dehors de Paris.
+1° L'apparence dont les caractéristiques sont exclusivement imposées par la fonction technique du produit ;
 
-Lorsque le dépôt est effectué au greffe du tribunal de commerce, celui-ci procède à l'enregistrement et transmet les objets
-déposés à l'Institut national de la propriété industrielle.
+2° L'apparence d'un produit dont la forme et la dimension exactes doivent être nécessairement reproduites pour qu'il puisse
+être mécaniquement associé à un autre produit par une mise en contact, un raccordement, un placement à l'intérieur ou à
+l'extérieur dans des conditions permettant à chacun de ces produits de remplir sa fonction.
+
+Toutefois, un dessin ou modèle qui a pour objet de permettre des assemblages ou connexions multiples à des produits qui sont
+interchangeables au sein d'un ensemble conçu de façon modulaire peut être protégé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1909-07-14 art. 5
-	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 5 (Ab)
 
 	**Codifié par**:
 
@@ -6944,7 +6994,120 @@ déposés à l'Institut national de la propriété industrielle.
 
 	**Créé par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°2001-670 du 25 juillet 2001 - art. 5 (V)
+
+
+##### Section 2 : Bénéfice de la protection
+
+###### Article L511-9
+
+La protection du dessin ou modèle conférée par les dispositions du présent livre s'acquiert par l'enregistrement. Elle est
+accordée au créateur ou à son ayant cause.
+
+L'auteur de la demande d'enregistrement est, sauf preuve contraire, regardé comme le bénéficiaire de cette protection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L512-4 (V)
+
+
+###### Article L511-10
+
+Si un dessin ou modèle a été déposé en fraude des droits d'un tiers ou en violation d'une obligation légale ou
+conventionnelle, la personne qui estime avoir un droit sur le dessin ou modèle peut en revendiquer en justice la propriété.
+
+L'action en revendication de propriété se prescrit par trois ans à compter de la publication de l'enregistrement du dessin ou
+modèle ou, en cas de mauvaise foi, au moment de la publication de l'enregistrement ou de l'acquisition du dessin ou modèle, à
+compter de l'expiration de la période de protection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L511-11
+
+Sous réserve des dispositions des conventions internationales auxquelles la France est partie, l'étranger qui n'est ni établi
+ni domicilié sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen bénéficie des dispositions du présent livre à condition que son pays accorde la réciprocité de la
+protection aux dessins ou modèles français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+##### Chapitre II : Enregistrement d'un dessin ou modèle
+
+##### Section 1 : Demande d'enregistrement
+
+###### Article L512-1
+
+La demande d'enregistrement est déposée, à peine de nullité, à l'Institut national de la propriété industrielle lorsque le
+déposant a son domicile ou son siège social à Paris ou hors de France.
+
+Lorsque le déposant a son domicile ou son siège social en France en dehors de Paris, il peut, à son choix, déposer la demande
+d'enregistrement à l'Institut national de la propriété industrielle ou au greffe du tribunal de commerce ou, en l'absence de
+tribunal de commerce, au greffe de la juridiction statuant en matière commerciale.
+
+Lorsque la demande d'enregistrement est déposée au greffe d'un tribunal, celui-ci la transmet à l'Institut national de la
+propriété industrielle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -6953,25 +7116,24 @@ déposés à l'Institut national de la propriété industrielle.
 
 ###### Article L512-2
 
-Le dépôt est présenté dans les formes et conditions prévues par le présent livre.
+La demande d'enregistrement est présentée dans les formes et conditions prévues par le présent livre.
 
-Il comporte, à peine d'irrecevabilité, l'identification du déposant et une reproduction du ou des dessins ou modèles
-concernés.
+Elle comporte, à peine d'irrecevabilité, l'identification du déposant et une reproduction des dessins ou modèles dont la
+protection est demandée.
 
-Le dépôt est rejeté s'il apparaît à l'examen :
+La demande d'enregistrement est rejetée s'il apparaît :
 
-1. Qu'il n'est pas présenté dans les conditions et formes prescrites.
+a) Qu'elle n'est pas présentée dans les conditions et formes prescrites ;
 
-2. Que sa publication est susceptible de porter atteinte aux bonnes moeurs ou à l'ordre public.
+b) Que sa publication est de nature à porter atteinte à l'ordre public ou aux bonnes moeurs.
 
-Toutefois, le rejet ne peut être prononcé sans que le déposant ait été préalablement invité, selon le cas, soit à régulariser
-le dépôt, soit à présenter ses observations.
+Le rejet ne peut être prononcé sans que le déposant ait été préalablement invité, selon le cas, soit à régulariser la
+demande, soit à présenter ses observations.
 
-Pour les dessins et modèles relevant d'industries qui renouvellent fréquemment la forme et le décor de leurs produits, le
-dépôt peut être effectué sous une forme simplifiée dans les conditions fixées par décret en Conseil d'Etat.
-
-La déchéance des droits issus d'un tel dépôt est prononcée lorsqu'il n'a pas été, au plus tard six mois avant la date prévue
-pour sa publication, rendu conforme aux prescriptions générales fixées par le décret prévu à l'alinéa précédent.
+Pour les dessins ou modèles relevant d'industries qui renouvellent fréquemment la forme et le décor de leurs produits, le
+dépôt peut être effectué sous une forme simplifiée dans des conditions fixées par décret en Conseil d'Etat. La déchéance des
+droits issus d'un tel dépôt est prononcée lorsque celui-ci n'a pas été, au plus tard six mois avant la date prévue pour sa
+publication, rendu conforme aux prescriptions générales fixées par ce décret.
 
 **Liens relatifs à cet article**
 
@@ -6991,13 +7153,9 @@ pour sa publication, rendu conforme aux prescriptions générales fixées par le
 	  - Code de la propriété intellectuelle - art. R512-4 (V)
 	  - Code de la propriété intellectuelle - art. R514-5 (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 21 () JORF 8 février 1994
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 ###### Article L512-3
@@ -7010,15 +7168,10 @@ relevé des déchéances qu'il a pu encourir.
 	**Anciens textes**:
 
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 9 (Ab)
-	  - Loi n°1909-07-14 art. 9
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 	**Cité par**:
 
@@ -7026,58 +7179,312 @@ relevé des déchéances qu'il a pu encourir.
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code de la propriété intellectuelle - art. R512-12 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+##### Section 2 : Nullité d'un enregistrement
 
 ###### Article L512-4
 
-Tout acte modifiant ou transmettant les droits attachés à un dessin ou modèle déposé n'est opposable aux tiers que s'il a été
-inscrit dans un registre public dit Registre national des dessins et modèles.
+L'enregistrement d'un dessin ou modèle est déclaré nul par décision de justice : 
+
+a) S'il n'est pas conforme aux dispositions des articles L. 511-1 à L. 511-8 ; 
+
+b) Si son titulaire ne pouvait bénéficier de la protection prévue à l'article L. 511-9 ; 
+
+c) Si le dessin ou modèle méconnaît des droits attachés à un dessin ou modèle antérieur qui a fait l'objet d'une divulgation
+au public après la date de présentation de la demande d'enregistrement ou, si une priorité est revendiquée, après la date de
+priorité, et qui est protégé depuis une date antérieure par l'enregistrement d'un dessin ou modèle communautaire, d'un dessin
+ou modèle français ou international désignant la France, ou par une demande d'enregistrement de tels dessins ou modèles ; 
+
+d) S'il porte atteinte au droit d'auteur d'un tiers ; 
+
+e) S'il est fait usage dans ce dessin ou modèle d'un signe distinctif antérieur protégé, sans l'autorisation de son
+titulaire. 
+
+Les motifs de nullité prévus aux b, c, d et e ne peuvent être invoqués que par la personne investie du droit qu'elle oppose. 
+
+Le ministère public peut engager d'office une action en nullité d'un dessin ou modèle, quelles que soient les causes de
+nullité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 8
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM *
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L511-1 (V)
+	  - Code de la propriété intellectuelle - art. L511-9 (V)
+
+
+###### Article L512-5
+
+Si les motifs de nullité n'affectent le dessin ou modèle qu'en partie, l'enregistrement peut être maintenu sous une forme
+modifiée à condition que, sous cette forme, le dessin ou modèle réponde aux critères d'octroi de la protection et que son
+identité soit conservée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM *
+
 	**Créé par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
-##### Chapitre III : Durée de la protection
+###### Article L512-6
+
+La décision judiciaire prononçant la nullité totale ou partielle d'un dessin ou modèle a un effet absolu. Elle est inscrite
+au registre national mentionné à l'article L. 513-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM *
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L513-3 (V)
+
+
+##### Chapitre III : Droits conférés par l'enregistrement
 
 ###### Article L513-1
 
-La durée de la protection prévue par le présent livre est de vingt-cinq ans à compter de la date de dépôt.
+L'enregistrement produit ses effets, à compter de la date de dépôt de la demande, pour une période de cinq ans, qui peut être
+prorogée par périodes de cinq ans jusqu'à un maximum de vingt-cinq ans.
 
-Elle peut être prorogée pour une période supplémentaire de vingt-cinq ans sur déclaration du titulaire.
+Les dessins ou modèles déposés avant le 1er octobre 2001 restent protégés, sans prorogation possible, pour une période de
+vingt-cinq ans à compter de leur date de dépôt. Les dessins ou modèles dont la protection a été prorogée, avant le 1er
+octobre 2001, pour une nouvelle période de vingt-cinq ans restent protégés jusqu'à l'expiration de cette période.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 7
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Cité par**:
 
 	  - Décret n°92-792 du 13 août 1992 - art. 10 (Ab)
 	  - Code de la propriété intellectuelle - art. R513-1 (VD)
 
+	**Liens**:
 
-##### Chapitre IV : Dispositions communes
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L513-2
+
+Sans préjudice des droits résultant de l'application d'autres dispositions législatives, notamment des livres Ier et III du
+présent code, l'enregistrement d'un dessin ou modèle confère à son titulaire un droit de propriété qu'il peut céder ou
+concéder.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L513-3
+
+Tout acte modifiant ou transmettant les droits attachés à un dessin ou modèle déposé n'est opposable aux tiers que s'il a été
+inscrit au Registre national des dessins et modèles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code de la propriété intellectuelle - art. L512-6 (V)
+
+
+###### Article L513-4
+
+Sont interdits, à défaut du consentement du propriétaire du dessin ou modèle, la fabrication, l'offre, la mise sur le marché,
+l'importation, l'exportation, l'utilisation, ou la détention à ces fins, d'un produit incorporant le dessin ou modèle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 11 décembre 2001 - art. 1 (M)
+	  - Code de la propriété intellectuelle - art. L521-1 (V)
+	  - Code des douanes - art. 38 (VD)
+	  - Code des douanes - art. 67 bis (V)
+	  - Code des douanes - art. 67 bis-1 (V)
+
+
+###### Article L513-5
+
+La protection conférée par l'enregistrement d'un dessin ou modèle s'étend à tout dessin ou modèle qui ne produit pas sur
+l'observateur averti une impression visuelle d'ensemble différente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L513-6
+
+Les droits conférés par l'enregistrement d'un dessin ou modèle ne s'exercent pas à l'égard :
+
+a) D'actes accomplis à titre privé et à des fins non commerciales ;
+
+b) D'actes accomplis à des fins expérimentales ;
+
+c) D'actes de reproduction à des fins d'illustration ou d'enseignement, si ces actes mentionnent l'enregistrement et le nom
+du titulaire des droits, sont conformes à des pratiques commerciales loyales et ne portent pas préjudice à l'exploitation
+normale du dessin ou modèle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L513-7
+
+Les droits conférés par l'enregistrement d'un dessin ou modèle ne s'exercent pas :
+
+a) Sur des équipements installés à bord de navires ou d'aéronefs immatriculés dans un autre pays lorsqu'ils pénètrent
+temporairement sur le territoire français ;
+
+b) Lors de l'importation en France de pièces détachées et d'accessoires pour la réparation de ces navires ou aéronefs ou à
+l'occasion de cette réparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L513-8
+
+Les droits conférés par l'enregistrement d'un dessin ou modèle ne s'étendent pas aux actes portant sur un produit incorporant
+ce dessin ou modèle, lorsque ce produit a été commercialisé dans la Communauté européenne ou dans l'Espace économique
+européen par le propriétaire du dessin ou modèle ou avec son consentement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+##### Chapitre IV : Dispositions diverses
 
 ###### Article L514-1
 
@@ -7087,16 +7494,40 @@ Des décrets en Conseil d'Etat fixent, en tant que de besoin, les conditions d'a
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 15
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 15 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+
+
+###### Article L514-2
+
+Des dispositions réglementaires propres à certaines industries peuvent prescrire les mesures nécessaires pour permettre aux
+industriels de faire constater leur priorité d'emploi d'un dessin ou modèle, notamment par la tenue de registres privés
+soumis au visa de l'Institut national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
 	**Créé par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
 
 
 #### Titre II : Contentieux
@@ -13407,22 +13838,23 @@ La demande d'enregistrement est présentée et publiée dans les formes et condi
 par décret en Conseil d'Etat. Elle doit comporter notamment le modèle de la marque et l'énumération des produits ou services
 auxquels elle s'applique.
 
-Le déposant domicilié à l'étranger doit faire élection de domicile en France.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 6
 	  - Loi n°91-7 du 4 janvier 1991 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 4 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -13996,7 +14428,10 @@ Les droits attachés à une marque peuvent faire l'objet en tout ou partie d'une
 ou non exclusive ainsi que d'une mise en gage.
 
 La concession non exclusive peut résulter d'un règlement d'usage. Les droits conférés par la demande d'enregistrement de
-marque ou par la marque peuvent être invoqués à l'encontre d'un licencié qui enfreint une des limites de sa licence.
+marque ou par la marque peuvent être invoqués à l'encontre d'un licencié qui enfreint l'une des limites de sa licence en ce
+qui concerne sa durée, la forme couverte par l'enregistrement sous laquelle la marque peut être utilisée, la nature des
+produits ou des services pour lesquels la licence est octroyée, le territoire sur lequel la marque peut être apposée ou la
+qualité des produits fabriqués ou des services fournis par le licencié.
 
 Le transfert de propriété, ou la mise en gage, est constaté par écrit, à peine de nullité.
 
@@ -14004,16 +14439,19 @@ Le transfert de propriété, ou la mise en gage, est constaté par écrit, à pe
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 23
 	  - Loi n°91-7 du 4 janvier 1991 - art. 23 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 2 () JORF 28 juillet 2001
 
 	**Cité par**:
 
@@ -14956,6 +15394,180 @@ loi n° 64-1360 du 31 décembre 1964 sur les marques de fabrique, de commerce ou
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+##### Chapitre VII : La marque communautaire
+
+###### Article L717-1
+
+Constitue une contrefaçon engageant la responsabilité civile de son auteur la violation des interdictions prévues aux
+articles 9, 10, 11 et 13 du règlement (CE) 40/94 du Conseil du 20 décembre 1993 sur la marque communautaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L717-4 (V)
+	  - Code de la propriété intellectuelle - art. L717-5 (V)
+	  - Code de la propriété intellectuelle - art. L717-7 (V)
+	  - Code de la propriété intellectuelle - art. L811-4 (V)
+
+	**Cite**:
+
+	  - Règlement CEE 40/94 1993-12-20 Conseil art. 9, art. 10, art. 11, art. 13
+
+
+###### Article L717-2
+
+Les dispositions des articles L. 716-8 à L. 716-14 sont applicables aux atteintes portées au droit du propriétaire d'une
+marque communautaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle L716-8 à L716-14
+
+
+###### Article L717-3
+
+Est irrecevable toute action en contrefaçon, fondée sur une marque communautaire antérieure, contre une marque nationale
+postérieure enregistrée dont l'usage a été toléré pendant cinq ans, à moins que le dépôt de la marque nationale n'ait été
+effectué de mauvaise foi.
+
+L'irrecevabilité est limitée aux seuls produits et services pour lesquels l'usage a été toléré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+
+###### Article L717-4
+
+Un décret en Conseil d'Etat détermine le siège et le ressort des juridictions de première instance et d'appel qui sont seules
+compétentes pour connaître des actions et des demandes prévues à l'article 92 du règlement communautaire mentionné à
+l'article L. 717-1, y compris lorsque ces actions portent à la fois sur une question de marque et sur une question connexe de
+dessin et modèle ou de concurrence déloyale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-10 (Ab)
+	  - Code de la propriété intellectuelle - art. L811-4 (V)
+	  - Code de la propriété intellectuelle - art. R717-11 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L717-1 (V)
+
+
+###### Article L717-5
+
+Une demande de marque communautaire ou une marque communautaire ne peut être transformée en demande de marque nationale que
+dans les cas prévus à l'article 108 du règlement communautaire mentionné à l'article L. 717-1. 
+
+Dans ces cas, la demande de marque nationale doit, sous peine de rejet, satisfaire aux dispositions des articles L. 711-2, L.
+711-3, 
+L. 712-2 et L. 712-4. Les conditions d'application du présent alinéa sont fixées par décret en Conseil d'Etat. 
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'ancienneté d'une marque enregistrée antérieurement
+en France a été revendiquée au bénéfice de la marque communautaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L711-2 (V)
+	  - Code de la propriété intellectuelle - art. L712-2 (V)
+	  - Code de la propriété intellectuelle - art. L712-4 (V)
+	  - Code de la propriété intellectuelle - art. L717-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R717-9 (V)
+
+
+###### Article L717-6
+
+Lorsqu'une marque antérieurement enregistrée en France n'a pas été renouvelée ou a fait l'objet d'une renonciation, le fait
+que l'ancienneté de cette marque a été revendiquée au nom d'une marque communautaire ne fait pas obstacle à ce que la nullité
+de cette marque ou la déchéance des droits de son titulaire soit prononcée.
+
+Une telle déchéance ne peut cependant être prononcée en application du présent article que si celle-ci était encourue à la
+date de la renonciation ou à la date d'expiration de l'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+
+###### Article L717-7
+
+La formule exécutoire mentionnée à l'article 82 du règlement communautaire mentionné à l'article L. 717-1 est apposée par
+l'Institut national de la propriété industrielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 3 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L717-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L811-4 (V)
+
+
 #### Titre II : Appellations d'origine
 
 ##### Chapitre unique
@@ -14986,9 +15598,235 @@ et des facteurs humains."
 	  - Code de la consommation - art. L115-1 (V)
 
 
+## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
+
+### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
+
+#### Titre unique
+
+##### Chapitre unique
+
+###### Article L811-2
+
+Pour l'application du présent code et des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis-
+et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les mots suivants
+énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+
+- " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
+
+- " région " par " territoire " et, en ce qui concerne Mayotte, par " collectivité territoriale " ;
+
+- " cour d'appel " par " tribunal supérieur d'appel de Mamoudzou " et " commissaire de police " par " officier de police
+judiciaire " pour ce qui concerne Mayotte ;
+
+- " tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
+
+- " conseil de prud'hommes " par " tribunal du travail ".
+
+De même, les références à des dispositions législatives non applicables en Polynésie française, dans les îles Wallis-et-
+Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux
+dispositions ayant le même objet, résultant des textes applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 2001-07-13
+	  - Ordonnance 2001-670 2001-07-25 art. 6 I, II, III, IV, V JORF 28 juillet 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 6 () JORF 28 juillet 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+
+
+###### Article L811-4
+
+I. - Pour leur application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises, en Nouvelle-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont
+ainsi rédigés :
+
+"Art. L. 717-1. :
+
+I. - Constitue une contrefaçon engageant la responsabilité civile de son auteur le fait, pour un tiers, en l'absence du
+consentement du titulaire de la marque communautaire, de faire usage dans la vie des affaires :
+
+a) D'un signe identique à la marque communautaire pour des produits ou des services identiques à ceux pour lesquels celle-ci
+est enregistrée ;
+
+b) D'un signe pour lequel, en raison de son identité ou de sa similitude avec la marque communautaire et en raison de
+l'identité ou de la similitude des produits ou des services couverts par la marque communautaire et le signe, il existe dans
+l'esprit du public un risque de confusion, celui-ci incluant le risque d'association entre le signe et la marque ;
+
+c) D'un signe identique ou similaire à la marque communautaire pour des produits ou des services qui ne sont pas similaires à
+ceux pour lesquels la marque communautaire est enregistrée, lorsque celle-ci jouit d'une renommée dans la Communauté
+européenne et que l'usage du signe sans juste motif tire indûment profit du caractère distinctif ou de la renommée de la
+marque communautaire ou leur porte préjudice.
+
+II. - Peut notamment constituer une contrefaçon le fait :
+
+a) D'apposer sur les produits ou sur leur conditionnement un signe tel que défini au I ;
+
+b) D'offrir les produits ou de les mettre dans le commerce ou de les détenir à ces fins ou d'offrir ou de fournir des
+services sous ce signe ;
+
+c) D'importer ou d'exporter les produits sous ce signe ;
+
+d) D'utiliser ce signe dans les papiers d'affaires et la publicité.
+
+III. - Constitue également une contrefaçon :
+
+a) La reproduction d'une marque communautaire dans un dictionnaire, une encyclopédie ou un ouvrage similaire, lorsque celle-
+ci donne l'impression de constituer le terme générique des biens ou services pour lesquels la marque communautaire est
+enregistrée, sauf pour l'éditeur à veiller, sur demande du titulaire de cette marque, à ce que la reproduction de celle-ci
+soit, au plus tard lors de l'édition suivante de l'ouvrage, accompagnée de l'indication qu'il s'agit d'une marque
+enregistrée ;
+
+b) L'enregistrement et l'utilisation d'une marque communautaire par un agent ou un représentant de celui qui est titulaire de
+celle-ci, sans l'autorisation de ce dernier, à moins que l'agent ou le représentant ne justifie de ses agissements.
+
+IV. - La marque communautaire n'est opposable aux tiers qu'à compter de la publication de l'enregistrement de celle-ci.
+Toutefois, une indemnité peut être exigée pour des faits postérieurs à la publication d'une demande de marque communautaire
+qui, après la publication de l'enregistrement de la marque, seraient interdits en vertu de celle-ci. Le tribunal saisi ne
+peut statuer au fond tant que l'enregistrement n'a pas été publié.
+
+V. - Le droit conféré par la marque communautaire ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des
+produits qui ont été mis dans le commerce sous cette marque par le titulaire ou avec son consentement, dans la Communauté
+européenne, dans l'Espace économique européen, en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres
+australes et antarctiques françaises, en Nouvelle-Calédonie ou à Mayotte. Il en est autrement lorsque des motifs légitimes
+justifient que le titulaire s'oppose à la commercialisation ultérieure des produits, notamment lorsque l'état de ceux-ci est
+modifié ou altéré après leur mise dans le commerce."
+
+"Art. L. 717-4. :
+
+Un décret en Conseil d'Etat détermine le siège et le ressort des juridictions de première instance et d'appel qui sont seules
+compétentes pour connaître :
+
+a) Des actions en contrefaçon d'une marque communautaire ;
+
+b) Des actions en indemnisation intentées dans les conditions prévues au IV de l'article L.717-1 ;
+
+c) Des demandes reconventionnelles en déchéance ou en nullité de la marque communautaire à condition qu'elles soient fondées
+sur les motifs applicables à celle-ci.
+
+Ces juridictions sont compétentes pour connaître de ces actions et demandes, y compris lorsqu'elles portent à la fois sur une
+question de marque et sur une question connexe de dessin et modèle ou de concurrence déloyale."
+
+"Art. L. 717-7. :
+
+Toute décision définitive de l'Office de l'harmonisation dans le marché intérieur qui fixe le montant des frais, vaut titre
+exécutoire lorsque la formule exécutoire est apposée par l'Institut national de la propriété industrielle, après vérification
+de l'authenticité du titre.
+
+La partie intéressée peut ensuite poursuivre l'exécution forcée qui est alors régie par les règles de procédure civile en
+vigueur au lieu de l'exécution."
+
+II. - Pour l'application de l'article L. 717-5 dans les mêmes territoires, le premier alinéa de cet article est remplacé par
+les dispositions suivantes :
+
+"Art. L. 717-5. :
+
+I. - Une demande de marque communautaire ou une marque communautaire ne peut être transformée en demande de marque nationale
+que :
+
+a) Dans la mesure où la demande de marque communautaire est rejetée, retirée ou réputée retirée ;
+
+b) Dans la mesure où la marque communautaire cesse de produire ses effets.
+
+II. - La transformation n'a pas lieu :
+
+a) Lorsque le titulaire de la marque communautaire a été déchu de ses droits pour défaut d'usage de cette marque, à moins que
+la marque communautaire n'ait été utilisée en France dans des conditions qui constituent un usage sérieux au sens de
+l'article L. 714-5 ;
+
+b) Lorsqu'il est établi, par application d'une décision de l'Office de l'harmonisation dans le marché intérieur ou de la
+juridiction nationale, que la demande ou la marque communautaire est affectée en France d'un motif de refus d'enregistrement,
+de nullité ou de révocation.
+
+III. - La demande de marque nationale issue de la transformation d'une demande ou d'une marque communautaire bénéficie de la
+date de dépôt ou de la date de priorité de cette demande ou de cette marque et, le cas échéant, de l'ancienneté d'une marque
+nationale antérieurement enregistrée et valablement revendiquée."
+
+**Nota:**
+
+Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à la
+" collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
+territoriale " est remplacée par la référence à la " collectivité départementale ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 7 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L714-5 (M)
+	  - Code de la propriété intellectuelle - art. L717-1 (V)
+	  - Code de la propriété intellectuelle - art. L717-4 (V)
+	  - Code de la propriété intellectuelle - art. L717-7 (V)
+
+
 ## Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
 
-### Livre VIII : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
+### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
+
+#### Titre unique
+
+##### Chapitre unique
+
+###### Article L811-3
+
+Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+
+"Art. L. 621-1 :
+
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
+fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
+
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
+des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+
+**Nota:**
+
+Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
+référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
+"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 6 () JORF 28 juillet 2001
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L621-1 (M)
+	  - Code pénal - art. 131-26 (V)
+
+
+### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les terres australes et antarctiques françaises et en Nouvelle - Calédonie
 
 #### Titre unique
 
@@ -14996,11 +15834,17 @@ et des facteurs humains."
 
 ###### Article L811-1
 
-Sous réserve des adaptations prévues aux articles suivants, les dispositions du présent code sont applicables dans la
-collectivité territoriale de Mayotte.
+Sous réserve des adaptations prévues aux articles suivants, les dispositions du présent code sont applicables à Mayotte.
 
-Sous les mêmes réserves, elles sont applicables dans les territoires d'outre-mer à l'exception des articles L. 421-1 à L.
-422-10 et L. 423-2.
+Sous les mêmes réserves, elles sont applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres
+australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte à l'exception des articles L. 421-1 à L. 422-10 et
+L. 423-2.
+
+**Nota:**
+
+Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
+référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
+"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
 
 **Liens relatifs à cet article**
 
@@ -15022,11 +15866,12 @@ Sous les mêmes réserves, elles sont applicables dans les territoires d'outre-m
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
 
 	**Modifié par**:
 
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 5 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+	  - Ordonnance 2001-670 2001-07-25 art. 6 I, II, III JORF 28 juillet 2001
+	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 6 () JORF 28 juillet 2001
 
 	**Cite**:
 
@@ -15036,68 +15881,6 @@ Sous les mêmes réserves, elles sont applicables dans les territoires d'outre-m
 	**Nouveaux textes**:
 
 	  - Code rural - art. L683-1 (M)
-
-
-###### Article L811-2
-
-Pour l'application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à la
-collectivité territoriale de Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots
-suivants :
-
-- " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
-
-- " région " par " territoire " et, en ce qui concerne la collectivité territoriale de Mayotte, par " collectivité
-territoriale " ;
-
-- " cour d'appel " par " tribunal supérieur d'appel de Mamoudzou " et " commissaire de police " par " officier de police
-judiciaire " pour ce qui concerne la collectivité territoriale de Mayotte ;
-
-- " tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
-
-- " conseil de prud'hommes " par " tribunal du travail ".
-
-De même, les références à des dispositions législatives non applicables dans les territoires d'outre-mer sont remplacées par
-les références aux dispositions ayant le même objet, résultant de la réglementation territoriale applicable dans ces
-derniers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L811-3
-
-Pour son application dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, l'article L. 621-1 du
-présent code est ainsi rédigé :
-
-"Art. L. 621-1 :
-
-"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
-fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
-
-"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
-des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 5 () JORF 31 mars 1996 en vigueur le 1er mai 1996
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L621-1 (M)
-	  - Code pénal - art. 131-26 (V)
 
 
 # Partie réglementaire
