@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-06-22
+Version Consolidée au 2004-07-02
 
 # Partie législative
 
@@ -4010,20 +4010,19 @@ La durée de ces accords est comprise entre un et cinq ans.
 
 A défaut d'accord intervenu avant le 30 juin 1986, ou si aucun accord n'est intervenu à l'expiration du précédent accord, le
 barème de rémunération et des modalités de versement de la rémunération sont arrêtés par une commission présidée par un
-magistrat de l'ordre judiciaire désigné par le premier président de la Cour de cassation et composée, en outre, d'un membre
-du Conseil d'Etat désigné par le vice-président du Conseil d'Etat, d'une personnalité qualifiée désignée par le ministre
-chargé de la culture et, en nombre égal, d'une part, de membres désignés par les organisations représentant les bénéficiaires
-du droit à rémunération, d'autre part, de membres désignés par les organisations représentant les personnes qui, dans la
-branche d'activité concernée, utilisent les phonogrammes dans les conditions prévues aux 1° et 2° de l'article L. 214-1.
+représentant de l'Etat et composée, en nombre égal, d'une part, de membres désignés par les organisations représentant les
+bénéficiaires du droit à rémunération, d'autre part, de membres désignés par les organisations représentant les personnes
+qui, dans la branche d'activité concernée, utilisent les phonogrammes dans les conditions prévues aux 1° et 2° de l'article
+L. 214-1. 
 
 Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à
-désigner sont déterminés par arrêté du ministre chargé de la culture.
+désigner sont déterminés par arrêté du ministre chargé de la culture. 
 
 La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix
-prépondérante.
+prépondérante. 
 
 Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde
-délibération.
+délibération. 
 
 Les décisions de la commission sont publiées au Journal officiel de la République française.
 
@@ -4038,10 +4037,6 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Cité par**:
 
 	  - Loi n°93-924 du 20 juillet 1993 - art. 4 (V)
@@ -4053,9 +4048,13 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 	  - Code de la propriété intellectuelle - art. R214-1 (V)
 	  - Code de la propriété intellectuelle - art. R214-2 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-637 2004-07-01 art. 4 1° JORF 2 juillet 2004
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L214-1 (M)
+	  - Code de la propriété intellectuelle - art. L214-1 (V)
 
 
 ###### Article L214-5
