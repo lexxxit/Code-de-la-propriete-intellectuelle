@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1996-01-04
+Version Consolidée au 1996-02-09
 
 # Partie législative
 
@@ -14840,6 +14840,335 @@ de la culture.
 	  - Décret n°2011-1073 du 8 septembre 2011 - art. 1
 
 
+##### Section 5 : Nantissement du droit d'exploitation des logiciels
+
+###### Article R132-8
+
+Les nantissements du droit d'exploitation des logiciels sont inscrits sur le Registre national spécial des logiciels tenu par
+l'Institut national de la propriété industrielle. 
+
+Y figurent pour chaque logiciel : 
+
+1° L'identité du titulaire du droit visé à l'article L. 122-6 et du créancier gagiste, ainsi que toutes modifications
+relatives à leurs nom, prénoms, dénomination sociale, forme juridique, domicile ou siège social ; 
+
+2° L'indication des éléments de nature à permettre l'identification du logiciel, tels que le nom, la marque, la désignation
+du code-source, des documents de fonctionnement et des mises à jour, ainsi que toute autre caractéristique du logiciel et, le
+cas échéant, les références d'un dépôt ; 
+
+3° L'acte constitutif du nantissement sur tout ou partie du droit d'exploitation du logiciel ; 
+
+4° Les actes modifiant la propriété ou la jouissance du droit d'exploitation ; 
+
+5° Les actes modifiant les droits du créancier nanti ; 
+
+6° Les demandes en justice et les décisions judiciaires définitives lorsqu'elles portent sur les droits, objet du contrat de
+nantissement ; 
+
+7° Les rectifications d'erreurs matérielles affectant les inscriptions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-6 (V)
+
+
+###### Article R132-9
+
+La demande d'inscription est présentée par l'une des parties à l'acte ou par un mandataire muni d'un pouvoir. Sauf
+stipulation contraire, ce pouvoir s'étend aux demandes d'inscription visées aux articles R. 132-10 à R. 132-13 et R. 132-15,
+à la réception des notifications prévues à l'article R. 132-14 et à la demande de radiation prévue à l'article R. 132-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R132-10 (V)
+	  - Code de la propriété intellectuelle - art. R132-14 (V)
+	  - Code de la propriété intellectuelle - art. R132-15 (V)
+	  - Code de la propriété intellectuelle - art. R132-16 (V)
+
+
+###### Article R132-10
+
+La demande d'inscription du nantissement est réalisée par le dépôt d'un bordereau dont la forme est déterminée par décision
+du directeur général de l'Institut national de la propriété industrielle.
+
+Le bordereau comprend les indications suivantes :
+
+1° Les nom, prénoms, domicile ou la dénomination sociale, forme juridique et siège social du créancier et du débiteur ;
+
+2° La désignation du logiciel par son nom, sa marque avec l'indication précise de tous éléments d'identification et
+caractéristiques tels que la désignation du code-source, des documents de fonctionnement et des mises à jour ainsi que, le
+cas échéant, les références d'un dépôt du logiciel ;
+
+3° La nature et la date de l'acte constitutif du nantissement ;
+
+4° Le montant de la créance exprimée dans l'acte, son exigibilité, les conditions relatives aux intérêts ainsi que les frais
+accessoires.
+
+A ce bordereau sont joints :
+
+- un des originaux de l'acte constitutif du nantissement ;
+
+- une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué ;
+
+- la justification du paiement de la redevance prescrite ;
+
+- s'il y a lieu, le pouvoir du mandataire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code de la propriété intellectuelle - art. R132-15 (V)
+	  - Code de la propriété intellectuelle - art. R132-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R132-11
+
+Les actes ayant pour effet de modifier ou d'anéantir les droits publiés du débiteur et du créancier, tels que, notamment, la
+cession, la concession d'un droit d'exploitation, la cession du nantissement ou la renonciation à ce dernier, ainsi que les
+demandes en justice et les décisions judiciaires définitives relatives à ces droits, sont inscrits à la demande de l'une des
+parties à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription dont la forme est déterminée par décision du directeur général de l'Institut
+national de la propriété industrielle ;
+
+2° Un des originaux de l'acte sous seing privé ou, selon les cas, une expédition de l'acte authentique ou de l'acte
+introductif d'instance ;
+
+3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué ;
+
+4° La justification du paiement de la redevance prescrite ;
+
+5° S'il y a lieu, le pouvoir du mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+
+###### Article R132-12
+
+Tout changement de nom, de prénoms ou de domicile des personnes physiques, toute modification de dénomination sociale, de
+forme juridique ou de siège social des personnes morales sont inscrits à la demande de toute personne intéressée.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription dont la forme est déterminée par décision du directeur général de l'Institut
+national de la propriété industrielle ;
+
+2° Tout document destiné à constater les changements ou modifications de l'état civil et du domicile des personnes physiques
+ou de la dénomination, du statut juridique et du siège social des personnes morales ;
+
+3° La justification du paiement de la redevance prescrite ;
+
+4° S'il y a lieu, le pouvoir du mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R132-13 (V)
+
+
+###### Article R132-13
+
+Les demandes en rectification d'erreurs matérielles relatives à des actes précédemment publiés au registre peuvent être
+présentées par toute partie aux actes concernés, selon la procédure mentionnée à l'article R. 132-12. Elles doivent être
+accompagnées de toutes pièces justificatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R132-12 (V)
+
+
+###### Article R132-14
+
+En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur. Un délai de deux mois
+lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou d'observation
+permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut national de la
+propriété industrielle.
+
+La notification peut être assortie d'une proposition de régularisation. Dans ce cas, cette proposition est réputée acceptée
+si le demandeur ne la conteste pas dans le délai de deux mois qui lui est imparti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R132-9 (V)
+
+
+###### Article R132-15
+
+L'inscription cesse de produire effet si elle n'a pas été renouvelée, selon la procédure prévue à l'article R. 132-10, avant
+l'expiration du délai de cinq ans, couru à compter de la date de l'inscription du nantissement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R132-10 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R132-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R132-16
+
+La radiation de l'inscription peut être requise par le créancier ou le débiteur sur justification de l'extinction de la dette
+garantie ou de la production de l'acte donnant mainlevée de l'inscription.
+
+La radiation peut également intervenir en vertu d'une décision passée en force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R132-9 (V)
+
+
+###### Article R132-17
+
+Toute inscription portée au Registre national spécial des logiciels fait l'objet d'une mention au Bulletin officiel de la
+propriété industrielle.
+
+Toute personne intéressée peut obtenir de l'institut :
+
+a) Une reproduction des inscriptions portées au registre ;
+
+b) Un certificat constatant qu'il n'existe pas d'inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+
 ## Livre II : Les droits voisins du droit d'auteur
 
 ### Titre unique
@@ -15803,6 +16132,29 @@ Les modalités de présentation de la demande sont précisées par arrêté du m
 	  - Décret n°95-385 1955-04-10
 
 
+###### Article R335-2
+
+Toute publicité ou notice d'utilisation relative à un moyen permettant la suppression ou la neutralisation de tout dispositif
+technique protégeant un logiciel, qui ne comporte pas la mention en caractères apparents que l'utilisation illicite de ces
+moyens est passible des sanctions prévues en cas de contrefaçon, est punie des peines prévues pour les contraventions de la
+troisième classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
+
+	**Créé par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 1 () JORF 9 février 1996
+
+
 ## Livre IV : Organisation administrative et professionnelle
 
 ### Titre Ier : Institutions
@@ -16375,9 +16727,11 @@ droits ;
 Récompenses industrielles : enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou
 de transmission.
 
-7. Registres nationaux des brevets, marques, dessins et modèles :
+7. Registres nationaux des brevets, marques, dessins, modèles et registre national spécial des logiciels :
 
-Demande d'inscription.
+Demande d'inscription ;
+
+Renouvellement de l'inscription d'un nantissement du droit d'exploitation des logiciels.
 
 8. Registre national du commerce et des sociétés :
 
@@ -16395,12 +16749,7 @@ rapport de recherche.
 
 	**Anciens textes**:
 
-	  - Décret n°81-599 du 15 mai 1981 - art. 2 (M)
 	  - Décret n°81-599 du 15 mai 1981 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 	**Liens**:
 
@@ -16412,6 +16761,7 @@ rapport de recherche.
 	  - TXT_SOURCE: Arrêté du 12 janvier 1996 - art. 5 (Ab)
 	  - TXT_SOURCE: Arrêté du 12 janvier 1996 - art. 6 (Ab)
 	  - TXT_SOURCE: Arrêté du 12 janvier 1996 - art. Annexe (Ab)
+	  - SPEC_APPLI: Décret n°96-103 1996-02-02 art. 5 *champ d'application*
 	  - TXT_SOURCE: Arrêté du 29 décembre 2000
 	  - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 29 décembre 2000 - art. 2 (Ab)
@@ -16432,6 +16782,10 @@ rapport de recherche.
 	  - Arrêté du 24 avril 2008 - art. 1 (V)
 	  - Arrêté du 2 septembre 2008 (V)
 	  - Code de la propriété intellectuelle - art. R721-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°96-103 du 2 février 1996 - art. 3 () JORF 9 février 1996
 
 	**Codifié par**:
 
