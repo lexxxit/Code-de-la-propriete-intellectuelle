@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-07-27
 
 # Partie législative
 
@@ -13258,23 +13258,28 @@ loi n° 64-1360 du 31 décembre 1964 sur les marques de fabrique, de commerce ou
 
 ###### Article L721-1
 
+Les règles relatives à la détermination des appellations d'origine sont fixées par l'article L. 115-1 du code de la
+consommation reproduit ci-après :
+
+"Article L. 115-1 :
+
 Constitue une appellation d'origine la dénomination d'un pays, d'une région ou d'une localité servant à désigner un produit
 qui en est originaire et dont la qualité ou les caractères sont dus au milieu géographique, comprenant des facteurs naturels
-et des facteurs humains.
+et des facteurs humains."
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1919-05-06 art. A
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°93-949 du 26 juillet 1993 - art. 5 () JORF 27 juillet 1993
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-1 (V)
 
 
 ## Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
