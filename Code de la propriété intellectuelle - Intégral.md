@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-01-01
 
 # Partie législative
 
@@ -5491,6 +5491,383 @@ douanes, relatif au secret professionnel auquel sont tenus les agents de l'admin
 
 	  - Code de la propriété intellectuelle - art. L332-1 (M)
 	  - Code des douanes - art. 59 bis (V)
+
+
+### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données
+
+#### Titre IV : Droits des producteurs de bases de données
+
+##### Chapitre Ier : Champ d'application
+
+###### Article L341-1
+
+Le producteur d'une base de données, entendu comme la personne qui prend l'initiative et le risque des investissements
+correspondants, bénéficie d'une protection du contenu de la base lorsque la constitution, la vérification ou la présentation
+de celui-ci atteste d'un investissement financier, matériel ou humain substantiel.
+
+Cette protection est indépendante et s'exerce sans préjudice de celles résultant du droit d'auteur ou d'un autre droit sur la
+base de données ou un de ses éléments constitutifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cité par**:
+
+	  - Arrêté du 6 février 2009 - art. 9 (V)
+
+
+###### Article L341-2
+
+Sont admis au bénéfice du présent titre :
+
+1° Les producteurs de bases de données, ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à
+l'accord sur l'Espace économique européen, ou qui ont dans un tel Etat leur résidence habituelle ;
+
+2° Les sociétés ou entreprises constituées en conformité avec la législation d'un Etat membre et ayant leur siège statutaire,
+leur administration centrale ou leur établissement principal à l'intérieur de la Communauté ou d'un Etat partie à l'accord
+sur l'Espace économique européen ; néanmoins, si une telle société ou entreprise n'a que son siège statutaire sur le
+territoire d'un tel Etat, ses activités doivent avoir un lien réel et continu avec l'économie de l'un d'entre eux.
+
+Les producteurs de bases de données qui ne satisfont pas aux conditions mentionnées ci-dessus sont admis à la protection
+prévue par le présent titre lorsqu'un accord particulier a été conclu avec l'Etat dont ils sont ressortissants par le Conseil
+de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+
+##### Chapitre II : Etendue de la protection
+
+###### Article L342-1
+
+Le producteur de bases de données a le droit d'interdire :
+
+1° L'extraction, par transfert permanent ou temporaire de la totalité ou d'une partie qualitativement ou quantitativement
+substantielle du contenu d'une base de données sur un autre support, par tout moyen et sous toute forme que ce soit ;
+
+2° La réutilisation, par la mise à la disposition du public de la totalité ou d'une partie qualitativement ou
+quantitativement substantielle du contenu de la base, quelle qu'en soit la forme.
+
+Ces droits peuvent être transmis ou cédés ou faire l'objet d'une licence.
+
+Le prêt public n'est pas un acte d'extraction ou de réutilisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+	  - SPEC_APPLI: Code de la propriété intellectuelle L343-1 (sanctions pénales)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cité par**:
+
+	  - Arrêté du 6 février 2009 - art. 9 (V)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 11
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code de la propriété intellectuelle - art. L342-5 (V)
+	  - Code de la propriété intellectuelle - art. L343-1 (T)
+	  - Code de la propriété intellectuelle - art. L343-4 (V)
+	  - Code des relations entre le public et l'adminis... - art. L321-3 (V)
+
+
+###### Article L342-2
+
+Le producteur peut également interdire l'extraction ou la réutilisation répétée et systématique de parties qualitativement ou
+quantitativement non substantielles du contenu de la base lorsque ces opérations excèdent manifestement les conditions
+d'utilisation normale de la base de données.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cité par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 11
+	  - Code des relations entre le public et l'adminis... - art. L321-3 (V)
+
+
+###### Article L342-3
+
+Lorsqu'une base de données est mise à la disposition du public par le titulaire des droits, celui-ci ne peut interdire :
+
+1° L'extraction ou la réutilisation d'une partie non substantielle, appréciée de façon qualitative ou quantitative, du
+contenu de la base, par la personne qui y a licitement accès ;
+
+2° L'extraction à des fins privées d'une partie qualitativement ou quantitativement substantielle du contenu d'une base de
+données non électronique sous réserve du respect des droits d'auteur ou des droits voisins sur les oeuvres ou éléments
+incorporés dans la base.
+
+Toute clause contraire au 1° ci-dessus est nulle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cité par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 3 (V)
+	  - Code de la propriété intellectuelle - art. L331-39 (MMN)
+	  - Code de la propriété intellectuelle - art. L331-8 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code de la propriété intellectuelle - art. R341-1 (V)
+
+
+###### Article L342-4
+
+La première vente d'une copie matérielle d'une base de données dans le territoire d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, par le titulaire du droit ou avec son
+consentement, épuise le droit de contrôler la revente de cette copie matérielle dans tous les Etats membres.
+
+Toutefois, la transmission en ligne d'une base de données n'épuise pas le droit du producteur de contrôler la revente dans
+tous les Etats membres d'une copie matérielle de cette base ou d'une partie de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+
+###### Article L342-5
+
+Les droits prévus à l'article L. 342-1 prennent effet à compter de l'achèvement de la fabrication de la base de données. Ils
+expirent quinze ans après le 1er janvier de l'année civile qui suit celle de cet achèvement. 
+
+Lorsqu'une base de données a fait l'objet d'une mise à la disposition du public avant l'expiration de la période prévue à
+l'alinéa précédent, les droits expirent quinze ans après le 1er janvier de l'année civile suivant celle de cette première
+mise à disposition. 
+
+Toutefois, dans le cas où une base de données protégée fait l'objet d'un nouvel investissement substantiel, sa protection
+expire quinze ans après le 1er janvier de l'année civile suivant celle de ce nouvel investissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L342-1 (V)
+
+
+##### Chapitre III : Sanctions
+
+###### Article L343-1
+
+Est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende le fait de porter atteinte aux droits du producteur d'une
+base de données tels que définis à l'article L. 342-1 [*sanctions pénales*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+	  - SPEC_APPLI: Code de la propriété intellectuelle L343-3 (récidive - sanctions pénales)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L342-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L343-1-1 (V)
+	  - Code de la propriété intellectuelle - art. L343-2 (M)
+	  - Code de la propriété intellectuelle - art. L343-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L343-4 (V)
+
+
+###### Article L343-2
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code
+pénal, des infractions définies à l'article L. 343-1. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code ; l'interdiction mentionnée au 2° de cet article porte sur
+l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L343-1 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R343-1 (V)
+
+
+###### Article L343-3
+
+En cas de récidive des infractions définies à l'article L. 343-1 ou si le délinquant est ou a été lié à la partie lésée par
+convention, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité
+pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les
+conseils de prud'hommes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L343-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. L343-4 (T)
+
+
+###### Article L343-4
+
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité des infractions définies
+au présent chapitre peut résulter des constatations d'agents assermentés désignés par les organismes professionnels de
+producteurs. Ces agents sont agréés par le ministre chargé de la culture dans les mêmes conditions que celles prévues pour
+les agents visés à l'article L. 331-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
+
+	**Créé par**:
+
+	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+
+	**Transféré par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-2 (M)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. L343-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L343-3 (Ab)
+	  - Code de la propriété intellectuelle - art. L343-3 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L343-7 (V)
+	  - Code de procédure pénale - art. 706-1-2 (VD)
 
 
 ## Deuxième partie : La propriété industrielle
