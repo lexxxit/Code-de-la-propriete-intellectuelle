@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1997-09-17
+Version Consolidée au 1997-09-24
 
 # Partie législative
 
@@ -18661,8 +18661,8 @@ personnes qualifiées en propriété industrielle et sur la liste prévue à l'a
 ###### Article R421-4
 
 La mention de spécialisation dont est assortie l'inscription des personnes qualifiées en propriété industrielle peut être
-soit celle d'ingénieur ou juriste à raison des diplômes, soit celle de brevets d'invention, marques ou dessins et modèles à
-raison de la pratique professionnelle.
+celle de brevets d'invention ou celle de marques, dessins et modèles, à raison de la pratique professionnelle, complétée, le
+cas échéant, par celle d'ingénieur ou de juriste, à raison des diplômes.
 
 Le cas échéant, plusieurs mentions peuvent être cumulées.
 
@@ -18671,18 +18671,17 @@ nouvelles qualifications professionnelles en matière de propriété industriell
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 2
-	  - Décret n°92-360 du 1 avril 1992 - art. 2 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°92-360 du 1 avril 1992 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
 
 
 ###### Article R421-5
@@ -18691,18 +18690,18 @@ La pratique professionnelle prévue à l'article R. 421-1 (3°) résulte de l'ex
 de conseil, d'assistance ou de représentation en matière de propriété industrielle, droits annexes et droits portant sur
 toute question connexe.
 
-La pratique professionnelle doit avoir été acquise sous la responsabilité d'une personne qualifiée en propriété industrielle.
+La pratique professionnelle doit avoir été acquise en France dans la matière objet de la mention de spécialisation recherchée
+et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention.
+
+Lorsque la pratique n'aura pas été acquise sous la responsabilité d'une telle personne, le jury prévu à l'article R. 421-6
+pourra, sur dossier, admettre à se présenter à l'examen un candidat dont la pratique aura été reconnue équivalente par son
+contenu, son étendue et son respect des normes usuelles dans la spécialisation concernée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 3
 	  - Décret n°92-360 du 1 avril 1992 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Cité par**:
 
@@ -18710,13 +18709,18 @@ La pratique professionnelle doit avoir été acquise sous la responsabilité d'u
 	  - Arrêté du 7 janvier 2008 - art. 1 (V)
 	  - Code de la propriété intellectuelle - art. R421-10 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. R421-1 (M)
+	  - Code de la propriété intellectuelle - art. R421-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R421-6
@@ -18882,23 +18886,26 @@ Il est donné récépissé de la demande.
 
 ###### Article R421-10
 
-La décision du directeur général de l'institut statuant sur la demande d'inscription est notifiée à l'intéressé. Le refus est
-motivé.
+La décision du directeur général de l'institut statuant sur la demande d'inscription le cas échéant, après décision du jury
+conformément à l'article R. 421-5 est notifiée à l'intéressé. Le refus est motivé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 7
 	  - Décret n°92-360 du 1 avril 1992 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R421-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
 ###### Article R421-11
@@ -18958,33 +18965,42 @@ La liste mise à jour des personnes qualifiées est publiée au début de chaque
 
 Toute personne qualifiée en propriété industrielle inscrite sur la liste prévue à l'article R. 421-1 peut demander d'être
 inscrite, avec la même mention de spécialisation, sur la liste des conseils en propriété industrielle prévue au troisième
-alinéa de l'article L. 422-1.
+alinéa de l'article L. 422-1. 
+
+La mention Brevets d'invention permet l'intervention dans les procédures prévues à l'article R. 612-2. La mention Marques,
+dessins et modèles permet l'intervention dans les procédures prévues aux articles R. 712-2 et R. 712-13. 
+
+Toutefois, les personnes inscrites avec la mention Juriste dans le cadre de la procédure définie au I de l'article 36 du
+décret du 1er avril 1992 relatif à la qualification et à l'organisation professionnelle en matière de propriété industrielle
+pourront accomplir les actes définis aux articles R. 712-2 et R. 712-13.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 10
 	  - Décret n°92-360 du 1 avril 1992 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-1 (M)
-	  - Code de la propriété intellectuelle - art. R421-1 (M)
+	  - Code de la propriété intellectuelle - art. L422-1 (V)
+	  - Code de la propriété intellectuelle - art. R421-1 (V)
+	  - Code de la propriété intellectuelle - art. R612-2 (V)
+	  - Code de la propriété intellectuelle - art. R712-13 (V)
+	  - Code de la propriété intellectuelle - art. R712-2 (V)
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R422-2 (V)
 	  - Code de la propriété intellectuelle - art. R422-4 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R422-2
@@ -18999,19 +19015,18 @@ propriété industrielle ;
 
 3° Avoir un domicile ou un établissement professionnel en France ;
 
-4° Justifier de la garantie prévue à l'article L. 422-8 ou prendre l'engagement de produire une telle justification, dans un
-délai de trois mois.
+4° Justifier de l'assurance et de la garantie prévues à l'article L. 422-8, ou prendre l'engagement de produire de telles
+justifications dans un délai de trois mois, ces justifications devant, après l'inscription, être produites tous les ans.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 11
 	  - Décret n°92-360 du 1 avril 1992 - art. 11 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 	**Cite**:
 
@@ -19060,23 +19075,42 @@ satisfait aux conditions prévues à l'article R. 422-2.
 ###### Article R422-4
 
 Le directeur général de l'institut procède à l'inscription après avis de la Compagnie nationale des conseils en propriété
-industrielle. L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine.
+industrielle. L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine. 
 
-Le refus d'inscription est pris par décision motivée qui est notifiée à l'intéressé.
+Le refus d'inscription est pris par décision motivée qui est notifiée à l'intéressé. 
 
 L'inscription des personnes physiques est faite au nom du conseil en propriété industrielle suivi de la dénomination du
-cabinet au sein duquel il exerce ou, s'il s'agit d'une société, de sa raison ou dénomination sociale.
+cabinet au sein duquel il exerce ou, s'il s'agit d'une société, de sa raison ou dénomination sociale. 
+
+Si le conseil en propriété industrielle n'a pas produit les justifications de ce qu'il remplit les conditions prévues à
+l'article R. 422-2, et notamment celles qu'exige le 4° de cet article, il est mis en demeure par le directeur général de
+l'institut de régulariser sa situation dans le délai indiqué par cette mise en demeure. 
+
+Si, à l'expiration du délai mentionné à l'alinéa précédent, l'intéressé n'a pas régularisé sa situation, le directeur général
+de l'institut prononce sa suspension, qui cessera d'avoir effet dès la régularisation intervenue. La suspension est publiée
+dans les conditions prévues à l'article R. 422-66. 
+
+Fait également l'objet d'une suspension, selon les modalités prévues aux alinéas précédents, toute société qui ne remplit
+plus les conditions prévues à l'article L. 422-7. 
+
+Le directeur général de l'institut radie de la liste prévue à l'article R. 422-1 le conseil en propriété industrielle dont la
+suspension a dépassé une durée de six mois.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 13
 	  - Décret n°92-360 du 1 avril 1992 - art. 13 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-7 (V)
+	  - Code de la propriété intellectuelle - art. R422-1 (V)
+	  - Code de la propriété intellectuelle - art. R422-66 (V)
 
 	**Cité par**:
 
@@ -19243,9 +19277,10 @@ sceaux, ministre de la justice, et du ministre chargé de la propriété industr
 
 ###### Article R422-10
 
-L'assemblée générale de la compagnie élit pour deux ans parmi ses membres, au scrutin secret, par vote uninominal et selon
-les modalités fixées par le règlement intérieur, un bureau composé de neuf personnes, dont un président, trois vice-
-présidents, un secrétaire et un trésorier.
+L'assemblée générale de la compagnie élit pour deux ans parmi ses membres, au scrutin secret, un bureau composé de neuf
+personnes, dont un président, trois vice-présidents, un secrétaire, un trésorier et trois membres. Le scrutin est uninominal
+pour les fonctions de président, de secrétaire et de trésorier. Il est pourvu par scrutin plurinominal à l'élection
+respective des vice-présidents et des autres membres. Les modalités de ce scrutin sont fixées par le règlement intérieur.
 
 A l'exception de l'établissement du règlement intérieur, du vote du budget annuel de la compagnie et d'autres attributions
 réservées le cas échéant à l'assemblée générale par le règlement intérieur, le bureau assure l'administration de la
@@ -19254,18 +19289,17 @@ permanent et constituer des commissions permanentes ou temporaires dont il défi
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 18
-	  - Décret n°92-360 du 1 avril 1992 - art. 18 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°92-360 du 1 avril 1992 - art. 18 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 
 ###### Article R422-11
@@ -20497,29 +20531,28 @@ respect des lois et règlements régissant sa compagnie.
 ###### Article R422-53
 
 Le conseil en propriété industrielle s'abstient de tout démarcharge et de toute publicité non autorisés dans les conditions
-prévues à l'article R. 422-55.
+prévues à l'article R. 423-2. 
 
-Il établit un barème indicatif du montant de ses honoraires, distincts des remboursements de frais et de redevances. Le délai
-de toutes ces charges est communiqué à toute personne qui en fait la demande.
+Il établit un barème indicatif du montant de ses honoraires, distincts des remboursements de frais et de redevances. Le
+détail de toutes ces charges est communiqué à toute personne qui en fait la demande.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 21
-	  - Décret n°92-360 du 1 avril 1992 - art. 21 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°92-360 du 1 avril 1992 - art. 21 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R422-55 (Ab)
+	  - Code de la propriété intellectuelle - art. R423-2 (V)
 
 
 ###### Article R422-54
@@ -20557,84 +20590,32 @@ qui lui était confiée ; la remise doit intervenir dans un délai permettant d'
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-###### Article R422-55
-
-L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux offres de service, effectuées par voie postale, à
-destination de professionnels ou d'entreprises. Toutefois, ces offres doivent se limiter à la communication d'informations
-générales sur le cabinet, son organisation, son personnel, ses prestations ainsi que sur le droit de la propriété
-industrielle.
-
-Ces informations peuvent être complétées par des indications relatives au prix des prestations. Les suites de ces
-prestations, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les
-honoraires et les frais et redevances.
-
-La publicité par voie de mise à disposition de brochures ou notices, ainsi que d'insertion d'annonces dans la presse
-professionnelle ou dans les annuaires, est autorisée aux mêmes conditions.
-
-Ne constituent des publicités ni la publication d'ouvrages ou d'articles de nature juridique ou technique ni la diffusion
-d'informations auprès de la clientèle.
-
-Un arrêté du ministre chargé de la propriété industrielle, pris après avis de la Compagnie nationale des conseils en
-propriété industrielle, peut prescrire une présentation et une formulation normalisées des informations prévues au présent
-article. L'avis de la compagnie est réputé acquis à défaut de réponse dans un délai d'un mois à compter de la saisine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 29
-	  - Décret n°92-360 du 1 avril 1992 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°97-863 du 17 septembre 1997 - art. 2 () JORF 24 septembre 1997
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R422-53 (M)
-
-
 ##### Section 5 : Régime disciplinaire
 
 ###### Article R422-56
 
-La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements des conseils en propriété industrielle
-à leurs obligations, est composée de sept membres :
+La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements à leurs obligations des conseils en
+propriété industrielle, est composée de sept membres :
 
 1° Un magistrat de l'ordre judiciaire, président, nommé sur proposition du premier président de la cour d'appel de Paris ;
 
 2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
 
-3° Le président de la Compagnie nationale des conseils en propriété industrielle ;
+3° Le président de la Compagnie nationale des conseils en propriété industrielle ou son suppléant désigné par lui pour la
+durée de son mandat parmi les vice-présidents de cette compagnie ;
 
-4° Deux conseils en propriété industrielle, choisis sur une liste de huit candidats proposés par la Compagnie nationale des
-conseils en propriété industrielle ;
+4° Deux conseils en propriété industrielle, choisis sur une liste de huit candidats proposée, en dehors des membres de son
+bureau, par la Compagnie nationale des conseils en propriété industrielle ;
 
-5° Le directeur général de l'Institut national de la propriété industrielle ou son représentant ;
+5° Deux personnalités qualifiées.
 
-6° Une personnalité qualifiée nommée sur proposition du directeur général de l'Institut national de la propriété
-industrielle.
-
-Les conseils en propriété industrielle visés au 4° ci-dessus ne peuvent cumuler leurs fonctions avec celle de membre du
-bureau de la compagnie.
+Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°92-360 1992-04-01 art. 23 I
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 	**Cite**:
 
@@ -20653,40 +20634,29 @@ bureau de la compagnie.
 ###### Article R422-57
 
 Les membres de la chambre de discipline sont, à l'exception du président de la Compagnie nationale des conseils en propriété
-industrielle, nommés pour deux ans par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de
-la propriété industrielle.
-
-Ils sont, en cas d'empêchement, remplacés par des suppléants nommés dans les mêmes conditions. Un vice-président de la
-Compagnie nationale des conseils en propriété industrielle supplée le président de celle-ci en cas d'empêchement de ce
-dernier.
+industrielle et de son suppléant, nommés ainsi que leurs suppléants pour trois ans par arrêté conjoint du garde des sceaux,
+ministre de la justice, et du ministre chargé de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 23 II
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
 ###### Article R422-58
 
-La chambre de discipline peut être saisie par le garde des sceaux, ministre de la justice, le ministre chargé de la propriété
-industrielle ou le directeur général de l'Institut national de la propriété industrielle.
+La chambre de discipline est saisie par le garde des sceaux, ministre de la justice, par le ministre chargé de la propriété
+industrielle, par le directeur général de l'Institut national de la propriété industrielle, ou par une plainte.
 
-Elle peut se saisir d'office ou être saisie à la suite d'une plainte.
+La saisine ou la plainte sont adressées au président de la chambre, par lettre recommandée avec demande d'avis de réception,
+au siège de l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 24 I
 
 	**Cité par**:
 
@@ -20696,91 +20666,83 @@ Elle peut se saisir d'office ou être saisie à la suite d'une plainte.
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 
 ###### Article R422-59
 
-Le conseil en propriété industrielle qui fait l'objet d'une procédure disciplinaire est cité à comparaître par le secrétaire
-de la compagnie. La citation précise, à peine de nullité, les faits qui la motivent et la date de l'audience. Elle est portée
-à la connaissance de l'auteur de la plainte et des autorités mentionnées à l'article R. 422-58.
+Le secrétaire de la Compagnie nationale des conseils en propriété industrielle est rapporteur de la chambre de discipline. En
+cas d'empêchement de celui-ci, et notamment s'il apparaît que le délai de six mois prévu à l'article R. 422-60 ne pourra être
+respecté, le bureau de la compagnie désigne un suppléant en son sein. 
+
+Le secrétariat de la chambre est assuré par l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°92-360 1992-04-01 art. 24 II
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R422-58 (M)
+	  - Code de la propriété intellectuelle - art. R422-60 (V)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R422-60
 
-La chambre de discipline ne peut siéger et délibérer valablement que si tous les membres ou leurs suppléants sont présents.
-Les décisions sont rendues par les membres présents à l'audience contradictoire. Le secrétaire de la compagnie assure le
-secrétariat en cas d'empêchement motivé du secrétaire, le bureau de la compagnie désigne un suppléant pris en son sein. Les
-séances ne sont pas publiques.
+Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir du conseil en propriété industrielle mis en
+cause, de l'auteur de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications
+nécessaires à l'information de la chambre.
 
-Aucune décision disciplinaire ne peut être prononcée sans que l'intéressé ait été entendu ou appelé au moins huit jours à
-l'avance. L'intéressé peut se faire assister par un membre de la profession de son choix. Le secrétaire peut être chargé du
-rapport sur l'affaire.
+Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur
+l'existence d'une faute disciplinaire.
+
+Il doit être déposé au siège de la chambre dans les six mois de la saisine de cette dernière, faute de quoi le président de
+la chambre peut désigner un autre rapporteur parmi les membres de la compagnie qui ne sont pas membres de la chambre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 25
 	  - Décret n°92-360 du 1 avril 1992 - art. 25 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R422-59 (V)
 	  - Code de la propriété intellectuelle - art. R422-62 (V)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R422-61
 
-La décision disciplinaire est prise à la majorité : cette majorité est d'au moins cinq membres en cas de radiation temporaire
-de plus d'un an ou de radiation définitive. La décision est motivée. Elle est notifiée à l'intéressé, au plaignant, au garde
-des sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande
-d'avis de réception dans un délai de quinze jours à compter de son prononcé.
+Lorsque le rapporteur estime que la plainte ou la saisine est irrecevable, sans objet ou manifestement non fondée, il propose
+à la chambre de classer l'affaire. 
 
-La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
+La décision de classement est prise et notifiée dans les formes et conditions prévues à l'article R. 422-64. Elle peut être
+déférée au Conseil d'Etat par la voie du recours en cassation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 26
 	  - Décret n°92-360 du 1 avril 1992 - art. 26 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 	**Cité par**:
 
@@ -20788,49 +20750,162 @@ La décision peut être déférée au Conseil d'Etat par la voie du recours en c
 	  - Code de la propriété intellectuelle - art. R422-62 (V)
 	  - Code de la propriété intellectuelle - art. R422-63 (V)
 
+	**Cite**:
 
-###### Article R422-62
-
-Est radiée de la section spéciale prévue à l'article L. 422-7 par décision du directeur général de l'institut toute société
-dont un membre a fait l'objet d'une radiation pour motif disciplinaire si l'intéressé n'a pas, dans les trois mois, cessé d'y
-exercer son activité.
-
-Outre les notifications prévues à l'article R. 422-61, la décision de radiation est notifiée au greffier mentionné à
-l'article R. 422-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 27
-	  - Décret n°92-360 du 1 avril 1992 - art. 27 (Ab)
+	  - Code de la propriété intellectuelle - art. R422-64 (V)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+###### Article R422-62
+
+Sauf lorsqu'il est fait application de l'article R. 422-61, le conseil en propriété industrielle qui fait l'objet d'une
+procédure disciplinaire est cité à comparaître devant la chambre de discipline par son président au moins quinze jours avant
+l'audience, par lettre recommandée avec demande d'avis de réception.
+
+Si la personne poursuivie est une personne morale, la citation est adressée dans les mêmes conditions à son représentant
+légal.
+
+La citation comporte, à peine de nullité, l'indication précise des faits à raison desquels la poursuite est intentée et la
+référence des dispositions législatives ou réglementaires sur le fondement desquelles ces faits sont poursuivis et réprimés.
+Elle est portée à la connaissance de l'autorité qui a saisi la chambre ou de l'auteur de la plainte, par lettre recommandée
+avec demande d'avis de réception. Un délai de quinze jours à compter de cette notification est imparti, tant au plaignant
+qu'au conseil en propriété industrielle, pour la présentation d'éventuelles observations écrites.
+
+Le conseil poursuivi peut prendre connaissance auprès du secrétaire de la chambre du dossier de la poursuite, et notamment du
+rapport mentionné à l'article R. 422-60. Il peut à cet effet se faire assister d'un conseil en propriété industrielle et d'un
+avocat.
+
+Le dossier est également tenu à la disposition des membres de la chambre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Anciens textes**:
+
+	  - Décret n°92-360 du 1 avril 1992 - art. 27 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-7 (M)
-	  - Code de la propriété intellectuelle - art. R422-6 (V)
+	  - Code de la propriété intellectuelle - art. R422-60 (M)
 	  - Code de la propriété intellectuelle - art. R422-61 (M)
 
 
 ###### Article R422-63
+
+Sauf si l'un de ses membres et son suppléant relèvent d'une des causes de récusation prévues à l'article L. 731-1 du code de
+l'organisation judiciaire, la chambre de discipline ne peut siéger et délibérer valablement que si tous les membres ou leurs
+suppléants sont présents.
+
+La chambre entend le rapporteur qui donne lecture de son rapport.
+
+La chambre peut entendre tous témoins et faire procéder à toute investigation qu'elle estime utile.
+
+Sauf lorsque la chambre se prononce en application de l'article R. 422-61, l'auteur de la plainte peut assister à l'audience
+et y être entendu. Sous la même réserve, le conseil poursuivi a la parole le dernier, et peut se faire assister d'un conseil
+en propriété industrielle et d'un avocat.
+
+Les séances de la chambre sont publiques. Toutefois, le président peut, d'office ou à la demande d'une des parties, interdire
+au public l'accès de la salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou lorsque le respect de
+la vie privée ou du secret des affaires le justifie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-360 du 1 avril 1992 - art. 28 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R422-61 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-64
+
+Le délibéré a lieu hors la présence des parties. Le rapporteur ne participe pas au délibéré, non plus que le secrétaire de la
+chambre.
+
+La décision disciplinaire, qui doit être motivée, est prise à la majorité. La radiation temporaire de plus d'un an ou la
+radiation définitive ne peut être prononcée que par une décision prise à la majorité d'au moins cinq membres.
+
+La décision est notifiée, par le secrétaire, à l'intéressé, au plaignant, au directeur général de l'institut, au garde des
+sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande d'avis
+de réception dans un délai de quinze jours à compter de son prononcé.
+
+La décision est exécutoire à compter de sa notification au conseil qui en a fait l'objet.
+
+La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R422-61 (V)
+	  - Code de la propriété intellectuelle - art. R422-65 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-65
+
+Est radiée de la section spéciale prévue à l'article L. 422-7, par décision du directeur général de l'institut, toute société
+dont un membre a fait l'objet d'une radiation pour motif disciplinaire si l'intéressé n'a pas, dans les trois mois, cessé d'y
+exercer son activité. 
+
+Outre les notifications prévues à l'article R. 422-64, la décision de radiation est notifiée au greffier mentionné à
+l'article R. 422-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-7 (V)
+	  - Code de la propriété intellectuelle - art. R422-6 (V)
+	  - Code de la propriété intellectuelle - art. R422-64 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-66
 
 La radiation temporaire ou définitive de la liste est publiée au Bulletin officiel de la propriété industrielle à la
 diligence du directeur général de l'institut.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Décret n°92-360 1992-04-01 art. 28
-	  - Décret n°92-360 du 1 avril 1992 - art. 28 (Ab)
+	  - Code de la propriété intellectuelle - art. R422-4 (V)
 
 	**Codifié par**:
 
@@ -20838,7 +20913,76 @@ diligence du directeur général de l'institut.
 
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 3 () JORF 24 septembre 1997
+
+
+#### Chapitre III : Dispositions diverses
+
+###### Article R423-1
+
+Les conditions d'inscription sur la liste prévue à l'article L. 422-5 sont appréciées à la date d'entrée en vigueur de celui-
+ci. Ces conditions sont, en ce qui concerne les personnes morales, appréciées en la personne des auteurs de la demande. Le
+maintien de l'inscription est subordonné au respect des conditions au vu desquelles le directeur général de l'institut a
+statué.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-5 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Créé par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 4 () JORF 24 septembre 1997
+
+
+###### Article R423-2
+
+L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux offres de services, effectuées par voie postale,
+à destination de professionnels ou d'entreprises. Toutefois ces offres doivent se limiter à la communication d'informations
+générales sur le cabinet, son organisation, son personnel, ses prestations ainsi que sur le droit de la propriété
+industrielle. 
+
+Ces informations peuvent être complétées par des indications relatives au prix des prestations. Les suites de ces
+prestations, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les
+honoraires et les frais et redevances. 
+
+La publicité par voie de mise à disposition de brochures ou notices, ainsi que d'insertion d'annonces dans la presse
+professionnelle ou dans les annuaires, est autorisée aux mêmes conditions. 
+
+Ne constituent des publicités ni la publication d'ouvrages ou d'articles de nature juridique ou technique ni la diffusion
+d'informations auprès de la clientèle. 
+
+Un arrêté du ministre chargé de la propriété industrielle, pris après avis de la Compagnie nationale des conseils en
+propriété industrielle, peut prescrire une présentation et une formulation normalisées des informations prévues au présent
+article. L'avis de la compagnie est réputé acquis à défaut de réponse dans un délai d'un mois à compter de la saisine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-863 du 17 septembre 1997 - art. 4 () JORF 24 septembre 1997
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L423-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R422-53 (V)
+	  - Code de la propriété intellectuelle - art. R811-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ## Livre V : Les dessins et modèles
@@ -22945,8 +23089,7 @@ cas, la date de la remise des pièces est celle de la réception à l'Institut n
 Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un
 établissement en France. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour
 le dépôt et pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du
-simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle assortie de la mention Brevets
-d'invention.
+simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
 
 Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège en France doivent constituer un mandataire
 satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la
@@ -22962,12 +23105,11 @@ R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légal
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 2 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 5 () JORF 24 septembre 1997
 
 	**Cite**:
 
@@ -31784,8 +31926,12 @@ renouvellement prévues à l'article R. 712-24.
 
 ###### Article R712-2
 
-Le dépôt peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un
+Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son
 établissement en France.
+
+Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire constitué pour le dépôt d'une demande
+d'enregistrement de marque et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement
+des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle.
 
 Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans le délai qui leur est imparti par l'institut,
 constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
@@ -31800,12 +31946,11 @@ de toutes les notifications prévues au présent titre. Le pouvoir est dispensé
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 2
 	  - Décret n°92-100 du 30 janvier 1992 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 6 () JORF 24 septembre 1997
 
 	**Cité par**:
 
@@ -31818,6 +31963,8 @@ de toutes les notifications prévues au présent titre. Le pouvoir est dispensé
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L422-4 (M)
+	  - Code de la propriété intellectuelle - art. L422-5 (V)
 	  - Code de la propriété intellectuelle - art. R712-21 (M)
 	  - Code de la propriété intellectuelle - art. R714-1 (M)
 
@@ -32192,30 +32339,22 @@ Est déclarée irrecevable toute demande :
 
 L'opposition à enregistrement formée par le propriétaire d'une marque antérieure ou le bénéficiaire d'un droit exclusif
 d'exploitation dans les conditions prévues à l'article L. 712-4 peut être présentée par l'intéressé agissant personnellement
-ou par l'intermédiaire d'un mandataire ayant, sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, la
-qualité de conseil en propriété industrielle assortie de la mention "marques ou dessins et modèles" ou de la mention
-"juriste".
+ou par l'intermédiaire d'une personne remplissant les conditions prévues à l'article R. 712-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 12
 	  - Décret n°92-100 du 30 janvier 1992 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°97-863 du 17 septembre 1997 - art. 7 () JORF 24 septembre 1997
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-4 (M)
-	  - Code de la propriété intellectuelle - art. L422-5 (V)
 	  - Code de la propriété intellectuelle - art. L712-4 (V)
+	  - Code de la propriété intellectuelle - art. R712-2 (V)
 
 	**Cité par**:
 
@@ -32224,6 +32363,10 @@ qualité de conseil en propriété industrielle assortie de la mention "marques 
 	  - Code de la propriété intellectuelle - art. R712-16 (M)
 	  - Code de la propriété intellectuelle - art. R717-1 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R712-14
