@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-02-08
 
 # Partie législative
 
@@ -4494,30 +4494,24 @@ Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de 
 entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute
 contrefaçon est un délit.
 
-La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie d'un emprisonnement de trois mois à deux ans
-et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines seulement.
+La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 1 000 000
+F d'amende [*sanctions pénales*].
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°57-298 1957-03-11 art. 70, art. 71, art. 72, art. 73, art. 74
-	  - Loi n°85-660 1985-07-03 art. 56
-	  - CODE PENAL - art. 426-1 (Ab)
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 19 *cette 1ère rédaction de l'article L335-2 du code de la propriété intellectuelle demeure en vigueur pour les TOM et Mayotte jusqu'au 1er mars 1995*
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 1 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -4538,6 +4532,10 @@ Seront punis des mêmes peines le débit, l'exportation et l'importation des ouv
 	  - Code des douanes - art. 67 bis (V)
 	  - Code des douanes - art. 67 bis-1 (V)
 	  - Code monétaire et financier - art. L123-1 (V)
+
+	**Anciens textes**:
+
+	  - CODE PENAL - art. 426-1 (Ab)
 
 
 ###### Article L335-3
@@ -4567,11 +4565,10 @@ oeuvre de l'esprit en violation des droits de l'auteur, tels qu'ils sont défini
 
 ###### Article L335-4
 
-Est punie d'un emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines
-seulement toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute
-télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation,
-lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de
-communication audiovisuelle.
+Est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*] toute fixation, reproduction,
+communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un
+phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-
+interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
 
 Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation
 du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
@@ -4582,21 +4579,17 @@ ainsi que de la télédiffusion des phonogrammes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°57-298 1957-03-11 art. 71
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 19 *cette 1ère rédaction de l'article L335-2 du code de la propriété intellectuelle demeure en vigueur pour les TOM et Mayotte jusqu'au 1er mars 1995*
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 2 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -4610,41 +4603,34 @@ ainsi que de la télédiffusion des phonogrammes.
 
 ###### Article L335-5
 
-En cas de récidive des infractions définies aux trois précédents articles, les peines encourues sont portées au double.
+Dans le cas de condamnation fondée sur l'une des infractions définies aux trois précédents articles, le tribunal peut
+ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement
+ayant servi à commettre l'infraction.
 
-En outre, le tribunal peut ordonner, soit à titre définitif, soit à titre temporaire, pour une durée n'excédant pas cinq ans,
-la fermeture de l'établissement exploité par le condamné.
-
-Lorsque cette mesure de fermeture a été prononcée, le personnel doit recevoir une indemnité égale à son salaire, augmentée de
-tous les avantages en nature, pendant la durée de la fermeture et au plus pendant six mois.
-
-Si les conventions collectives ou particulières prévoient, après licenciement, une indemnité supérieure, c'est celle-ci qui
-sera due.    Toute infraction aux dispositions des deux alinéas qui précèdent sera punie d'un emprisonnement d'un à six mois
-et d'une amende de 150 F à 15 000 F.
-
-En cas de récidive, les peines seront portées au double.
+La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
+l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
+dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
+et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
+mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 1957-03-11 art. 72
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 19 *cette 1ère rédaction de l'article L335-2 du code de la propriété intellectuelle demeure en vigueur pour les TOM et Mayotte jusqu'au 1er mars 1995*
+	  - Loi n°94-102 du 5 février 1994 - art. 3 () JORF 8 février 1994
 
 	**Cité par**:
 
 	  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-5 (Ab)
 
 
 ###### Article L335-6
@@ -4710,6 +4696,127 @@ réglé par les voies ordinaires.
 	  - Code de la propriété intellectuelle - art. L335-7-2 (VD)
 	  - Code de la propriété intellectuelle - art. L336-3 (VD)
 	  - Code pénal - art. 434-41 (V)
+
+
+###### Article L335-8
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions définies aux articles L. 335-2 à L. 335-4 du présent code.
+
+Les peines [*sanctions*] encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 4 () JORF 8 février 1994
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L811-1 (M)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle L335-2 à L335-4
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article L335-9
+
+En cas de récidive des infractions définies aux articles L. 335-2 à L. 335-4 ou si le délinquant est ou a été lié par
+convention avec la partie lésée, les peines encourues sont portées au double [*sanctions*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 5 () JORF 8 février 1994
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle L335-2 à L335-4
+
+
+###### Article L335-10
+
+L'administration des douanes peut, sur demande écrite du titulaire d'un droit d'auteur ou d'un droit voisin, assortie de
+justifications de son droit dans les conditions prévues par décret en Conseil d'Etat, retenir dans le cadre de ses contrôles
+les marchandises que celui-ci prétend constituer une contrefaçon de ce droit.
+
+Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans
+délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+
+La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de
+la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+
+- soit des mesures conservatoires prévues par l'article L. 332-1 ;
+
+- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour
+couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+
+Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration
+des douanes communication des noms et adresses de l'expéditeur, de l'importateur et du destinataire des marchandises
+retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des
+douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 5 () JORF 8 février 1994
+
+	**Cité par**:
+
+	  - Décret n°94-836 du 27 septembre 1994 - art. 1 (Ab)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Arrêté du 23 septembre 2008 (Ab)
+	  - Décret n°2015-427 du 15 avril 2015 (V)
+	  - Arrêté du 29 juin 2015 (V)
+	  - Code de la propriété intellectuelle - art. L335-11 (V)
+	  - Code de la propriété intellectuelle - art. L335-13 (V)
+	  - Code de la propriété intellectuelle - art. L335-14 (V)
+	  - Code de la propriété intellectuelle - art. L335-15 (V)
+	  - Code de la propriété intellectuelle - art. L335-17 (V)
+	  - Code de la propriété intellectuelle - art. L335-18 (V)
+	  - Code de la propriété intellectuelle - art. R335-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L332-1 (M)
+	  - Code des douanes - art. 59 bis (V)
 
 
 ## Deuxième partie : La propriété industrielle
@@ -5700,7 +5807,9 @@ déposés à l'Institut national de la propriété industrielle.
 Le dépôt est présenté dans les formes et conditions prévues par le présent livre.
 
 Il comporte, à peine d'irrecevabilité, l'identification du déposant et une reproduction du ou des dessins ou modèles
-concernés.    Le dépôt est rejeté s'il apparaît à l'examen :
+concernés.
+
+Le dépôt est rejeté s'il apparaît à l'examen :
 
 1. Qu'il n'est pas présenté dans les conditions et formes prescrites.
 
@@ -5709,7 +5818,21 @@ concernés.    Le dépôt est rejeté s'il apparaît à l'examen :
 Toutefois, le rejet ne peut être prononcé sans que le déposant ait été préalablement invité, selon le cas, soit à régulariser
 le dépôt, soit à présenter ses observations.
 
+Pour les dessins et modèles relevant d'industries qui renouvellent fréquemment la forme et le décor de leurs produits, le
+dépôt peut être effectué sous une forme simplifiée dans les conditions fixées par décret en Conseil d'Etat.
+
+La déchéance des droits issus d'un tel dépôt est prononcée lorsqu'il n'a pas été, au plus tard six mois avant la date prévue
+pour sa publication, rendu conforme aux prescriptions générales fixées par le décret prévu à l'alinéa précédent.
+
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
 
 	**Cité par**:
 
@@ -5719,18 +5842,13 @@ le dépôt, soit à présenter ses observations.
 	  - Code de la propriété intellectuelle - art. R512-4 (V)
 	  - Code de la propriété intellectuelle - art. R514-5 (VD)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°1909-07-14 art. 6
-	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 6 (Ab)
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°94-102 du 5 février 1994 - art. 21 () JORF 8 février 1994
 
 
 ###### Article L512-3
@@ -5931,37 +6049,66 @@ fabrication des objets incriminés.
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+###### Article L521-3-1
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues au premier alinéa de
+l'article L. 521-4, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et
+des matériels spécialement installés en vue de tels agissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 6 () JORF 8 février 1994
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. D521-6 (VD)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-4 (M)
+
+
 ###### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie d'une amende de 90 F à 20 000 F.
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 1 000
+000 F d'amende [*sanctions pénales*].
 
-Dans le cas de récidive, ou si le délinquant est une personne ayant travaillé pour la partie lésée, il est prononcé, en
-outre, un emprisonnement d'un mois à six mois.
+En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de
+cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-Il y a récidive lorsqu'il a été prononcé contre le prévenu, dans les cinq années antérieures, une première condamnation pour
-un des délits prévus par le présent livre.
-
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq années du droit d'élection et
-d'éligibilité pour les tribunaux et chambres de commerce, ainsi que pour les conseils de prud'hommes.
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
+l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
+dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
+et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
+mois d'emprisonnement et de 25 000 F d'amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1909-07-14 art. 10
 	  - Loi n°1909-07-14 du 14 juillet 1909 - art. 10 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 19 *cette 1ère rédaction de l'article L335-2 du code de la propriété intellectuelle demeure en vigueur pour les TOM et Mayotte jusqu'au 1er mars 1995*
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 7 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -5974,6 +6121,94 @@ d'éligibilité pour les tribunaux et chambres de commerce, ainsi que pour les c
 	  - Code de la propriété intellectuelle - art. L521-5 (M)
 	  - Code de la propriété intellectuelle - art. R521-2 (V)
 	  - Code de la propriété intellectuelle - art. R521-4 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-5 (Ab)
+
+
+###### Article L521-6
+
+En cas de récidive des infractions aux droits garantis par le présent livre, ou si le délinquant est ou a été lié par
+convention avec la partie lésée, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
+d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que
+pour les conseils de prud'hommes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 8 () JORF 8 février 1994
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la propriété intellectuelle - art. R521-1 (V)
+
+	**Transféré par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L521-13 (V)
+
+
+###### Article L521-7
+
+L'administration des douanes peut, sur demande écrite du propriétaire d'un dessin ou modèle déposé, retenir dans le cadre de
+ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon desdits dessins ou modèles.
+
+Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans
+délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+
+La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de
+la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+
+- soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
+
+- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour
+couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+
+Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration
+des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues
+ou de leur détenteur ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif
+au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Cité par**:
+
+	  - Décret n°92-792 du 13 août 1992 - art. 26-1 (Ab)
+	  - Code de la propriété intellectuelle - art. R521-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 8 () JORF 8 février 1994
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis (V)
 
 
 ### Livre VI : Protection des inventions et des connaissances techniques
@@ -6212,38 +6447,38 @@ droit au titre de propriété industrielle.
 ###### Article L611-7
 
 Si l'inventeur est un salarié, le droit au titre de propriété industrielle, à défaut de stipulation contractuelle plus
-favorable au salarié, est défini selon les dispositions ci-après :
+favorable au salarié, est défini selon les dispositions ci-après : 
 
 1. Les inventions faites par le salarié dans l'exécution soit d'un contrat de travail comportant une mission inventive qui
 correspond à ses fonctions effectives, soit d'études et de recherches qui lui sont explicitement confiées, appartiennent à
 l'employeur. Les conditions dans lesquelles le salarié, auteur d'une telle invention, bénéficie d'une rémunération
 supplémentaire sont déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de
-travail.
+travail. 
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire
-est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance.
+est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance. 
 
-2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une invention est faite par un salarié, soit dans
-le domaine des activités de l'entreprise, soit par la connaissance ou l'utilisation des techniques ou de moyens spécifiques à
-l'entreprise, ou de données procurées par elle, l'employeur a le droit, dans des conditions et délais fixés par décret en
-Conseil d'Etat, de se faire attribuer la propriété ou la jouissance de tout ou partie des droits attachés au brevet
-protégeant l'invention de son salarié.
+2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une invention est faite par un salarié soit dans
+le cours de l'exécution de ses fonctions, soit dans le domaine des activités de l'entreprise, soit par la connaissance ou
+l'utilisation des techniques ou de moyens spécifiques à l'entreprise, ou de données procurées par elle, l'employeur a le
+droit, dans des conditions et délais fixés par décret en Conseil d'Etat, de se faire attribuer la propriété ou la jouissance
+de tout ou partie des droits attachés au brevet protégeant l'invention de son salarié. 
 
 Le salarié doit en obtenir un juste prix qui, à défaut d'accord entre les parties, est fixé par la commission de conciliation
 instituée par l'article L. 615-21 ou par le tribunal de grande instance : ceux-ci prendront en considération tous éléments
 qui pourront leur être fournis notamment par l'employeur et par le salarié, pour calculer le juste prix tant en fonction des
-apports initiaux de l'un et de l'autre que de l'utilité industrielle et commerciale de l'invention.
+apports initiaux de l'un et de l'autre que de l'utilité industrielle et commerciale de l'invention. 
 
 3. Le salarié auteur d'une invention en informe son employeur qui en accuse réception selon des modalités et des délais fixés
-par voie réglementaire.
+par voie réglementaire. 
 
 Le salarié et l'employeur doivent se communiquer tous renseignements utiles sur l'invention en cause. Ils doivent s'abstenir
-de toute divulgation de nature à compromettre en tout ou en partie l'exercice des droits conférés par le présent livre.
+de toute divulgation de nature à compromettre en tout ou en partie l'exercice des droits conférés par le présent livre. 
 
 Tout accord entre le salarié et son employeur ayant pour objet une invention de salarié doit, à peine de nullité, être
-constaté par écrit.
+constaté par écrit. 
 
-4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. 
 
 5. Les dispositions du présent article sont également applicables aux agents de l'Etat, des collectivités publiques et de
 toutes autres personnes morales de droit public, selon des modalités qui sont fixées par décret en Conseil d'Etat.
@@ -6252,22 +6487,26 @@ toutes autres personnes morales de droit public, selon des modalités qui sont f
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 1968-01-02 art. 1 ter
 	  - Loi n°68-1 du 2 janvier 1968 - art. 1 ter (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 22 () JORF 8 février 1994
 
 	**Cité par**:
 
 	  - Décret n°2014-1518 du 16 décembre 2014 - art. 1 (V)
 	  - Décret n°2016-311 du 17 mars 2016 - art. 14 (V)
 	  - Code de la propriété intellectuelle - art. L615-17 (V)
+	  - Code de la propriété intellectuelle - art. L615-21 (V)
 	  - Code de la propriété intellectuelle - art. L623-24 (V)
 	  - Code de la propriété intellectuelle - art. R611-11 (V)
 	  - Code de la propriété intellectuelle - art. R611-14-1 (V)
@@ -6283,7 +6522,7 @@ toutes autres personnes morales de droit public, selon des modalités qui sont f
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L615-21 (V)
+	  - Code de la propriété intellectuelle - art. L612-21 (V)
 
 
 ###### Article L611-8
@@ -6610,7 +6849,8 @@ disposition ne s'appliquant pas aux procédés microbiologiques et aux produits 
 
 ###### Article L612-1
 
-La demande de brevet est présentée dans les formes et conditions prévues par le présent chapitre.
+La demande de brevet est présentée dans les formes et conditions prévues par le présent chapitre et précisées par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -6622,9 +6862,13 @@ La demande de brevet est présentée dans les formes et conditions prévues par 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 23 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -7006,8 +7250,10 @@ ou comme une invention susceptible d'application industrielle au sens de l'artic
 7° Qui n'a pas été modifiée, après mise en demeure, alors que l'absence de nouveauté résultait manifestement du rapport de
 recherche ;
 
-8° Dont les revendications ne se fondent pas sur la description ;    9° Lorsque le demandeur n'a pas satisfait à l'obligation
-prévue au 1° de l'article L. 612-14.
+8° Dont les revendications ne se fondent pas sur la description ;
+
+9° Lorsque le demandeur n'a pas, s'il y a lieu, présenté d'observations ni déposé de nouvelles revendications au cours de la
+procédure d'établissement du rapport de recherche prévu à l'article L. 612-14.
 
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont
 rejetées.
@@ -7019,16 +7265,19 @@ est procédé d'office à la suppression des parties correspondantes de la descr
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 du 2 janvier 1968 - art. 16 (M)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 16 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 24 () JORF 8 février 1994
 
 	**Cite**:
 
@@ -7050,11 +7299,11 @@ est procédé d'office à la suppression des parties correspondantes de la descr
 
 ###### Article L612-13
 
-Du jour du dépôt de la demande et jusqu'au jour où la recherche documentaire préalable au rapport prévu au 1° de l'article L.
-612-14 a été commencée, le demandeur peut déposer de nouvelles revendications.
+Du jour du dépôt de la demande et jusqu'au jour où la recherche documentaire préalable au rapport prévu à l'article L. 612-14
+a été commencée, le demandeur peut déposer de nouvelles revendications. 
 
 La faculté de déposer de nouvelles revendications est ouverte au demandeur d'un certificat d'utilité jusqu'au jour de la
-délivrance de ce titre.
+délivrance de ce titre. 
 
 Du jour de la publication de la demande de brevet en application du 1° de l'article L. 612-21 et dans un délai fixé par voie
 réglementaire, tout tiers peut adresser à l'Institut national de la propriété industrielle des observations écrites sur la
@@ -7077,12 +7326,18 @@ des observations en réponse et déposer de nouvelles revendications.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 25 () JORF 8 février 1994
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L611-11 (V)
+	  - Code de la propriété intellectuelle - art. L611-14 (V)
 	  - Code de la propriété intellectuelle - art. L612-14 (V)
 	  - Code de la propriété intellectuelle - art. L612-21 (V)
 
@@ -8375,30 +8630,37 @@ Le ministère public peut agir d'office en nullité d'un brevet d'invention.
 
 La décision d'annulation d'un brevet d'invention a un effet absolu sous réserve de la tierce opposition. A l'égard des
 brevets demandés avant le 1er janvier 1969, l'annulation s'applique aux parties du brevet déterminées par le dispositif de la
-décision.
+décision. 
 
 Les décisions passées en force de chose jugée sont notifiées au directeur de l'Institut national de la propriété
-industrielle, aux fins d'inscription au Registre national des brevets.
+industrielle, aux fins d'inscription au Registre national des brevets. 
 
 Lorsque la décision annule partiellement une revendication, elle renvoie le propriétaire du brevet devant l'Institut national
 de la propriété industrielle afin de présenter une rédaction de la revendication modifiée selon le dispositif du jugement. Le
 directeur de l'institut a le pouvoir de rejeter la revendication modifiée pour défaut de conformité au jugement, sous réserve
-d'un recours devant la cour d'appel de Paris.
+d'un recours devant l'une des cours d'appel désignée conformément à l'article L. 411-4 du code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 1968-01-02 art. 50 bis
 	  - Loi n°68-1 du 2 janvier 1968 - art. 50 bis (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 26 () JORF 8 février 1994
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L411-4 (V)
 
 	**Cité par**:
 
@@ -8988,14 +9250,14 @@ L'extinction ou l'annulation ultérieure du brevet européen n'affecte pas les d
 ###### Article L614-14
 
 Une demande de brevet français ou un brevet français et une demande de brevet européen ou un brevet européen ayant la même
-date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause, ne peuvent, pour les
-parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou d'une concession de
-droits d'exploitation, à peine de nullité.
+date de dépôt ou la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause,
+ne peuvent, pour les parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou
+d'une concession de droits d'exploitation, à peine de nullité. 
 
 Par dérogation à l'article L. 613-9, le transfert ou la modification des droits attachés à la demande de brevet français ou
 au brevet français n'est rendu opposable aux tiers par son inscription au Registre national des brevets que dans la mesure où
 le même transfert ou la même modification des droits attachés à la demande de brevet européen ou au brevet européen a été
-inscrit au registre des brevets.
+inscrit au registre européen des brevets. 
 
 La demande de brevet français ou le brevet français et le droit de priorité pour le dépôt d'une demande de brevet européen ne
 peuvent être transférés indépendamment l'un de l'autre.
@@ -9010,9 +9272,14 @@ peuvent être transférés indépendamment l'un de l'autre.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 27 () JORF 8 février 1994
+	  - Loi n°94-102 du 5 février 1994 - art. 28 () JORF 8 février 1994
 
 	**Cite**:
 
@@ -9028,9 +9295,10 @@ laquelle la demande de brevet européen est rejetée, retirée ou réputée reti
 
 Si l'action en contrefaçon a été engagée sur la base du seul brevet français, le demandeur peut, à la reprise de l'instance,
 poursuivre celle-ci en substituant le brevet européen au brevet français pour les faits postérieurs à la date à laquelle le
-brevet français cesse de produire ses effets et pour les parties communes.    Si une action en contrefaçon est intentée sur
-la base d'un brevet français et d'un brevet européen, ni les sanctions pénales ni les réparations civiles ne peuvent se
-cumuler.
+brevet français cesse de produire ses effets et pour les parties communes.
+
+Si une action en contrefaçon est intentée sur la base à la fois d'un brevet français et d'un brevet européen, ni les
+sanctions pénales ni les réparations civiles ne peuvent se cumuler.
 
 Si l'action a été intentée sur la base de l'un seulement des deux brevets, une nouvelle action sur la base de l'autre brevet,
 pour les mêmes faits, ne peut être engagée par le même demandeur, à l'égard du même défendeur.
@@ -9045,9 +9313,13 @@ pour les mêmes faits, ne peut être engagée par le même demandeur, à l'égar
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 29 () JORF 8 février 1994
 
 	**Cite**:
 
@@ -9205,8 +9477,8 @@ lorsqu'une priorité a été revendiquée, au terme d'un délai de treize mois �
 
 Avant le terme de l'un ou de l'autre des délais mentionnés au dernier alinéa de l'article L. 614-20, les interdictions
 prévues audit article peuvent être prorogées, sur réquisition du ministre de la défense, pour une durée d'un an renouvelable.
-Dans ce cas, la demande n'est pas transmise au bureau international institué par le traité de coopération en matière de
-brevets. Les interdictions prorogées peuvent être levées à tout moment.
+Dans ce cas, la demande n'est pas transmise au bureau international institué par le traité de Washington. Les interdictions
+prorogées peuvent être levées à tout moment. 
 
 Dans le cas de prorogations des interdictions, les dispositions des deuxième, troisième et quatrième alinéas de l'article L.
 612-10 sont applicables.
@@ -9221,17 +9493,22 @@ Dans le cas de prorogations des interdictions, les dispositions des deuxième, t
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+	  - SPEC_APPLI: Code de la propriété intellectuelle L615-15 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 30 () JORF 8 février 1994
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L612-10 (V)
+	  - Code de la propriété intellectuelle - art. L614-20 (V)
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. L614-20 (V)
 	  - Code de la propriété intellectuelle - art. L615-15 (V)
 
 
@@ -9882,38 +10159,6 @@ au présent article aussi longtemps que ces demandes sont soumises aux interdict
 	  - Code de la propriété intellectuelle - art. R613-41 (V)
 
 
-###### Article L615-11
-
-La saisie d'un brevet est effectuée par acte extra-judiciaire signifié au propriétaire du brevet, à l'Institut national de la
-propriété industrielle ainsi qu'aux personnes possédant des droits sur le brevet ; elle rend inopposable au créancier
-saisissant toute modification ultérieure des droits attachés au brevet.
-
-A peine de nullité de la saisie, le créancier saisissant doit, dans le délai prescrit, se pourvoir devant le tribunal, en
-validité de la saisie et aux fins de mise en vente du brevet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-1 du 2 janvier 1968 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 31 (V) JORF 8 février 1994
-
-	**Cité par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 31 (V)
-
-
 ##### Section 2 : Actions pénales
 
 ###### Article L615-12
@@ -9999,6 +10244,34 @@ du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-
 	**Cite**:
 
 	  - Code de la propriété intellectuelle L613-3 à L613-6
+
+
+###### Article L615-14-1
+
+En cas de récidive des infractions définies à l'article L. 615-14, ou si le délinquant est ou a été lié par convention avec
+la partie lésée, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
+d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que
+pour les conseils de prud'hommes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 10 () JORF 8 février 1994
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-14 (M)
 
 
 ###### Article L615-15
@@ -12530,7 +12803,9 @@ pour les produits et services visés dans l'enregistrement, pendant une période
 Est assimilé à un tel usage :
 
 a) L'usage fait avec le consentement du propriétaire de la marque ou, pour les marques collectives, dans les conditions du
-règlement ;    b) L'usage de la marque sous une forme modifiée n'en altérant pas le caractère distinctif ;
+règlement ;
+
+b) L'usage de la marque sous une forme modifiée n'en altérant pas le caractère distinctif ;
 
 c) L'apposition de la marque sur des produits ou leur conditionnement exclusivement en vue de l'exportation.
 
@@ -12538,8 +12813,8 @@ La déchéance peut être demandée en justice par toute personne intéressée. 
 produits ou des services visés dans l'enregistrement, la déchéance ne s'étend qu'aux produits ou aux services concernés.
 
 L'usage sérieux de la marque commencé ou repris postérieurement à la période de cinq ans visée au premier alinéa du présent
-article n'y fait pas obstacle s'il a été seulement entrepris trois mois après que le propriétaire a eu connaissance de
-l'éventualité de la demande de déchéance.
+article n'y fait pas obstacle s'il a été entrepris dans les trois mois précédant la demande de déchéance et après que le
+propriétaire a eu connaissance de l'éventualité de cette demande.
 
 La preuve de l'exploitation incombe au propriétaire de la marque dont la déchéance est demandée. Elle peut être apportée par
 tous moyens.
@@ -12551,16 +12826,19 @@ effet absolu.
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 27
 	  - Loi n°91-7 du 4 janvier 1991 - art. 27 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 32 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -12933,15 +13211,15 @@ quinzaine, la saisie est nulle de plein droit, sans préjudice des dommages-int�
 ###### Article L716-8
 
 L'administration des douanes peut, sur demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit
-exclusif d'exploitation, retenir dans le cadre de ses contrôles les marchandises qu'il prétend revêtues d'une marque
+exclusif d'exploitation, retenir dans le cadre de ses contrôles les marchandises qu'il prétend présentées sous une marque
 constituant la contrefaçon de celle dont il a obtenu l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage
 exclusif.
 
-Le procureur de la République, le demandeur ainsi que le déclarant des marchandises sont informés sans délai, par les
-services douaniers, de la retenue à laquelle ces derniers ont procédé.
+Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai,
+par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
 
 La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de
-la date de retenue des marchandises, de justifier auprès des services douaniers :
+la notification de la retenue des marchandises, de justifier auprès des services douaniers :
 
 - soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
 
@@ -12949,15 +13227,14 @@ la date de retenue des marchandises, de justifier auprès des services douaniers
 couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration
-des douanes communication des noms et adresse de l'expéditeur, de l'importateur et du destinataire des marchandises retenues
-ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret
-professionnel auquel sont tenus les agents de l'administration des douanes.
+des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues
+ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes relatif
+au secret professionnel auquel sont tenus les agents de l'administration des douanes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 22
 	  - Loi n°91-7 du 4 janvier 1991 - art. 22 (Ab)
 
 	**Cité par**:
@@ -12984,21 +13261,58 @@ professionnel auquel sont tenus les agents de l'administration des douanes.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 11 () JORF 8 février 1994
 
 	**Cite**:
 
 	  - Code des douanes - art. 59 bis (V)
 
 
+###### Article L716-8-1
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L.
+716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels
+spécialement installés en vue de tels agissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 12 () JORF 8 février 1994
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L716-8-4 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-10 (M)
+	  - Code de la propriété intellectuelle - art. L716-9 (M)
+
+
 ###### Article L716-9
 
-Sera puni d'emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines
-seulement quiconque aura reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une
-marque collective de certification, en violation des droits conférés par son enregistrement et des interdictions qui
-découlent de celui-ci.
+Sera puni de deux ans d'emprisonnement et de 1 000 000 F d'amende quiconque aura [*sanctions pénales*] :
+
+a) Reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une marque collective de
+certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
+
+b) Importé, sous tous régimes douaniers, ou exporté des marchandises présentées sous une marque contrefaite.
 
 **Liens relatifs à cet article**
 
@@ -13029,20 +13343,20 @@ découlent de celui-ci.
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 38
 	  - Loi n°91-7 du 4 janvier 1991 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 19 *cette 1ère rédaction de l'article L335-2 du code de la propriété intellectuelle demeure en vigueur pour les TOM et Mayotte jusqu'au 1er mars 1995*
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
+	  - SPEC_APPLI: Code de la propriété intellectuelle L716-11-1 *sanctions pénales*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 13 () JORF 8 février 1994
 
 
 ###### Article L716-10
@@ -13117,15 +13431,49 @@ IV du code du travail.
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
-###### Article L716-12
+###### Article L716-11-1
 
-En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, les peines encourues sont portées au double.
+Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peut ordonner la fermeture totale ou partielle,
+définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
+
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
+l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
+dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
+et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
+mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°91-7 1991-01-04 art. 38
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 14 () JORF 8 février 1994
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-10 (M)
+	  - Code de la propriété intellectuelle - art. L716-9 (M)
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-5 (Ab)
+
+
+###### Article L716-12
+
+En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, ou si le délinquant est ou a été lié par
+convention avec la partie lésée, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et
+d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers ainsi que
+pour les conseils de prud'hommes.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -13140,9 +13488,13 @@ En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 15 () JORF 8 février 1994
 
 	**Cite**:
 
@@ -13302,44 +13654,42 @@ et des facteurs humains."
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte, à
-l'exception des articles L. 421-1, L. 421-2, L. 422-1 à L. 422-10 et L. 423-2.
+Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte, à l'exception des articles L.
+335-8 et L. 621-1. Elles sont applicables aux territoires d'outre-mer à l'exception des articles L. 335-8, L. 421-1 à L.
+422-10, L. 423-2 et L. 621-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°51-1119 1951-09-21 art. 5
 	  - Loi n°57-298 du 11 mars 1957 - art. 81 (Ab)
-	  - Loi n°66-482 1966-07-06 art. 7
 	  - Loi n°68-1 du 2 janvier 1968 - art. 74 (Ab)
 	  - Loi n°70-489 du 11 juin 1970 - art. 38 (Ab)
-	  - Loi n°77-684 1977-06-30 art. 6
 	  - Loi n°77-682 du 30 juin 1977 - art. 10 (Ab)
 	  - Loi n°77-683 du 30 juin 1977 - art. 17 (Ab)
-	  - Loi n°78-742 du 13 juillet 1978 - art. 49, v. init.
 	  - Loi n°85-660 du 3 juillet 1985 - art. 63 (Ab)
-	  - Loi n°86-1067 1986-09-30 art. 108
 	  - Loi n°87-890 du 4 novembre 1987 - art. 8 (Ab)
-	  - Loi n°90-1052 1990-11-26 art. 54
 	  - Loi n°90-1052 du 26 novembre 1990 - art. 54 (Ab)
-	  - Loi n°91-7 1991-01-04 art. 43
 	  - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 20 () JORF 8 février 1994
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L421-1 (V)
-	  - Code de la propriété intellectuelle - art. L421-2 (V)
+	  - Code de la propriété intellectuelle - art. L335-8 (MMN)
 	  - Code de la propriété intellectuelle - art. L423-2 (V)
-	  - Code de la propriété intellectuelle L421-1, L421-2, L422-1 à L422-10, L423-2
+	  - Code de la propriété intellectuelle - art. L621-1 (M)
+	  - Code de la propriété intellectuelle L335-8, L621-1, L421-1 à L422-10, L423-2
 
 	**Nouveaux textes**:
 
