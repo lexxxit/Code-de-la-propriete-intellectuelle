@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-08-07
 
 # Partie législative
 
@@ -8705,18 +8705,9 @@ mise en oeuvre d'une de ces méthodes.
 
 ###### Article L611-17
 
-Ne sont pas brevetables :
-
-a) Les inventions dont la publication ou la mise en oeuvre serait contraire à l'ordre public ou aux bonnes moeurs, la mise en
-oeuvre d'une telle invention ne pouvant être considérée comme telle du seul fait qu'elle est interdite par une disposition
-législative ou réglementaire ; à ce titre, le corps humain, ses éléments et ses produits ainsi que la connaissance de la
-structure totale ou partielle d'un gène humain ne peuvent, en tant que tels, faire l'objet de brevets.
-
-b) Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du
-chapitre III du titre II du présent livre relatives aux obtentions végétales ;
-
-c) Les races animales ainsi que les procédés essentiellement biologiques d'obtention de végétaux ou d'animaux, cette
-disposition ne s'appliquant pas aux procédés microbiologiques et aux produits obtenus par ces procédés.
+Ne sont pas brevetables les inventions dont l'exploitation commerciale serait contraire à la dignité de la personne humaine,
+à l'ordre public ou aux bonnes moeurs, cette contrariété ne pouvant résulter du seul fait que cette exploitation est
+interdite par une disposition législative ou réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -8728,18 +8719,98 @@ disposition ne s'appliquant pas aux procédés microbiologiques et aux produits 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°94-653 du 29 juillet 1994 - art. 7 () JORF 30 juillet 1994
+	  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L612-12 (M)
 	  - Code de la propriété intellectuelle - art. R612-50 (V)
+
+
+###### Article L611-18
+
+Le corps humain, aux différents stades de sa constitution et de son développement, ainsi que la simple découverte d'un de ses
+éléments, y compris la séquence totale ou partielle d'un gène, ne peuvent constituer des inventions brevetables.
+
+Seule une invention constituant l'application technique d'une fonction d'un élément du corps humain peut être protégée par
+brevet. Cette protection ne couvre l'élément du corps humain que dans la mesure nécessaire à la réalisation et à
+l'exploitation de cette application particulière. Celle-ci doit être concrètement et précisément exposée dans la demande de
+brevet.
+
+Ne sont notamment pas brevetables :
+
+a) Les procédés de clonage des êtres humains ;
+
+b) Les procédés de modification de l'identité génétique de l'être humain ;
+
+c) Les utilisations d'embryons humains à des fins industrielles ou commerciales ;
+
+d) Les séquences totales ou partielles d'un gène prises en tant que telles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L612-12 (M)
+	  - Code de la propriété intellectuelle - art. L613-2-1 (V)
+	  - Code de la propriété intellectuelle - art. L613-2-2 (V)
+
+
+###### Article L611-19
+
+Les races animales ainsi que les procédés essentiellement biologiques d'obtention de végétaux ou d'animaux ne sont pas
+brevetables.
+
+Cette disposition ne s'applique pas aux procédés microbiologiques et aux produits obtenus par ces procédés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L611-19 (M)
+	  - Code de la propriété intellectuelle L611-19 (2è version)
+
+
+###### Article L611-20
+
+Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du
+chapitre III du titre II du présent livre relatives aux obtentions végétales ne sont pas brevetables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1338 du 8 décembre 2004 - art. 2 () JORF 9 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L612-12 (M)
 
 
 ##### Chapitre II : Dépôt et instruction des demandes
@@ -9139,7 +9210,7 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande initiale ;
 
-4° Qui a pour objet une invention manifestement non brevetable en application de l'article L. 611-17 ;
+4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-17 à L. 611-20 ;
 
 5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième paragraphe,
 ou comme une invention susceptible d'application industrielle au sens de l'article L. 611-16 ;
@@ -9157,8 +9228,8 @@ procédure d'établissement du rapport de recherche prévu à l'article L. 612-1
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont
 rejetées.
 
-En cas de non-conformité partielle de la demande aux dispositions du a de l'article L. 611-17 ou de l'article L. 612-1, il
-est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
+En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17 et L611-18 ou de l'article L. 612-1,
+il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
 
 **Liens relatifs à cet article**
 
@@ -9170,19 +9241,17 @@ est procédé d'office à la suppression des parties correspondantes de la descr
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 24 () JORF 8 février 1994
+	  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L611-10 (M)
 	  - Code de la propriété intellectuelle - art. L611-16 (V)
 	  - Code de la propriété intellectuelle - art. L611-17 (M)
+	  - Code de la propriété intellectuelle - art. L611-18 (V)
+	  - Code de la propriété intellectuelle - art. L611-20 (Ab)
 	  - Code de la propriété intellectuelle - art. L612-1 (M)
 	  - Code de la propriété intellectuelle - art. L612-14 (V)
 	  - Code de la propriété intellectuelle - art. L612-4 (V)
@@ -9674,6 +9743,34 @@ ce procédé.
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+###### Article L613-2-1
+
+La portée d'une revendication couvrant une séquence génique est limitée à la partie de cette séquence directement liée à la
+fonction spécifique concrètement exposée dans la description. 
+
+Les droits créés par la délivrance d'un brevet incluant une séquence génique ne peuvent être invoqués à l'encontre d'une
+revendication ultérieure portant sur la même séquence si cette revendication satisfait elle-même aux conditions de l'article
+L. 611-18 et qu'elle expose une autre application particulière de cette séquence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2004-800 du 6 août 2004 - art. 17 (V) JORF 7 août 2004
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L611-18 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L613-2-2 (V)
+
+
 ###### Article L613-3
 
 Sont interdites, à défaut de consentement du propriétaire du brevet :
@@ -10110,17 +10207,19 @@ propriétaire du brevet et, le cas échéant, les autres licenciés peuvent obte
 
 ###### Article L613-15
 
-Le propriétaire d'un brevet portant sur un perfectionnement à une invention déjà brevetée au profit d'un tiers ne peut
-exploiter son invention sans l'autorisation du titulaire du brevet antérieur ; ledit titulaire ne peut exploiter le
-perfectionnement breveté sans l'autorisation du titulaire du brevet de perfectionnement.
+Le titulaire d'un brevet portant atteinte à un brevet antérieur ne peut exploiter son brevet sans l'autorisation du titulaire
+du brevet antérieur ; ledit titulaire ne peut exploiter le brevet postérieur sans l'autorisation du titulaire du brevet
+postérieur.
 
-Le tribunal de grande instance peut, le ministère public entendu, accorder, dans l'intérêt public, sur sa demande, qui ne
-peut être antérieure à l'expiration du délai prévu à l'article L. 613-11, une licence au titulaire du brevet de
-perfectionnement dans la mesure nécessaire à l'exploitation de l'invention qui fait l'objet de ce brevet, et pour autant que
-l'invention, objet du brevet de perfectionnement, présente à l'égard du brevet antérieur un progrès technique et un intérêt
-économique importants. La licence accordée au titulaire du brevet de perfectionnement ne peut être transmise qu'avec ledit
-brevet. Le propriétaire du premier brevet obtient, sur requête présentée au tribunal, la concession d'une licence sur le
-brevet de perfectionnement.
+Lorsque le titulaire d'un brevet ne peut l'exploiter sans porter atteinte à un brevet antérieur dont un tiers est titulaire,
+le tribunal de grande instance peut lui accorder une licence d'exploitation du brevet antérieur dans la mesure nécessaire à
+l'exploitation du brevet dont il est titulaire et pour autant que cette invention constitue à l'égard du brevet antérieur un
+progrès technique important et présente un intérêt économique certain.
+
+La licence accordée au titulaire du brevet postérieur ne peut être transmise qu'avec ledit brevet.
+
+Le titulaire du brevet antérieur obtient, sur demande présentée au tribunal, la concession d'une licence réciproque sur le
+brevet postérieur.
 
 Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
@@ -10134,18 +10233,9 @@ Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°96-1106 du 18 décembre 1996 - art. 8 () JORF 19 décembre 1996
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L613-11 (M)
-	  - Code de la propriété intellectuelle L613-11, L613-12 à L613-14
+	  - Loi n°2004-800 du 6 août 2004 - art. 18 () JORF 7 août 2004
 
 	**Cité par**:
 
@@ -10153,29 +10243,45 @@ Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 	  - Code de la propriété intellectuelle - art. L615-5 (M)
 	  - Code de la propriété intellectuelle - art. R615-1 (M)
 
+	**Cite**:
+
+	  - Code de la propriété intellectuelle L613-12 à L613-14
+
 
 ###### Article L613-16
 
-Si l'intérêt de la santé publique l'exige, les brevets délivrés pour des médicaments, pour des procédés d'obtention de
-médicaments, pour des produits nécessaires à l'obtention de ces médicaments ou pour des procédés de fabrication de tels
-produits, peuvent, au cas où ces médicaments ne sont mis à la disposition du public qu'en quantité ou qualité insuffisantes
-ou à des prix anormalement élevés, être soumis, par arrêté du ministre chargé de la propriété industrielle, sur la demande du
-ministre chargé de la santé publique, au régime de la licence d'office dans les conditions prévues à l'article L. 613-17.
+Si l'intérêt de la santé publique l'exige et à défaut d'accord amiable avec le titulaire du brevet, le ministre chargé de la
+propriété industrielle peut, sur la demande du ministre chargé de la santé publique, soumettre par arrêté au régime de la
+licence d'office, dans les conditions prévues à l'article L. 613-17, tout brevet délivré pour :
+
+a) Un médicament, un dispositif médical, un dispositif médical de diagnostic in vitro, un produit thérapeutique annexe ;
+
+b) Leur procédé d'obtention, un produit nécessaire à leur obtention ou un procédé de fabrication d'un tel produit ;
+
+c) Une méthode de diagnostic ex vivo.
+
+Les brevets de ces produits, procédés ou méthodes de diagnostic ne peuvent être soumis au régime de la licence d'office dans
+l'intérêt de la santé publique que lorsque ces produits, ou des produits issus de ces procédés, ou ces méthodes sont mis à la
+disposition du public en quantité et qualité insuffisantes ou à des prix anormalement élevés, ou lorsque le brevet est
+exploité dans des conditions contraires à l'intérêt de la santé publique ou constitutives de pratiques déclarées
+anticoncurrentielles à la suite d'une décision administrative ou juridictionnelle devenue définitive.
+
+Lorsque la licence a pour but de remédier à une pratique déclarée anticoncurrentielle ou en cas d'urgence, le ministre chargé
+de la propriété industrielle n'est pas tenu de rechercher un accord amiable.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 1968-01-02 art. 37
 	  - Loi n°68-1 du 2 janvier 1968 - art. 37 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2004-800 du 6 août 2004 - art. 18 () JORF 7 août 2004
 
 	**Cité par**:
 
