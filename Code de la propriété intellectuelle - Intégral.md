@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2001-10-01
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -4816,7 +4816,7 @@ de cinq membres nommés par décret pour une durée de cinq ans :
 - un membre de l'inspection générale des finances, désigné par le ministre chargé des finances ;
 
 - un membre de l'inspection générale de l'administration des affaires culturelles, désigné par le ministre chargé de la
-culture ;
+culture. 
 
 La commission peut se faire assister de rapporteurs désignés parmi les membres du Conseil d'Etat et du corps des conseillers
 de tribunaux administratifs et cours administratives d'appel, les magistrats de la Cour de cassation et des cours et
@@ -4846,7 +4846,7 @@ Parlement, au Gouvernement et aux assemblées générales des sociétés de perc
 IV. - Le fait, pour tout dirigeant d'une société ou d'un organisme soumis au contrôle de la commission de contrôle des
 sociétés de perception et de répartition des droits, de ne pas répondre aux demandes d'information de la commission, de faire
 obstacle de quelque manière que ce soit à l'exercice de sa mission ou de lui communiquer sciemment des renseignements
-inexacts est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 V. - La commission siège dans les locaux de la Cour des comptes, qui assure son secrétariat.
 
@@ -4863,9 +4863,13 @@ applicables devant elle.
 
 	  - SPEC_APPLI: Loi n°2000-719 2000-08-01 art. 91 (champ d'application territoriale - Nouvelle - Calédonie, TOM, Mayotte)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-719 du 1 août 2000 - art. 12 () JORF 2 août 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 1
 
 	**Cité par**:
 
@@ -5279,8 +5283,8 @@ Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de 
 entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute
 contrefaçon est un délit.
 
-La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 1 000 000
-F d'amende [*sanctions pénales*].
+La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 150000
+euros d'amende [*sanctions pénales*].
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
 
@@ -5316,7 +5320,7 @@ Seront punis des mêmes peines le débit, l'exportation et l'importation des ouv
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
@@ -5352,7 +5356,7 @@ Est également un délit de contrefaçon la violation de l'un des droits de l'au
 
 ###### Article L335-4
 
-Est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*] toute fixation, reproduction,
+Est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*] toute fixation, reproduction,
 communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un
 phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-
 interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
@@ -5370,10 +5374,6 @@ ainsi que de la télédiffusion des phonogrammes.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
-
 	**Cité par**:
 
 	  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
@@ -5385,7 +5385,7 @@ ainsi que de la télédiffusion des phonogrammes.
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L335-5
@@ -5398,7 +5398,7 @@ La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat d
 l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
 dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
-mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
+mois d'emprisonnement et de 3750 euros d'amende [*sanctions pénales*].
 
 **Liens relatifs à cet article**
 
@@ -5412,7 +5412,7 @@ mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -5820,7 +5820,7 @@ expire quinze ans après le 1er janvier de l'année civile suivant celle de ce n
 
 ###### Article L343-1
 
-Est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende le fait de porter atteinte aux droits du producteur d'une
+Est puni de deux ans d'emprisonnement et de 150000 euros d'amende le fait de porter atteinte aux droits du producteur d'une
 base de données tels que définis à l'article L. 342-1 [*sanctions pénales*].
 
 **Liens relatifs à cet article**
@@ -5834,9 +5834,9 @@ base de données tels que définis à l'article L. 342-1 [*sanctions pénales*].
 	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
 	  - SPEC_APPLI: Code de la propriété intellectuelle L343-3 (récidive - sanctions pénales)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -7660,8 +7660,8 @@ des matériels spécialement installés en vue de tels agissements.
 
 ###### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 1 000
-000 F d'amende [*sanctions pénales*].
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 150000
+euros d'amende [*sanctions pénales*].
 
 En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de
 cinq ans, de l'établissement ayant servi à commettre l'infraction.
@@ -7670,7 +7670,7 @@ La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat 
 l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
 dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
-mois d'emprisonnement et de 25 000 F d'amende.
+mois d'emprisonnement et de 3750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -7681,14 +7681,6 @@ mois d'emprisonnement et de 25 000 F d'amende.
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*, art. 19 *date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995*
-
-	**Modifié par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 7 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -7701,6 +7693,10 @@ mois d'emprisonnement et de 25 000 F d'amende.
 	  - Code de la propriété intellectuelle - art. L521-5 (M)
 	  - Code de la propriété intellectuelle - art. R521-2 (V)
 	  - Code de la propriété intellectuelle - art. R521-4 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -11875,9 +11871,9 @@ au présent article aussi longtemps que ces demandes sont soumises aux interdict
 
 ###### Article L615-12
 
-Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de
-50 000 F [*sanctions pénales*]. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent
-article lorsqu'il a été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
+Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 7
+500 euros. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a
+été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
 
 **Liens relatifs à cet article**
 
@@ -11891,15 +11887,15 @@ article lorsqu'il a été rendu contre le prévenu dans les cinq années antéri
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L615-13
 
 Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment
-enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 30 000 F [*sanctions
-pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans
-[*circonstances aggravantes*] pourra, en outre, être prononcée.
+enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 4 500 euros. Si la
+violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans pourra, en outre, être
+prononcée.
 
 **Liens relatifs à cet article**
 
@@ -11913,17 +11909,16 @@ pénales*]. Si la violation a porté préjudice à la défense nationale, une pe
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L612-10 (V)
 	  - Code de la propriété intellectuelle - art. L612-9 (V)
 
 
 ###### Article L615-14
 
-1. Seront punis de deux ans d'emprisonnement et de 1 000 000 F d'amende ceux qui auront porté sciemment atteinte aux droits
+1. Seront punis de deux ans d'emprisonnement et de 150000 euros d'amende ceux qui auront porté sciemment atteinte aux droits
 du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
 
 2. Alinéa perimé.
@@ -11939,10 +11934,6 @@ du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-
 	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18, art. 19 : date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995
 	  - SPEC_APPLI: Loi n°94-102 du 5 février 1994 - art. 18 (V)
 
-	**Modifié par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 9 () JORF 8 février 1994 en vigueur le 1er janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°94-102 du 5 février 1994 - art. 19 (V)
@@ -11951,6 +11942,10 @@ du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-
 	  - Code de la propriété intellectuelle - art. L615-14-2 (V)
 	  - Code de la propriété intellectuelle - art. L615-14-3 (V)
 	  - Code de procédure pénale - art. 706-1-2 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -11989,8 +11984,8 @@ pour les conseils de prud'hommes.
 
 Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura
 sciemment enfreint une des obligations ou interdictions prévues aux articles L. 614-18, L. 614-20 et au premier alinéa de
-l'article L. 614-21 sera puni d'une amende de 40 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense
-nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
+l'article L. 614-21 sera puni d'une amende de 6 000 euros. Si la violation a porté préjudice à la défense nationale, une
+peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 **Liens relatifs à cet article**
 
@@ -12004,21 +11999,21 @@ nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être pronon
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L614-18 (V)
 	  - Code de la propriété intellectuelle - art. L614-20 (V)
-	  - Code de la propriété intellectuelle - art. L614-21 (M)
+	  - Code de la propriété intellectuelle - art. L614-21 (V)
 
 
 ###### Article L615-16
 
 Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura
 sciemment enfreint l'une des obligations ou interdictions prévues au second alinéa de l'article L. 614-2, à l'article L.
-614-4 et au premier alinéa de l'article L. 614-5 sera puni d'une amende de 40 000 F [*sanctions pénales*]. Si la violation a
-porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
+614-4 et au premier alinéa de l'article L. 614-5 sera puni d'une amende de 6 000 euros. Si la violation a porté préjudice à
+la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 **Liens relatifs à cet article**
 
@@ -12032,12 +12027,11 @@ porté préjudice à la défense nationale, une peine d'emprisonnement de cinq a
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L614-2 (V)
-	  - Code de la propriété intellectuelle - art. L614-4 (V)
 	  - Code de la propriété intellectuelle - art. L614-5 (V)
 
 
@@ -12248,7 +12242,7 @@ reproduit :
 "Art. L. 152-7 :
 
 "Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
-fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
+fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 "Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
 des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
@@ -12261,7 +12255,7 @@ des droits civiques, civils et de famille prévue par l'article 131-26 du code p
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 204 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -12272,12 +12266,12 @@ des droits civiques, civils et de famille prévue par l'article 131-26 du code p
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la propriété intellectuelle L811-3 *champ d'application TOM et Mayotte*
+	  - TXT_ASSOCIE: Code de la propriété intellectuelle L811-3 champ d'application TOM et Mayotte
+	  - PILOTE_SUIVEUR: Code du travail - art. L152-7 (AbD)
 
 	**Cite**:
 
 	  - Code pénal - art. 131-26 (V)
-	  - Code du travail - art. L152-7 (AbD)
 
 
 ##### Chapitre II : Produits semi-conducteurs
@@ -13505,7 +13499,7 @@ juridictions exercent les attributions qui leur sont ainsi dévolues, sont déte
 ###### Article L623-32
 
 Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à
-l'article L. 623-4, constitue un délit puni d'une amende de 25 000 F [*sanctions pénales*]. En cas de récidive, un
+l'article L. 623-4, constitue un délit puni d'une amende de 3750 euros [*sanctions pénales*]. En cas de récidive, un
 emprisonnement de six mois peut, en outre, être prononcé. Il y a récidive, au sens du présent article, lorsqu'il a été rendu
 contre le prévenu dans les cinq années antérieures une condamnation pour le même délit.
 
@@ -13519,16 +13513,16 @@ contre le prévenu dans les cinq années antérieures une condamnation pour le m
 
 	  - Loi n°92-597 1992-07-01
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Cité par**:
 
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 	  - Code de la propriété intellectuelle - art. L623-32-1 (V)
 	  - Code de la propriété intellectuelle - art. L623-32-2 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -13603,9 +13597,8 @@ le prévenu, dans les cinq années antérieures, une condamnation pour le même 
 ###### Article L623-35
 
 Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment
-enfreint une des interdictions portées aux articles L. 623-9 et L. 623-10 est puni d'une amende de 30 000 F [*sanctions
-pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre,
-être prononcée.
+enfreint une des interdictions portées aux articles L. 623-9 et L. 623-10 est puni d'une amende de 4 500 euros. Si la
+violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 **Liens relatifs à cet article**
 
@@ -13617,18 +13610,17 @@ pénales*]. Si la violation a porté préjudice à la défense nationale, une pe
 
 	  - Loi n°92-597 1992-07-01
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Cité par**:
 
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L623-10 (V)
 	  - Code de la propriété intellectuelle - art. L623-9 (V)
 
 
@@ -15047,7 +15039,7 @@ spécialement installés en vue de tels agissements.
 
 ###### Article L716-9
 
-Sera puni de deux ans d'emprisonnement et de 1 000 000 F d'amende quiconque aura [*sanctions pénales*] :
+Sera puni de deux ans d'emprisonnement et de 150000 euros d'amende quiconque aura [*sanctions pénales*] :
 
 a) Reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une marque collective de
 certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
@@ -15096,7 +15088,7 @@ b) Importé, sous tous régimes douaniers, ou exporté des marchandises présent
 
 	**Modifié par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 13 () JORF 8 février 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L716-10
@@ -15177,13 +15169,13 @@ IV du code du travail.
 ###### Article L716-11-1
 
 Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peut ordonner la fermeture totale ou partielle,
-définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
+définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction. 
 
 La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
 l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
 dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
-mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
+mois d'emprisonnement et de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -15193,18 +15185,16 @@ mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 champ d'application
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 14 () JORF 8 février 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-10 (M)
-	  - Code de la propriété intellectuelle - art. L716-9 (M)
-	  - Code du travail - art. L122-14-4 (M)
-	  - Code du travail - art. L122-14-5 (Ab)
+	  - Code de la propriété intellectuelle - art. L716-9 (V)
+	  - Code du travail - art. L122-14-4 (Ab)
 
 
 ###### Article L716-11-2
@@ -15644,6 +15634,45 @@ dispositions ayant le même objet, résultant des textes applicables localement.
 	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
 
 
+###### Article L811-3
+
+Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+
+"Art. L. 621-1 :
+
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
+fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
+des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+
+**Nota:**
+
+Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à la
+"collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la "collectivité
+territoriale" est remplacée par la référence à la "collectivité départementale".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L621-1 (M)
+	  - Code pénal - art. 131-26 (V)
+
+
 ###### Article L811-4
 
 I. - Pour leur application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
@@ -15780,51 +15809,6 @@ territoriale " est remplacée par la référence à la " collectivité départem
 
 
 ## Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
-
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
-
-#### Titre unique
-
-##### Chapitre unique
-
-###### Article L811-3
-
-Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques
-françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
-
-"Art. L. 621-1 :
-
-"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
-fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
-
-"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
-des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
-
-**Nota:**
-
-Nota - Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la
-référence à la "collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la
-"collectivité territoriale" est remplacée par la référence à la "collectivité départementale".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 6 () JORF 28 juillet 2001
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L621-1 (M)
-	  - Code pénal - art. 131-26 (V)
-
 
 ### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les terres australes et antarctiques françaises et en Nouvelle - Calédonie
 
