@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1996-12-19
+Version Consolidée au 1997-03-28
 
 # Partie législative
 
@@ -968,6 +968,65 @@ Est assimilée à une représentation l'émission d'une oeuvre vers un satellite
 	  - Code de la propriété intellectuelle - art. R122-3 (M)
 
 
+###### Article L122-2-1
+
+Le droit de représentation d'une oeuvre télédiffusée par satellite est régi par les dispositions du présent code dès lors que
+l'oeuvre est émise vers le satellite à partir du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 1 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 14 (V)
+	  - Code de la propriété intellectuelle - art. L217-1 (V)
+
+
+###### Article L122-2-2
+
+Est également régi par les dispositions du présent code le droit de représentation d'une oeuvre télédiffusée par satellite
+émise à partir du territoire d'un Etat non membre de la Communauté européenne qui n'assure pas un niveau de protection des
+droits d'auteur équivalent à celui garanti par le présent code :
+
+1° Lorsque la liaison montante vers le satellite est effectuée à partir d'une station située sur le territoire national. Les
+droits prévus par le présent code peuvent alors être exercés à l'égard de l'exploitant de la station ;
+
+2° Lorsque la liaison montante vers le satellite n'est pas effectuée à partir d'une station située dans un Etat membre de la
+Communauté européenne et lorsque l'émission est réalisée à la demande, pour le compte ou sous le contrôle d'une entreprise de
+communication audiovisuelle ayant son principal établissement sur le territoire national. Les droits prévus par le présent
+code peuvent alors être exercés à l'égard de l'entreprise de communication audiovisuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 1 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 14 (V)
+	  - Code de la propriété intellectuelle - art. L217-1 (V)
+
+
 ###### Article L122-3
 
 La reproduction consiste dans la fixation matérielle de l'oeuvre par tous procédés qui permettent de la communiquer au public
@@ -1040,6 +1099,12 @@ c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, 
 destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les
 réunions publiques d'ordre politique et les cérémonies officielles ;
 
+d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue
+d'une vente aux enchères publiques effectuée en France par un officier public ou ministériel pour les exemplaires qu'il met à
+la disposition du public avant la vente dans le seul but de décrire les oeuvres d'art mises en vente.
+
+Un décret en Conseil d'Etat fixe les caractéristiques des documents et les conditions de leur distribution.
+
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
 
 **Liens relatifs à cet article**
@@ -1054,11 +1119,11 @@ réunions publiques d'ordre politique et les cérémonies officielles ;
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
 
 	**Modifié par**:
 
-	  - Loi n°94-361 du 10 mai 1994 - art. 5 () JORF 11 mai 1994
+	  - Loi n°97-283 du 27 mars 1997 - art. 17 () JORF 28 mars 1997
 
 	**Cité par**:
 
@@ -2639,6 +2704,96 @@ du paiement de toute rémunération.
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+###### Article L132-20-1
+
+I.-A compter de la date d'entrée en vigueur de la loi n° 97-283 du 27 mars 1997, le droit d'autoriser la retransmission par
+câble, simultanée, intégrale et sans changement, sur le territoire national, d'une oeuvre télédiffusée à partir d'un Etat
+membre de la Communauté européenne ne peut être exercé que par une société de perception et de répartition des droits. Si
+cette société est régie par le titre II du livre III, elle doit être agréée à cet effet par le ministre chargé de la
+culture. 
+
+Si le titulaire du droit n'en a pas déjà confié la gestion à l'une de ces sociétés, il désigne celle qu'il charge de
+l'exercer. Il notifie par écrit cette désignation à la société, qui ne peut refuser. 
+
+Le contrat autorisant la télédiffusion d'une oeuvre sur le territoire national mentionne la société chargée d'exercer le
+droit d'autoriser sa retransmission par câble, simultanée, intégrale et sans changement, dans les Etats membres de la
+Communauté européenne. 
+
+L'agrément prévu au premier alinéa est délivré en considération : 
+
+1° De la qualification professionnelle des dirigeants des sociétés et des moyens que celles-ci peuvent mettre en oeuvre pour
+assurer le recouvrement des droits définis au premier alinéa et l'exploitation de leur répertoire ; 
+
+2° De l'importance de leur répertoire ; 
+
+3° De leur respect des obligations que leur imposent les dispositions du titre II du livre III. 
+
+Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de l'agrément. Il fixe également, dans le cas
+prévu au deuxième alinéa, les modalités de désignation de la société chargée de la gestion du droit de retransmission. 
+
+II.-Par dérogation au I, le titulaire du droit peut céder celui-ci à une entreprise de communication audiovisuelle. 
+
+Les dispositions du I ne s'appliquent pas aux droits dont est cessionnaire une entreprise de communication audiovisuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Cite**:
+
+	  - Loi n°97-283 du 27 mars 1997 (V)
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 2 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 15 (V)
+	  - Code de la propriété intellectuelle - art. L217-2 (V)
+	  - Code de la propriété intellectuelle - art. L321-9 (M)
+	  - Code de la propriété intellectuelle - art. R323-1 (V)
+	  - Code de la propriété intellectuelle - art. R323-5 (V)
+
+
+###### Article L132-20-2
+
+Des médiateurs sont institués afin de favoriser, sans préjudice du droit des parties de saisir le juge, la résolution des
+litiges relatifs à l'octroi de l'autorisation de retransmission, simultanée, intégrale et sans changement, d'une oeuvre par
+câble.
+
+A défaut d'accord amiable, le Médiateur peut proposer aux parties la solution qui lui paraît appropriée, que celles-ci sont
+réputées avoir acceptée faute d'avoir exprimé leur opposition par écrit dans un délai de trois mois.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article et les modalités de désignation des
+médiateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 2 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 15 (V)
+	  - Code de la propriété intellectuelle - art. R324-1 (V)
+
+
 ###### Article L132-21
 
 L'entrepreneur de spectacles est tenu de déclarer à l'auteur ou à ses représentants le programme exact des représentations ou
@@ -3842,6 +3997,125 @@ régime applicable à ce service.
 	  - Code de la propriété intellectuelle - art. L211-4 (V)
 
 
+##### Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble
+
+###### Article L217-1
+
+Les droits voisins du droit d'auteur correspondant à la télédiffusion par satellite de la prestation d'un artiste-interprète,
+d'un phonogramme, d'un vidéogramme ou des programmes d'une entreprise de communication audiovisuelle sont régis par les
+dispositions du présent code dès lors que cette télédiffusion est réalisée dans les conditions définies aux articles L.
+122-2-1 et L. 122-2-2. 
+
+Dans les cas prévus à l'article L. 122-2-2, ces droits peuvent être exercés à l'égard des personnes visées au 1° ou au 2° de
+cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 3 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 14 (V)
+	  - Code de la propriété intellectuelle - art. R323-1 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-2-1 (V)
+	  - Code de la propriété intellectuelle - art. L122-2-2 (V)
+
+
+###### Article L217-2
+
+I.-Lorsqu'il est prévu par le présent code, le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans
+changement, sur le territoire national, de la prestation d'un artiste-interprète, d'un phonogramme ou d'un vidéogramme
+télédiffusés à partir d'un Etat membre de la Communauté européenne ne peut être exercé, à compter de la date d'entrée en
+vigueur de la loi n° 97-283 du 27 mars 1997, que par une société de perception et de répartition des droits. Si cette société
+est régie par le titre II du livre III, elle doit être agréée à cet effet par le ministre chargé de la culture. 
+
+Si le titulaire du droit n'en a pas confié la gestion à l'une de ces sociétés, il désigne celle qu'il charge de l'exercer. Il
+notifie par écrit cette désignation à la société, qui ne peut refuser. 
+
+Le contrat autorisant la télédiffusion sur le territoire national de la prestation d'un artiste-interprète, d'un phonogramme
+ou d'un vidéogramme mentionne la société chargée, le cas échéant, d'exercer le droit d'autoriser sa retransmission par câble,
+simultanée, intégrale et sans changement, dans les Etats membres de la Communauté européenne. 
+
+L'agrément prévu au premier alinéa est délivré en considération des critères énumérés à l'article L. 132-20-1. 
+
+Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de l'agrément. Il fixe également, dans le cas
+prévu au deuxième alinéa, les modalités de désignation de la société chargée de la gestion du droit de retransmission. 
+
+II.-Par dérogation au I, le titulaire du droit peut céder celui-ci à une entreprise de communication audiovisuelle. 
+
+Les dispositions du I ne sont pas applicables aux droits dont est cessionnaire une entreprise de communication audiovisuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Cite**:
+
+	  - Loi n°97-283 du 27 mars 1997 (V)
+	  - Code de la propriété intellectuelle - art. L132-20-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 3 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 15 (V)
+	  - Code de la propriété intellectuelle - art. L321-9 (M)
+	  - Code de la propriété intellectuelle - art. R323-5 (V)
+
+
+###### Article L217-3
+
+Des médiateurs sont institués afin de favoriser, sans préjudice du droit des parties de saisir le juge, la résolution des
+litiges relatifs à l'octroi de l'autorisation, lorsqu'elle est exigée, de retransmission par câble, simultanée, intégrale et
+sans changement, d'un élément protégé par un des droits définis au présent titre.
+
+A défaut d'accord amiable, le Médiateur peut proposer aux parties la solution qui lui paraît appropriée, que celles-ci sont
+réputées avoir acceptée faute d'avoir exprimé leur opposition par écrit dans un délai de trois mois.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article et les modalités de désignation des
+médiateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 3 () JORF 28 mars 1997
+
+	**Cité par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 15 (V)
+	  - Code de la propriété intellectuelle - art. R324-1 (V)
+
+
 ### Livre III : Dispositions générales
 
 #### Titre Ier : Rémunération pour copie privée
@@ -4131,6 +4405,9 @@ Les associés doivent être des auteurs, des artistes-interprètes, des producte
 éditeurs, ou leurs ayants droit. Ces sociétés civiles régulièrement constituées ont qualité pour ester en justice pour la
 défense des droits dont elles ont statutairement la charge.
 
+Les actions en paiement des droits perçus par ces sociétés civiles se prescrivent par dix ans à compter de la date de leur
+perception, ce délai étant suspendu jusqu'à la date de leur mise en répartition.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -4147,16 +4424,19 @@ défense des droits dont elles ont statutairement la charge.
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 38
 	  - Loi n°85-660 du 3 juillet 1985 - art. 38 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 4 () JORF 28 mars 1997
 
 
 ###### Article L321-2
@@ -4355,29 +4635,51 @@ qu'elles auraient à verser.
 
 ###### Article L321-9
 
-Ces sociétés doivent utiliser à des actions d'aide à la création, à la diffusion du spectacle vivant et à des actions de
-formation d'artistes 50 p. 100 des sommes non répartissables perçues en application de l'article L. 214-1 et 25 p. 100 des
-sommes provenant de la rémunération pour copie privée. La répartition des sommes correspondantes, qui ne peut bénéficier à un
-organisme unique, est soumise à un vote de l'assemblée générale de la société, qui se prononce à la majorité des deux tiers.
-A défaut d'une telle majorité, une nouvelle assemblée générale, convoquée spécialement à cet effet, statue à la majorité
-simple.
+Ces sociétés utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant et à des actions de formation
+des artistes :
 
-L'utilisation de ces sommes fait l'objet, chaque année, d'un rapport spécial du commissaire aux comptes.
+1° 25 % des sommes provenant de la rémunération pour copie privée ;
+
+2° La totalité des sommes perçues en application des articles L. 122-10, L. 132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui
+n'ont pu être réparties à l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
+
+Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à compter de la fin de la cinquième année suivant
+la date de leur mise en répartition, sans préjudice des demandes de paiement des droits non prescrits. La répartition des
+sommes correspondantes, qui ne peut bénéficier à un organisme unique, est soumise à un vote de l'assemblée générale de la
+société, qui se prononce à la majorité des deux tiers. A défaut d'une telle majorité, une nouvelle assemblée générale,
+convoquée spécialement à cet effet, statue à la majorité simple.
+
+Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de
+répartition des droits au ministre chargé de la culture. Le commissaire aux comptes vérifie la sincérité et la concordance
+avec les documents comptables de la société des informations contenues dans ce rapport. Il établit à cet effet un rapport
+spécial.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-660 1985-07-03 art. 38
 	  - Loi n°85-660 du 3 juillet 1985 - art. 38 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°97-283 du 27 mars 1997 - art. 4 () JORF 28 mars 1997
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-10 (V)
+	  - Code de la propriété intellectuelle - art. L132-20-1 (V)
+	  - Code de la propriété intellectuelle - art. L214-1 (M)
+	  - Code de la propriété intellectuelle - art. L217-2 (V)
+	  - Code de la propriété intellectuelle - art. L311-1 (M)
+	  - Code de la propriété intellectuelle - art. L321-1 (M)
 
 	**Cité par**:
 
@@ -4385,10 +4687,6 @@ L'utilisation de ces sommes fait l'objet, chaque année, d'un rapport spécial d
 	  - Code de la propriété intellectuelle - art. R321-10 (V)
 	  - Code de la propriété intellectuelle - art. R321-8 (V)
 	  - Code de la propriété intellectuelle - art. R321-9 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L214-1 (M)
 
 
 ###### Article L321-10
