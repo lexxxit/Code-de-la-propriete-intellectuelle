@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-09-02
 
 # Partie législative
 
@@ -17259,6 +17259,101 @@ b) Un certificat constatant qu'il n'existe pas d'inscription.
 	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
 
 
+#### Chapitre III : Rémunération au titre du prêt en bibliothèque
+
+###### Article R133-1
+
+Les bibliothèques accueillant du public pour le prêt mentionnées aux articles L. 133-3 et L. 133-4 sont : 
+
+1° Les bibliothèques des collectivités territoriales désignées aux articles L. 310-1 à L. 310-6 et L. 320-1 à L. 320-4 du
+code du patrimoine ; 
+
+2° Les bibliothèques des établissements publics à caractère scientifique, culturel et professionnel et des autres
+établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ; 
+
+3° Les bibliothèques des comités d'entreprise ; 
+
+4° Toute autre bibliothèque ou organisme mettant un fonds documentaire à la disposition d'un public, dont plus de la moitié
+des exemplaires de livres acquis dans l'année est destinée à une activité organisée de prêt au bénéfice d'usagers inscrits
+individuels ou collectifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 1 () JORF 2 septembre 2004
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-3 (V)
+	  - Code de la propriété intellectuelle - art. L133-4 (V)
+	  - Code du patrimoine. - art. L310-1 (V)
+	  - Code du patrimoine. - art. L320-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R133-2 (V)
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R133-2
+
+Le montant de la première part de la rémunération prévue au deuxième alinéa de l'article L. 133-3 est calculé sur la base
+d'une contribution forfaitaire par usager inscrit dans les bibliothèques accueillant du public pour le prêt, telles que
+visées à l'article R. 133-1. 
+
+Cette contribution est fixée à 1 euro par usager inscrit dans les bibliothèques des établissements publics à caractère
+scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre
+chargé de l'enseignement supérieur et versée par ce dernier. Elle est fixée à 1,5 euro par usager inscrit dans les autres
+bibliothèques accueillant du public pour le prêt et versée par le ministère chargé de la culture. 
+
+Pour la première année d'application de la loi, cette contribution est respectivement fixée à 0,5 euro par usager inscrit
+dans les bibliothèques des établissements d'enseignement supérieur et à 0,75 euro par usager inscrit dans les autres
+bibliothèques accueillant du public pour le prêt. 
+
+Le nombre des usagers inscrits est précisé chaque année par arrêté dans les conditions suivantes : 
+
+1° Le nombre des usagers inscrits dans les bibliothèques publiques est évalué chaque année à partir des éléments statistiques
+fournis par les communes et les départements en application des articles R. 1422-5 et R. 1422-14 du code général des
+collectivités territoriales ; 
+
+2° Le nombre des usagers inscrits dans les bibliothèques des établissements publics à caractère scientifique, culturel et
+professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement
+supérieur est évalué chaque année à partir des statistiques annuelles établies par le ministre chargé de l'enseignement
+supérieur ; 
+
+3° Afin de tenir compte des usagers inscrits dans les autres bibliothèques accueillant du public pour le prêt, le nombre des
+usagers inscrits dans les bibliothèques publiques est majoré d'un taux exprimé en pourcentage. Ce taux est fixé à 4 % et
+révisable tous les trois ans à partir d'estimations chiffrées relatives au développement de l'activité de ces bibliothèques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-921 du 31 août 2004 - art. 1 () JORF 2 septembre 2004
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-3 (V)
+	  - Code de la propriété intellectuelle - art. R133-1 (V)
+	  - Code général des collectivités territoriales - art. R1422-14 (Ab)
+	  - Code général des collectivités territoriales - art. R1422-5 (Ab)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-1 (M)
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
 ## Livre II : Les droits voisins du droit d'auteur
 
 ### Titre unique
@@ -21052,6 +21147,243 @@ soient entendus par la commission. Les observations de la société ou l'organis
 	**Créé par**:
 
 	  - Décret n°2001-334 du 17 avril 2001 - art. 3 () JORF 18 avril 2001
+
+
+#### Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque
+
+###### Article R326-1
+
+Une société régie par les dispositions des articles L. 321-1 à L. 321-13 est agréée au titre de l'article L. 133-2 si elle : 
+
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison
+des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la
+diversité des genres éditoriaux ; 
+
+2° Apporte la preuve de la représentation équitable des auteurs et des éditeurs parmi ses associés et au sein de ses organes
+dirigeants ; 
+
+3° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'auteur ; 
+
+b) Ou de la nature et du niveau de leurs diplômes ; 
+
+c) Ou de leur expérience dans le secteur de l'édition ou de la gestion d'organismes professionnels ; 
+
+4° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement de la société ; 
+
+b) Aux moyens mis en œuvre pour la collecte des données statistiques sur les acquisitions d'ouvrages par les bibliothèques ; 
+
+c) Aux moyens mis en œuvre pour la perception des rémunérations et le traitement des données nécessaires à la répartition de
+ces rémunérations ; 
+
+d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+5° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des
+rémunérations entre les auteurs et les éditeurs, ainsi que le caractère équitable de la répartition au sein de chacune de ces
+catégories.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L133-2 (V)
+	  - Code de la propriété intellectuelle - art. L321-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R326-2 (V)
+	  - Code de la propriété intellectuelle - art. R326-6 (V)
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+
+###### Article R326-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 326-1, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R326-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+
+###### Article R326-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-3 (V)
+
+
+###### Article R326-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+
+###### Article R326-5
+
+Tout changement de règlement général et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'une
+société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement
+correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-5 (V)
+
+
+###### Article R326-6
+
+Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 326-1, le ministre chargé de la culture la
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en oeuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-6 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R326-1 (V)
+
+
+###### Article R326-7
+
+Si, à la date de la publication d'une oeuvre, l'auteur et l'éditeur n'ont pas désigné une société agréée de perception et de
+répartition des droits, la gestion de leur droit à rémunération au titre du prêt en bibliothèque est confiée à la société
+réunissant le plus grand nombre d'oeuvres gérées. Ce nombre est déterminé conformément aux usages des professions
+intéressées.
+
+Le ministre chargé de la culture désigne chaque année la société répondant à la condition définie à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Créé par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-920 du 31 août 2004 - art. 4 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R325-7 (V)
 
 
 ### Titre III : Procédures et sanctions
