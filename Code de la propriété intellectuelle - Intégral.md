@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2004-09-02
+Version Consolidée au 2004-09-03
 
 # Partie législative
 
@@ -39661,7 +39661,11 @@ Les dispositions du présent code sont applicables aux territoires d'outre-mer �
 
 2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R.
 613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les
-conseils en propriété industrielle.
+conseils en propriété industrielle ;
+
+3° Des articles R. 133-1 et R. 326-1 à R. 326-7 ;
+
+4° de l'article R. 133-2.
 
 **Liens relatifs à cet article**
 
@@ -39680,11 +39684,12 @@ conseils en propriété industrielle.
 
 	**Modifié par**:
 
-	  - Décret n°2002-215 2002-02-18 art. 10 I, II JORF 20 février 2002
-	  - Décret n°2002-215 du 18 février 2002 - art. 10 () JORF 20 février 2002
+	  - Décret n°2004-921 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. R133-1 (V)
+	  - Code de la propriété intellectuelle - art. R133-2 (V)
 	  - Code de la propriété intellectuelle - art. R423-1 (M)
 	  - Code de la propriété intellectuelle - art. R423-2 (V)
 	  - Code de la propriété intellectuelle - art. R512-13 (V)
@@ -39716,6 +39721,10 @@ conseils en propriété industrielle.
 
 Les dispositions du présent code sont applicables à Mayotte.
 
+Toutefois ne sont pas applicables les articles R. 133-1 et R. 326-1 à R. 326-7.
+
+Toutefois n'est pas applicable l'article R. 133-2.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -39727,8 +39736,13 @@ Les dispositions du présent code sont applicables à Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2002-215 2002-02-18 art. 10 I, III JORF 20 février 2002
-	  - Décret n°2002-215 du 18 février 2002 - art. 10 () JORF 20 février 2002
+	  - Décret n°2004-921 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R133-1 (V)
+	  - Code de la propriété intellectuelle - art. R133-2 (V)
+	  - Code de la propriété intellectuelle R133-1, R326-1 à R326-7, R133-2
 
 	**Codifié par**:
 
