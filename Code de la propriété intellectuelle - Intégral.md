@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1992-07-03
+Version Consolidée au 1993-01-01
 
 # Partie législative
 
@@ -3611,13 +3611,19 @@ deuxième alinéa de l'article L. 131-4.
 
 ###### Article L311-4
 
-La rémunération prévue à l'article L. 311-3 est versée par le fabricant ou l'importateur des supports d'enregistrement
-utilisables pour la reproduction à usage privé d'oeuvres fixées sur des phonogrammes ou des vidéogrammes, lors de la mise en
-circulation en France de ces supports.
+La rémunération prévue à l'article L. 311-3 est versée par le fabricant, l'importateur ou la personne qui réalise des
+acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du code général des impôts, de supports
+d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres fixées sur des phonogrammes ou des vidéogrammes,
+lors de la mise en circulation en France de ces supports.
 
 Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 256 bis
+	  - Code de la propriété intellectuelle - art. L311-3 (M)
 
 	**Anciens textes**:
 
@@ -3627,13 +3633,9 @@ Le montant de la rémunération est fonction du type de support et de la durée 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L311-3 (M)
+	  - Loi n°92-677 du 17 juillet 1992 - art. 119 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -9958,29 +9960,25 @@ prononcée.
 
 ###### Article L615-14
 
-1. Seront punis d'un emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux
-peines seulement ceux qui auront porté sciemment atteinte aux droits du propriétaire d'un brevet, tels que définis aux
-articles L. 613-3 à L. 613-6.
+1. Seront punis de deux ans d'emprisonnement et de 1 000 000 F d'amende ceux qui auront porté sciemment atteinte aux droits
+du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
 
-2. Les dispositions du 1 ci-dessus entrent en vigueur le 1er janvier 1993.
+2. Alinéa perimé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°90-1052 1990-11-26 art. 11
 
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 19 *cette 1ère rédaction de l'article L335-2 du code de la propriété intellectuelle demeure en vigueur pour les TOM et Mayotte jusqu'au 1er mars 1995*
+	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18, art. 19 : date d'effet pour les TOM et Mayotte : à partir du 1er mars 1995
+	  - SPEC_APPLI: Loi n°94-102 du 5 février 1994 - art. 18 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 9 () JORF 8 février 1994 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
