@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 1998-11-19
+Version Consolidée au 1998-11-20
 
 # Partie législative
 
@@ -16889,6 +16889,2013 @@ interprètes.
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+##### Annexes à l'article R321-8  
+ 
+  
+
+
+###### Article Annexe I
+
+Compte de gestion de l'année N
+
+<table>
+  <tbody>
+    <tr>
+      <td width="305" colspan="3">
+
+Charges
+
+</td>
+      <td colspan="3" width="300">
+
+Ressources
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+</td>
+      <td width="48">
+
+Année 
+
+N
+
+</td>
+      <td width="53">
+
+Année 
+
+N-1
+
+</td>
+      <td width="200">
+
+</td>
+      <td width="48">
+
+Année 
+
+N
+
+</td>
+      <td width="52">
+
+Année 
+
+N-1
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+I. - Charges d'exploitation :
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+I. - Ressources d'exploitation :
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+A. - Achats et charges externes
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+A. - Récupération et refacturation des charges
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+B. - Impôts et taxes
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+B. - Retenues sur droits
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+C. - Charges de personnel
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+C. - Autres ressources d'exploitation
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+D. - Autres charges d'exploitation
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+D. - Reprise de provisions
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+E. - Dotation aux amortissements
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+      </td><td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+F. - Dotations aux provisions
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+      </td><td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+II. - Charges financières
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+II. - Ressources financières
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+III. - Charges exceptionnelles
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+III. - Ressources exceptionnelles
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+IV. - Intéressement(le cas échéant)
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+      </td><td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+Total des charges (I + II + III + IV)
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+Total des ressources (I + II + III)
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+Excédent de prélèvement à la fin de l'exercice
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+Insuffisance de prélèvement à la fin de l'exercice
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+    <tr>
+      <td width="204">
+
+Total général
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="53">
+
+</td>
+      <td width="200">
+
+Total général
+
+</td>
+      <td width="48">
+
+</td>
+      <td width="52">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-1040 du 18 novembre 1998 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1309 du 26 octobre 2009 - art. 2
+
+
+###### Article Annexe II
+
+Affectation des sommes en fin d'exercice
+
+<table>
+  <tbody>
+    <tr>
+      <td width="92">
+
+Nature des rémunérations
+
+</td>
+      <td width="73">
+
+Droits restant à affecter au 31 décembre de l'année N-1
+
+(1)
+
+</td>
+      <td width="68">
+
+Perceptions de l'exercice
+
+(2)
+
+</td>
+      <td width="75">
+
+Prélèvements pour la gestion
+
+(3)
+
+</td>
+      <td width="98">
+
+Montants affectés(art. L. 321-9)
+
+(4)
+
+</td>
+      <td width="61">
+
+Montants affectés à des œuvres sociales ou culturelles
+
+(5)
+
+</td>
+      <td width="58">
+
+Montants affectés aux ayants droit(*)
+
+(6)
+
+</td>
+      <td width="79">
+
+Droits restant à effectuer au 31 décembre de l'année N
+
+(7) = (1) + (2) - (3 + 4 +5 + 6)
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Rémunérations dont la gestion est confiée par les ayants droit (à détailler selon la nature de la rémunération)
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+-
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+-
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+-
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Rémunérations dont la gestion est confiée en application de la loi :
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Article L. 122-10 (pour le droit de reproduction par reprographie) ;
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Article L. 132-20-1 (pour le droit d'autoriser la retransmission par câble,simultanée, intégrale et sans changement, sur le
+territoire national, d'une œuvre télédiffusée à partir d'un Etat membre de la Communauté européenne) ;
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Article L. 217-2(pour le droit d'autoriser la retransmission par câble,simultanée, intégrale et sans changement, sur le
+territoire national, de la prestation d'un artiste interprète,d'un phonogramme ou d'un vidéogramme à partir d'un Etat membre
+de la Communauté européenne) ;
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Article L. 214-1(pour le droit de communiquer au public un phonogramme publié à des fins de commerce) ;
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Article L. 311-1 (pour la copie privée des œuvres sonores) ;
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Article L. 311-1 (pour la copie privée des œuvres audiovisuelles) ;
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td width="92">
+
+Total
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="68">
+
+</td>
+      <td width="75">
+
+</td>
+      <td width="98">
+
+</td>
+      <td width="61">
+
+</td>
+      <td width="58">
+
+</td>
+      <td width="79">
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="8" width="605">
+
+(*) Les montants affectés s'entendent de l'inscription des sommes correspondantes au compte individuel de l'ayant droit.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-1040 du 18 novembre 1998 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1309 du 26 octobre 2009 - art. 2
+
+
+###### Article Annexe III
+
+Etat des sommes effectivement payées au cours de l'exercice au titre des affectations individuelles et des actions réalisées
+au titre des affectations collectives
+
+3-1 :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="605" colspan="2" valign="top">
+
+Etat des sommes effectivement payées au cours de l'exercice au titre des affectations individuelles(Rubriques à ne pas
+remplir que si l'inscription au compte individuel de l'ayant droit des sommes figurant en colonne 6 de l'annexe II ne permet
+pas à celui-ci d'en réclamer le règlement.)
+
+</td>
+    </tr>
+    <tr>
+      <td width="454" valign="top">
+
+Rémunérations dont la gestion est confiée par les ayants droit (à détailler selon la nature de la rémunération) :
+
+</td>
+      <td rowspan="11" width="151" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="454">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="454" valign="top">
+
+Rémunérations dont la gestion est confiée en application de la loi :
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+Article L. 122-10 (pour le droit de reproduction par reprographie) ;
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+Article L. 132-20-1 (pour le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le
+territoire national, d'une œuvre télédiffusée à partir d'un Etat membre de la Communauté européenne) ;
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+Article L. 217-2 (pour le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le
+territoire national, de la prestation d'un artiste-interprète, d'un phonogramme ou d'un vidéogramme à partir d'un Etat membre
+de la Communauté européenne) ;
+
+</td>
+    </tr>
+    <tr>
+      <td width="454" valign="top">
+
+Article L. 214-1 (pour le droit de communiquer au public un phonogramme publié à des fins de commerce) ;
+
+</td>
+    </tr>
+    <tr>
+      <td width="454" valign="top">
+
+Article L. 311-1 (pour la copie privée des œuvres sonores) ;
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+Articles L. 311-1 (pour la copie privée des œuvres audiovisuelles).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="454">
+
+Total
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+  </tbody>
+</table>
+
+3-2 :
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" width="605">
+
+Actions réalisées au cours de l'exercice au titre des affectations collectives
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="453">
+
+Article L. 321-9
+
+</td>
+      <td width="152" valign="top">
+    </td></tr>
+    <tr>
+      <td width="453" valign="top">
+
+Œuvres sociales ou culturelles
+
+</td>
+      <td valign="top" width="152">
+    </td></tr>
+    <tr>
+      <td valign="top" width="453">
+
+Total
+
+</td>
+      <td valign="top" width="152">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-1040 du 18 novembre 1998 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1309 du 26 octobre 2009 - art. 2
+
+
+###### Article Annexe IV
+
+Récapitulation des sommes restant à affecter individuellement
+
+4-1 : 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="302">
+
+Rémunérations dont la gestion est confiée par les ayants droit (à détailler selon la nature de la rémunération)
+
+</td>
+      <td width="302">
+
+Montant
+
+</td>
+    </tr>
+    <tr>
+      <td width="302">
+
+Total
+
+</td>
+      <td width="302">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+4-2 :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="453">
+
+Rémunérations dont la gestion est confiée en application de la loi
+
+</td>
+      <td width="76">
+
+Montant
+
+</td>
+      <td width="76">
+
+Année de perception
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="5" valign="top" width="453">
+
+Article L. 122-10 (pour le droit de reproduction par reprographie).
+
+</td>
+      <td valign="top" width="76">
+
+n
+
+</td>
+      <td valign="top" width="76">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 2
+
+</td>
+      <td valign="top" width="76">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n...
+
+</td>
+      <td width="76" valign="top">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td width="453" valign="top">
+
+Sous-total
+
+</td>
+      <td width="76" valign="top">
+      </td><td valign="top" width="76">
+    </td></tr>
+    <tr>
+      <td width="453" rowspan="5" valign="top">
+
+Article L. 132-20-1 (pour le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le
+territoire national, d'une œuvre télédiffusée à partir d'un Etat membre de la Communauté européenne).
+
+</td>
+      <td valign="top" width="76">
+
+n
+
+</td>
+      <td width="76" valign="top">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 1
+
+</td>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 3
+
+</td>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n...
+
+</td>
+      <td width="76" valign="top">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="453">
+
+Sous-total
+
+</td>
+      <td valign="top" width="76">
+      </td><td valign="top" width="76">
+    </td></tr>
+    <tr>
+      <td rowspan="5" width="453" valign="top">
+
+Article L. 217-2 (pour le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le
+territoire national, de la prestation d'un artiste interprète, d'un phonogramme ou d'un vidéogramme à partir d'un Etat membre
+de la Communauté européenne).
+
+</td>
+      <td valign="top" width="76">
+
+n
+
+</td>
+      <td width="76" valign="top">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 1
+
+</td>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+      <td valign="top" width="76">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n...
+
+</td>
+      <td valign="top" width="76">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="453">
+
+Sous-total
+
+</td>
+      <td width="76" valign="top">
+      </td><td width="76" valign="top">
+    </td></tr>
+    <tr>
+      <td rowspan="5" width="453" valign="top">
+
+Article L. 214-1 (pour le droit de communiquer au public un phonogramme publié à des fins de commerce).
+
+</td>
+      <td width="76" valign="top">
+
+n
+
+</td>
+      <td width="76" valign="top">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+      <td valign="top" width="76">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 3
+
+</td>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n...
+
+</td>
+      <td valign="top" width="76">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td width="453" valign="top">
+
+Sous-total
+
+</td>
+      <td width="76" valign="top">
+      </td><td width="76" valign="top">
+    </td></tr>
+    <tr>
+      <td rowspan="5" valign="top" width="453">
+
+Article L. 311-1 (pour la copie privée des œuvres sonores).
+
+</td>
+      <td width="76" valign="top">
+
+n
+
+</td>
+      <td valign="top" width="76">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+      <td width="76" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+      <td valign="top" width="76">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td width="76" valign="top">
+
+n...
+
+</td>
+      <td width="76" valign="top">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="453">
+
+Sous-total
+
+</td>
+      <td valign="top" width="76">
+      </td><td valign="top" width="76">
+    </td></tr>
+    <tr>
+      <td rowspan="5" valign="top" width="453">
+
+Article L. 311-1 (pour la copie privée des œuvres audiovisuelles).
+
+</td>
+      <td width="76" valign="top">
+
+n
+
+</td>
+      <td valign="top" width="76">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 1
+
+</td>
+      <td valign="top" width="76">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 2
+
+</td>
+      <td width="76" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n - 3
+
+</td>
+      <td width="76" valign="top">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="76">
+
+n...
+
+</td>
+      <td valign="top" width="76">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td width="453" valign="top">
+
+Sous-total
+
+</td>
+      <td width="76" valign="top">
+      </td><td width="76" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="453">
+
+Total
+
+</td>
+      <td valign="top" width="76">
+      </td><td width="76" valign="top">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-1040 du 18 novembre 1998 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1309 du 26 octobre 2009 - art. 2
+
+
+###### Article Annexe V
+
+Récapitulation des sommes affectées individuellement et non payées
+
+(Les rubriques correspondant au détail par types de rémunération ne sont à remplir que si l'inscription au compte individuel
+de l'ayant droit des sommes figurant en colonne 6 de l'annexe 2 ne permet pas à celui-ci d'en réclamer le règlement)
+
+5-1 :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="454">
+
+Rémunérations dont la gestion est confiée par les ayants droit
+
+(à détailler selon la nature de la rémunération)
+
+</td>
+      <td width="151">
+
+Montant
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Total
+
+</td>
+      <td width="151">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+5-2 :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="452">
+
+Rémunérations dont la gestion est confiée en application de la loi
+
+</td>
+      <td width="72">
+
+Montant
+
+</td>
+      <td width="80">
+
+Année de perception
+
+</td>
+    </tr>
+    <tr>
+      <td width="452" rowspan="5" valign="top">
+
+Article L. 122-10 (pour le droit de reproduction par reprographie).
+
+</td>
+      <td valign="top" width="72">
+
+n
+
+</td>
+      <td width="80" valign="top">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 1
+
+</td>
+      <td width="80" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 2
+
+</td>
+      <td width="80" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 3
+
+</td>
+      <td valign="top" width="80">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n...
+
+</td>
+      <td valign="top" width="80">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="452">
+
+Sous-total
+
+</td>
+      <td width="72" valign="top">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td rowspan="5" width="452" valign="top">
+
+Article L. 132-20-1 (pour le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le
+territoire national, d'une œuvre télédiffusée à partir d'un Etat membre de la Communauté européenne).
+
+</td>
+      <td width="72" valign="top">
+
+n
+
+</td>
+      <td valign="top" width="80">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 1
+
+</td>
+      <td width="80" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 2
+
+</td>
+      <td width="80" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 3
+
+</td>
+      <td valign="top" width="80">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n...
+
+</td>
+      <td width="80" valign="top">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="452">
+
+Sous-total
+
+</td>
+      <td valign="top" width="72">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="452" rowspan="5">
+
+Article L. 217-2 (pour le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le
+territoire national, de la prestation d'un artiste interprète, d'un phonogramme ou d'un vidéogramme à partir d'un Etat membre
+de la Communauté européenne).
+
+</td>
+      <td width="72" valign="top">
+
+n
+
+</td>
+      <td valign="top" width="80">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 1
+
+</td>
+      <td width="80" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 2
+
+</td>
+      <td width="80" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 3
+
+</td>
+      <td valign="top" width="80">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n...
+
+</td>
+      <td width="80" valign="top">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="452">
+
+Sous-total
+
+</td>
+      <td valign="top" width="72">
+      </td><td width="80" valign="top">
+    </td></tr>
+    <tr>
+      <td rowspan="5" width="452" valign="top">
+
+Article L. 214-1 (pour le droit communiquer au public un phonogramme publié à des fins de commerce).
+
+</td>
+      <td valign="top" width="72">
+
+n
+
+</td>
+      <td valign="top" width="80">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 1
+
+</td>
+      <td valign="top" width="80">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 2
+
+</td>
+      <td valign="top" width="80">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="72" valign="top">
+
+n - 3
+
+</td>
+      <td width="80" valign="top">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n...
+
+</td>
+      <td valign="top" width="80">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="452">
+
+Sous-total
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td rowspan="5" valign="top" width="452">
+
+Article L. 311-1 (pour la copie privée des œuvres sonores).
+
+</td>
+      <td width="72" valign="top">
+
+n
+
+</td>
+      <td valign="top" width="80">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 1
+
+</td>
+      <td width="80" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 2
+
+</td>
+      <td valign="top" width="80">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 3
+
+</td>
+      <td valign="top" width="80">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n...
+
+</td>
+      <td valign="top" width="80">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="452">
+
+Sous-total
+
+</td>
+      <td width="72" valign="top">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td width="452" valign="top" rowspan="5">
+
+Article L. 311-1 (pour la copie privée des œuvres audiovisuelles).
+
+</td>
+      <td width="72" valign="top">
+
+n
+
+</td>
+      <td valign="top" width="80">
+
+n
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 1
+
+</td>
+      <td width="80" valign="top">
+
+n - 1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 2
+
+</td>
+      <td width="80" valign="top">
+
+n - 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n - 3
+
+</td>
+      <td valign="top" width="80">
+
+n - 3
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="72">
+
+n...
+
+</td>
+      <td width="80" valign="top">
+
+n...
+
+</td>
+    </tr>
+    <tr>
+      <td width="452" valign="top">
+
+Sous-total
+
+</td>
+      <td width="72" valign="top">
+      </td><td valign="top" width="80">
+    </td></tr>
+    <tr>
+      <td width="452" valign="top">
+
+Total
+
+</td>
+      <td valign="top" width="72">
+      </td><td valign="top" width="80">
+    </td></tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-1040 du 18 novembre 1998 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1309 du 26 octobre 2009 - art. 2
 
 
 #### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie
