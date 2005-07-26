@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2005-05-28
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -9529,15 +9529,22 @@ délai.
 
 ###### Article L612-20
 
-A moins qu'il ne soit manifeste que l'invention n'est pas brevetable, le montant des redevances perçues pour les demandes de
-brevet et brevets au profit de l'Institut national de la propriété industrielle est réduit pour les personnes physiques
-domiciliées en France et dont les ressources sont insuffisantes pour justifier leur imposition au titre de l'impôt sur le
-revenu.
+Le montant des redevances perçues à l'occasion du dépôt, de l'examen et de la délivrance du brevet ainsi que de son maintien
+en vigueur peut être réduit lorsque le demandeur appartient à l'une des catégories suivantes :
 
-Sur leur demande, ces personnes peuvent, en outre, bénéficier de l'assistance d'un conseil en propriété industrielle, de la
-spécialité correspondante dans les procédures devant l'Institut national de la propriété industrielle.
+- personne physique ;
 
-Cette assistance est prise en charge par l'institut.
+- petite ou moyenne entreprise ;
+
+- organisme à but non lucratif du secteur de l'enseignement ou de la recherche. 
+
+Le bénéfice de la réduction est acquis sur simple déclaration. Toute fausse déclaration est constatée, à tout moment et à
+l'issue d'une procédure contradictoire, par une décision du directeur de l'Institut national de la propriété industrielle
+prise dans les conditions prévues à l'article L. 411-4. Cette décision est assortie d'une amende administrative dont le
+montant ne peut excéder dix fois le montant des redevances qui étaient dues et dont le produit est versé à l'Institut
+national de la propriété industrielle. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -9550,10 +9557,6 @@ Cette assistance est prise en charge par l'institut.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Cité par**:
 
 	  - Arrêté du 12 janvier 1996 - art. 3 (Ab)
@@ -9565,6 +9568,14 @@ Cette assistance est prise en charge par l'institut.
 	  - Code de la propriété intellectuelle - art. L611-2 (V)
 	  - Code de la propriété intellectuelle - art. R613-63 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 22 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L411-4 (V)
 
 
 ##### Section 3 : Diffusion légale des inventions
@@ -10157,57 +10168,6 @@ qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
 	  - Code de la propriété intellectuelle - art. L614-14 (V)
 	  - Code de la propriété intellectuelle - art. L622-7 (M)
 	  - Code de la propriété intellectuelle - art. L623-24 (V)
-
-
-###### Article L613-10
-
-Sur la demande du propriétaire qui désire faire une offre publique d'exploitation de l'invention, et à la condition que le
-brevet n'ait pas fait l'objet d'une licence exclusive inscrite au registre national des brevets, tout brevet peut être
-soumis, sur décision du directeur de l'Institut national de la propriété industrielle, au régime dit de la licence de droit
-s'il a fait l'objet d'un avis documentaire ne révélant pas d'antériorité affectant de façon manifeste la brevetabilité de
-l'invention.
-
-La demande prévue à l'alinéa précédent doit contenir une déclaration dans laquelle le propriétaire du brevet autorise toute
-personne de droit public ou privé à exploiter le brevet contre versement de justes redevances. La licence de droit ne peut
-être que non exclusive. A défaut d'accord entre le propriétaire du brevet et le licencié, le montant des redevances est fixé
-par le tribunal de grande instance. Le licencié peut à tout moment renoncer à la licence.
-
-La décision soumettant le brevet au régime de la licence de droit entraîne, sauf en ce qui concerne les annuités déjà échues,
-une réduction de la redevance annuelle mentionnée à l'article L. 612-19.
-
-Sur la demande du propriétaire du brevet, le directeur de l'Institut national de la propriété industrielle révoque sa
-décision. La révocation entraîne la perte du bénéfice de la réduction mentionnée à l'alinéa précédent. Elle est sans effet
-sur les licences de droit déjà obtenues ou demandées sur le brevet en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-1 1968-01-02 art. 31 bis
-	  - Loi n°68-1 du 2 janvier 1968 - art. 31 bis (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 22 () JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-19 (V)
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. L615-2 (M)
-	  - Code de la propriété intellectuelle - art. L615-5 (M)
-	  - Code de la propriété intellectuelle - art. R613-1 (Ab)
-	  - Code de la propriété intellectuelle - art. R615-1 (M)
 
 
 ###### Article L613-11
