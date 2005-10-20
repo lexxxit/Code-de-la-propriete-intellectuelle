@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2005-09-29
+Version Consolidée au 2005-10-21
 
 # Partie législative
 
@@ -21595,24 +21595,9 @@ leur exercice".
 
 #### Chapitre V : Dispositions pénales
 
-###### Article R335-1
+###### Article R*335-1-1
 
-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte :
-
-1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
-
-3° La qualité du demandeur au regard des droits qu'il invoque, attestée par tous moyens ;
-
-4° Tous éléments permettant d'identifier l'oeuvre ou la prestation contrefaites ;
-
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
-
-La demande peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans
-ce cas, elle est valable un an et peut être renouvelée.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+L'autorité administrative compétente mentionnée aux I et II de l'article R. 335-1 est le ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
@@ -21622,16 +21607,67 @@ Les modalités de présentation de la demande sont précisées par arrêté du m
 
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2005-1298 du 20 octobre 2005 - art. 2 () JORF 21 octobre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R335-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R335-1
+
+I.-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte : 
+
+1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ; 
+
+2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ; 
+
+3° La qualité du demandeur au regard des droits qu'il invoque, attestée par tous moyens ; 
+
+4° Tous éléments permettant d'identifier l'oeuvre ou la prestation contrefaites ; 
+
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ; 
+
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont
+légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté
+européenne. 
+
+II.-La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des
+marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée. 
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°94-836 du 27 septembre 1994 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
 
 	**Cité par**:
 
 	  - Arrêté du 23 septembre 2008 - art. 1 (Ab)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code de la propriété intellectuelle - art. R*335-1-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L335-10 (M)
+	  - Code de la propriété intellectuelle - art. L335-10
 
 	**Codifié par**:
 
@@ -28026,9 +28062,32 @@ afférentes à des actes intervenus postérieurement au 15 septembre 1992.
 
 #### Chapitre unique : Retenue en douane.
 
+###### Article R*521-1-1
+
+L'autorité administrative compétente mentionnée aux I et II de l'article R. 521-1 est le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-792 1992-08-13 art. 26 I
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Créé par**:
+
+	  - Décret n°2005-1298 du 20 octobre 2005 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
+
+
 ###### Article R521-1
 
-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 521-7 comporte :
+I. - La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 521-7 comporte :
 
 1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 
@@ -28039,12 +28098,16 @@ La demande de retenue de marchandises par l'administration des douanes prévue �
 4° L'objet et le numéro national du dessin ou modèle concerné, accompagné d'un certificat d'identité délivré par l'Institut
 national de la propriété industrielle ;
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
 
-La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le
-territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont
+légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté
+européenne.
 
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des
+marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
@@ -28057,13 +28120,9 @@ Les modalités de présentation de la demande sont précisées par arrêté du m
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L521-7 (M)
+	  - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
 
 
 ## Livre VI : Protection des inventions et des connaissances techniques
@@ -39366,9 +39425,36 @@ Cette radiation sera inscrite au Registre national des marques.
 
 #### Chapitre VI : Contentieux
 
+###### Article R*716-1-1
+
+L'autorité administrative compétente mentionnée aux I et II de l'article R. 716-1 est le ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-100 1992-01-30 art. 47
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+	**Modifié par**:
+
+	  - Décret n°2005-1298 du 20 octobre 2005 - art. 2 () JORF 21 octobre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R716-1 (V)
+
+
 ###### Article R716-1
 
-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
+I. -  La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
 
 1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 
@@ -39378,12 +39464,16 @@ La demande de retenue de marchandises par l'administration des douanes prévue �
 
 4° La désignation et le numéro d'enregistrement de la marque concernée ;
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
 
-La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le
-territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont
+légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté
+européenne.
 
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des
+marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
@@ -39396,13 +39486,9 @@ Les modalités de présentation de la demande sont précisées par arrêté du m
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L716-8 (M)
+	  - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
 
 	**Cité par**:
 
