@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2005-10-21
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -2345,21 +2345,20 @@ Faute par l'éditeur de fournir les justifications nécessaires, il y sera contr
 
 ###### Article L132-15
 
-Le redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat.
+La procédure de sauvegarde ou de redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat. 
 
-Lorsque l'activité est poursuivie en application des articles 31 et suivants de la loi n° 85-98 du 25 janvier 1985 relative
-au redressement et à la liquidation judiciaires des entreprises, toutes les obligations de l'éditeur à l'égard de l'auteur
-doivent être respectées.
+Lorsque l'activité est poursuivie en application des articles L. 621-22 et suivants du code de commerce, toutes les
+obligations de l'éditeur à l'égard de l'auteur doivent être respectées. 
 
-En cas de cession de l'entreprise d'édition en application des articles 81 et suivants de la loi n° 85-98 du 25 janvier 1985
-précitée, l'acquéreur est tenu des obligations du cédant.
+En cas de cession de l'entreprise d'édition en application des articles L. 621-83 et suivants du code de commerce précité,
+l'acquéreur est tenu des obligations du cédant. 
 
 Lorsque l'activité de l'entreprise a cessé depuis plus de trois mois ou lorsque la liquidation judiciaire est prononcée,
-l'auteur peut demander la résiliation du contrat.
+l'auteur peut demander la résiliation du contrat. 
 
 Le liquidateur ne peut procéder à la vente en solde des exemplaires fabriqués ni à leur réalisation dans les conditions
-prévues aux articles 155 et 156 de la loi n° 85-98 du 25 janvier 1985 précitée que quinze jours après avoir averti l'auteur
-de son intention, par lettre recommandée avec demande d'accusé de réception.
+prévues aux articles L. 622-17 et L. 622-18 du code de commerce précité que quinze jours après avoir averti l'auteur de son
+intention, par lettre recommandée avec demande d'accusé de réception. 
 
 L'auteur possède, sur tout ou partie des exemplaires, un droit de préemption. A défaut d'accord, le prix de rachat sera fixé
 à dire d'expert.
@@ -2370,19 +2369,19 @@ L'auteur possède, sur tout ou partie des exemplaires, un droit de préemption. 
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 61 (Ab)
 
-	**Cite**:
-
-	  - Loi n°85-98 1985-01-25 art. 31, art. 81, art. 155, art. 156
-	  - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 156 (Ab)
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L622-17 (V)
+	  - Code de commerce. - art. L621-22 (M)
+	  - Code de commerce. - art. L621-83 (Ab)
 
 
 ###### Article L132-16
@@ -3052,20 +3051,21 @@ l'article L. 113-3.
 
 ###### Article L132-30
 
-Le redressement judiciaire du producteur n'entraîne pas la résiliation du contrat de production audiovisuelle.
+La procédure de sauvegarde ou de redressement judiciaire du producteur n'entraîne pas la résiliation du contrat de production
+audiovisuelle. 
 
-Lorsque la réalisation ou l'exploitation de l'oeuvre est continuée en application des articles 31 et suivants de la loi n°
-85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, l'administrateur est tenu
-au respect de toutes les obligations du producteur, notamment à l'égard des coauteurs.
+Lorsque la réalisation ou l'exploitation de l'oeuvre est continuée en application des articles L. 621-22 et suivants du code
+de commerce, l'administrateur est tenu au respect de toutes les obligations du producteur, notamment à l'égard des
+coauteurs. 
 
 En cas de cession de tout ou partie de l'entreprise ou de liquidation, l'administrateur, le débiteur, le liquidateur, selon
 le cas, est tenu d'établir un lot distinct pour chaque oeuvre audiovisuelle pouvant faire l'objet d'une cession ou d'une
 vente aux enchères. Il a l'obligation d'aviser, à peine de nullité, chacun des auteurs et des coproducteurs de l'oeuvre par
 lettre recommandée, un mois avant toute décision sur la cession ou toute procédure de licitation. L'acquéreur est, de même,
-tenu aux obligations du cédant.
+tenu aux obligations du cédant. 
 
 L'auteur et les coauteurs possèdent un droit de préemption sur l'oeuvre, sauf si l'un des coproducteurs se déclare acquéreur.
-A défaut d'accord, le prix d'achat est fixé à dire d'expert.
+A défaut d'accord, le prix d'achat est fixé à dire d'expert. 
 
 Lorsque l'activité de l'entreprise a cessé depuis plus de trois mois ou lorsque la liquidation est prononcée, l'auteur et les
 coauteurs peuvent demander la résiliation du contrat de production audiovisuelle.
@@ -3076,17 +3076,17 @@ coauteurs peuvent demander la résiliation du contrat de production audiovisuell
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 63-7 (Ab)
 
-	**Cite**:
-
-	  - Loi n°85-98 1985-01-25 art. 31
-
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L621-22 (T)
 
 
 ##### Section 4 : Contrat de commande pour la publicité
@@ -37968,84 +37968,75 @@ modalités d'application du présent chapitre.
 ###### Article R631-1
 
 Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande
-instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats
-complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales en application des
-articles L. 611-2, L. 615-17, L. 622-7 et L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau
-IV annexé au code de l'organisation judiciaire, ci-après reproduit :
+instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de
+la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après
+reproduit : 
 
-Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats
-d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions
-végétales
+Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
-Tribunaux de grande instance, compétence territoriale s'étendant aux départements compris dans le ressort des cours d'appel
-de :
+**Nota:**
 
-Marseille :
-
-Aix : Aix-en-Provence, Bastia, Nîmes.
-
-Bordeaux :
-
-Bordeaux : Agen, Bordeaux, Poitiers.
-
-Strasbourg :
-
-Colmar : Colmar, Metz.
-
-Lille :
-
-Douai : Amiens, Douai.
-
-Limoges :
-
-Limoges : Bourges, Limoges, Riom.
-
-Lyon :
-
-Lyon : Chambéry, Lyon, Grenoble.
-
-Nancy :
-
-Nancy : Besançon, Dijon, Nancy.
-
-Paris :
-
-Paris : Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete,
-Mamoudzou et Saint-Pierre-et-Miquelon.
-
-Rennes :
-
-Rennes : Angers, Caen, Rennes.
-
-Toulouse :
-
-Toulouse : Pau, Montpellier, Toulouse.
+Tableau non reproduit, consulter le fac-similé du décret n° 2005-1756.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°95-385 1955-04-10
+
+	**Modifié par**:
+
+	  - Décret n°2005-1756 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2008-522 du 2 juin 2008 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. D631-1 (V)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L611-2 (V)
-	  - Code de la propriété intellectuelle - art. L615-17 (V)
-	  - Code de la propriété intellectuelle - art. L622-7 (M)
-	  - Code de la propriété intellectuelle - art. L623-31 (V)
-	  - Code de l'organisation judiciaire R312-2, annexe
+	  - Code de la propriété intellectuelle - art. L623-31
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R615-1 (M)
 
-	**Anciens textes**:
 
-	  - Code de l'organisation judiciaire R312-2
+###### Article R631-2
+
+Ainsi qu'il est dit à l'article R. 312-2-1 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de
+grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats
+complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17
+et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau IV sexties annexé au code de
+l'organisation judiciaire.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+	**Créé par**:
+
+	  - Décret n°2005-1756 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2008-522 du 2 juin 2008 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. D631-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L611-2
+	  - Code de la propriété intellectuelle - art. L615-17
+	  - Code de la propriété intellectuelle - art. L622-7
+	  - Code de l'organisation judiciaire
 
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
