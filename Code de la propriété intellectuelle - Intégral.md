@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-06-02
 
 # Partie législative
 
@@ -16159,6 +16159,47 @@ et des facteurs humains."
 
 ##### Chapitre unique
 
+###### Article L811-1
+
+Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des
+articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont
+applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et
+en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à
+L. 422-13 et L. 423-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 81 (Ab)
+	  - Loi n°68-1 du 2 janvier 1968 - art. 74 (Ab)
+	  - Loi n°70-489 du 11 juin 1970 - art. 38 (Ab)
+	  - Loi n°77-682 du 30 juin 1977 - art. 10 (Ab)
+	  - Loi n°77-683 du 30 juin 1977 - art. 17 (Ab)
+	  - Loi n°85-660 du 3 juillet 1985 - art. 63 (Ab)
+	  - Loi n°87-890 du 4 novembre 1987 - art. 8 (Ab)
+	  - Loi n°90-1052 du 26 novembre 1990 - art. 54 (Ab)
+	  - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 12 () JORF 2 juin 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-4 (M)
+	  - Code de la propriété intellectuelle - art. L423-2 (V)
+	  - Code de la propriété intellectuelle L335-4, L133-1 à L133-4, L421-1 à L422-13, L423-2
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L683-1 (M)
+
+
 ###### Article L811-2
 
 Pour l'application du présent code et des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis-
@@ -16369,55 +16410,6 @@ territoriale " est remplacée par la référence à la " collectivité départem
 	  - Code de la propriété intellectuelle - art. L717-1 (V)
 	  - Code de la propriété intellectuelle - art. L717-4 (V)
 	  - Code de la propriété intellectuelle - art. L717-7 (V)
-
-
-## Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
-
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
-
-#### Titre unique
-
-##### Chapitre unique
-
-###### Article L811-1
-
-Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des
-articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont
-applicables en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et
-en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à
-L. 422-10 et L. 423-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 81 (Ab)
-	  - Loi n°68-1 du 2 janvier 1968 - art. 74 (Ab)
-	  - Loi n°70-489 du 11 juin 1970 - art. 38 (Ab)
-	  - Loi n°77-682 du 30 juin 1977 - art. 10 (Ab)
-	  - Loi n°77-683 du 30 juin 1977 - art. 17 (Ab)
-	  - Loi n°85-660 du 3 juillet 1985 - art. 63 (Ab)
-	  - Loi n°87-890 du 4 novembre 1987 - art. 8 (Ab)
-	  - Loi n°90-1052 du 26 novembre 1990 - art. 54 (Ab)
-	  - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Modifié par**:
-
-	  - Loi n°2003-517 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er août 2003
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L335-4 (M)
-	  - Code de la propriété intellectuelle - art. L423-2 (V)
-	  - Code de la propriété intellectuelle L335-4, L133-1 à L133-4, L421-1 à L422-10, L423-2
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L683-1 (M)
 
 
 # Partie réglementaire
