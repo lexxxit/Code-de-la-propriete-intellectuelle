@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-06-02
+Version Consolidée au 2006-08-01
 
 # Partie législative
 
@@ -22835,6 +22835,38 @@ propriété industrielle et, s'il y a lieu, à toute personne appelée en cause.
 
 ##### Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales
 
+###### Article D412-4
+
+Un représentant de l'Etat, choisi parmi les membres du Conseil général de l'agriculture, de l'alimentation et des espaces
+ruraux et nommé par arrêté du ministre chargé de l'agriculture, assure la présidence du comité.
+
+Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du
+secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du
+comité.
+
+**Nota:**
+
+Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 57 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R412-10 (V)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R412-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
 ###### Article R412-1
 
 Le comité de la protection des obtentions végétales créé par l'article L. 412-1 a pour mission d'assurer : 
@@ -22926,48 +22958,6 @@ d'outre-mer, dans les conditions prévues à l'article L. 412-1.
 	**Créé par**:
 
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R412-4
-
-Le magistrat chargé d'assurer la présidence du comité est choisi parmi les magistrats de la cour d'appel de Paris ou du
-tribunal de grande instance de Paris appartenant au moins au premier grade de la hiérarchie judiciaire.
-
-Il est nommé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'agriculture.
-
-Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du
-secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du
-comité.
-
-**Nota:**
-
-NOTA : Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-454 1971-06-07 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Transféré par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 57 () JORF 8 juin 2006 en vigueur le 1er août 2006
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. D412-4 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R412-10 (V)
 
 
 ###### Article R412-5
