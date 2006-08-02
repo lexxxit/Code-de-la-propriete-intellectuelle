@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2006-08-01
+Version Consolidée au 2006-08-03
 
 # Partie législative
 
@@ -14,13 +14,20 @@ Version Consolidée au 2006-08-01
 ###### Article L111-1
 
 L'auteur d'une oeuvre de l'esprit jouit sur cette oeuvre, du seul fait de sa création, d'un droit de propriété incorporelle
-exclusif et opposable à tous.
+exclusif et opposable à tous. 
 
 Ce droit comporte des attributs d'ordre intellectuel et moral ainsi que des attributs d'ordre patrimonial, qui sont
-déterminés par les livres Ier et III du présent code.
+déterminés par les livres Ier et III du présent code. 
 
 L'existence ou la conclusion d'un contrat de louage d'ouvrage ou de service par l'auteur d'une oeuvre de l'esprit n'emporte
-aucune dérogation à la jouissance du droit reconnu par l'alinéa 1er.
+pas dérogation à la jouissance du droit reconnu par le premier alinéa, sous réserve des exceptions prévues par le présent
+code. Sous les mêmes réserves, il n'est pas non plus dérogé à la jouissance de ce même droit lorsque l'auteur de l'oeuvre de
+l'esprit est un agent de l'Etat, d'une collectivité territoriale, d'un établissement public à caractère administratif, d'une
+autorité administrative indépendante dotée de la personnalité morale ou de la Banque de France. 
+
+Les dispositions des articles L. 121-7-1 et L. 131-3-1 à L. 131-3-3 ne s'appliquent pas aux agents auteurs d'oeuvres dont la
+divulgation n'est soumise, en vertu de leur statut ou des règles qui régissent leurs fonctions, à aucun contrôle préalable de
+l'autorité hiérarchique.
 
 **Liens relatifs à cet article**
 
@@ -32,15 +39,19 @@ aucune dérogation à la jouissance du droit reconnu par l'alinéa 1er.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2006-961 du 1 août 2006 - art. 31 () JORF 3 août 2006
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L111-3 (V)
 	  - Code de la propriété intellectuelle - art. L113-6 (V)
+
+	**Cite**:
+
 	  - Code de la propriété intellectuelle - art. L121-7-1 (V)
+	  - Code de la propriété intellectuelle - art. L131-3-1 (V)
 
 
 ###### Article L111-2
@@ -851,6 +862,35 @@ n'est préjudiciable ni à son honneur ni à sa réputation ;
 	  - Code de la propriété intellectuelle - art. L122-6 (V)
 
 
+###### Article L121-7-1
+
+Le droit de divulgation reconnu à l'agent mentionné au troisième alinéa de l'article L. 111-1, qui a créé une oeuvre de
+l'esprit dans l'exercice de ses fonctions ou d'après les instructions reçues, s'exerce dans le respect des règles auxquelles
+il est soumis en sa qualité d'agent et de celles qui régissent l'organisation, le fonctionnement et l'activité de la personne
+publique qui l'emploie. 
+
+L'agent ne peut : 
+
+1° S'opposer à la modification de l'oeuvre décidée dans l'intérêt du service par l'autorité investie du pouvoir hiérarchique,
+lorsque cette modification ne porte pas atteinte à son honneur ou à sa réputation ; 
+
+2° Exercer son droit de repentir et de retrait, sauf accord de l'autorité investie du pouvoir hiérarchique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 32 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L111-1 (V)
+
+
 ###### Article L121-8
 
 L'auteur seul a le droit de réunir ses articles et ses discours en recueil et de les publier ou d'en autoriser la publication
@@ -1055,6 +1095,28 @@ Pour les oeuvres d'architecture, la reproduction consiste également dans l'exé
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+###### Article L122-3-1
+
+Dès lors que la première vente d'un ou des exemplaires matériels d'une oeuvre a été autorisée par l'auteur ou ses ayants
+droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen, la vente de ces exemplaires de cette oeuvre ne peut plus être interdite dans les Etats membres de la
+Communauté européenne et les Etats parties à l'accord sur l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 4 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L811-2-1 (V)
+
+
 ###### Article L122-4
 
 Toute représentation ou reproduction intégrale ou partielle faite sans le consentement de l'auteur ou de ses ayants droit ou
@@ -1082,37 +1144,100 @@ reproduction par un art ou un procédé quelconque.
 
 ###### Article L122-5
 
-Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
+Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire : 
 
-1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
+1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ; 
 
 2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation
 collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour
 lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les
 conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données
-électronique;
+électronique ; 
 
-3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
+3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source : 
 
 a) Les analyses et courtes citations justifiées par le caractère critique, polémique, pédagogique, scientifique ou
-d'information de l'oeuvre à laquelle elles sont incorporées ;
+d'information de l'oeuvre à laquelle elles sont incorporées ; 
 
-b) Les revues de presse ;
+b) Les revues de presse ; 
 
 c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, à titre d'information d'actualité, des discours
 destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les
-réunions publiques d'ordre politique et les cérémonies officielles ;
+réunions publiques d'ordre politique et les cérémonies officielles ; 
 
 d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue
 d'une vente judiciaire effectuée en France pour les exemplaires mis à la disposition du public avant la vente dans le seul
-but de décrire les oeuvres d'art mises en vente.
+but de décrire les oeuvres d'art mises en vente ; 
 
-Un décret en Conseil d'Etat fixe les caractéristiques des documents et les conditions de leur distribution.
+e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des oeuvres conçues à des fins pédagogiques, des
+partitions de musique et des oeuvres réalisées pour une édition numérique de l'écrit, à des fins exclusives d'illustration
+dans le cadre de l'enseignement et de la recherche, à l'exclusion de toute activité ludique ou récréative, dès lors que le
+public auquel cette représentation ou cette reproduction est destinée est composé majoritairement d'élèves, d'étudiants,
+d'enseignants ou de chercheurs directement concernés, que l'utilisation de cette représentation ou cette reproduction ne
+donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire
+sans préjudice de la cession du droit de reproduction par reprographie mentionnée à l'article L. 122-10 ; 
 
-4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
+4° La parodie, le pastiche et la caricature, compte tenu des lois du genre ; 
 
 5° Les actes nécessaires à l'accès au contenu d'une base de données électronique pour les besoins et dans les limites de
-l'utilisation prévue par contrat.
+l'utilisation prévue par contrat ; 
+
+6° La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et
+essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'oeuvre ou sa
+transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette reproduction provisoire
+qui ne peut porter que sur des oeuvres autres que les logiciels et les bases de données ne doit pas avoir de valeur
+économique propre ; 
+
+7° La reproduction et la représentation par des personnes morales et par les établissements ouverts au public, tels que
+bibliothèques, archives, centres de documentation et espaces culturels multimédias, en vue d'une consultation strictement
+personnelle de l'oeuvre par des personnes atteintes d'une ou de plusieurs déficiences des fonctions motrices, physiques,
+sensorielles, mentales, cognitives ou psychiques, dont le niveau d'incapacité est égal ou supérieur à un taux fixé par décret
+en Conseil d'Etat, et reconnues par la commission départementale de l'éducation spécialisée, la commission technique
+d'orientation et de reclassement professionnel ou la commission des droits et de l'autonomie des personnes handicapées
+mentionnée à l'article L. 146-9 du code de l'action sociale et des familles, ou reconnues par certificat médical comme
+empêchées de lire après correction. Cette reproduction et cette représentation sont assurées, à des fins non lucratives et
+dans la mesure requise par le handicap, par les personnes morales et les établissements mentionnés au présent alinéa, dont la
+liste est arrêtée par l'autorité administrative. 
+
+Les personnes morales et établissements mentionnés au premier alinéa du présent 7° doivent apporter la preuve de leur
+activité professionnelle effective de conception, de réalisation et de communication de supports au bénéfice des personnes
+physiques mentionnées au même alinéa par référence à leur objet social, à l'importance de leurs membres ou usagers, aux
+moyens matériels et humains dont ils disposent et aux services qu'ils rendent. 
+
+A la demande des personnes morales et des établissements mentionnés au premier alinéa du présent 7°, formulée dans les deux
+ans suivant le dépôt légal des oeuvres imprimées, les fichiers numériques ayant servi à l'édition de ces oeuvres sont déposés
+au Centre national du livre ou auprès d'un organisme désigné par décret qui les met à leur disposition dans un standard
+ouvert au sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. Le Centre
+national du livre ou l'organisme désigné par décret garantit la confidentialité de ces fichiers et la sécurisation de leur
+accès ; 
+
+8° La reproduction d'une oeuvre, effectuée à des fins de conservation ou destinée à préserver les conditions de sa
+consultation sur place par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous
+réserve que ceux-ci ne recherchent aucun avantage économique ou commercial ; 
+
+9° La reproduction ou la représentation, intégrale ou partielle, d'une oeuvre d'art graphique, plastique ou architecturale,
+par voie de presse écrite, audiovisuelle ou en ligne, dans un but exclusif d'information immédiate et en relation directe
+avec cette dernière, sous réserve d'indiquer clairement le nom de l'auteur. 
+
+Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-
+mêmes à rendre compte de l'information. 
+
+Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion
+avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent
+lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés. 
+
+Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'oeuvre ni causer un
+préjudice injustifié aux intérêts légitimes de l'auteur. 
+
+Les modalités d'application du présent article, notamment les caractéristiques et les conditions de distribution des
+documents mentionnés au d du 3°, l'autorité administrative mentionnée au 7°, ainsi que les conditions de désignation des
+organismes dépositaires et d'accès aux fichiers numériques mentionnés au troisième alinéa du 7°, sont précisées par décret en
+Conseil d'Etat.
+
+**Nota:**
+
+Loi 2006-961 2006-08-01 art. 1 : Les dispositions du e du 3° de l'article L. 122-5 du code de la propriété intellectuelle
+s'appliquent à compter du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -1124,13 +1249,16 @@ l'utilisation prévue par contrat.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+	  - Loi n°2004-575 du 21 juin 2004 - art. 4 (V)
+	  - Code de la propriété intellectuelle - art. L122-10 (V)
+	  - Code de la propriété intellectuelle - art. L122-6-1 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2000-642 du 10 juillet 2000 - art. 47 () JORF 11 juillet 2000
+	  - Loi n°2006-961 du 1 août 2006 - art. 1 (V) JORF 3 août 2006
 
 	**Cité par**:
 
@@ -1162,10 +1290,6 @@ l'utilisation prévue par contrat.
 	  - Code de la propriété intellectuelle - art. R122-18 (V)
 	  - Code de la propriété intellectuelle - art. R122-19 (V)
 	  - Code de la propriété intellectuelle - art. R122-20 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L122-6-1 (V)
 
 
 ###### Article L122-6
@@ -1330,17 +1454,51 @@ modes d'exploitation prévus au contrat.
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+###### Article L122-7-1
+
+L'auteur est libre de mettre ses oeuvres gratuitement à la disposition du public, sous réserve des droits des éventuels
+coauteurs et de ceux des tiers ainsi que dans le respect des conventions qu'il a conclues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 1 (V) JORF 3 août 2006
+
+
 ###### Article L122-8
 
-Les auteurs d'oeuvres graphiques et plastiques ont, nonobstant toute cession de l'oeuvre originale, un droit inaliénable de
-participation au produit de toute vente de cette oeuvre faite aux enchères publiques ou par l'intermédiaire d'un commerçant.
+Les auteurs d'oeuvres originales graphiques et plastiques ressortissants d'un Etat membre de la Communauté européenne ou d'un
+Etat partie à l'accord sur l'Espace économique européen bénéficient d'un droit de suite, qui est un droit inaliénable de
+participation au produit de toute vente d'une oeuvre après la première cession opérée par l'auteur ou par ses ayants droit,
+lorsque intervient en tant que vendeur, acheteur ou intermédiaire un professionnel du marché de l'art. Par dérogation, ce
+droit ne s'applique pas lorsque le vendeur a acquis l'oeuvre directement de l'auteur moins de trois ans avant cette vente et
+que le prix de vente ne dépasse pas 10 000 euros.
 
-Le tarif du droit perçu est fixé uniformément à 3 p. 100 applicables seulement à partir d'un prix de vente fixé par voie
-réglementaire.
+On entend par oeuvres originales au sens du présent article les oeuvres créées par l'artiste lui-même et les exemplaires
+exécutés en quantité limitée par l'artiste lui-même ou sous sa responsabilité.
 
-Ce droit est prélevé sur le prix de vente de chaque oeuvre et sur le total du prix sans aucune déduction à la base. Un décret
-en Conseil d'Etat détermine les conditions dans lesquelles les auteurs feront valoir à l'occasion des ventes prévues au
-premier alinéa les droits qui leur sont reconnus par les dispositions du présent article.
+Le droit de suite est à la charge du vendeur. La responsabilité de son paiement incombe au professionnel intervenant dans la
+vente et, si la cession s'opère entre deux professionnels, au vendeur.
+
+Les professionnels du marché de l'art visés au premier alinéa doivent délivrer à l'auteur ou à une société de perception et
+de répartition du droit de suite toute information nécessaire à la liquidation des sommes dues au titre du droit de suite
+pendant une période de trois ans à compter de la vente.
+
+Les auteurs non ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen et leurs ayants droit sont admis au bénéfice de la protection prévue au présent article si la législation
+de l'Etat dont ils sont ressortissants admet la protection du droit de suite des auteurs des Etats membres et de leurs ayants
+droit.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article et notamment le montant et les modalités
+de calcul du droit à percevoir, ainsi que le prix de vente au-dessus duquel les ventes sont soumises à ce droit. Il précise
+également les conditions dans lesquelles les auteurs non ressortissants d'un Etat membre de la Communauté européenne ou d'un
+Etat partie à l'accord sur l'Espace économique européen qui ont leur résidence habituelle en France et ont participé à la vie
+de l'art en France pendant au moins cinq ans peuvent demander à bénéficier de la protection prévue au présent article.
 
 **Liens relatifs à cet article**
 
@@ -1352,9 +1510,9 @@ premier alinéa les droits qui leur sont reconnus par les dispositions du prése
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2006-961 du 1 août 2006 - art. 48 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -1959,6 +2117,78 @@ la profession et à verser à l'auteur, en cas d'adaptation, une rémunération 
 	  - Code de la propriété intellectuelle - art. L132-17-2 (V)
 
 
+###### Article L131-3-1
+
+Dans la mesure strictement nécessaire à l'accomplissement d'une mission de service public, le droit d'exploitation d'une
+oeuvre créée par un agent de l'Etat dans l'exercice de ses fonctions ou d'après les instructions reçues est, dès la création,
+cédé de plein droit à l'Etat.
+
+Pour l'exploitation commerciale de l'oeuvre mentionnée au premier alinéa, l'Etat ne dispose envers l'agent auteur que d'un
+droit de préférence. Cette disposition n'est pas applicable dans le cas d'activités de recherche scientifique d'un
+établissement public à caractère scientifique et technologique ou d'un établissement public à caractère scientifique,
+culturel et professionnel, lorsque ces activités font l'objet d'un contrat avec une personne morale de droit privé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 33 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L111-1 (V)
+	  - Code de la propriété intellectuelle - art. L131-3-2 (V)
+	  - Code de la propriété intellectuelle - art. L131-3-3 (V)
+
+
+###### Article L131-3-2
+
+Les dispositions de l'article L. 131-3-1 s'appliquent aux collectivités territoriales, aux établissements publics à caractère
+administratif, aux autorités administratives indépendantes dotées de la personnalité morale et à la Banque de France à propos
+des oeuvres créées par leurs agents dans l'exercice de leurs fonctions ou d'après les instructions reçues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 33 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L131-3-1 (V)
+
+
+###### Article L131-3-3
+
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 131-3-1 et L. 131-3-2. Il définit en particulier
+les conditions dans lesquelles un agent, auteur d'une oeuvre, peut être intéressé aux produits tirés de son exploitation
+quand la personne publique qui l'emploie, cessionnaire du droit d'exploitation, a retiré un avantage d'une exploitation non
+commerciale de cette oeuvre ou d'une exploitation commerciale dans le cas prévu par la dernière phrase du dernier alinéa de
+l'article L. 131-3-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 33 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L131-3-1 (V)
+
+
 ###### Article L131-4
 
 La cession par l'auteur de ses droits sur son oeuvre peut être totale ou partielle. Elle doit comporter au profit de l'auteur
@@ -2110,6 +2340,40 @@ présent code, les auteurs, compositeurs et artistes bénéficient du privilège
 	  - Code de la propriété intellectuelle - art. L112-2 (V)
 	  - Code civil - art. 2331 (V)
 	  - Code civil - art. 2375 (V)
+
+
+###### Article L131-9
+
+Le contrat mentionne la faculté pour le producteur de recourir aux mesures techniques prévues à l'article L. 331-5 ainsi
+qu'aux informations sous forme électronique prévues à l'article L. 331-22 en précisant les objectifs poursuivis pour chaque
+mode d'exploitation, de même que les conditions dans lesquelles l'auteur peut avoir accès aux caractéristiques essentielles
+desdites mesures techniques ou informations sous forme électronique auxquelles le producteur a effectivement recours pour
+assurer l'exploitation de l'oeuvre.
+
+**Nota:**
+
+Loi n° 2006-961 2006-08-01 art. 11 III : Les dispositions des I et II de l'article 11 de la loi 2006-961 s'appliquent aux
+contrats conclus à compter de l'entrée en vigueur de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 11 (V) JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L212-11 (T)
+	  - Code de la propriété intellectuelle - art. L212-3-6 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-22 (V)
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
 
 
 ##### Chapitre II : Dispositions particulières à certains contrats
@@ -2697,7 +2961,13 @@ lieu accessible au public ;
 3° L'autorisation de télédiffuser l'oeuvre par voie hertzienne ne comprend pas son émission vers un satellite permettant la
 réception de cette oeuvre par l'intermédiaire d'organismes tiers, à moins que les auteurs ou leurs ayants droit aient
 contractuellement autorisé ces organismes à communiquer l'oeuvre au public ; dans ce cas, l'organisme d'émission est exonéré
-du paiement de toute rémunération.
+du paiement de toute rémunération ;
+
+4° L'autorisation de télédiffuser une oeuvre par voie hertzienne comprend la distribution à des fins non commerciales de
+cette télédiffusion sur les réseaux internes aux immeubles ou ensembles d'immeubles collectifs à usage d'habitation installés
+par leurs propriétaires ou copropriétaires, ou par les mandataires de ces derniers, à seule fin de permettre le raccordement
+de chaque logement de ces mêmes immeubles ou ensembles d'immeubles collectifs à usage d'habitation à des dispositifs
+collectifs de réception des télédiffusions par voie hertzienne normalement reçues dans la zone.
 
 **Liens relatifs à cet article**
 
@@ -2710,9 +2980,9 @@ du paiement de toute rémunération.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2006-961 du 1 août 2006 - art. 30 () JORF 3 août 2006
 
 
 ###### Article L132-20-1
@@ -2923,11 +3193,16 @@ de cette conservation.
 
 ###### Article L132-25
 
-La rémunération des auteurs est due pour chaque mode d'exploitation.
+La rémunération des auteurs est due pour chaque mode d'exploitation. 
 
 Sous réserve des dispositions de l'article L. 131-4, lorsque le public paie un prix pour recevoir communication d'une oeuvre
 audiovisuelle déterminée et individualisable, la rémunération est proportionnelle à ce prix, compte tenu des tarifs
-dégressifs éventuels accordés par le distributeur à l'exploitant ; elle est versée aux auteurs par le producteur.
+dégressifs éventuels accordés par le distributeur à l'exploitant ; elle est versée aux auteurs par le producteur. 
+
+Les accords relatifs à la rémunération des auteurs conclus entre les organismes professionnels d'auteurs ou les sociétés de
+perception et de répartition des droits mentionnées au titre II du livre III et les organisations représentatives d'un
+secteur d'activité peuvent être rendus obligatoires à l'ensemble des intéressés du secteur d'activité concerné par arrêté du
+ministre chargé de la culture.
 
 **Liens relatifs à cet article**
 
@@ -2939,10 +3214,6 @@ dégressifs éventuels accordés par le distributeur à l'exploitant ; elle est 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Cité par**:
 
 	  - Décret n°99-130 du 24 février 1999 - art. 11-1 (V)
@@ -2951,9 +3222,13 @@ dégressifs éventuels accordés par le distributeur à l'exploitant ; elle est 
 	  - Code du cinéma et de l'image animée - art. 211-18 (V)
 	  - Code du cinéma et de l'image animée - art. L213-36 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 38 () JORF 3 août 2006
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L131-4 (M)
+	  - Code de la propriété intellectuelle - art. L131-4 (V)
 
 
 ###### Article L132-26
@@ -3429,12 +3704,12 @@ notamment s'il n'y a pas d'ayant droit connu, ou en cas de vacance ou déshéren
 
 ###### Article L211-3
 
-Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
+Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire : 
 
-1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
+1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ; 
 
 2° Les reproductions strictement réservées à l'usage privé de la personne qui les réalise et non destinées à une utilisation
-collective ;
+collective ; 
 
 3° Sous réserve d'éléments suffisants d'identification de la source :
 
@@ -3447,7 +3722,36 @@ d'information de l'oeuvre à laquelle elles sont incorporées ;
 politiques, administratives, judiciaires ou académiques, ainsi que dans les réunions publiques d'ordre politique et les
 cérémonies officielles ;
 
-4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
+- la communication au public ou la reproduction d'extraits d'objets protégés par un droit voisin, sous réserve des objets
+conçus à des fins pédagogiques, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, à
+l'exclusion de toute activité ludique ou récréative, dès lors que le public auquel cette communication ou cette reproduction
+est destinée est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que
+l'utilisation de cette communication ou cette reproduction ne donne lieu à aucune exploitation commerciale et qu'elle est
+compensée par une rémunération négociée sur une base forfaitaire ; 
+
+4° La parodie, le pastiche et la caricature, compte tenu des lois du genre ; 
+
+5° La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et
+essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'objet protégé par un
+droit voisin ou sa transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette
+reproduction provisoire ne doit pas avoir de valeur économique propre ; 
+
+6° La reproduction et la communication au public d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme
+dans les conditions définies aux deux premiers alinéas du 7° de l'article L. 122-5 ; 
+
+7° Les actes de reproduction d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme réalisés à des fins
+de conservation ou destinés à préserver les conditions de sa consultation sur place, effectués par des bibliothèques
+accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage
+économique ou commercial. 
+
+Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'interprétation, du
+phonogramme, du vidéogramme ou du programme ni causer un préjudice injustifié aux intérêts légitimes de l'artiste-interprète,
+du producteur ou de l'entreprise de communication audiovisuelle.
+
+**Nota:**
+
+Loi 2006-961 2006-08-01 art. 2 : Les dispositions du dernier alinéa du 3° de l'article L. 211-3 du code de la propriété
+intellectuelle s'appliquent à compter du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -3459,9 +3763,9 @@ cérémonies officielles ;
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2006-961 du 1 août 2006 - art. 2 (V) JORF 3 août 2006
 
 	**Cité par**:
 
@@ -3475,24 +3779,34 @@ cérémonies officielles ;
 	  - Code de la propriété intellectuelle - art. L331-9 (VD)
 	  - Code de la propriété intellectuelle - art. R211-1 (V)
 
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+
 
 ###### Article L211-4
 
-La durée des droits patrimoniaux objet du présent titre est de cinquante années à compter du 1er janvier de l'année civile
-suivant celle :
+La durée des droits patrimoniaux objets du présent titre est de cinquante années à compter du 1er janvier de l'année civile
+suivant celle : 
 
-- de l'interprétation pour les artistes interprètes ;
+1° De l'interprétation pour les artistes-interprètes. Toutefois, si une fixation de l'interprétation fait l'objet d'une mise
+à disposition du public, par des exemplaires matériels, ou d'une communication au public pendant la période définie au
+premier alinéa, les droits patrimoniaux de l'artiste-interprète n'expirent que cinquante ans après le 1er janvier de l'année
+civile suivant le premier de ces faits ; 
 
-- de la première fixation d'une séquence de son pour les producteurs de phonogrammes et d'une séquence d'images sonorisée ou
-non pour les producteurs de vidéogrammes ;
+2° De la première fixation d'une séquence de son pour les producteurs de phonogrammes. Toutefois, si un phonogramme fait
+l'objet, par des exemplaires matériels, d'une mise à disposition du public pendant la période définie au premier alinéa, les
+droits patrimoniaux du producteur du phonogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant
+ce fait. En l'absence de mise à disposition du public, ses droits expirent cinquante ans après le 1er janvier de l'année
+civile suivant la première communication au public ; 
 
-- de la première communication au public des programmes visés à l'article L. 216-1 pour les entreprises de communication
-audiovisuelle.
+3° De la première fixation d'une séquence d'images sonorisées ou non pour les producteurs de vidéogrammes. Toutefois, si un
+vidéogramme fait l'objet, par des exemplaires matériels, d'une mise à disposition du public ou d'une communication au public
+pendant la période définie au premier alinéa, les droits patrimoniaux du producteur du vidéogramme n'expirent que cinquante
+ans après le 1er janvier de l'année civile suivant le premier de ces faits ; 
 
-Toutefois, si une fixation de l'interprétation, un phonogramme ou un vidéogramme font l'objet d'une communication au public
-pendant la période définie aux trois premiers alinéas, les droits patrimoniaux de l'artiste-interprète ou du producteur du
-phonogramme ou du vidéogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant cette communication
-au public.
+4° De la première communication au public des programmes mentionnés à l'article L. 216-1 pour des entreprises de
+communication audiovisuelle.
 
 **Liens relatifs à cet article**
 
@@ -3504,13 +3818,9 @@ au public.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 16 I *date d'effet*, art. 19 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°97-283 du 27 mars 1997 - art. 11 () JORF 28 mars 1997 en vigueur le 1er juillet 1995
+	  - Loi n°2006-961 du 1 août 2006 - art. 7 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -3548,6 +3858,29 @@ prévue dans le pays dont ils sont ressortissants sans que cette durée puisse e
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L211-4 (V)
+
+
+###### Article L211-6
+
+Dès lors que la première vente d'un ou des exemplaires matériels d'une fixation protégée par un droit voisin a été autorisée
+par le titulaire du droit ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen, la vente de ces exemplaires de cette fixation ne peut plus être
+interdite dans les Etats membres de la Communauté européenne et les Etats parties à l'accord sur l'Espace économique
+européen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 4 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L811-2-1 (V)
 
 
 ##### Chapitre II : Droits des artistes-interprètes
@@ -3738,8 +4071,7 @@ application du contrat excédant les bases fixées par la convention collective 
 
 Les contrats passés antérieurement au 1er janvier 1986 entre un artiste-interprète et un producteur d'oeuvre audiovisuelle ou
 leurs cessionnaires sont soumis aux dispositions qui précèdent, en ce qui concerne les modes d'exploitation qu'ils
-excluaient. La rémunération correspondante n'a pas le caractère de salaire. Ce droit à rémunération s'éteint au décès de
-l'artiste-interprète.
+excluaient. La rémunération correspondante n'a pas le caractère de salaire.
 
 **Liens relatifs à cet article**
 
@@ -3751,9 +4083,9 @@ l'artiste-interprète.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2006-961 du 1 août 2006 - art. 8 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -3851,6 +4183,40 @@ accessoire à un événement constituant le sujet principal d'une séquence d'un
 	  - Code de la propriété intellectuelle - art. L212-3-5 (V)
 
 
+###### Article L212-11
+
+Les dispositions de l'article L. 131-9 sont applicables aux contrats valant autorisation d'exploitation en application des
+articles L. 212-3 et L. 212-4, entre les producteurs et les artistes-interprètes.
+
+**Nota:**
+
+Loi 2006-961 2006-08-01 art. 11 III : Les dispositions des I et II de l'article 11 de la loi n° 2006-961 s'appliquent aux
+contrats conclus à compter de l'entrée en vigueur de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 11 (V) JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2016-925 du 7 juillet 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L131-9
+	  - Code de la propriété intellectuelle - art. L212-3
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L212-3-6 (V)
+
+
 ##### Chapitre III : Droits des producteurs de phonogrammes
 
 ###### Article L213-1
@@ -3891,19 +4257,26 @@ vente, l'échange ou le louage, ou communication au public de son phonogramme au
 
 ###### Article L214-1
 
-Lorsqu'un phonogramme a été publié à des fins de commerce, l'artiste-interprète et le producteur ne peuvent s'opposer :
+Lorsqu'un phonogramme a été publié à des fins de commerce, l'artiste-interprète et le producteur ne peuvent s'opposer : 
 
-1° A sa communication directe dans un lieu public, dès lors qu'il n'est pas utilisé dans un spectacle ;
+1° A sa communication directe dans un lieu public, dès lors qu'il n'est pas utilisé dans un spectacle ; 
 
-2° A sa radiodiffusion, non plus qu'à la distribution par câble simultanée et intégrale de cette radiodiffusion.
+2° A sa radiodiffusion et à sa câblo-distribution simultanée et intégrale, ainsi qu'à sa reproduction strictement réservée à
+ces fins, effectuée par ou pour le compte d'entreprises de communication audiovisuelle en vue de sonoriser leurs programmes
+propres diffusés sur leur antenne ainsi que sur celles des entreprises de communication audiovisuelle qui acquittent la
+rémunération équitable. 
+
+Dans tous les autres cas, il incombe aux producteurs desdits programmes de se conformer au droit exclusif des titulaires de
+droits voisins prévu aux articles L. 212-3 et L. 213-1. 
 
 Ces utilisations des phonogrammes publiés à des fins de commerce, quel que soit le lieu de fixation de ces phonogrammes,
-ouvrent droit à rémunération au profit des artistes-interprètes et des producteurs.    Cette rémunération est versée par les
-personnes qui utilisent les phonogrammes publiés à des fins de commerce dans les conditions mentionnées aux 1° et 2° du
-présent article.
+ouvrent droit à rémunération au profit des artistes-interprètes et des producteurs. 
+
+Cette rémunération est versée par les personnes qui utilisent les phonogrammes publiés à des fins de commerce dans les
+conditions mentionnées aux 1° et 2° du présent article. 
 
 Elle est assise sur les recettes de l'exploitation ou, à défaut, évaluée forfaitairement dans les cas prévus à l'article L.
-131-4.
+131-4. 
 
 Elle est répartie par moitié entre les artistes-interprètes et les producteurs de phonogrammes.
 
@@ -3916,10 +4289,6 @@ Elle est répartie par moitié entre les artistes-interprètes et les producteur
 	**Codifié par**:
 
 	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 	**Cité par**:
 
@@ -3936,16 +4305,21 @@ Elle est répartie par moitié entre les artistes-interprètes et les producteur
 	  - Code de la propriété intellectuelle - art. L311-2 (V)
 	  - Code de la propriété intellectuelle - art. L321-9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 5 () JORF 3 août 2006
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L131-4 (M)
+	  - Code de la propriété intellectuelle - art. L131-4 (V)
+	  - Code de la propriété intellectuelle - art. L212-3 (V)
 
 
 ###### Article L214-2
 
 Sous réserve des conventions internationales, les droits à rémunération reconnus par les dispositions de l'article L. 214-1
 sont répartis entre les artistes-interprètes et les producteurs de phonogrammes pour les phonogrammes fixés pour la première
-fois en France.
+fois dans un Etat membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -3957,13 +4331,13 @@ fois en France.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2006-961 du 1 août 2006 - art. 46 () JORF 3 août 2006
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L214-1 (M)
+	  - Code de la propriété intellectuelle - art. L214-1 (V)
 
 
 ###### Article L214-3
@@ -4151,6 +4525,26 @@ régime applicable à ce service.
 	  - Code de la propriété intellectuelle - art. L211-4 (V)
 
 
+###### Article L216-2
+
+L'autorisation de télédiffuser par voie hertzienne la prestation d'un artiste-interprète, un phonogramme, un vidéogramme ou
+les programmes d'une entreprise de communication audiovisuelle comprend la distribution à des fins non commerciales de cette
+télédiffusion sur les réseaux internes aux immeubles ou ensembles d'immeubles collectifs à usage d'habitation installés par
+leurs propriétaires ou copropriétaires, ou par les mandataires de ces derniers, à seule fin de permettre le raccordement de
+chaque logement de ces mêmes immeubles ou ensembles d'immeubles collectifs à usage d'habitation à des dispositifs collectifs
+de réception des télédiffusions par voie hertzienne normalement reçues dans la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 30 () JORF 3 août 2006
+
+
 ##### Chapitre VII : Dispositions applicables à la télédiffusion par satellite et à la retransmission par câble
 
 ###### Article L217-1
@@ -4319,7 +4713,7 @@ reproduction réalisée, dans les conditions prévues au 2° de l'article L. 122
 
 Sous réserve des conventions internationales, le droit à rémunération mentionné à l'article L. 214-1 et au premier alinéa de
 l'article L. 311-1 est réparti entre les auteurs, les artistes-interprètes, producteurs de phonogrammes ou de vidéogrammes
-pour les phonogrammes et vidéogrammes fixés pour la première fois en France.
+pour les phonogrammes et vidéogrammes fixés pour la première fois dans un Etat membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -4333,12 +4727,12 @@ pour les phonogrammes et vidéogrammes fixés pour la première fois en France.
 
 	**Modifié par**:
 
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
+	  - Loi n°2006-961 du 1 août 2006 - art. 46 () JORF 3 août 2006
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L214-1 (M)
-	  - Code de la propriété intellectuelle L214-1, L311-1 al. 1
+	  - Code de la propriété intellectuelle - art. L214-1 (V)
+	  - Code de la propriété intellectuelle - art. L311-1 (V)
 
 
 ###### Article L311-3
@@ -4375,16 +4769,15 @@ deuxième alinéa de l'article L. 131-4.
 La rémunération prévue à l'article L. 311-3 est versée par le fabricant, l'importateur ou la personne qui réalise des
 acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du code général des impôts, de supports
 d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres, lors de la mise en circulation en France de ces
-supports.
+supports. 
 
-Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet.
+Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet. 
+
+Ce montant tient compte du degré d'utilisation des mesures techniques définies à l'article L. 331-5 et de leur incidence sur
+les usages relevant de l'exception pour copie privée. Il ne peut porter rémunération des actes de copie privée ayant déjà
+donné lieu à compensation financière.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 256 bis
-	  - Code de la propriété intellectuelle - art. L311-3 (M)
 
 	**Anciens textes**:
 
@@ -4396,7 +4789,13 @@ Le montant de la rémunération est fonction du type de support et de la durée 
 
 	**Modifié par**:
 
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 15 () JORF 18 juillet 2001
+	  - Loi n°2006-961 du 1 août 2006 - art. 9 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L311-3 (V)
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 256 bis (V)
 
 	**Cité par**:
 
@@ -4419,7 +4818,8 @@ Les organisations appelées à désigner les membres de la commission ainsi que 
 désigner sont déterminées par arrêté du ministre chargé de la culture.
 
 La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix
-prépondérante.
+prépondérante. Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret.
+La commission publie un rapport annuel, transmis au Parlement.
 
 Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde
 délibération.
@@ -4438,7 +4838,7 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 10 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -4629,11 +5029,18 @@ les utilisateurs de tout ou partie de leur répertoire sont des actes civils.
 Les projets de statuts et de règlements généraux des sociétés de perception et de répartition des droits sont adressés au
 ministre chargé de la culture.
 
-Dans le mois de leur réception, le ministre peut saisir le tribunal de grande instance au cas où des motifs réels et sérieux
-s'opposeraient à la constitution d'une de ces sociétés.
+Dans les deux mois de leur réception, le ministre peut saisir le tribunal de grande instance au cas où des motifs réels et
+sérieux s'opposeraient à la constitution d'une de ces sociétés.
 
 Le tribunal apprécie la qualification professionnelle des fondateurs de ces sociétés, les moyens humains et matériels qu'ils
-proposent de mettre en oeuvre pour assurer le recouvrement des droits et l'exploitation de leur répertoire.
+proposent de mettre en oeuvre pour assurer le recouvrement des droits et l'exploitation de leur répertoire ainsi que la
+conformité de leurs statuts et de leur règlement général à la réglementation en vigueur.
+
+Le ministre chargé de la culture peut, à tout moment, saisir le tribunal de grande instance pour demander l'annulation des
+dispositions des statuts, du règlement général ou d'une décision des organes sociaux non conformes à la réglementation en
+vigueur dès lors que ses observations tendant à la mise en conformité de ces dispositions ou cette décision n'ont pas été
+suivies d'effet dans un délai de deux mois à compter de leur transmission, ou de six mois si une décision de l'assemblée des
+associés est nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -4647,7 +5054,7 @@ proposent de mettre en oeuvre pour assurer le recouvrement des droits et l'explo
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 34 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -4930,6 +5337,9 @@ répartition des droits ainsi que la copie des conventions passées avec les tie
 Le ministre chargé de la culture ou son représentant peut recueillir, sur pièces et sur place, les renseignements mentionnés
 au présent article.
 
+Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions
+fixées par le Comité de la réglementation comptable.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -4942,7 +5352,7 @@ au présent article.
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 35 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -5029,6 +5439,8 @@ applicables devant elle.
 
 ##### Chapitre Ier : Dispositions générales
 
+##### Section 1 : Règles générales de procédure
+
 ###### Article L331-1
 
 Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des
@@ -5060,7 +5472,7 @@ intérêts dont ils ont statutairement la charge.
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
 
 
 ###### Article L331-2
@@ -5085,7 +5497,7 @@ Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -5116,13 +5528,9 @@ le ministère public ou la partie lésée.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
 
 	**Cite**:
 
@@ -5136,8 +5544,97 @@ le ministère public ou la partie lésée.
 ###### Article L331-4
 
 Les droits mentionnés dans la première partie du présent code ne peuvent faire échec aux actes nécessaires à
-l'accomplissement d'une procédure juridictionnelle ou administrative prévue par la loi, ou entrepris à des fins de sécurité
-publique.
+l'accomplissement d'une procédure parlementaire de contrôle, juridictionnelle ou administrative prévue par la loi, ou
+entrepris à des fins de sécurité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 12 () JORF 3 août 2006
+	  - Loi n°2006-961 du 1 août 2006 - art. 6 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L331-39 (MMN)
+	  - Code de la propriété intellectuelle - art. R329-7 (V)
+	  - Code de la propriété intellectuelle - art. R331-9 (V)
+
+
+##### Section 2 : Mesures techniques de protection et d'information
+
+###### Article L331-5
+
+Les mesures techniques efficaces destinées à empêcher ou à limiter les utilisations non autorisées par les titulaires d'un
+droit d'auteur ou d'un droit voisin du droit d'auteur d'une oeuvre, autre qu'un logiciel, d'une interprétation, d'un
+phonogramme, d'un vidéogramme ou d'un programme sont protégées dans les conditions prévues au présent titre. 
+
+On entend par mesure technique au sens du premier alinéa toute technologie, dispositif, composant qui, dans le cadre normal
+de son fonctionnement, accomplit la fonction prévue par cet alinéa. Ces mesures techniques sont réputées efficaces lorsqu'une
+utilisation visée au même alinéa est contrôlée par les titulaires de droits grâce à l'application d'un code d'accès, d'un
+procédé de protection tel que le cryptage, le brouillage ou toute autre transformation de l'objet de la protection ou d'un
+mécanisme de contrôle de la copie qui atteint cet objectif de protection. 
+
+Un protocole, un format, une méthode de cryptage, de brouillage ou de transformation ne constitue pas en tant que tel une
+mesure technique au sens du présent article. 
+
+Les mesures techniques ne doivent pas avoir pour effet d'empêcher la mise en oeuvre effective de l'interopérabilité, dans le
+respect du droit d'auteur. Les fournisseurs de mesures techniques donnent l'accès aux informations essentielles à
+l'interopérabilité dans les conditions définies aux articles L. 331-6 et L. 331-7. 
+
+Les dispositions du présent chapitre ne remettent pas en cause la protection juridique résultant des articles 79-1 à 79-6 et
+de l'article 95 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication. 
+
+Les mesures techniques ne peuvent s'opposer au libre usage de l'oeuvre ou de l'objet protégé dans les limites des droits
+prévus par le présent code, ainsi que de ceux accordés par les détenteurs de droits. 
+
+Les dispositions du présent article s'appliquent sans préjudice des dispositions de l'article L. 122-6-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 79-1 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 95 (V)
+	  - Code de la propriété intellectuelle - art. L122-6-1 (V)
+	  - Code de la propriété intellectuelle - art. L331-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 13 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Loi n°2009-669 du 12 juin 2009 - art. 19 (V)
+	  - Code de la propriété intellectuelle - art. L131-9 (V)
+	  - Code de la propriété intellectuelle - art. L311-4 (V)
+	  - Code de la propriété intellectuelle - art. L331-13 (VD)
+	  - Code de la propriété intellectuelle - art. L331-40 (MMN)
+	  - Code de la propriété intellectuelle - art. L331-7 (VD)
+	  - Code de la propriété intellectuelle - art. L331-9 (V)
+	  - Code de la propriété intellectuelle - art. L332-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-3-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-4-1 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code de la propriété intellectuelle - art. R335-3 (V)
+
+
+###### Article L331-6
+
+L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que les mesures techniques visées à
+l'article L. 331-5 n'aient pas pour conséquence, du fait de leur incompatibilité mutuelle ou de leur incapacité
+d'interopérer, d'entraîner dans l'utilisation d'une oeuvre des limitations supplémentaires et indépendantes de celles
+expressément décidées par le titulaire d'un droit d'auteur sur une oeuvre autre qu'un logiciel ou par le titulaire d'un droit
+voisin sur une interprétation, un phonogramme, un vidéogramme ou un programme.
 
 **Liens relatifs à cet article**
 
@@ -5147,13 +5644,695 @@ publique.
 
 	**Créé par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 6 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 14 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-17 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-39 (1°) (VD)
 
 	**Cité par**:
 
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+
+
+###### Article L331-7
+
+Tout éditeur de logiciel, tout fabricant de système technique et tout exploitant de service peut, en cas de refus d'accès aux
+informations essentielles à l'interopérabilité, demander à l'Autorité de régulation des mesures techniques de garantir
+l'interopérabilité des systèmes et des services existants, dans le respect des droits des parties, et d'obtenir du titulaire
+des droits sur la mesure technique les informations essentielles à cette interopérabilité. A compter de sa saisine,
+l'autorité dispose d'un délai de deux mois pour rendre sa décision. 
+
+On entend par informations essentielles à l'interopérabilité la documentation technique et les interfaces de programmation
+nécessaires pour permettre à un dispositif technique d'accéder, y compris dans un standard ouvert au sens de l'article 4 de
+la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, à une oeuvre ou à un objet protégé par une
+mesure technique et aux informations sous forme électronique jointes, dans le respect des conditions d'utilisation de
+l'oeuvre ou de l'objet protégé qui ont été définies à l'origine. 
+
+Le titulaire des droits sur la mesure technique ne peut imposer au bénéficiaire de renoncer à la publication du code source
+et de la documentation technique de son logiciel indépendant et interopérant que s'il apporte la preuve que celle-ci aurait
+pour effet de porter gravement atteinte à la sécurité et à l'efficacité de ladite mesure technique.
+
+L'autorité peut accepter des engagements proposés par les parties et de nature à mettre un terme aux pratiques contraires à
+l'interopérabilité. A défaut d'un accord entre les parties et après avoir mis les intéressés à même de présenter leurs
+observations, elle rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous
+astreinte, les conditions dans lesquelles le demandeur peut obtenir l'accès aux informations essentielles à
+l'interopérabilité et les engagements qu'il doit respecter pour garantir l'efficacité et l'intégrité de la mesure technique,
+ainsi que les conditions d'accès et d'usage du contenu protégé. L'astreinte prononcée par l'autorité est liquidée par cette
+dernière.
+
+L'autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en cas d'inexécution de ses injonctions, soit en
+cas de non-respect des engagements qu'elle a acceptés. Chaque sanction pécuniaire est proportionnée à l'importance du dommage
+causé aux intéressés, à la situation de l'organisme ou de l'entreprise sanctionné et à l'éventuelle réitération des pratiques
+contraires à l'interopérabilité. Elle est déterminée individuellement et de façon motivée. Son montant maximum s'élève à 5 %
+du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé au cours d'un des exercices clos depuis l'exercice
+précédant celui au cours duquel les pratiques contraires à l'interopérabilité ont été mises en oeuvre dans le cas d'une
+entreprise et à 1, 5 million d'euros dans les autres cas. 
+
+Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux
+parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif. 
+
+Le président de l'Autorité de régulation des mesures techniques saisit le Conseil de la concurrence des abus de position
+dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur
+des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions
+prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute
+autre question relevant de sa compétence. l'Autorité de la concurrence communique à l'autorité toute saisine entrant dans le
+champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures
+techniques mentionnées à l'article L. 331-5 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 4 (V)
+	  - Code de commerce. - art. L464-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 14 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L331-17 (V)
+	  - Code de la propriété intellectuelle - art. L331-25 (VD)
 	  - Code de la propriété intellectuelle - art. L331-39 (MMN)
-	  - Code de la propriété intellectuelle - art. R329-7 (V)
-	  - Code de la propriété intellectuelle - art. R331-9 (V)
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+	  - Code de la propriété intellectuelle - art. L331-6 (V)
+	  - Code de la propriété intellectuelle - art. L331-8 (VD)
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code de la propriété intellectuelle - art. R331-11 (V)
+	  - Code de la propriété intellectuelle - art. R331-12 (V)
+	  - Code de la propriété intellectuelle - art. R331-20 (V)
+	  - Code de la propriété intellectuelle - art. R331-21 (V)
+	  - Code de la propriété intellectuelle - art. R331-22 (V)
+	  - Code de la propriété intellectuelle - art. R331-24 (V)
+
+
+###### Article L331-8
+
+Le bénéfice de l'exception pour copie privée et des exceptions mentionnées au présent article est garanti par les
+dispositions du présent article et des articles L. 331-9 à L. 331-16. 
+
+L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que la mise en oeuvre des mesures
+techniques de protection n'ait pas pour effet de priver les bénéficiaires des exceptions définies aux :
+
+- 2°, e du 3° à compter du 1er janvier 2009,7° et 8° de l'article L. 122-5 ;
+
+- 2°, dernier alinéa du 3° à compter du 1er janvier 2009,6° et 7° de l'article L. 211-3 ;
+
+- 3° et, à compter du 1er janvier 2009,4° de l'article L. 342-3. 
+
+Sous réserve des articles L. 331-9 à L. 331-16, l'autorité détermine les modalités d'exercice des exceptions précitées et
+fixe notamment le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type
+d'oeuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de
+protection disponibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. D331-13 (V)
+	  - Code de la propriété intellectuelle - art. L331-13 (VD)
+	  - Code de la propriété intellectuelle - art. L331-9 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code de la propriété intellectuelle - art. R331-14 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+	  - Code de la propriété intellectuelle - art. L211-3 (V)
+	  - Code de la propriété intellectuelle - art. L331-17 (V)
+	  - Code de la propriété intellectuelle - art. L342-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-39 (2°) (VD)
+	  - Code de la propriété intellectuelle - art. L331-6 (VD)
+
+
+###### Article L331-9
+
+Les titulaires de droits qui recourent aux mesures techniques de protection définies à l'article L. 331-5 peuvent leur
+assigner pour objectif de limiter le nombre de copies. Ils prennent cependant les dispositions utiles pour que leur mise en
+oeuvre ne prive pas les bénéficiaires des exceptions visées à l'article L. 331-8 de leur exercice effectif. Ils s'efforcent
+de définir ces mesures en concertation avec les associations agréées de consommateurs et les autres parties intéressées. 
+
+Les dispositions du présent article peuvent, dans la mesure où la technique le permet, subordonner le bénéfice effectif de
+ces exceptions à un accès licite à une oeuvre ou à un phonogramme, à un vidéogramme ou à un programme et veiller à ce
+qu'elles n'aient pas pour effet de porter atteinte à son exploitation normale ni de causer un préjudice injustifié aux
+intérêts légitimes du titulaire de droits sur l'oeuvre ou l'objet protégé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 30-2 (V)
+	  - Code de la propriété intellectuelle - art. L331-10 (V)
+	  - Code de la propriété intellectuelle - art. L331-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-7 (VD)
+
+
+###### Article L331-10
+
+Les titulaires de droits ne sont cependant pas tenus de prendre les dispositions de l'article L. 331-9 lorsque l'oeuvre ou un
+autre objet protégé par un droit voisin est mis à disposition du public selon des dispositions contractuelles convenues entre
+les parties, de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 10 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L331-45 (MMN)
+	  - Code de la propriété intellectuelle - art. L336-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-8 (VD)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-9 (V)
+
+
+###### Article L331-11
+
+Les éditeurs et les distributeurs de services de télévision ne peuvent recourir à des mesures techniques qui auraient pour
+effet de priver le public du bénéfice de l'exception pour copie privée, y compris sur un support et dans un format numérique,
+dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3. 
+
+Le Conseil supérieur de l'audiovisuel veille au respect des obligations du premier alinéa dans les conditions définies par
+les articles 42 et 48-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 42 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 48-1 (V)
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+	  - Code de la propriété intellectuelle - art. L211-3 (V)
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 30-2 (V)
+	  - Code de la propriété intellectuelle - art. L131-9 (V)
+	  - Code de la propriété intellectuelle - art. L332-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-3-2 (V)
+	  - Code de la propriété intellectuelle - art. L335-4-2 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-9 (VD)
+
+
+###### Article L331-12
+
+Les conditions d'accès à la lecture d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme et les limitations
+susceptibles d'être apportées au bénéfice de l'exception pour copie privée mentionnée au 2° de l'article L. 122-5 et au 2° de
+l'article L. 211-3 par la mise en oeuvre d'une mesure technique de protection doivent être portées à la connaissance de
+l'utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Code de la propriété intellectuelle - art. L331-16 (VD)
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+	  - Code du cinéma et de l'image animée - art. L411-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+	  - Code de la propriété intellectuelle - art. L211-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-10 (VD)
+
+
+###### Article L331-13
+
+Toute personne bénéficiaire des exceptions mentionnées à l'article L. 331-8 ou toute personne morale agréée qui la représente
+peut saisir l'Autorité de régulation des mesures techniques de tout différend portant sur les restrictions que les mesures
+techniques de protection définies à l'article L. 331-5 apportent au bénéfice desdites exceptions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. D331-13 (V)
+	  - Code de la propriété intellectuelle - art. R331-12 (V)
+	  - Code de la propriété intellectuelle - art. R331-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-41 (VD)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+	  - Code de la propriété intellectuelle - art. L331-8 (V)
+
+
+###### Article L331-14
+
+Les personnes morales et les établissements ouverts au public visés au 7° de l'article L. 122-5 qui réalisent des
+reproductions ou des représentations d'une oeuvre ou d'un objet protégé adaptées aux personnes handicapées peuvent saisir
+l'Autorité de régulation des mesures techniques de tout différend portant sur la transmission des textes imprimés sous la
+forme d'un fichier numérique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L331-23 (VD)
+	  - Code de la propriété intellectuelle - art. R331-12 (V)
+	  - Code de la propriété intellectuelle - art. R331-22 (V)
+	  - Code de la propriété intellectuelle - art. R331-4 (V)
+	  - Code de la propriété intellectuelle - art. R331-55 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-42 (VD)
+
+
+###### Article L331-15
+
+Dans le respect des droits des parties, l'Autorité de régulation des mesures techniques favorise ou suscite une solution de
+conciliation. Lorsqu'elle dresse un procès-verbal de conciliation, celui-ci a force exécutoire ; il fait l'objet d'un dépôt
+au greffe du tribunal d'instance.
+
+A défaut de conciliation dans un délai de deux mois à compter de sa saisine, l'autorité, après avoir mis les intéressés à
+même de présenter leurs observations, rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au
+besoin sous astreinte, les mesures propres à assurer le bénéfice effectif de l'exception. L'astreinte prononcée par
+l'autorité est liquidée par cette dernière.
+
+Ces décisions ainsi que le procès-verbal de conciliation sont rendus publics dans le respect des secrets protégés par la loi.
+Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet
+suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-43 (VD)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R331-12 (V)
+	  - Code de la propriété intellectuelle - art. R331-26 (V)
+
+
+###### Article L331-16
+
+Un décret en Conseil d'Etat précise les conditions d'application de la présente section. Il prévoit les modalités
+d'information des utilisateurs d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme mentionnées à l'article L.
+331-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 16 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-45 (VD)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R331-12 (V)
+	  - Code de la propriété intellectuelle - art. R331-18 (V)
+
+
+###### Article L331-17
+
+L'Autorité de régulation des mesures techniques est une autorité administrative indépendante. Elle assure une mission
+générale de veille dans les domaines des mesures techniques de protection et d'identification des oeuvres et des objets
+protégés par le droit d'auteur ou par les droits voisins. 
+
+Elle rend compte chaque année, dans un rapport remis au Gouvernement et au Parlement, des évolutions les plus marquantes
+qu'elle a constatées dans ce domaine et de leur impact prévisible sur la diffusion des contenus culturels. Elle peut être
+consultée par les commissions parlementaires sur les adaptations de l'encadrement législatif que ces évolutions rendraient
+nécessaires. 
+
+Elle rend compte également des orientations qu'elle a fixées sur le fondement de l'article L. 331-8 en matière de périmètre
+de la copie privée, ainsi que des décisions qu'elle a rendues sur le fondement de l'article L. 331-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 17 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Loi n°2009-669 du 12 juin 2009 - art. 19 (V)
+	  - Code de la propriété intellectuelle - art. L331-6 (V)
+	  - Code de la propriété intellectuelle - art. L331-8 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+	  - Code de la propriété intellectuelle - art. R331-11 (V)
+	  - Code de la propriété intellectuelle - art. R331-19 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-39 (premier alinéa) (VD)
+	  - Code de la propriété intellectuelle - art. L331-44 (VD)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-7 (V)
+
+
+###### Article L331-18
+
+L'Autorité de régulation des mesures techniques est composée de six membres nommés par décret. 
+
+Outre le président de la commission mentionnée à l'article L. 311-5 qui participe aux travaux de la commission avec voix
+consultative, ses membres sont : 
+
+1° Un conseiller d'Etat désigné par le vice-président du Conseil d'Etat ; 
+
+2° Un conseiller à la Cour de cassation désigné par le premier président de la Cour de cassation ; 
+
+3° Un conseiller maître à la Cour des comptes désigné par le premier président de la Cour des comptes ; 
+
+4° Un membre désigné par le président de l'Académie des technologies, en raison de ses compétences en matière de technologies
+de l'information ; 
+
+5° Un membre du Conseil supérieur de la propriété littéraire et artistique désigné par le président du Conseil supérieur de
+la propriété littéraire et artistique. 
+
+La durée du mandat des membres de l'autorité est de six ans. Il n'est ni renouvelable, ni révocable. 
+
+En cas de vacance d'un siège de membre de l'autorité, il est procédé à son remplacement pour la durée du mandat restant à
+courir. 
+
+Le président est élu par les membres parmi les personnes mentionnées aux 1°,2° et 3°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 17 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Décret n°2009-1773 du 29 décembre 2009 (V)
+	  - Code de la propriété intellectuelle - art. Annexe art. D331-9-1 (Ab)
+	  - Code de la propriété intellectuelle - art. D331-34 (V)
+	  - Code de la propriété intellectuelle - art. D331-5 (V)
+	  - Code de la propriété intellectuelle - art. D331-9-1 (Ab)
+	  - Code de la propriété intellectuelle - art. R331-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L311-5 (V)
+
+
+###### Article L331-19
+
+Les fonctions de membre de l'Autorité de régulation des mesures techniques sont incompatibles avec les fonctions de dirigeant
+ou de salarié ou les qualités d'ancien dirigeant ou d'ancien salarié d'une société régie par le titre II du présent livre ou
+de toute entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou offrant des services de
+téléchargement d'oeuvres protégées.
+
+Les membres de l'autorité ne peuvent, directement ou indirectement, détenir d'intérêts dans une entreprise exerçant une des
+activités mentionnées au premier alinéa.
+
+Aucun membre de l'autorité ne peut participer à une délibération concernant une entreprise ou une société contrôlée, au sens
+de l'article L. 233-16 du code de commerce, par une entreprise dans laquelle il a, au cours des trois années précédant la
+délibération, exercé des fonctions ou détenu un mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 17 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R331-14 (V)
+	  - Code de la propriété intellectuelle - art. R331-32-2 (V)
+	  - Code de la propriété intellectuelle - art. R331-4 (V)
+
+
+###### Article L331-20
+
+L'Autorité de régulation des mesures techniques dispose de services qui sont placés sous l'autorité de son secrétaire
+général.
+
+Les rapporteurs chargés de l'instruction des dossiers auprès de l'autorité sont nommés sur proposition du président par
+arrêté du ministre chargé de la culture.
+
+L'autorité peut faire appel à des experts. Elle propose, lors de l'élaboration du projet de loi de finances de l'année, les
+crédits nécessaires à l'accomplissement de ses missions. Ceux-ci sont inscrits au budget général de l'Etat.
+
+Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 17 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R331-19 (V)
+
+
+###### Article L331-21
+
+Les décisions de l'Autorité de régulation des mesures techniques sont prises à la majorité des voix. En cas de partage égal
+des voix, la voix du président est prépondérante.
+
+Un décret en Conseil d'Etat fixe les règles applicables à la procédure et à l'instruction des dossiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 17 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Décret n°2010-236 du 5 mars 2010 - art. 4 (V)
+	  - Code de la propriété intellectuelle - art. L331-21-1 (V)
+	  - Code de la propriété intellectuelle - art. L331-22 (VD)
+	  - Code de la propriété intellectuelle - art. R331-16 (V)
+	  - Code de la propriété intellectuelle - art. R331-37 (V)
+
+
+##### Section 3 : Haute Autorité pour la diffusion des œuvres 
+et la protection des droits sur internet 
+
+
+
+
+
+
+
+##### Sous-section 1 : Compétences, composition et organisation
+
+###### Article L331-22
+
+Les informations sous forme électronique concernant le régime des droits afférents à une oeuvre, autre qu'un logiciel, une
+interprétation, un phonogramme, un vidéogramme ou un programme, sont protégées dans les conditions prévues au présent titre,
+lorsque l'un des éléments d'information, numéros ou codes est joint à la reproduction ou apparaît en relation avec la
+communication au public de l'oeuvre, de l'interprétation, du phonogramme, du vidéogramme ou du programme qu'il concerne.
+
+On entend par information sous forme électronique toute information fournie par un titulaire de droits qui permet
+d'identifier une oeuvre, une interprétation, un phonogramme, un vidéogramme, un programme ou un titulaire de droit, toute
+information sur les conditions et modalités d'utilisation d'une oeuvre, d'une interprétation, d'un phonogramme, d'un
+vidéogramme ou d'un programme, ainsi que tout numéro ou code représentant tout ou partie de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 18 () JORF 3 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2009-669 du 12 juin 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L131-9 (V)
+	  - Code de la propriété intellectuelle - art. L332-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-1 (V)
+	  - Code de la propriété intellectuelle - art. L335-3-2 (V)
+	  - Code de la propriété intellectuelle - art. L335-4-2 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-2 (V)
+	  - Code de la propriété intellectuelle - art. R331-17 (V)
+	  - Code de la propriété intellectuelle - art. R335-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. L331-11 (VD)
 
 
 ##### Chapitre II : Saisie-contrefaçon
@@ -5162,19 +6341,25 @@ publique.
 
 Les commissaires de police et, dans les lieux où il n'y a pas de commissaire de police, les juges d'instance, sont tenus, à
 la demande de tout auteur d'une oeuvre protégée par le livre Ier, de ses ayants droit ou de ses ayants cause, de saisir les
-exemplaires constituant une reproduction illicite de cette oeuvre.
+exemplaires constituant une reproduction illicite de cette oeuvre ou tout exemplaire, produit, appareil, dispositif,
+composant ou moyen portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L.
+331-5 et L. 331-22 ;
 
 Si la saisie doit avoir pour effet de retarder ou de suspendre des représentations ou des exécutions publiques en cours ou
 déjà annoncées, une autorisation spéciale doit être obtenue du président du tribunal de grande instance, par ordonnance
 rendue sur requête. Le président du tribunal de grande instance peut également, dans la même forme, ordonner :
 
-1° La suspension de toute fabrication en cours tendant à la reproduction illicite d'une oeuvre ;
+1° La suspension de toute fabrication en cours tendant à la reproduction illicite d'une oeuvre ou à la réalisation d'une
+atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
 
 2° La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'oeuvre, déjà
-fabriqués ou en cours de fabrication, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ;
+fabriqués ou en cours de fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou moyens, fabriqués
+ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux
+articles L. 331-5 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ;
 
 3° La saisie des recettes provenant de toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une
-oeuvre de l'esprit, effectuée en violation des droits de l'auteur ;
+oeuvre de l'esprit, effectuée en violation des droits de l'auteur ou provenant d'une atteinte aux mesures techniques et aux
+informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
 
 4° La suspension, par tout moyen, du contenu d'un service de communication au public en ligne portant atteinte à l'un des
 droits de l'auteur, y compris en ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre l'accès.
@@ -5196,16 +6381,14 @@ par le saisissant d'un cautionnement convenable.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 8 () JORF 22 juin 2004
+	  - Loi n°2006-961 du 1 août 2006 - art. 19 () JORF 3 août 2006
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L331-22 (V)
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
 	  - Code de la propriété intellectuelle - art. L332-2 (M)
 
 	**Cité par**:
@@ -5416,9 +6599,11 @@ solidairement, au profit des bénéficiaires du droit de suite, à des dommages-
 
 ###### Article L335-1
 
-Les officiers de police judiciaire compétents peuvent procéder, dès la constatation des infractions prévues à l'article L.
-335-4 du présent code, à la saisie des phonogrammes et vidéogrammes reproduits illicitement, des exemplaires et objets
-fabriqués ou importés illicitement et des matériels spécialement installés en vue de tels agissements.
+Les officiers de police judiciaire compétents peuvent procéder, dès la constatation des infractions prévues aux articles L.
+335-4 à L. 335-4-2, à la saisie des phonogrammes et vidéogrammes reproduits illicitement, des exemplaires et objets fabriqués
+ou importés illicitement, de tout exemplaire, produit, appareil, dispositif, composant ou moyen portant atteinte aux mesures
+techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ainsi qu'à la saisie des
+matériels spécialement installés en vue de tels agissements.
 
 **Liens relatifs à cet article**
 
@@ -5432,11 +6617,13 @@ fabriqués ou importés illicitement et des matériels spécialement installés 
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 20 () JORF 3 août 2006
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L335-4 (M)
+	  - Code de la propriété intellectuelle - art. L331-22 (V)
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+	  - Code de la propriété intellectuelle - art. L335-4 (V)
 
 
 ###### Article L335-2
@@ -5488,6 +6675,26 @@ d'emprisonnement et à 500 000 euros d'amende.
 	  - CODE PENAL - art. 426-1 (Ab)
 
 
+###### Article L335-2-1
+
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait :
+
+1° D'éditer, de mettre à la disposition du public ou de communiquer au public, sciemment et sous quelque forme que ce soit,
+un logiciel manifestement destiné à la mise à disposition du public non autorisée d'oeuvres ou d'objets protégés ;
+
+2° D'inciter sciemment, y compris à travers une annonce publicitaire, à l'usage d'un logiciel mentionné au 1°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 21 () JORF 3 août 2006
+
+
 ###### Article L335-3
 
 Est également un délit de contrefaçon toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une
@@ -5513,6 +6720,96 @@ Est également un délit de contrefaçon la violation de l'un des droits de l'au
 
 	  - Code de la propriété intellectuelle - art. L331-3 (V)
 	  - Code de procédure pénale - art. 398-1 (V)
+
+
+###### Article L335-3-1
+
+I.-Est puni de 3 750 euros d'amende le fait de porter atteinte sciemment, à des fins autres que la recherche, à une mesure
+technique efficace telle que définie à l'article L. 331-5, afin d'altérer la protection d'une oeuvre par un décodage, un
+décryptage ou toute autre intervention personnelle destinée à contourner, neutraliser ou supprimer un mécanisme de protection
+ou de contrôle, lorsque cette atteinte est réalisée par d'autres moyens que l'utilisation d'une application technologique,
+d'un dispositif ou d'un composant existant mentionné au II. 
+
+II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui,
+directement ou indirectement, des moyens conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace
+telle que définie à l'article L. 331-5, par l'un des procédés suivants : 
+
+1° En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la
+recherche ; 
+
+2° En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du
+public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ; 
+
+3° En fournissant un service à cette fin ; 
+
+4° En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en
+faveur de l'un des procédés visés aux 1° à 3°. 
+
+III.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique, dans les limites des
+droits prévus par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 22 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Décision n°2006-540 DC du 27 juillet 2006, v. init.
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+
+
+###### Article L335-3-2
+
+I.-Est puni de 3 750 euros d'amende le fait de supprimer ou de modifier, sciemment et à des fins autres que la recherche,
+tout élément d'information visé à l'article L. 331-22, par une intervention personnelle ne nécessitant pas l'usage d'une
+application technologique, d'un dispositif ou d'un composant existant, conçus ou spécialement adaptés à cette fin, dans le
+but de porter atteinte à un droit d'auteur, de dissimuler ou de faciliter une telle atteinte. 
+
+II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui,
+directement ou indirectement, des moyens conçus ou spécialement adaptés pour supprimer ou modifier, même partiellement, un
+élément d'information visé à l'article L. 331-22, dans le but de porter atteinte à un droit d'auteur, de dissimuler ou de
+faciliter une telle atteinte, par l'un des procédés suivants : 
+
+1° En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la
+recherche ; 
+
+2° En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du
+public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ; 
+
+3° En fournissant un service à cette fin ; 
+
+4° En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en
+faveur de l'un des procédés visés aux 1° à 3°. 
+
+III.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, sciemment, d'importer, de distribuer, de
+mettre à disposition du public sous quelque forme que ce soit ou de communiquer au public, directement ou indirectement, une
+oeuvre dont un élément d'information mentionné à l'article L. 331-22 a été supprimé ou modifié dans le but de porter atteinte
+à un droit d'auteur, de dissimuler ou de faciliter une telle atteinte. 
+
+IV.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de recherche (Dispositions déclarées non conformes
+à la Constitution par la décision du Conseil constitutionnel n° 2006-540 DC du 27 juillet 2006) ou de sécurité informatique,
+dans les limites des droits prévus par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 22 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Décision n°2006-540 DC du 27 juillet 2006, v. init.
+	  - Code de la propriété intellectuelle - art. L331-22 (V)
 
 
 ###### Article L335-4
@@ -5559,17 +6856,118 @@ d'emprisonnement et à 500 000 euros d'amende.
 	  - Code de la propriété intellectuelle - art. L133-3 (V)
 
 
+###### Article L335-4-1
+
+I.-Est puni de 3 750 euros d'amende le fait de porter atteinte sciemment, à des fins autres que la recherche, à une mesure
+technique efficace telle que définie à l'article L. 331-5, afin d'altérer la protection d'une interprétation, d'un
+phonogramme, d'un vidéogramme ou d'un programme par un décodage, un décryptage ou toute autre intervention personnelle
+destinée à contourner, neutraliser ou supprimer un mécanisme de protection ou de contrôle, lorsque cette atteinte est
+réalisée par d'autres moyens que l'utilisation d'une application technologique, d'un dispositif ou d'un composant existant
+mentionné au II. 
+
+II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui,
+directement ou indirectement, des moyens conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace
+telle que définie à l'article L. 331-5, par l'un des procédés suivants : 
+
+1° En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la
+recherche ; 
+
+2° En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du
+public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ; 
+
+3° En fournissant un service à cette fin ; 
+
+4° En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en
+faveur de l'un des procédés visés aux 1° à 3°. 
+
+III.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique, dans les limites des
+droits prévus par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 23 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Décision n°2006-540 DC du 27 juillet 2006, v. init.
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
+
+
+###### Article L335-4-2
+
+I.-Est puni de 3 750 euros d'amende le fait de supprimer ou de modifier, sciemment et à des fins autres que la recherche,
+tout élément d'information visé à l'article L. 331-22, par une intervention personnelle ne nécessitant pas l'usage d'une
+application technologique, d'un dispositif ou d'un composant existant, conçus ou spécialement adaptés à cette fin, dans le
+but de porter atteinte à un droit voisin du droit d'auteur, de dissimuler ou de faciliter une telle atteinte. 
+
+II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui,
+directement ou indirectement, des moyens conçus ou spécialement adaptés pour supprimer ou modifier, même partiellement, un
+élément d'information visé à l'article L. 331-22, dans le but de porter atteinte à un droit voisin du droit d'auteur, de
+dissimuler ou de faciliter une telle atteinte, par l'un des procédés suivants : 
+
+1° En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la
+recherche ; 
+
+2° En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du
+public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ; 
+
+3° En fournissant un service à cette fin ; 
+
+4° En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en
+faveur de l'un des procédés visés aux 1° à 3°. 
+
+III.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, sciemment, d'importer, de distribuer, de
+mettre à disposition du public sous quelque forme que ce soit ou de communiquer au public, directement ou indirectement, une
+interprétation, un phonogramme, un vidéogramme ou un programme, dont un élément d'information mentionné à l'article L. 331-22
+a été supprimé ou modifié dans le but de porter atteinte à un droit voisin du droit d'auteur, de dissimuler ou de faciliter
+une telle atteinte. 
+
+IV.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins (Dispositions déclarées non conformes à la
+Constitution par la décision du Conseil constitutionnel n° 2006-540 DC du 27 juillet 2006) de sécurité informatique, dans les
+limites des droits prévus par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 23 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Décision n°2006-540 DC du 27 juillet 2006, v. init.
+	  - Code de la propriété intellectuelle - art. L331-22 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L335-1 (V)
+	  - Code de la propriété intellectuelle - art. L342-3-2 (V)
+
+
 ###### Article L335-5
 
-Dans le cas de condamnation fondée sur l'une des infractions définies aux trois précédents articles, le tribunal peut
+Dans le cas de condamnation fondée sur l'une des infractions définies aux articles L. 335-2 à L. 335-4-2, le tribunal peut
 ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement
-ayant servi à commettre l'infraction.
+ayant servi à commettre l'infraction. 
 
 La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de travail, ni aucun préjudice pécuniaire à
 l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en
 dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4
 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six
-mois d'emprisonnement et de 3750 euros d'amende [*sanctions pénales*].
+mois d'emprisonnement et de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -5583,19 +6981,20 @@ mois d'emprisonnement et de 3750 euros d'amende [*sanctions pénales*].
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
 
 	**Cite**:
 
-	  - Code du travail - art. L122-14-4 (M)
-	  - Code du travail - art. L122-14-5 (Ab)
+	  - Code de la propriété intellectuelle - art. L335-2 (V)
+	  - Code du travail - art. L122-14-4 (Ab)
 
 
 ###### Article L335-6
 
-Dans tous les cas prévus par les quatre articles précédents, le tribunal peut prononcer la confiscation de tout ou partie des
-recettes procurées par l'infraction ainsi que celle de tous les phonogrammes, vidéogrammes, objets et exemplaires
-contrefaisants ou reproduits illicitement et du matériel spécialement installé en vue de la réalisation du délit.
+En cas de condamnation pour l'un des délits prévus et réprimés au présent chapitre, le tribunal peut prononcer la
+confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de tous les phonogrammes,
+vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement et du matériel spécialement installé en vue de
+la réalisation du délit.
 
 Il peut également ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et
 sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extraits dans les
@@ -5608,13 +7007,9 @@ puissent excéder le montant maximum de l'amende encourue.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 8 () JORF 22 juin 2004
+	  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
 
 	**Cite**:
 
@@ -5623,10 +7018,10 @@ puissent excéder le montant maximum de l'amende encourue.
 
 ###### Article L335-7
 
-Dans les cas prévus aux cinq articles précédents, le matériel, les objets contrefaisants et les recettes ayant donné lieu à
-confiscation seront remis à la victime ou à ses ayants droit pour les indemniser de leur préjudice ; le surplus de leur
-indemnité ou l'entière indemnité s'il n'y a eu aucune confiscation de matériel, d'objets contrefaisants ou de recettes, sera
-réglé par les voies ordinaires.
+Lorsqu'il est fait application de l'article précédent, le matériel, les objets contrefaisants et les recettes ayant donné
+lieu à confiscation seront remis à la victime ou à ses ayants droit pour les indemniser de leur préjudice ; le surplus de
+leur indemnité ou l'entière indemnité s'il n'y a eu aucune confiscation de matériel, d'objets contrefaisants ou de recettes,
+sera réglé par les voies ordinaires.
 
 **Liens relatifs à cet article**
 
@@ -5636,7 +7031,11 @@ réglé par les voies ordinaires.
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 38 () JORF 30 octobre 2007
 
 	**Cité par**:
 
@@ -5652,13 +7051,17 @@ réglé par les voies ordinaires.
 	  - Code de la propriété intellectuelle - art. L336-3 (VD)
 	  - Code pénal - art. 434-41 (V)
 
+	**Cite**:
+
+	  - Code de la propriété intellectuelle L. 335-6
+
 
 ###### Article L335-8
 
 Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal des infractions définies aux articles L. 335-2 à L. 335-4 du présent code.
+pénal des délits prévus et réprimés au présent chapitre.
 
-Les peines [*sanctions*] encourues par les personnes morales sont :
+Les peines encourues par les personnes morales sont :
 
 1° L'amende, suivant les modalités prévues par l'article 131-38 ;
 
@@ -5675,7 +7078,7 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
 
 	**Cité par**:
 
@@ -5683,7 +7086,6 @@ laquelle l'infraction a été commise.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle L335-2 à L335-4
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
 	  - Code pénal - art. 131-39 (MMN)
@@ -5691,8 +7093,8 @@ laquelle l'infraction a été commise.
 
 ###### Article L335-9
 
-En cas de récidive des infractions définies aux articles L. 335-2 à L. 335-4 ou si le délinquant est ou a été lié par
-convention avec la partie lésée, les peines encourues sont portées au double [*sanctions*].
+En cas de récidive des délits prévus et réprimés au présent chapitre ou si le délinquant est ou a été lié par convention avec
+la partie lésée, les peines encourues sont portées au double.
 
 **Liens relatifs à cet article**
 
@@ -5700,17 +7102,9 @@ convention avec la partie lésée, les peines encourues sont portées au double 
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 *champ d'application*
-
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle L335-2 à L335-4
+	  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
 
 
 ###### Article L335-10
@@ -5769,6 +7163,79 @@ Communauté européenne, pour y être légalement commercialisées.
 
 	  - Code de la propriété intellectuelle - art. L332-1 (V)
 	  - Code des douanes - art. 59 bis (V)
+
+
+###### Article L335-12
+
+Le titulaire d'un accès à des services de communication au public en ligne doit veiller à ce que cet accès ne soit pas
+utilisé à des fins de reproduction ou de représentation d'oeuvres de l'esprit sans l'autorisation des titulaires des droits
+prévus aux livres Ier et II, lorsqu'elle est requise, en mettant en oeuvre les moyens de sécurisation qui lui sont proposés
+par le fournisseur de cet accès en application du premier alinéa du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004
+pour la confiance dans l'économie numérique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 25 () JORF 3 août 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2009-669 du 12 juin 2009 - art. 7
+
+
+##### Chapitre VI : Prévention du téléchargement illicite.
+
+###### Article L336-1
+
+Lorsqu'un logiciel est principalement utilisé pour la mise à disposition illicite d'oeuvres ou d'objets protégés par un droit
+de propriété littéraire et artistique, le président du tribunal de grande instance, statuant en référé, peut ordonner sous
+astreinte toutes mesures nécessaires à la protection de ce droit et conformes à l'état de l'art. 
+
+Les mesures ainsi ordonnées ne peuvent avoir pour effet de dénaturer les caractéristiques essentielles ou la destination
+initiale du logiciel. 
+
+L'article L. 332-4 est applicable aux logiciels mentionnés au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 27 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L332-4 (V)
+
+
+###### Article L336-2
+
+Les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne adressent, à leurs
+frais, aux utilisateurs de cet accès des messages de sensibilisation aux dangers du téléchargement et de la mise à
+disposition illicites pour la création artistique. Un décret en Conseil d'Etat détermine les modalités de diffusion de ces
+messages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 28 () JORF 3 août 2006
 
 
 #### Titre IV : Droits des producteurs de bases de données
@@ -5904,16 +7371,35 @@ d'utilisation normale de la base de données.
 
 ###### Article L342-3
 
-Lorsqu'une base de données est mise à la disposition du public par le titulaire des droits, celui-ci ne peut interdire :
+Lorsqu'une base de données est mise à la disposition du public par le titulaire des droits, celui-ci ne peut interdire : 
 
 1° L'extraction ou la réutilisation d'une partie non substantielle, appréciée de façon qualitative ou quantitative, du
-contenu de la base, par la personne qui y a licitement accès ;
+contenu de la base, par la personne qui y a licitement accès ; 
 
 2° L'extraction à des fins privées d'une partie qualitativement ou quantitativement substantielle du contenu d'une base de
 données non électronique sous réserve du respect des droits d'auteur ou des droits voisins sur les oeuvres ou éléments
-incorporés dans la base.
+incorporés dans la base ; 
 
-Toute clause contraire au 1° ci-dessus est nulle.
+3° L'extraction et la réutilisation d'une base de données dans les conditions définies aux deux premiers alinéas du 7° de
+l'article L. 122-5 ; 
+
+4° L'extraction et la réutilisation d'une partie substantielle, appréciée de façon qualitative ou quantitative, du contenu de
+la base, sous réserve des bases de données conçues à des fins pédagogiques et des bases de données réalisées pour une édition
+numérique de l'écrit, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, à l'exclusion
+de toute activité ludique ou récréative, dès lors que le public auquel cette extraction et cette réutilisation sont destinées
+est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que la source est
+indiquée, que l'utilisation de cette extraction et cette réutilisation ne donne lieu à aucune exploitation commerciale et
+qu'elle est compensée par une rémunération négociée sur une base forfaitaire. 
+
+Toute clause contraire au 1° ci-dessus est nulle. 
+
+Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de la base de données ni
+causer un préjudice injustifié aux intérêts légitimes du producteur de la base.
+
+**Nota:**
+
+loi n° 2006-961 2006-08-01 art. 3 II : Les dispositions du 4° de l'article L. 342-3 du code de la propriété intellectuelle
+s'appliquent à compter du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -5921,13 +7407,9 @@ Toute clause contraire au 1° ci-dessus est nulle.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°98-536 1998-07-01 art. 8 (modalités d'application - date d'effet durée de la protection)
-
-	**Créé par**:
-
-	  - Loi n°98-536 du 1 juillet 1998 - art. 5 () JORF 2 juillet 1998 en vigueur le 1er janvier 1998
+	  - Loi n°2006-961 du 1 août 2006 - art. 3 (V) JORF 3 août 2006
 
 	**Cité par**:
 
@@ -5936,6 +7418,65 @@ Toute clause contraire au 1° ci-dessus est nulle.
 	  - Code de la propriété intellectuelle - art. L331-8 (V)
 	  - Code de la propriété intellectuelle - art. L342-3-1 (V)
 	  - Code de la propriété intellectuelle - art. R341-1 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+
+
+###### Article L342-3-1
+
+Les mesures techniques efficaces au sens de l'article L. 331-5 qui sont propres à empêcher ou à limiter les utilisations
+d'une base de données que le producteur n'a pas autorisées en application de l'article L. 342-1 bénéficient de la protection
+prévue à l'article L. 335-4-1. 
+
+Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent
+cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à
+l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues aux articles L. 331-8 et suivants. 
+
+Tout différend relatif à la faculté de bénéficier des exceptions définies à l'article L. 342-3 qui implique une mesure
+technique visée au premier alinéa du présent article est soumis à l'Autorité de régulation des mesures techniques prévue à
+l'article L. 331-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 29 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-17 (V)
+	  - Code de la propriété intellectuelle - art. L331-5 (V)
+	  - Code de la propriété intellectuelle - art. L331-8 (V)
+	  - Code de la propriété intellectuelle - art. L335-4-1 (V)
+	  - Code de la propriété intellectuelle - art. L342-1 (V)
+	  - Code de la propriété intellectuelle - art. L342-3 (V)
+
+
+###### Article L342-3-2
+
+Les informations sous forme électronique relatives au régime des droits du producteur d'une base de données, au sens de
+l'article L. 331-22, bénéficient de la protection prévue à l'article L. 335-4-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 29 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-22 (V)
+	  - Code de la propriété intellectuelle - art. L335-4-2 (V)
 
 
 ###### Article L342-4
@@ -16236,6 +17777,39 @@ dispositions ayant le même objet, résultant des textes applicables localement.
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+
+
+###### Article L811-2-1
+
+Pour leur application à Mayotte, en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et
+antarctiques françaises et en Nouvelle-Calédonie, les articles L. 122-3-1 et L. 211-6 sont ainsi rédigés :
+
+Art. L. 122-3-1. - Dès lors que la première vente d'un ou des exemplaires matériels d'une oeuvre a été autorisée par l'auteur
+ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur
+l'Espace économique européen ou sur le territoire de Mayotte, de la Polynésie française, des îles Wallis-et-Futuna, des
+Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette oeuvre ne peut
+plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+
+Art. L. 211-6. - Dès lors que la première vente d'un ou des exemplaires matériels d'une fixation protégée par un droit voisin
+a été autorisée par le titulaire du droit ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne
+ou sur le territoire de Mayotte, de la Polynésie française, des îles Wallis-et-Futuna, des Terres australes et antarctiques
+françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette fixation ne peut plus être interdite dans la
+Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 1992-07-01
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 49 (V) JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-3-1 (V)
+	  - Code de la propriété intellectuelle - art. L211-6 (V)
 
 
 ###### Article L811-3
