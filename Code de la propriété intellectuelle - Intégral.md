@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-04
 
 # Partie législative
 
@@ -30194,8 +30194,11 @@ supérieures des techniques industrielles et des mines et régis par le décret 
 
 Agents non titulaires
 
-- Personnels chercheurs des écoles nationales supérieures des mines de Paris et Saint-Etienne régis par le décret n° 71-999
-du 7 décembre 1971.
+- chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux
+agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques
+industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
+
+- attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 
 - Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
 
@@ -30323,7 +30326,7 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 	**Modifié par**:
 
-	  - Décret n°2005-1217 du 26 septembre 2005 - art. 2
+	  - Décret n°2007-144 du 1 février 2007 - art. 1
 
 
 ###### Article R611-11
@@ -30535,7 +30538,7 @@ du décès.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1217 du 26 septembre 2005 - art. 1 () JORF 29 septembre 2005
+	  - Décret n°2007-144 du 1 février 2007 - art. 1 () JORF 4 février 2007
 
 	**Codifié par**:
 
