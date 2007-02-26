@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-02-04
+Version Consolidée au 2007-02-27
 
 # Partie législative
 
@@ -11484,7 +11484,10 @@ a) Aux actes accomplis dans un cadre privé et à des fins non commerciales ;
 b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'invention brevetée ;
 
 c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance
-médicale, ni aux actes concernant les médicaments ainsi préparés.
+médicale, ni aux actes concernant les médicaments ainsi préparés ;
+
+d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi
+qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -11496,19 +11499,15 @@ médicale, ni aux actes concernant les médicaments ainsi préparés.
 
 	  - Loi n°92-597 1992-07-01
 
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
 	**Cité par**:
 
 	  - Arrêté du 11 décembre 2001 - art. 1 (V)
 	  - Code de la propriété intellectuelle - art. L613-4 (V)
 	  - Code des douanes - art. 67 bis (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de la propriété intellectuelle L615-14 *sanctions pénales*
+	  - Loi n°2007-248 du 26 février 2007 - art. 10 () JORF 27 février 2007
 
 
 ###### Article L613-5-1
