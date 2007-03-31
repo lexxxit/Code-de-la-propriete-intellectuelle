@@ -127,7 +127,7 @@ Corps de fonctionnaires :
 - Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
 
 - Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales
-supérieures des techniques industrielles et des mines régis par le décret n° 69-444 du 14 mai 1969 modifié.
+supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales
 supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
@@ -271,4 +271,4 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 	**Modifié par**:
 
-	  - Décret n°2007-144 du 1 février 2007 - art. 1
+	  - Décret n°2007-468 du 28 mars 2007 - art. 45 (V)
