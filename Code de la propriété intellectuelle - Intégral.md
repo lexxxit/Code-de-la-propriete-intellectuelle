@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-04-05
+Version Consolidée au 2007-05-08
 
 # Partie législative
 
@@ -26431,20 +26431,21 @@ supérieur de la propriété industrielle).
 
 ###### Article R421-1
 
-L'inscription d'une personne physique sur la liste des personnes qualifiées en propriété industrielle prévue à l'article L.
-421-1 est subordonnée au respect de l'ensemble des conditions suivantes :
+Sous réserve des dispositions de l'article R. 421-1-1, l'inscription d'une personne physique sur la liste des personnes
+qualifiées en propriété industrielle prévue à l'article L. 421-1 est subordonnée au respect de l'ensemble des conditions
+suivantes : 
 
 1° La possession d'un diplôme national de deuxième cycle juridique, scientifique ou technique délivré par un établissement
 public à caractère scientifique, culturel et professionnel au sens de la loi n° 84-52 du 26 janvier 1984 habilité à le
 délivrer, ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la
-justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
+justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ; 
 
 2° La possession d'un diplôme délivré par le Centre d'études internationales de la propriété industrielle (CEIPI) de
 l'université de Strasbourg ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des
 sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement
-supérieur ;
+supérieur ; 
 
-3° Une pratique professionnelle de trois années au moins ;
+3° Une pratique professionnelle de trois années au moins ; 
 
 4° Le succès à un examen d'aptitude dont les modalités et le programme sont fixés, pour chaque spécialisation, par arrêté
 conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé
@@ -26454,7 +26455,7 @@ de l'enseignement supérieur. Les épreuves sont aménagées pour les mandataire
 
 	**Cite**:
 
-	  - Loi n°84-52 1984-01-26
+	  - Loi n°84-52 du 26 janvier 1984 (Ab)
 	  - Code de la propriété intellectuelle - art. L421-1 (V)
 
 	**Anciens textes**:
@@ -26508,9 +26509,107 @@ de l'enseignement supérieur. Les épreuves sont aménagées pour les mandataire
 	  - Code de la propriété intellectuelle - art. R422-1 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2007-731 du 7 mai 2007 - art. 2 () JORF 8 mai 2007
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R421-1-1
+
+Peuvent également être inscrits sur la liste des personnes qualifiées prévue à l'article L. 421-1 : 
+
+1° Sous réserve de remplir les conditions de diplômes des 1° et 2° de l'article R. 421-1 et de justifier de huit ans au moins
+de pratique professionnelle en rapport avec la propriété industrielle : 
+
+a) Les personnes ayant exercé au sein d'une ou plusieurs entreprises, groupements d'entreprises, associations, fondations ou
+établissements publics ; 
+
+b) Les salariés d'un avocat ou d'un conseil en propriété industrielle, d'une association ou d'une société d'avocats ou d'une
+société de conseils en propriété industrielle, d'un office d'avoué ou d'avocat au Conseil d'Etat et à la Cour de cassation ; 
+
+c) Les fonctionnaires et anciens fonctionnaires de catégorie A ou les personnes assimilées aux fonctionnaires de cette
+catégorie ayant exercé dans une administration ou un service public ou une organisation internationale ; 
+
+Les personnes mentionnées aux a, b et c peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces
+dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans ; 
+
+2° Les personnes remplissant l'ensemble des conditions suivantes : 
+
+a) La possession d'un diplôme équivalant à un diplôme de second cycle de l'enseignement supérieur juridique, scientifique ou
+technique, obtenu, le cas échéant, dans le cadre de la formation professionnelle ; 
+
+b) La possession du diplôme du Centre d'études internationales de la propriété industrielle (CEIPI) de l'université de
+Strasbourg ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de
+la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur, délivrés dans
+le cadre de la formation professionnelle continue ; 
+
+c) Une pratique professionnelle de huit ans au moins, en rapport avec la propriété industrielle, acquise :
+
+- au sein d'une ou plusieurs entreprises, groupements d'entreprises, associations, fondations ou établissements publics ;
+
+- en tant que salariés d'un avocat ou d'un conseil en propriété industrielle, d'une association ou d'une société d'avocats ou
+d'une société de conseils en propriété industrielle, d'un office d'avoué ou d'avocat au Conseil d'Etat et à la Cour de
+cassation ;
+
+- en tant que fonctionnaires et anciens fonctionnaires de catégorie A ou en tant que personnes assimilées aux fonctionnaires
+de cette catégorie ayant exercé dans une administration ou un service public ou une organisation internationale. 
+
+Les personnes mentionnées au c peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions
+dès lors que la durée totale de ces activités est au moins égale à huit ans. 
+
+Sauf lorsqu'elle résulte de fonctions exercées au sein d'une organisation internationale, la pratique professionnelle prévue
+aux 1° et 2° doit avoir été acquise dans un Etat membre de l'Union européenne ou partie à l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2007-731 du 7 mai 2007 - art. 3 () JORF 8 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2008 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R421-32 (Ab)
+	  - Code de la propriété intellectuelle - art. R421-1 (M)
+	  - Code de la propriété intellectuelle - art. R421-1-2 (V)
+	  - Code de la propriété intellectuelle - art. R421-9 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L421-1 (V)
+
+
+###### Article R421-1-2
+
+La réalité et le contenu de la pratique professionnelle des personnes visées à l'article R. 421-1-1 ainsi que leur
+connaissance des règles déontologiques relatives à la profession de conseil en propriété industrielle sont soumis, dans les
+conditions fixées par arrêté du ministre chargé de la propriété industrielle, au contrôle du jury mentionné à l'article R.
+421-6. Ce jury détermine en outre, au vu de la pratique professionnelle des intéressés, la mention de spécialisation dont est
+assortie leur inscription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-731 du 7 mai 2007 - art. 3 () JORF 8 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2008 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. R421-10 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R421-1-1 (V)
+	  - Code de la propriété intellectuelle - art. R421-6 (V)
 
 	**Codifié par**:
 
@@ -26644,16 +26743,24 @@ nouvelles qualifications professionnelles en matière de propriété industriell
 
 La pratique professionnelle prévue à l'article R. 421-1 (3°) résulte de l'exercice à titre principal d'une activité d'étude,
 de conseil, d'assistance ou de représentation en matière de propriété industrielle, droits annexes et droits portant sur
-toute question connexe.
+toute question connexe. 
 
-La pratique professionnelle doit avoir été acquise en France dans la matière objet de la mention de spécialisation recherchée
-et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention.
+La pratique professionnelle doit avoir été acquise en France dans la matière correspondant à la mention de spécialisation
+recherchée et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention. Cette
+pratique professionnelle peut également avoir été acquise dans un autre Etat membre de l'Union européenne ou partie à
+l'Espace économique européen sous réserve qu'elle l'ait été sous la responsabilité d'une personne habilitée à représenter les
+personnes, dans la matière correspondant à la spécialisation recherchée, devant le service central de la propriété
+industrielle de l'Etat dans lequel elle est établie. 
 
 Lorsque la pratique n'aura pas été acquise sous la responsabilité d'une telle personne, le jury prévu à l'article R. 421-6
 pourra, sur dossier, admettre à se présenter à l'examen un candidat dont la pratique aura été reconnue équivalente par son
 contenu, son étendue et son respect des normes usuelles dans la spécialisation concernée.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
@@ -26667,23 +26774,20 @@ contenu, son étendue et son respect des normes usuelles dans la spécialisation
 
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
+	  - Décret n°2007-731 du 7 mai 2007 - art. 4 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R421-1 (M)
-	  - Code de la propriété intellectuelle - art. R421-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. R421-1 (V)
+	  - Code de la propriété intellectuelle - art. R421-6 (V)
 
 
 ###### Article R421-6
 
 Le jury chargé du contrôle des épreuves de l'examen prévu à l'article R. 421-1 (4°) comprend un magistrat de l'ordre
-judiciaire, président, un professeur d'université enseignant le droit privé, un avocat et quatre personnes qualifiées en
-propriété industrielle. En cas d'empêchement, chaque membre est remplacé par un suppléant.
+judiciaire, président, un professeur d'université enseignant le droit privé, un avocat, deux personnes compétentes en
+propriété industrielle et quatre personnes inscrites sur la liste des personnes qualifiées en propriété industrielle, dont
+deux conseils en propriété industrielle. Il est désigné un suppléant pour chaque membre titulaire. 
 
 Les conditions de désignation des membres du jury et de leurs suppléants sont fixées par arrêté conjoint du garde des sceaux,
 ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur.
@@ -26702,13 +26806,13 @@ ministre de la justice, du ministre chargé de la propriété industrielle et du
 	  - Code de la propriété intellectuelle - art. R421-5 (V)
 	  - Code de la propriété intellectuelle - art. R421-8 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2007-731 du 7 mai 2007 - art. 5 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R421-1 (M)
+	  - Code de la propriété intellectuelle - art. R421-1 (V)
 
 	**Codifié par**:
 
@@ -26717,19 +26821,20 @@ ministre de la justice, du ministre chargé de la propriété industrielle et du
 
 ###### Article R421-7
 
-Les conditions de diplôme, de stage et d'examen professionnel prévues à l'article R. 421-1 ne sont pas applicables aux
-personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée équivalente à temps
-partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de
-formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
+Les conditions de diplôme, de stage et d'examen professionnel prévues aux articles R. 421-1 et R. 421-1-1 ne sont pas
+applicables aux personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée
+équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement
+de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui
+justifient : 
 
 1° Soit d'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans un Etat membre de l'Union
-européenne délivrés :
+européenne délivrés : 
 
-a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union ;
+a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union ; 
 
 b) Ou par une autorité d'un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de
 l'Etat membre qui a reconnu le diplôme, certificat ou autre titre certifiant que son titulaire a une expérience
-professionnelle de trois ans au moins dans cet Etat ;
+professionnelle de trois ans au moins dans cet Etat ; 
 
 2° Soit de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un
 Etat membre qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que cet exercice soit attesté par
@@ -26747,17 +26852,17 @@ l'autorité compétente de cet Etat.
 	  - Code de la propriété intellectuelle - art. R421-8 (V)
 	  - Code de la propriété intellectuelle - art. R421-9 (V)
 
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R421-1 (M)
+	  - Code de la propriété intellectuelle - art. R421-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+	**Modifié par**:
+
+	  - Décret n°2007-731 du 7 mai 2007 - art. 6 () JORF 8 mai 2007
 
 
 ###### Article R421-8
@@ -26809,8 +26914,8 @@ propriété industrielle.
 ###### Article R421-9
 
 La demande d'inscription est présentée au directeur général de l'Institut national de la propriété industrielle. Lui est
-jointe la justification qu'il est satisfait selon le cas aux conditions prévues à l'article R. 421-1 ou aux articles R. 421-7
-et R. 421-8.
+jointe la justification qu'il est satisfait selon le cas aux conditions prévues à l'article R. 421-1, à l'article R. 421-1-1
+ou aux articles R. 421-7 et R. 421-8. 
 
 Il est donné récépissé de la demande.
 
@@ -26818,8 +26923,11 @@ Il est donné récépissé de la demande.
 
 	**Anciens textes**:
 
-	  - Décret n°92-360 1992-04-01 art. 6
 	  - Décret n°92-360 du 1 avril 1992 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2007-731 du 7 mai 2007 - art. 7 () JORF 8 mai 2007
 
 	**Cité par**:
 
@@ -26827,23 +26935,19 @@ Il est donné récépissé de la demande.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R421-1 (M)
-	  - Code de la propriété intellectuelle - art. R421-7 (M)
-	  - Code de la propriété intellectuelle - art. R421-8 (V)
+	  - Code de la propriété intellectuelle - art. R421-1 (V)
+	  - Code de la propriété intellectuelle - art. R421-1-1 (V)
+	  - Code de la propriété intellectuelle - art. R421-7 (V)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 
 ###### Article R421-10
 
 La décision du directeur général de l'institut statuant sur la demande d'inscription le cas échéant, après décision du jury
-conformément à l'article R. 421-5 est notifiée à l'intéressé. Le refus est motivé.
+conformément aux articles R. 421-5 et R. 421-1-2 est notifiée à l'intéressé. Le refus est motivé.
 
 **Liens relatifs à cet article**
 
@@ -26853,11 +26957,12 @@ conformément à l'article R. 421-5 est notifiée à l'intéressé. Le refus est
 
 	**Modifié par**:
 
-	  - Décret n°97-863 du 17 septembre 1997 - art. 1 () JORF 24 septembre 1997
+	  - Décret n°2007-731 du 7 mai 2007 - art. 8 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R421-5 (M)
+	  - Code de la propriété intellectuelle - art. R421-1-2 (V)
+	  - Code de la propriété intellectuelle - art. R421-5 (V)
 
 	**Codifié par**:
 
@@ -29664,13 +29769,14 @@ date de dépôt est celle de la réception à l'institut.
 
 Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie
 à l'accord sur l'Espace économique européen doivent, dans un délai qui leur est imparti par l'institut, constituer un
-mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
+mandataire satisfaisant aux conditions prévues à l'article R. 512-1. 
 
-En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
+En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué. 
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous
-réserve des dispositions de l'article R. 513-2 et sauf stipulation contraire, à tous les actes et à la réception de toutes
-les notifications prévues aux chapitres II, III et IV du présent titre. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui
+s'étend, sous réserve des dispositions de l'article R. 513-2 et sauf stipulation contraire, à tous les actes et à la
+réception de toutes les notifications prévues aux chapitres II, III et IV du présent titre. Le pouvoir est dispensé de
+légalisation.
 
 **Liens relatifs à cet article**
 
@@ -29680,12 +29786,12 @@ les notifications prévues aux chapitres II, III et IV du présent titre. Le pou
 
 	**Modifié par**:
 
-	  - Décret n°2002-215 du 18 février 2002 - art. 6 () JORF 20 février 2002
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R512-1 (M)
-	  - Code de la propriété intellectuelle - art. R513-2 (M)
+	  - Code de la propriété intellectuelle - art. R512-1 (V)
+	  - Code de la propriété intellectuelle - art. R513-2 (V)
 
 	**Cité par**:
 
@@ -29702,40 +29808,40 @@ Lorsqu'un même dépôt porte sur plusieurs dessins ou modèles, les produits da
 à être incorporés ou auxquels ils sont destinés à être appliqués doivent relever d'une même classe, au sens de la
 classification établie par l'arrangement de Locarno du 8 octobre 1968. Toutefois, cette condition ne s'applique pas lorsque
 le dépôt porte sur des ornementations ou s'il a été effectué sous la forme simplifiée prévue au cinquième alinéa de l'article
-L. 512-2.
+L. 512-2. 
 
-Le dépôt comprend :
+Le dépôt comprend : 
 
 1° Une demande d'enregistrement établie dans les conditions prévues par l'arrêté mentionné à l'article R. 514-5 et précisant
-notamment :
+notamment : 
 
-a) L'identification du déposant ;
+a) L'identification du déposant ; 
 
-b) Le nombre des dessins ou modèles concernés ;
+b) Le nombre des dessins ou modèles concernés ; 
 
 c) Le nombre total des reproductions graphiques ou photographiques incluses dans le dépôt, lequel ne peut porter sur plus de
-cent reproductions ;
+cent reproductions ; 
 
-d) Le nombre de reproductions qui se rapportent à chaque dessin ou modèle identifié ;
+d) Le nombre de reproductions qui se rapportent à chaque dessin ou modèle identifié ; 
 
 e) La désignation usuelle du produit dans lequel le dessin ou modèle est destiné à être incorporé ou auquel il est destiné à
-être appliqué ;
+être appliqué ; 
 
 f) Le cas échéant, l'indication que la publication du dépôt doit être différée, que le droit de priorité attaché à un
 précédent dépôt étranger est revendiqué ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril
-1908 ;
+1908 ; 
 
 2° Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par l'arrêté
 mentionné au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout
 autre objet, accessoire, personne ou animal. Les textes explicatifs, légendes, ou toute autre indication ne faisant pas
 partie intégrante du dessin ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions peuvent être
 accompagnées d'une brève description, établie exclusivement à des fins documentaires. Son contenu définitif est, si
-nécessaire, mis en forme par l'Institut national de la propriété industrielle ;
+nécessaire, mis en forme par l'Institut national de la propriété industrielle ; 
 
-3° La justification du paiement des redevances prescrites ;
+3° La justification du paiement des redevances prescrites ; 
 
 4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété
-industrielle.
+industrielle ou d'avocat. 
 
 Le déposant peut, jusqu'à la publication prévue à l'article R. 512-10, obtenir à ses frais une copie officielle des documents
 contenus dans son dépôt.
@@ -29759,12 +29865,12 @@ contenus dans son dépôt.
 
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 7 () JORF 3 mars 2007
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L512-2 (M)
-	  - Code de la propriété intellectuelle - art. R512-10 (M)
+	  - Code de la propriété intellectuelle - art. L512-2 (V)
+	  - Code de la propriété intellectuelle - art. R512-10 (V)
 	  - Loi n°1908-04-13
 
 	**Codifié par**:
@@ -30005,11 +30111,11 @@ La demande d'enregistrement peut être retirée jusqu'au début des préparatifs
 premier alinéa de l'article R. 512-10.
 
 Le retrait s'effectue par une déclaration écrite adressée ou remise à l'institut, formulée par le titulaire ou son
-mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit justifier d'un pouvoir spécial. En cas
-de pluralité de déposants, le retrait ne peut être effectué que s'il est requis par l'ensemble de ceux-ci.
+mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit justifier d'un pouvoir
+spécial. En cas de pluralité de déposants, le retrait ne peut être effectué que s'il est requis par l'ensemble de ceux-ci. 
 
 Une déclaration de retrait ne peut viser qu'un seul dépôt. Le retrait peut être limité à une partie des dessins ou modèles de
-la demande.
+la demande. 
 
 La déclaration indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être
 accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
@@ -30026,17 +30132,17 @@ accompagnée du consentement écrit du bénéficiaire de ce droit ou du créanci
 
 	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 18 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R512-10 (M)
+	  - Code de la propriété intellectuelle - art. R512-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R512-10
@@ -30268,7 +30374,7 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 **Liens relatifs à cet article**
 
@@ -30295,7 +30401,7 @@ La demande comprend :
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 22 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 
 ###### Article R512-16
@@ -30348,7 +30454,7 @@ La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
 
@@ -30356,11 +30462,6 @@ L'institut peut exiger la justification de la réalité du changement dont l'ins
 matérielle à rectifier.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-792 1992-08-13 art. 16
-	  - Décret n°92-792 du 13 août 1992 - art. 16 (Ab)
 
 	**Cité par**:
 
@@ -30373,13 +30474,17 @@ matérielle à rectifier.
 
 	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 24 () JORF 3 mars 2004
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+	**Anciens textes**:
+
+	  - Décret n°92-792 du 13 août 1992 - art. 16 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 
 ###### Article R512-18
@@ -31904,18 +32009,18 @@ Le dépôt peut être fait par le demandeur personnellement ou par un mandataire
 établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
 européen. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et
 pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple
-paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
+paiement des redevances, doit avoir la qualité de conseil en propriété industrielle. 
 
 Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou
 dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions
 prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est
 adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un
-des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa.
+des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa. 
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous
-réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la
-réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R. 613-65,
-R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui
+s'étend, sous réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes
+et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R.
+613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
 
 **Liens relatifs à cet article**
 
@@ -31929,15 +32034,17 @@ R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légal
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 34 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-4 (M)
-	  - Code de la propriété intellectuelle - art. L422-5 (V)
-	  - Code de la propriété intellectuelle - art. R612-38 (M)
-	  - Code de la propriété intellectuelle - art. R613-45 (M)
-	  - Code de la propriété intellectuelle L422-4, L422-5, R612-38, R613-45, R611-15 à R611-20, R612-1 à R613-3, R613-45 à R613-65, R616-1 à R616-3, R618-1 à R618-4
+	  - Code de la propriété intellectuelle - art. L422-4 (V)
+	  - Code de la propriété intellectuelle - art. R611-15 (V)
+	  - Code de la propriété intellectuelle - art. R612-1 (V)
+	  - Code de la propriété intellectuelle - art. R612-38 (V)
+	  - Code de la propriété intellectuelle - art. R613-45 (V)
+	  - Code de la propriété intellectuelle - art. R616-1 (V)
+	  - Code de la propriété intellectuelle - art. R618-1 (V)
 
 	**Cité par**:
 
@@ -33153,19 +33260,20 @@ remédier aux irrégularités constatées.
 ###### Article R612-38
 
 La demande de brevet peut être retirée à tout moment, par une déclaration écrite, jusqu'au paiement de la redevance de
-délivrance et d'impression du fascicule du brevet.
+délivrance et d'impression du fascicule du brevet. 
 
 Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf
-s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de retrait.
+s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir spécial de
+retrait. 
 
 Si la demande de brevet a été déposée au nom de plusieurs personnes, son retrait ne peut être effectué que s'il est requis
-par l'ensemble de celles-ci.
+par l'ensemble de celles-ci. 
 
 Si des droits réels, de gage ou de licence ont été inscrits au Registre national des brevets, la déclaration de retrait n'est
-recevable que si elle est accompagnée du consentement écrit des titulaires de ces droits.
+recevable que si elle est accompagnée du consentement écrit des titulaires de ces droits. 
 
 Si la demande est retirée après publication au Bulletin officiel de la propriété industrielle de la mention prévue à
-l'article R. 612-39, le retrait est inscrit d'office au Registre national des brevets.
+l'article R. 612-39, le retrait est inscrit d'office au Registre national des brevets. 
 
 Dans tous les cas de retrait de la demande, un exemplaire de celle-ci est conservé par l'Institut national de la propriété
 industrielle.
@@ -33177,9 +33285,9 @@ industrielle.
 	  - Décret n°79-822 du 19 septembre 1979 - art. 29 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 29 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cité par**:
 
@@ -33190,7 +33298,7 @@ industrielle.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-39 (M)
+	  - Code de la propriété intellectuelle - art. R612-39 (V)
 
 	**Codifié par**:
 
@@ -35616,8 +35724,8 @@ Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appl
 La renonciation au brevet ou à une ou plusieurs de ses revendications est faite par une déclaration écrite.
 
 Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le propriétaire du brevet ou par un mandataire,
-lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de
-renonciation.
+lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir
+spécial de renonciation.
 
 Si le brevet appartient à plusieurs personnes, la renonciation ne peut être effectuée que si elle est requise par l'ensemble
 de celles-ci.
@@ -35636,9 +35744,9 @@ Un avis d'inscription est adressé à l'auteur de la renonciation.
 	  - Décret n°79-822 du 19 septembre 1979 - art. 69 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 69 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cité par**:
 
@@ -35991,7 +36099,7 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 **Liens relatifs à cet article**
 
@@ -36010,7 +36118,7 @@ La demande comprend :
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 50 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cité par**:
 
@@ -36068,7 +36176,7 @@ La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
 
@@ -36077,26 +36185,25 @@ matérielle à rectifier.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 79 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 79 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 52 () JORF 3 mars 2004
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 
 ###### Article R613-58
@@ -40600,22 +40707,22 @@ renouvellement prévues à l'article R. 712-24.
 
 Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son
 établissement dans un Etat membre de la communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique
-européen.
+européen. 
 
 Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire constitué pour le dépôt d'une demande
 d'enregistrement de marque et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement
-des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle.
+des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle. 
 
 Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie
 à l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un
-mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
+mandataire satisfaisant aux conditions prévues à l'alinéa précédent. 
 
 En cas de pluralité de déposants, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un des déposants, il doit
-satisfaire aux conditions prévues par le deuxième alinéa.
+satisfaire aux conditions prévues par le deuxième alinéa. 
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous
-réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la réception
-de toutes les notifications prévues au présent titre. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui
+s'étend, sous réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et
+à la réception de toutes les notifications prévues au présent titre. Le pouvoir est dispensé de légalisation.
 
 **Liens relatifs à cet article**
 
@@ -40629,7 +40736,7 @@ de toutes les notifications prévues au présent titre. Le pouvoir est dispensé
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 62 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cité par**:
 
@@ -40642,10 +40749,9 @@ de toutes les notifications prévues au présent titre. Le pouvoir est dispensé
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-4 (M)
-	  - Code de la propriété intellectuelle - art. L422-5 (V)
-	  - Code de la propriété intellectuelle - art. R712-21 (M)
-	  - Code de la propriété intellectuelle - art. R714-1 (M)
+	  - Code de la propriété intellectuelle - art. L422-4 (V)
+	  - Code de la propriété intellectuelle - art. R712-21 (V)
+	  - Code de la propriété intellectuelle - art. R714-1 (V)
 
 	**Codifié par**:
 
@@ -40654,35 +40760,36 @@ de toutes les notifications prévues au présent titre. Le pouvoir est dispensé
 
 ###### Article R712-3
 
-Le dépôt comprend :
+Le dépôt comprend : 
 
 1° La demande d'enregistrement de la marque établie dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26
-et précisant notamment :
+et précisant notamment : 
 
-a) L'identification du déposant ;
+a) L'identification du déposant ; 
 
 b) Le modèle de la marque, consistant dans la représentation graphique de cette dernière ; le modèle peut être complété par
-une brève description ; cette dernière est obligatoire dans les cas prévus à l'arrêté précité ;
+une brève description ; cette dernière est obligatoire dans les cas prévus à l'arrêté précité ; 
 
-c) L'énumération des produits ou services auxquels elle s'applique, ainsi que l'énumération des classes correspondantes ;
+c) L'énumération des produits ou services auxquels elle s'applique, ainsi que l'énumération des classes correspondantes ; 
 
 d) Le cas échéant, l'indication qu'est revendiqué le droit de priorité attaché à un précédent dépôt étranger ou qu'un
 certificat de garantie a été délivré en application de la loi du 13 avril 1908.
 
-2° Les pièces annexes ci-après :
+2° Les pièces annexes ci-après : 
 
-a) La justification du paiement des redevances prescrites ;
+a) La justification du paiement des redevances prescrites ; 
 
-b) S'il est constitué un mandataire, le pouvoir de ce dernier ;
+b) S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété
+industrielle ou d'avocat ; 
 
-c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ;
+c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ; 
 
 d) S'il s'agit d'une marque collective de certification, le règlement déterminant les conditions auxquelles est subordonné
-l'usage de la marque ;
+l'usage de la marque ; 
 
 e) Si le déposant est un étranger qui n'est ni domicilié, ni établi sur le territoire national, et sous réserve des
 conventions internationales, la justification qu'il a régulièrement déposé la marque dans le pays de son domicile ou de son
-établissement et que ce pays accorde la réciprocité de protection aux marques françaises.
+établissement et que ce pays accorde la réciprocité de protection aux marques françaises. 
 
 Un même dépôt ne peut porter que sur une seule marque.
 
@@ -40690,7 +40797,6 @@ Un même dépôt ne peut porter que sur une seule marque.
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 3
 	  - Décret n°92-100 du 30 janvier 1992 - art. 3 (Ab)
 
 	**Cité par**:
@@ -40707,17 +40813,13 @@ Un même dépôt ne peut porter que sur une seule marque.
 
 	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 63 () JORF 3 mars 2004
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°1908-04-13
+	  - Décret n°2007-731 du 7 mai 2007 - art. 10 () JORF 8 mai 2007
 
 
 ###### Article R712-4
@@ -41071,47 +41173,43 @@ ou par l'intermédiaire d'une personne remplissant les conditions prévues à l'
 
 ###### Article R712-14
 
-L'opposition est présentée par écrit dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26.
+L'opposition est présentée par écrit dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26. 
 
-Elle précise :
+Elle précise : 
 
 1° L'identité de l'opposant, ainsi que les indications propres à établir l'existence, la nature, l'origine et la portée de
-ses droits ;
+ses droits ; 
 
 2° Les références de la demande d'enregistrement contre laquelle est formée l'opposition, ainsi que l'indication des produits
-ou services visés par l'opposition ;
+ou services visés par l'opposition ; 
 
-3° L'exposé des moyens sur lesquels repose l'opposition ;
+3° L'exposé des moyens sur lesquels repose l'opposition ; 
 
-4° La justification du paiement de la redevance prescrite ;
+4° La justification du paiement de la redevance prescrite ; 
 
-5° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle, le pouvoir du mandataire, ce pouvoir
-pouvant être adressé à l'institut dans le délai maximum d'un mois.
+5° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le pouvoir du mandataire, ce
+pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 13
 	  - Décret n°92-100 du 30 janvier 1992 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Cité par**:
 
 	  - Arrêté du 31 janvier 1992 - art. 1 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code de la propriété intellectuelle - art. R712-26 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de la propriété intellectuelle - art. R712-26 (V)
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R712-15
@@ -41289,16 +41387,16 @@ demandée.
 ###### Article R712-21
 
 La demande d'enregistrement peut être retirée jusqu'au début des préparatifs techniques relatifs à l'enregistrement. Le
-retrait peut être limité à une partie du dépôt. Il s'effectue par une déclaration écrite adressée ou remise à l'institut.
+retrait peut être limité à une partie du dépôt. Il s'effectue par une déclaration écrite adressée ou remise à l'institut. 
 
 Une déclaration de retrait ne peut viser qu'une seule marque. Elle est formulée par le demandeur ou par son mandataire
-lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre un pouvoir spécial.
+lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre un pouvoir spécial. 
 
 Elle indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée
-du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
+du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste. 
 
 Si la demande d'enregistrement a été formulée par plusieurs personnes, son retrait ne peut être effectué que s'il est requis
-par l'ensemble de celles-ci.
+par l'ensemble de celles-ci. 
 
 Le retrait ne fait pas obstacle à la publication prévue au premier alinéa de l'article R. 712-8.
 
@@ -41309,10 +41407,6 @@ Le retrait ne fait pas obstacle à la publication prévue au premier alinéa de 
 	  - Décret n°92-100 1992-01-30 art. 19
 	  - Décret n°92-100 du 30 janvier 1992 - art. 19 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Cité par**:
 
 	  - Arrêté du 31 janvier 1992 - art. 1 (V)
@@ -41322,13 +41416,17 @@ Le retrait ne fait pas obstacle à la publication prévue au premier alinéa de 
 	  - Code de la propriété intellectuelle - art. R714-1 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. R712-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R712-23
@@ -41692,18 +41790,14 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle ou
+d'avocat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 26
 	  - Décret n°92-100 du 30 janvier 1992 - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Liens**:
 
@@ -41711,7 +41805,7 @@ La demande comprend :
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 77 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Cité par**:
 
@@ -41720,6 +41814,10 @@ La demande comprend :
 	  - Code de la propriété intellectuelle - art. R714-5 (V)
 	  - Code de la propriété intellectuelle - art. R717-1 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R714-5
@@ -41772,7 +41870,7 @@ La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite ;
 
@@ -41783,7 +41881,6 @@ matérielle à rectifier.
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 28
 	  - Décret n°92-100 du 30 janvier 1992 - art. 28 (Ab)
 
 	**Cité par**:
@@ -41800,7 +41897,7 @@ matérielle à rectifier.
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 79 () JORF 3 mars 2004
+	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
 
 	**Codifié par**:
 
