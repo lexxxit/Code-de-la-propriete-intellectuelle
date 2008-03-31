@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2008-04-01
 
 # Partie législative
 
@@ -33367,7 +33367,7 @@ du décès.
 
 	**Modifié par**:
 
-	  - Décret n°2007-144 du 1 février 2007 - art. 1 () JORF 4 février 2007
+	  - Décret n°2007-468 du 28 mars 2007 - art. 45 (V) JORF 30 mars 2007 en vigueur le 1er avril 2007
 
 	**Codifié par**:
 
