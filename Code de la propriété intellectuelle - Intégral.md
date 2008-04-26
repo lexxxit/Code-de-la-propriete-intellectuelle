@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-04-01
+Version Consolidée au 2008-04-27
 
 # Partie législative
 
@@ -37958,27 +37958,24 @@ industrielle.
 
 ###### Article R613-63
 
-La réduction des redevances prévue à l'article L. 612-20 est de droit pour les personnes physiques.
+La réduction des redevances prévue à l'article L. 612-20 est de droit pour les personnes physiques. 
 
 Si le déposant est une personne morale, la demande de réduction doit, à peine d'irrecevabilité, être présentée par écrit au
 directeur général de l'Institut national de la propriété industrielle dans le délai d'un mois à compter du dépôt de la
 demande de brevet. En outre, le déposant doit, dans le même délai, produire une déclaration attestant qu'il appartient à la
-catégorie des petites ou moyennes entreprises ou à celle des organismes à but non lucratif dans le domaine de l'enseignement
-ou de la recherche.
-
-Pour l'application de l'alinéa précédent, une petite ou moyenne entreprise s'entend d'une entreprise dont le nombre de
-salariés est inférieur à 250, le chiffre d'affaires inférieur à 50 millions d'euros et dont 25 % au plus du capital est
-détenu par une autre entité ne remplissant pas les mêmes conditions.
+catégorie des organismes à but non lucratif dans le domaine de l'enseignement ou de la recherche ou à celles des entreprises
+dont le nombre de salariés est inférieur à 1 000 et dont 25 % au plus du capital est détenu par une autre entité ne
+remplissant pas la même condition. 
 
 Une fois obtenu, le bénéfice de la réduction est définitivement acquis et s'applique à l'ensemble des redevances de
 procédures et de maintien en vigueur à l'exclusion des annuités au-delà de la septième, à la redevance de rapport de
 recherche concernant une demande sous priorité étrangère accompagnée d'un rapport de recherche reconnu équivalent au rapport
 de recherche national par décision du directeur général de l'Institut national de la propriété industrielle, aux redevances
 de recours en restauration, de rectification d'erreurs matérielles, d'inscription au registre national et de publication de
-traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen.
+traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen. 
 
 Lorsqu'un dépôt de demande de brevet est effectué en copropriété, tous les codéposants doivent appartenir aux catégories
-visées par l'article L. 612-20 pour pouvoir prétendre au bénéfice de la réduction.
+visées par l'article L. 612-20 pour pouvoir prétendre au bénéfice de la réduction. 
 
 Le montant de l'amende infligée en cas de fausse déclaration est de dix fois le montant des redevances qui étaient dues.
 
@@ -37986,7 +37983,6 @@ Le montant de l'amende infligée en cas de fausse déclaration est de dix fois l
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 94 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 94 (Ab)
 
 	**Cité par**:
@@ -37999,14 +37995,13 @@ Le montant de l'amende infligée en cas de fausse déclaration est de dix fois l
 	  - Arrêté du 24 avril 2008 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 16 () JORF 3 mars 2007
-	  - Décret n°2007-280 du 1 mars 2007 - art. 17 () JORF 3 mars 2007
+	  - Décret n°2008-402 du 24 avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L612-20 (V)
 
 
 #### Chapitre IV : Application de conventions internationales
@@ -44282,20 +44277,8 @@ avis de non-imposition ou une justification équivalente.
 
 ###### Article R811-2
 
-Sous réserve des adaptations prévues par l'art. R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent
+Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent
 code à l'exception des articles R. 133-1, R. 133-2, R. 326-1 et R. 326-2.
-
-Toutefois, l'article R. 613-63 est ainsi rédigé :
-
-Art. R. 613-63. - La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi
-n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
-industrielle.
-
-Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
-décision est notifiée au requérant.
-
-Si la demande est accueillie, le bénéfice de la rédaction est acquis au requérant sous réserve qu'il produise chaque année un
-avis de non-imposition ou une justification équivalente.
 
 **Liens relatifs à cet article**
 
@@ -44306,13 +44289,9 @@ avis de non-imposition ou une justification équivalente.
 	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
 	  - Code de la propriété intellectuelle - art. R811-1 (M)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 29 () JORF 3 mars 2007
+	  - Décret n°2008-402 du 24 avril 2008 - art. 2
 
 
 ###### Article R811-3
