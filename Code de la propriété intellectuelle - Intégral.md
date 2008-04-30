@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-04-27
+Version Consolidée au 2008-05-01
 
 # Partie législative
 
@@ -15061,26 +15061,20 @@ Des décrets en Conseil d'Etat fixent les modalités d'application du présent t
 
 ###### Article L621-1
 
-Les peines frappant la violation des secrets de fabrique sont prévues à l'article L. 152-7 du code du travail ci-après
-reproduit :
+Les peines frappant la violation des secrets de fabrique sont prévues à l'article L. 1227-1 du code du travail ci-après
+reproduit : 
 
-"Art. L. 152-7 :
+" Art. L. 1227-1- Le fait pour un directeur ou un salarié de révéler ou de tenter de révéler un secret de fabrication est
+puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros. 
 
-"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de
-fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
-
-"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
-des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+La juridiction peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
+des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 1 (V)
 
 	**Cité par**:
 
@@ -15089,14 +15083,13 @@ des droits civiques, civils et de famille prévue par l'article 131-26 du code p
 	  - Code de la propriété intellectuelle - art. L811-1 (M)
 	  - Code de la propriété intellectuelle - art. L811-3 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la propriété intellectuelle L811-3 champ d'application TOM et Mayotte
-	  - PILOTE_SUIVEUR: Code du travail - art. L152-7 (AbD)
-
 	**Cite**:
 
 	  - Code pénal - art. 131-26 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du travail - art. L1227-1 (V)
 
 
 ##### Chapitre II : Produits semi-conducteurs
@@ -26667,88 +26660,88 @@ budget et du ministre intéressé.
 
 L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont
 fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des
-procédures et formalités suivantes :
+procédures et formalités suivantes : 
 
-1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
+1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : 
 
-Dépôt ;
+Dépôt ; 
 
-Rapport de recherche ou rapport de recherche complémentaire ;
+Rapport de recherche ou rapport de recherche complémentaire ; 
 
-Revendication supplémentaire à partir de la onzième ;
+Revendication supplémentaire à partir de la onzième ; 
 
-Requête en rectification d'erreurs ;
+Requête en rectification d'erreurs ; 
 
-Requête en poursuite de la procédure ;
+Requête en poursuite de la procédure ; 
 
-Délivrance et impression du fascicule ;
+Délivrance et impression du fascicule ; 
 
-Maintien en vigueur ;
+Maintien en vigueur ; 
 
-Recours en restauration ;
+Recours en restauration ; 
 
 2° Pour les brevets européens :
 
-Publication de traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet
-européen ;
+Publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un
+brevet européen ; 
 
-Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires ;
+Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires ; 
 
-3° Pour les demandes internationales (traité de coopération en matière de brevets, PCT) :
+3° Pour les demandes internationales (traité de coopération en matière de brevets, PCT) : 
 
-Transmission d'une demande internationale ;
+Transmission d'une demande internationale ; 
 
-Supplément pour paiement tardif ;
+Supplément pour paiement tardif ; 
 
-Préparation d'exemplaires complémentaires ;
+Préparation d'exemplaires complémentaires ; 
 
-4° Pour les marques de fabrique, de commerce ou de service :
+4° Pour les marques de fabrique, de commerce ou de service : 
 
-Dépôt ;
+Dépôt ; 
 
-Classe de produit ou service ;
+Classe de produit ou service ; 
 
-Régularisation ou rectification d'erreur matérielle ;
+Régularisation ou rectification d'erreur matérielle ; 
 
-Opposition ;
+Opposition ; 
 
-Renouvellement ;
+Renouvellement ; 
 
-Demande d'inscription au Registre international des marques ;
+Demande d'inscription au Registre international des marques ; 
 
-Relevé de déchéance ;
+Relevé de déchéance ; 
 
-5° Pour les dessins et modèles :
+5° Pour les dessins et modèles : 
 
-Dépôt ;
+Dépôt ; 
 
-Prorogation ;
+Prorogation ; 
 
-Régularisation, rectification, relevé de déchéance ;
+Régularisation, rectification, relevé de déchéance ; 
 
-Enregistrement et gardiennage d'enveloppe spéciale ;
+Enregistrement et gardiennage d'enveloppe spéciale ; 
 
 6° Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels,
-marques, dessins ou modèles. - Palmarès et récompenses :
+marques, dessins ou modèles.-Palmarès et récompenses : 
 
-Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
+Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ; 
 
-Renonciation ;
+Renonciation ; 
 
-Demande d'inscription sur le registre national ;
+Demande d'inscription sur le registre national ; 
 
-Enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ;
+Enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ; 
 
-7° Pour les droits voisins de la propriété industrielle :
+7° Pour les droits voisins de la propriété industrielle : 
 
 Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les
-droits ;
+droits ; 
 
-8° S'agissant du Registre national du commerce et des sociétés :
+8° S'agissant du Registre national du commerce et des sociétés : 
 
-Déclaration ;
+Déclaration ; 
 
-Dépôt d'un acte.
+Dépôt d'un acte. 
 
 En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 
@@ -26756,7 +26749,7 @@ En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 
 - pour les marques de fabrique, de commerce ou de service : dépôt, classe de produit ou service, renouvellement ;
 
-- pour les dessins et modèles : dépôt, prorogation.
+- pour les dessins et modèles : dépôt, prorogation. 
 
 Est également remboursée la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de
 délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure
@@ -26799,13 +26792,9 @@ d'établissement du rapport de recherche n'a pas été engagée.
 	  - Arrêté du 2 septembre 2008 (V)
 	  - Code de la propriété intellectuelle - art. R721-1 (V)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 6 () JORF 3 mars 2007
+	  - Décret n°2008-625 du 27 juin 2008 - art. 2
 
 
 ###### Article R411-18
@@ -38219,108 +38208,22 @@ Les dispositions des articles R. 614-5 et R. 614-6 sont applicables aux demandes
 	  - Code de la propriété intellectuelle - art. R614-5 (V)
 
 
-###### Article R614-8
-
-La traduction en français du texte du brevet européen prévue à l'article L. 614-7 doit être remise dans un délai de trois
-mois à compter de la date de publication au Bulletin européen des brevets de la mention de la délivrance du brevet visée à
-l'article 97, paragraphe 4, de la convention sur le brevet européen et, le cas échéant, de la mention de la décision
-concernant l'opposition visée à son article 103. La traduction doit être accompagnée de la justification de la redevance
-exigible.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-625 du 27 juin 2008 - art. 6
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L614-7 (V)
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R614-10 (Ab)
-
-
-###### Article R614-9
-
-Mention de la remise de la traduction du texte du brevet européen est publiée au Bulletin officiel de la propriété
-industrielle dans le délai d'un mois à compter de la date à laquelle elle a été fournie. Cette mention comporte les
-indications nécessaires à l'identification du brevet.
-
-A compter du jour de la publication de la mention visée à l'alinéa précédent, toute personne peut prendre connaissance
-gratuitement à l'Institut national de la propriété industrielle du texte de la traduction et en obtenir reproduction à ses
-frais.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-625 du 27 juin 2008 - art. 6
-
-
-###### Article R614-10
-
-Mention du défaut de la remise de la traduction du brevet européen ou du défaut de paiement de la redevance exigible dans le
-délai prévu à l'article R. 614-8 est publiée au Bulletin officiel de la propriété industrielle. Cette mention comporte les
-indications nécessaires à l'identification du brevet. La redevance payée est remboursée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 10 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-625 du 27 juin 2008 - art. 6
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R614-8 (Ab)
-
-
 ###### Article R614-11
 
-La traduction des revendications de la demande de brevet européen visée par l'article L. 614-9 est établie par le demandeur.
-Son texte est remis à l'Institut national de la propriété industrielle par le demandeur, accompagné d'une réquisition de
-publication et de la justification du paiement de la redevance exigible. Les dispositions de l'article R. 614-9 sont
-applicables.
+La traduction des revendications de la demande de brevet européen mentionnée à l'article L. 614-9 est établie par le
+demandeur. Son texte est remis à l'Institut national de la propriété industrielle par le demandeur, accompagné d'une
+réquisition de publication et de la justification du paiement de la redevance exigible. 
 
 La réquisition de publicité est déclarée irrecevable si elle n'est pas accompagnée de la justification du paiement de la
-redevance.
+redevance. 
+
+Mention de la remise de la traduction des revendications est publiée au Bulletin officiel de la propriété industrielle dans
+le délai d'un mois à compter de la date à laquelle elle a été fournie. Cette mention comporte les indications nécessaires à
+l'identification de la demande de brevet.
+
+A compter du jour de la publication de la mention mentionnée à l'alinéa précédent, toute personne peut prendre connaissance
+gratuitement à l'Institut national de la propriété industrielle du texte de la traduction et en obtenir reproduction à ses
+frais.
 
 **Liens relatifs à cet article**
 
@@ -38328,9 +38231,13 @@ redevance.
 
 	  - Décret n°78-1011 du 10 octobre 1978 - art. 11 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-625 du 27 juin 2008 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-9
 
 	**Cité par**:
 
@@ -38338,58 +38245,51 @@ redevance.
 	  - Code de la propriété intellectuelle - art. R614-13 (V)
 	  - Code de la propriété intellectuelle - art. R614-18 (V)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 
 ###### Article R614-12
 
-Les dispositions de l'article R. 614-11 sont applicables à la production de la traduction révisée du texte du brevet européen
-ou des revendications de la demande de brevet européen prévue au second alinéa de l'article L. 614-10.
+Les dispositions de l'article R. 614-11 sont applicables à la production de la traduction révisée des revendications prévue
+au second alinéa de l'article L. 614-10.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°78-1011 du 10 octobre 1978 - art. 12 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-625 du 27 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-10
+	  - Code de la propriété intellectuelle - art. R614-11
 
 
 ###### Article R614-13
 
-Font l'objet d'une inscription d'office au Registre national des brevets :
+Font l'objet d'une inscription d'office au Registre national des brevets : 
 
-1° La décision définitive visée à l'article R. 614-6 ;
+1° La décision définitive mentionnée à l'article R. 614-6 ; 
 
-2° Le défaut de la remise de la traduction et celui du paiement de la redevance exigible visés à l'article R. 614-10 ;
-
-3° La remise de la traduction et celle de la traduction révisée du texte du brevet européen visées aux articles R. 614-8 et
-R. 614-12 ;
-
-4° La remise de la traduction et celle de la traduction révisée des revendications de la demande de brevet européen visées
-aux articles R. 614-11 et R. 614-12.
+2° La remise de la traduction et celle de la traduction révisée des revendications de la demande de brevet ou des
+revendications du brevet européen mentionnées aux articles R. 614-11 et R. 614-12.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°78-1011 du 10 octobre 1978 - art. 13 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-625 du 27 juin 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R614-11
+	  - Code de la propriété intellectuelle - art. R614-6
 
 
 ###### Article R614-14
@@ -38508,22 +38408,22 @@ exigible.
 
 ###### Article R614-18
 
-La publication de chacune des traductions et des traductions révisées mentionnées aux articles R. 614-8, R. 614-11 et R.
-614-12 donne lieu au paiement d'une redevance exigible lors de la remise de la traduction.
+La publication de chacune des traductions et des traductions révisées mentionnées aux articles R. 614-11 et R. 614-12 donne
+lieu au paiement d'une redevance exigible lors de la remise de la traduction.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°78-1011 du 10 octobre 1978 - art. 18 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-625 du 27 juin 2008 - art. 9
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R614-11
 
 
 ###### Article R614-19
