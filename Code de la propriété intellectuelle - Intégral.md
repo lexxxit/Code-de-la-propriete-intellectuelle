@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -25600,64 +25600,66 @@ L'Autorité peut assortir cette injonction d'une astreinte selon les modalités 
 
 ###### Article R331-28
 
-Les décisions de l'Autorité mentionnées aux articles R. 331-22 à R. 331-24 et R. 331-27 sont notifiées par lettre recommandée
-avec demande d'avis de réception aux parties, qui peuvent, dans le délai d'un mois, introduire un recours en annulation ou en
-réformation devant la cour d'appel de Paris. Les augmentations de délais prévues à l'article 643 du nouveau code de procédure
-civile ne s'appliquent pas à ce recours.
+Les décisions de l' Autorité mentionnées aux articles R. 331- 22 à R. 331- 24 et R. 331- 27 sont notifiées par lettre
+recommandée avec demande d' avis de réception aux parties, qui peuvent, dans le délai d' un mois, introduire un recours en
+annulation ou en réformation devant la cour d' appel de Paris. Les augmentations de délais prévues à l' article 643 du code
+de procédure civile ne s' appliquent pas à ce recours. 
 
-La lettre de notification doit indiquer le délai de recours ainsi que les modalités selon lesquelles celui-ci peut être
-exercé. Elle comporte en annexe les noms, qualités et adresses des parties auxquelles la décision de l'Autorité a été
-notifiée. Les délais de recours ne sont pas opposables à l'auteur de celui-ci lorsque la lettre de notification ne comporte
-pas les indications prévues au présent alinéa.
+La lettre de notification doit indiquer le délai de recours ainsi que les modalités selon lesquelles celui- ci peut être
+exercé. Elle comporte en annexe les noms, qualités et adresses des parties auxquelles la décision de l' Autorité a été
+notifiée. Les délais de recours ne sont pas opposables à l' auteur de celui- ci lorsque la lettre de notification ne comporte
+pas les indications prévues au présent alinéa. 
 
-Ces décisions ainsi que les procès-verbaux mentionnés aux articles R. 331-20 et R. 331-26 sont rendus publics par tous moyens
-et, en tout état de cause, s'agissant des décisions, au Bulletin officiel du ministère de la culture et de la communication.
-L'Autorité peut prévoir une publication limitée pour tenir compte de l'intérêt légitime des parties à ce que leurs secrets
-protégés par la loi ne soient pas divulgués. Une copie de ces documents est adressée au ministre chargé de la culture et,
-pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété
-industrielle.
+Ces décisions ainsi que les procès- verbaux mentionnés aux articles R. 331- 20 et R. 331- 26 sont rendus publics par tous
+moyens et, en tout état de cause, s' agissant des décisions, au Bulletin officiel du ministère de la culture et de la
+communication. L' Autorité peut prévoir une publication limitée pour tenir compte de l' intérêt légitime des parties à ce que
+leurs secrets protégés par la loi ne soient pas divulgués. Une copie de ces documents est adressée au ministre chargé de la
+culture et, pour ce qui concerne les litiges relatifs à l' interopérabilité des mesures techniques, au ministre chargé de la
+propriété industrielle. 
 
-L'Autorité peut mettre tout ou partie des frais de procédure à la charge du demandeur dont la demande est rejetée ou à celle
-de la personne mise en cause lorsqu'une injonction ou une sanction pécuniaire est prononcée à son encontre. Ces frais
-incluent, le cas échéant, le coût de l'expertise mentionnée à l'article R. 331-19 et celui de la publication de la décision.
+L' Autorité peut mettre tout ou partie des frais de procédure à la charge du demandeur dont la demande est rejetée ou à celle
+de la personne mise en cause lorsqu' une injonction ou une sanction pécuniaire est prononcée à son encontre. Ces frais
+incluent, le cas échéant, le coût de l' expertise mentionnée à l' article R. 331- 19 et celui de la publication de la
+décision. 
 
-Les sanctions pécuniaires et les astreintes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+Les sanctions pécuniaires et les astreintes sont recouvrées comme les créances de l' Etat étrangères à l' impôt et au
+domaine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-510 2007-04-04 art. 1 2° JORF 5 avril 2007
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R331-19 (V)
+	  - Code de la propriété intellectuelle - art. R331-20 (V)
+	  - Code de la propriété intellectuelle - art. R331-22 (V)
+	  - Code de la propriété intellectuelle - art. R331-26 (V)
+	  - Code de la propriété intellectuelle - art. R331-27 (V)
+	  - Code de procédure civile - art. 643 (V)
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R331-19 (V)
 	  - Code de la propriété intellectuelle - art. R331-23 (V)
 	  - Code de la propriété intellectuelle - art. R331-30 (V)
 	  - Code de la propriété intellectuelle - art. R331-31 (V)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 
 ###### Article R331-29
 
-Par dérogation aux dispositions du titre VI du livre II du nouveau code de procédure civile, les recours exercés devant la
-cour d'appel de Paris contre les décisions de l'Autorité sont formés, instruits et jugés conformément aux dispositions de la
-présente sous-section.
+Par dérogation aux dispositions du titre VI du livre II du    code de procédure civile, les recours exercés devant la cour
+d'appel de Paris contre les décisions de l'Autorité sont formés, instruits et jugés conformément aux dispositions de la
+présente sous-section. 
 
 L'Autorité n'est pas partie à l'instance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-510 2007-04-04 art. 1 2° JORF 5 avril 2007
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 
 ###### Article R331-30
@@ -25834,18 +25836,22 @@ entre les avocats ou les avoués des parties. Les pièces de procédure doivent 
 
 ###### Article R331-36
 
-Devant la cour d'appel ou son premier président, la représentation et l'assistance des parties s'exercent dans les conditions
-prévues par l'article 931 du nouveau code de procédure civile.
+Devant la cour d' appel ou son premier président, la représentation et l' assistance des parties s' exercent dans les
+conditions prévues par l' article 931 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-510 2007-04-04 art. 1 2° JORF 5 avril 2007
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°2009-1773 du 29 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 931
 
 
 ###### Article R331-37
@@ -27003,24 +27009,23 @@ dans le ressort de cette cour.
 ###### Article R411-20
 
 Le délai du recours formé devant la cour d'appel contre les décisions du directeur général de l'Institut national de la
-propriété industrielle est d'un mois.
+propriété industrielle est d'un mois. 
 
-Ce délai est, s'il y a lieu, prorogé dans les conditions prévues à l'article 643 du nouveau code de procédure civile.
+Ce délai est, s'il y a lieu, prorogé dans les conditions prévues à l'article 643 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-251 1992-03-17 art. 4
 	  - Décret n°92-251 du 17 mars 1992 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Code de procédure civile - art. 643 (V)
 
 
 ###### Article R411-21
