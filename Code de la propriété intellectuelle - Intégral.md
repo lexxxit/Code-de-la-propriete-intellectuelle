@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-05
 
 # Partie législative
 
@@ -10241,14 +10241,20 @@ question de dessins ou modèles et sur une question connexe de concurrence délo
 ###### Article L611-1
 
 Toute invention peut faire l'objet d'un titre de propriété industrielle délivré par le directeur de l'Institut national de la
-propriété industrielle qui confère à son titulaire ou à ses ayants cause un droit exclusif d'exploitation.
+propriété industrielle qui confère à son titulaire ou à ses ayants cause un droit exclusif d'exploitation. 
 
-La délivrance du titre donne lieu à la diffusion légale prévue à l'article L. 612-21.
+La délivrance du titre donne lieu à la diffusion légale prévue à l'article L. 612-21. 
 
 Sous réserve des dispositions des conventions internationales auxquelles la France est partie, les étrangers dont le domicile
 ou l'établissement est situé en dehors du territoire où le présent titre est applicable jouissent du bénéfice du présent
 titre, sous la condition que les Français bénéficient de la réciprocité de protection dans les pays dont lesdits étrangers
-sont ressortissants.
+sont ressortissants. 
+
+Sauf stipulation contraire d'un engagement international auquel la France est partie, les dispositions du présent article
+s'appliquent aux inventions réalisées ou utilisées dans l'espace extra-atmosphérique y compris sur les corps célestes ou dans
+ou sur des objets spatiaux placés sous juridiction nationale en application de l'article VIII du traité du 27 janvier 1967
+sur les principes régissant les activités des Etats en matière d'exploration et d'utilisation de l'espace extra-
+atmosphérique, y compris la Lune et les autres corps célestes.
 
 **Liens relatifs à cet article**
 
@@ -10257,18 +10263,6 @@ sont ressortissants.
 	  - Loi n°68-1 du 2 janvier 1968 - art. 1 (Ab)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 5 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-1106 1996-12-18 art. 15 *champ d'application*
-
-	**Modifié par**:
-
-	  - Loi n°96-1106 du 18 décembre 1996 - art. 2 () JORF 19 décembre 1996
-
 	**Cité par**:
 
 	  - Arrêté du 24 avril 2008 (V)
@@ -10276,6 +10270,14 @@ sont ressortissants.
 	  - Code de la propriété intellectuelle - art. L613-1 (V)
 	  - Code de la recherche - art. L329-7 (Ab)
 	  - Code de la recherche - art. L533-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-518 du 3 juin 2008 - art. 22
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L612-21
 
 
 ###### Article L611-2
@@ -12075,17 +12077,15 @@ c) A la préparation de médicaments faite extemporanément et par unité dans l
 médicale, ni aux actes concernant les médicaments ainsi préparés ;
 
 d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi
-qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation.
+qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation ;
+
+e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique introduits sur le territoire français.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°68-1 du 2 janvier 1968 - art. 30 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
 
 	**Cité par**:
 
@@ -12095,7 +12095,7 @@ qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisati
 
 	**Modifié par**:
 
-	  - Loi n°2007-248 du 26 février 2007 - art. 10 () JORF 27 février 2007
+	  - Loi n°2008-518 du 3 juin 2008 - art. 22
 
 
 ###### Article L613-5-1
@@ -32491,7 +32491,26 @@ afférentes à des actes intervenus postérieurement au 15 septembre 1992.
 
 ### Titre II : Contentieux
 
+###### Article R522-1
+
+Ainsi qu'il est dit à l'article R. 211-7 du code de l'organisation judiciaire, les actions et demandes en matière de dessin
+ou modèle communautaire prévues par l'article L. 522-2 sont portées devant le tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 6
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+
 #### Chapitre unique : Retenue en douane.
+
+#### Chapitre Ier : Retenue en douane.
 
 ###### Article R*521-1-1
 
@@ -42080,7 +42099,7 @@ modalités d'application du présent chapitre.
 
 #### Chapitre unique
 
-###### Article R631-1
+###### Article D631-1
 
 Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande
 instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de
@@ -42095,32 +42114,20 @@ Tableau non reproduit, consulter le fac-similé du décret n° 2005-1756.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2005-1756 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-522 du 2 juin 2008 - art. 6
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. D631-1 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L623-31
+	  - Décret n°2008-522 du 2 juin 2008 - art. 6
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R615-1 (M)
+	  - Code de la propriété intellectuelle - art. R623-51 (V)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R631-1 (T)
 
 
-###### Article R631-2
+###### Article D631-2
 
 Ainsi qu'il est dit à l'article R. 312-2-1 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de
 grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats
@@ -42130,28 +42137,17 @@ l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Créé par**:
 
-	  - Décret n°2005-1756 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2008-522 du 2 juin 2008 - art. 6
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2008-522 du 2 juin 2008 - art. 6
+	  - Code de la propriété intellectuelle - art. R615-2 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la propriété intellectuelle - art. D631-2 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L611-2
-	  - Code de la propriété intellectuelle - art. L615-17
-	  - Code de la propriété intellectuelle - art. L622-7
-	  - Code de l'organisation judiciaire
+	  - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
