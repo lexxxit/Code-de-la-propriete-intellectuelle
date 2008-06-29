@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-06-05
+Version Consolidée au 2008-06-30
 
 # Partie législative
 
@@ -24726,17 +24726,13 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 
 ###### Article R331-1
 
-Les agents désignés par le Centre national de la cinématographie, par les organismes professionnels d'auteurs et par les
-sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre chargé de la culture, prêtent
-serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et
-fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de
-leur exercice ".
+Les agents désignés par le Centre national de la cinématographie, par les organismes de défense professionnelle visés à
+l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre
+chargé de la culture, prêtent serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la
+suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma
+connaissance à l'occasion de leur exercice ".
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
@@ -24744,7 +24740,12 @@ leur exercice ".
 
 	**Modifié par**:
 
-	  - Décret n°2007-510 2007-04-04 art. 1 1° JORF 5 avril 2007
+	  - Décret n°2008-624 du 27 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle
+	  - Code de la propriété intellectuelle - art. L331-1
 
 
 ##### Section 2 : Mesures techniques de protection et d'information
@@ -25886,6 +25887,80 @@ simple à l'initiative du greffe.
 	  - Décret n°95-385 1955-04-10
 
 
+#### Chapitre II : Saisie-contrefaçon
+
+###### Article R332-1
+
+Le délai prévu à la seconde phrase du 4° de l'article L. 332-1 est de vingt jours ouvrables ou de trente et un jours civils
+si ce délai est plus long, à compter du jour de l'exécution de l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1550 du 19 décembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L332-1
+
+
+###### Article R332-2
+
+Le délai prévu au premier alinéa de l'article L. 332-2 est de vingt jours ouvrables ou de trente et un jours civils si ce
+délai est plus long, à compter, selon le cas, du jour de la signature du procès-verbal de la saisie prévue au premier alinéa
+de l'article L. 332-1 ou du jour de l'exécution de l'ordonnance prévue au même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L332-1
+	  - Code de la propriété intellectuelle - art. L332-2
+
+
+###### Article R332-3
+
+Le délai prévu à l'article L. 332-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de
+trente et un jours civils si ce délai est plus long, à compter, selon le cas, du jour de la signature du procès-verbal de la
+saisie prévue au premier alinéa de l'article L. 332-1 ou de la date de l'ordonnance prévue au même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L332-1
+	  - Code de la propriété intellectuelle - art. L332-3
+
+
+###### Article R332-4
+
+Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L332-4
+
+
 #### Chapitre V : Dispositions pénales
 
 ###### Article R*335-1-1
@@ -26046,6 +26121,24 @@ des fins de sécurité informatique ou à des fins de recherche scientifique en 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L331-22 (V)
+
+
+### Chapitre III : Procédures et sanctions
+
+###### Article R343-1
+
+Le délai prévu au dernier alinéa de l'article L. 343-2 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L343-2
 
 
 ## Livre IV : Organisation administrative et professionnelle
@@ -30717,6 +30810,37 @@ qui lui était confiée ; la remise doit intervenir dans un délai permettant d'
 	  - Décret n°2004-199 du 25 février 2004 - art. 10 () JORF 3 mars 2004
 
 
+###### Article R422-55
+
+La demande de dispense mentionnée au 3° de l'article L. 422-12 est adressée au ministre chargé de la propriété industrielle
+ou, par délégation, au directeur de l'Institut national de la propriété industrielle par lettre recommandée avec demande
+d'avis de réception ou remise contre récépissé. Elle indique l'objet de la dispense, le cas échéant la durée souhaitée et les
+raisons pour lesquelles elle est demandée. Elle est accompagnée d'un exemplaire des statuts sociaux et, lorsque la société a
+au moins une année d'activité, d'une copie du dernier bilan.
+
+L'autorité compétente statue sur la demande de dispense après avis de la Compagnie nationale des conseils en propriété
+industrielle. La compagnie notifie son avis dans le délai d'un mois à compter de sa saisine. A défaut, elle est réputée
+s'être prononcée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-360 du 1 avril 1992 - art. 29 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-12
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R422-53 (M)
+
+
 ##### Section 5 : Régime disciplinaire
 
 ###### Article R422-56
@@ -32491,16 +32615,23 @@ afférentes à des actes intervenus postérieurement au 15 septembre 1992.
 
 ### Titre II : Contentieux
 
+#### Chapitre II : Contentieux des dessins et modèles communautaires
+
 ###### Article R522-1
 
-Ainsi qu'il est dit à l'article R. 211-7 du code de l'organisation judiciaire, les actions et demandes en matière de dessin
-ou modèle communautaire prévues par l'article L. 522-2 sont portées devant le tribunal de grande instance de Paris.
+Les actions et demandes en matière de dessins ou modèles communautaires prévues par l'article L. 522-2 sont portées devant
+les tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. 6
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L522-2
+	  - Code de l'organisation judiciaire - art. R211-7
 
 	**Cité par**:
 
@@ -32508,71 +32639,327 @@ ou modèle communautaire prévues par l'article L. 522-2 sont portées devant le
 	  - Code de la propriété intellectuelle - art. R811-2 (V)
 
 
-#### Chapitre unique : Retenue en douane.
+### Titre II : Contentieux
 
-#### Chapitre Ier : Retenue en douane.
+#### Chapitre Ier : Contentieux des dessins ou modèles nationaux
 
-###### Article R*521-1-1
+##### Section 1 : Mesures provisoires et conservatoires
 
-L'autorité administrative compétente mentionnée aux I et II de l'article R. 521-1 est le ministre chargé des douanes.
+###### Article R521-1
+
+Le délai prévu au dernier alinéa de l'article L. 521-6 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-792 1992-08-13 art. 26 I
+	  - Décret n°92-792 du 13 août 1992 - art. 26-1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-6
+
+
+##### Section 2 : Mesures probatoires
+
+###### Article R521-2
+
+La saisie, descriptive ou réelle, prévue à l'article L. 521-4 est ordonnée par le président du tribunal de grande instance
+compétent pour connaître du fond. 
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de la contrefaçon.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2005-1298 du 20 octobre 2005 - art. 2
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-4
+
+
+###### Article R521-3
+
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
+avant qu'il soit procédé à la saisie. 
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
+détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
+garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2008-624 du 27 juin 2008 - art. 5
 
 
-###### Article R521-1
+###### Article R521-4
 
-I. - La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 521-7 comporte :
+Le délai prévu au dernier alinéa de l'article L. 521-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
+description.
 
-1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
+**Liens relatifs à cet article**
 
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
+	**Créé par**:
 
-3° La qualité du demandeur au regard des droits qu'il invoque ;
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
 
-4° L'objet et le numéro national du dessin ou modèle concerné, accompagné d'un certificat d'identité délivré par l'Institut
-national de la propriété industrielle ;
+	**Cite**:
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
+	  - Code de la propriété intellectuelle - art. L521-4
 
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont
-légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté
-européenne.
 
-II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des
-marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+###### Article R521-5
+
+Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
+preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt
+légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
+
+
+#### Chapitre II : Contentieux des dessins et modèles communautaires
+
+#### Chapitre III : Retenue en douane
+
+
+
+###### Article R523-1
+
+I.-La demande de retenue prévue à l'article L. 521-14 comporte : 
+
+1° Les nom et prénom ou la dénomination sociale du demandeur, son domicile ou son siège social ; 
+
+2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ; 
+
+3° La qualité du demandeur au regard des droits qu'il invoque ; 
+
+4° La preuve de l'enregistrement ou du dépôt auprès de l'organisme compétent du ou des dessins et modèles dont la protection
+est demandée ; 
+
+5° La description des marchandises authentiques ainsi que celle des marchandises arguées de contrefaçon dont la retenue est
+demandée ; 
+
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont pas
+dans la situation décrite aux derniers alinéas de l'article L. 521-14. 
+
+La demande est adressée au ministre chargé des douanes. Elle peut être présentée avant même l'entrée des marchandises arguées
+de contrefaçon sur le territoire français. La décision d'acceptation de la demande a une durée de validité d'un an
+renouvelable sur demande de l'intéressé. 
 
 Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°92-792 1992-08-13 art. 26 I
-	  - Décret n°92-792 du 13 août 1992 - art. 26-1 (Ab)
+	  - Décret n°2008-625 du 27 juin 2008 - art. 4
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Arrêté du 23 septembre 2008 - art. 1 (Ab)
+	  - Arrêté du 23 septembre 2008 - art. 3 (Ab)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 29 juin 2015 (V)
+	  - Arrêté du 29 juin 2015 - art. 1 (V)
+	  - Arrêté du 29 juin 2015 - art. 2 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
+	  - Code de la propriété intellectuelle - art. L521-14
+
+
+###### Article R523-2
+
+Le ministre chargé des douanes est l'autorité compétente pour se prononcer sur la demande de retenue mentionnée à l'article
+L. 521-16, sur sa prorogation et sa suspension dans les conditions prévues aux articles 8 et 12 du règlement (CE) n° 1383 /
+2003 du Conseil du 22 juillet 2003. 
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-16
+
+
+###### Article R523-3
+
+Les garanties qui peuvent être exigées du demandeur en application du quatrième alinéa de l'article L. 521-14 en vue
+d'indemniser, le cas échéant, le détenteur des marchandises sont fixées par l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-14
+
+
+###### Article R523-4
+
+Les frais mis à la charge du propriétaire du dessin ou modèle en application du cinquième alinéa de l'article L. 521-14 et du
+II de l'article L. 521-16 comprennent les dépenses de stockage et de manutention lorsque les marchandises retenues sont
+entreposées à titre onéreux dans des lieux ou locaux n'appartenant pas à l'administration des douanes. 
+
+Les frais sont calculés en fonction d'un barème et exigibles selon une périodicité qui sont déterminés par un arrêté du
+ministre chargé des douanes. Les frais sont recouvrés par le comptable des douanes selon les mêmes règles et sous les mêmes
+garanties et privilèges qu'en matière de douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-14
+	  - Code de la propriété intellectuelle - art. L521-16
+
+
+###### Article R523-5
+
+La demande d'informations prévue au sixième alinéa de l'article L. 521-14, sixième alinéa et au II de l'article L. 521-16 est
+adressée au directeur régional des douanes territorialement compétent selon des modalités fixées par arrêté du ministre
+chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-14
+	  - Code de la propriété intellectuelle - art. L521-16
+
+
+###### Article R523-6
+
+I.-Tout prélèvement d'échantillons est effectué, en application de l'article L. 521-17, par les agents des douanes ayant au
+moins le grade de contrôleur. Deux échantillons sont remis au propriétaire du dessin ou modèle déposé ou au bénéficiaire du
+droit exclusif d'exploitation ou au représentant de l'un d'eux. Deux autres échantillons sont conservés par l'administration
+des douanes. Les quatre échantillons doivent être, autant que possible, identiques. 
+
+Le prélèvement est réalisé en présence soit du propriétaire de la marchandise, soit du détenteur de celle-ci ou d'un
+représentant de l'un d'eux. Le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation ou
+le représentant de l'un d'eux est également présent. 
+
+En cas d'absence du propriétaire ou du détenteur de la marchandise ou d'un représentant de l'un d'eux, un témoin
+n'appartenant pas à l'administration des douanes est requis par deux agents des douanes ayant au moins le grade de
+contrôleur, pour assister au prélèvement. 
+
+Si le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation a demandé un prélèvement et
+n'est ni présent ni représenté après avoir été convoqué, aucun prélèvement n'est réalisé. 
+
+Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop
+faible quantité de produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement de quatre échantillons, la marchandise
+ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon qui est remis au propriétaire du dessin ou
+modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux. 
+
+II.-Tout échantillon prélevé est mis sous scellés. Ceux-ci doivent retenir une étiquette d'identification portant les
+mentions suivantes : 
+
+a) Les nom, prénom ou raison sociale et adresse du propriétaire ou du détenteur de la marchandise ; 
+
+b) Le cas échéant, les nom, prénoms et adresse du témoin requis ; 
+
+c) Les nom, prénoms ou raison sociale et adresse du propriétaire du dessin ou modèle déposé ou du bénéficiaire du droit
+exclusif d'exploitation ou du représentant de l'un d'eux auquel l'échantillon ou les échantillons sont remis ; 
+
+d) La dénomination exacte de la marchandise ; 
+
+e) La date, l'heure et le lieu du prélèvement ; 
+
+f) Le numéro d'ordre de chaque échantillon ; 
+
+g) Les nom, prénom et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature. 
+
+III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes.
+Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes : 
+
+a) La date, l'heure et le lieu du prélèvement ; 
+
+b) Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ; 
+
+c) Le cas échéant, mention du défaut ou du refus de la présence du propriétaire ou du détenteur de la marchandise ou du
+représentant de l'un d'eux ; 
+
+d) Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ; 
+
+e) L'identification exacte du ou des échantillons ainsi que la remise de l'échantillon ou de deux d'entre eux au propriétaire
+du dessin ou modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux, aux
+seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale. 
+
+Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations
+qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de
+constat. 
+
+Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement. 
+
+IV.-L'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En
+fonction du résultat de l'action civile ou pénale engagée par le propriétaire du dessin ou modèle déposé ou le bénéficiaire
+du droit exclusif d'exploitation, ils sont restitués soit à ces derniers, soit à leur détenteur ou à leur propriétaire ou à
+un représentant de l'un d'entre eux. 
+
+Les échantillons détenus par le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation
+ou le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à
+un représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 521-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-17
+	  - Code des douanes - art. 334
 
 
 ## Livre VI : Protection des inventions et des connaissances techniques
@@ -36150,6 +36537,8 @@ l'Institut national de la propriété industrielle.
 
 ##### Sous-section 2 : Licences obligatoires.
 
+##### Sous-section 1 : Licences obligatoires
+
 ###### Article R613-4
 
 Les demandes tendant à obtenir une licence obligatoire en application des articles L. 613-11 à L. 613-15 sont soumises aux
@@ -36300,6 +36689,8 @@ Les demandes tendant à la cession de la licence obligatoire, à son retrait ou 
 
 
 ##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.
+
+##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique
 
 ###### Article R613-10
 
@@ -36759,6 +37150,86 @@ brevet pour inexécution des obligations imposées au titulaire de la licence.
 	**Anciens textes**:
 
 	  - Décret n°69-975 du 18 octobre 1969 - art. 22 (Ab)
+
+
+##### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique
+
+###### Article R613-25-1
+
+La demande de licence d'exploitation prévue à l'article L. 613-17-1 est adressée au ministre chargé de la propriété
+industrielle. Elle comporte les éléments mentionnés à l'article 6 du règlement (CE) n° 816/2006 du Parlement européen et du
+Conseil du 17 mai 2006 concernant l'octroi de licences obligatoires pour des brevets visant la fabrication de produits
+pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique. La demande identifie les
+brevets et, lorsqu'ils existent, les certificats complémentaires de protection pour lesquels une licence d'exploitation est
+demandée. 
+
+Le ministre notifie sans délai la demande au titulaire du brevet d'invention et, le cas échéant, aux titulaires de licences
+inscrites au Registre national des brevets, qui disposent d'un délai de quinze jours à compter de la réception de cette
+notification pour présenter des observations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L613-17-1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
+
+###### Article R613-25-2
+
+L'arrêté portant octroi de la licence obligatoire d'exploitation est pris après avis motivé de la commission mentionnée à
+l'article R. 613-10 qui se prononce sur la conformité de la demande aux articles 6 à 10 du règlement (CE) n° 816/2006. 
+
+La procédure applicable est celle prévue aux articles R. 613-11, R. 613-12, R. 613-15 et R. 613-19 à R. 613-25. 
+
+Les arrêtés portant octroi ou résiliation de la licence obligatoire d'exploitation sont notifiés à la Commission européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R613-10
+	  - Code de la propriété intellectuelle - art. R613-11
+	  - Code de la propriété intellectuelle - art. R613-15
+	  - Code de la propriété intellectuelle - art. R613-19
+
+
+###### Article R613-25-3
+
+Le titulaire de la licence obligatoire d'exploitation peut demander au ministre chargé de la propriété industrielle de
+modifier les conditions de la licence afin de pouvoir fournir des quantités supplémentaires de produits, dans les conditions
+prévues à l'article 16-4 du règlement (CE) n° 816/2006.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 5
+
+
+###### Article R613-25-4
+
+Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du
+règlement (CE) n° 816 / 2006 sont établies par une décision du directeur général de l'Agence française de sécurité sanitaire
+des produits de santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 5
 
 
 ##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique
@@ -38863,23 +39334,12 @@ chargé de la propriété industrielle.
 
 #### Chapitre V : Actions en justice
 
-##### Section 1 : Mesures probatoires.
+##### Section 1 : Mesures provisoires et conservatoires
 
 ###### Article R615-1
 
-La description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits, prévue à l'article L.
-615-5 est ordonnée par le président d'un des tribunaux de grande instance énumérés à l'article R. 631-2, dans le ressort
-duquel les opérations doivent être effectuées.
-
-L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
-protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu à l'article L. 615-4, premier
-alinéa, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat
-d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues
-audit article L. 615-4 sont remplies.
-
-Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
-octroyée en vertu des articles L. 613-10, L. 613-11 ou L. 613-15, le requérant doit justifier que la condition prescrite par
-l'article L. 615-2, deuxième alinéa, est remplie.
+Le délai prévu au dernier alinéa de l'article L. 615-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -38889,60 +39349,100 @@ l'article L. 615-2, deuxième alinéa, est remplie.
 
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 23 () JORF 3 mars 2007
+	  - Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-3
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R615-4 (M)
 	  - Code de la propriété intellectuelle - art. R622-6 (V)
 
-	**Codifié par**:
 
-	  - Décret n°95-385 1955-04-10
-
+##### Section 2 : Mesures probatoires
 
 ###### Article R615-2
 
-Lorsque la saisie réelle est ordonnée, le juge peut exiger du requérant un cautionnement, qui doit être consigné avant qu'il
-soit procédé à la saisie.
+La saisie, descriptive ou réelle, prévue au deuxième alinéa de l'article L. 615-5 est ordonnée par le président d'un des
+tribunaux de grande instance mentionnés à l'article D. 631-2, dans le ressort duquel les opérations doivent être effectuées.
 
-A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
-détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant le dépôt de cautionnement.
-Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de
+protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu au premier alinéa de l'article L.
+615-4, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat
+d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues à
+cet article sont remplies. 
+
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
+octroyée en vertu des articles L. 613-11, L. 613-15, L. 613-17, L. 613-17-1 et L. 613-19, le requérant doit justifier que les
+conditions prescrites, selon le cas, par le deuxième ou le quatrième alinéa de l'article L. 615-2 sont remplies. 
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de la contrefaçon.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°69-190 du 15 février 1969 - art. 2 (Ab)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Modifié par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. D631-2
+	  - Code de la propriété intellectuelle - art. L613-11
+	  - Code de la propriété intellectuelle - art. L615-2
+	  - Code de la propriété intellectuelle - art. L615-4
+	  - Code de la propriété intellectuelle - art. L615-5
+
+
+###### Article R615-2-1
+
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
+avant qu'il soit procédé à la saisie. 
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
+détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
+garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-624 du 27 juin 2008 - art. 8
 
 
 ###### Article R615-3
 
-Le délai prévu à l'article L. 615-5, quatrième alinéa, et imparti au requérant pour se pourvoir devant le tribunal est de
-quinze jours à compter du jour où la saisie ou la description est intervenue.
+Le délai prévu au dernier alinéa de l'article L. 615-5 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
+description.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°69-190 du 15 février 1969 - art. 3 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Modifié par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 9
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-5
 
 
 ###### Article R615-4
@@ -38953,21 +39453,13 @@ peut également prendre toute mesure pour préserver la confidentialité de cert
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°69-190 du 15 février 1969 - art. 4 (Ab)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 57 () JORF 3 mars 2004
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-5
@@ -38980,30 +39472,22 @@ S'il a été procédé à cette consultation, il en est fait mention dans l'arr�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°65-464 du 10 juin 1965 - art. 1 (Ab)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 58 () JORF 3 mars 2004
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
-##### Section 2 : Commission paritaire de conciliation.
+##### Section 3 : Commission paritaire de conciliation
 
 ###### Article R615-6
 
 Le président de la commission paritaire de conciliation prévue à l'article L. 615-21 est nommé pour une période de trois
 années renouvelable, par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété
-industrielle. La nomination peut porter sur un magistrat honoraire.
+industrielle. La nomination peut porter sur un magistrat honoraire. 
 
 Un ou plusieurs suppléants peuvent être nommés dans les mêmes conditions. Ils remplacent le président en cas d'absence ou
 d'empêchement.
@@ -39014,18 +39498,18 @@ d'empêchement.
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 11 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. D623-58-1 (V)
 	  - Code de la propriété intellectuelle - art. R615-30 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. L615-21 (V)
 
 
 ###### Article R615-7
@@ -39045,17 +39529,13 @@ chargé de la défense. Il en est de même des experts commis ou des techniciens
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 12 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-8
@@ -39064,17 +39544,13 @@ Le secrétariat de la commission est assuré par l'Institut national de la propr
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 13 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-9
@@ -39084,17 +39560,13 @@ centres de province lorsque les circonstances l'exigent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 14 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-10
@@ -39109,17 +39581,13 @@ finances et de la propriété industrielle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 15 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 	**Cité par**:
 
@@ -39134,17 +39602,13 @@ groupe I.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 16 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-12
@@ -39154,49 +39618,45 @@ pouvoir. La demande peut être également adressée par lettre recommandée avec
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 17 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-13
 
-La demande est signée du requérant ou de son mandataire.
+La demande est signée du requérant ou de son mandataire. 
 
-Elle indique :
+Elle indique : 
 
-1° Les nom, prénoms, profession, adresse du requérant et des autres parties ;
+1° Les nom, prénoms, profession, adresse du requérant et des autres parties ; 
 
-2° L'objet du litige ;
+2° L'objet du litige ; 
 
-3° Les moyens et conclusions du requérant ;
+3° Les moyens et conclusions du requérant ; 
 
-4° Tous les éléments en sa possession pouvant être utiles à la solution du litige.
+4° Tous les éléments en sa possession pouvant être utiles à la solution du litige. 
 
 Y est annexée une copie de la déclaration et des communications effectuées en application des articles R. 611-1 à R. 611-10
 ainsi que des différentes pièces dont le requérant entend se prévaloir.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 18 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R611-1 (V)
 
 
 ###### Article R615-14
@@ -39215,17 +39675,13 @@ article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 19 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-15
@@ -39240,17 +39696,13 @@ contestations qui sont soumises à la commission.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 20 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-16
@@ -39263,17 +39715,13 @@ Copie de cette communication est immédiatement adressée aux parties par le sec
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 21 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-17
@@ -39288,17 +39736,13 @@ ci a lieu avant l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 22 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-18
@@ -39307,17 +39751,13 @@ La procédure devant la commission est contradictoire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 23 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-19
@@ -39334,17 +39774,13 @@ totale, les points contestés sont consignés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 24 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-20
@@ -39354,17 +39790,17 @@ de la proposition de conciliation prévue à l'article L. 615-21.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 25 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-21 (V)
 
 
 ###### Article R615-21
@@ -39374,17 +39810,13 @@ provoquer à cet effet une nouvelle réunion.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 26 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-22
@@ -39394,17 +39826,13 @@ ainsi que les parties et les personnes qui les assistent ou les représentent so
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 27 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-23
@@ -39415,17 +39843,13 @@ laquelle la commission a été saisie en dernier lieu.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 28 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-24
@@ -39435,17 +39859,13 @@ de nature à entraîner sa divulgation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 29 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-25
@@ -39456,17 +39876,13 @@ Ce dernier la notifie aux parties.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 30 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-26
@@ -39475,17 +39891,13 @@ La saisine de la commission suspend toute prescription.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 31 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-27
@@ -39495,17 +39907,17 @@ délai de six mois prévu à l'article L. 615-21 à moins que la commission n'ai
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 32 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-21 (V)
 
 
 ###### Article R615-28
@@ -39514,17 +39926,13 @@ A défaut d'accord entre les parties, seule la proposition de la commission est 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 33 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
 
 ###### Article R615-29
@@ -39535,17 +39943,17 @@ exécutoire par décision du président du tribunal de grande instance dans le r
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-797 du 4 septembre 1979 - art. 34 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-21 (V)
 
 
 ###### Article R615-30
@@ -39556,40 +39964,43 @@ par les articles R. 611-11 à R. 611-14-1, de l'article L. 611-7.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Arrêté du 31 juillet 1991 - art. 2 (Ab)
-	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
-	  - Décret n°91-486 du 14 mai 1991 - art. 8 (V)
-	  - Décret n°94-943 du 28 octobre 1994 - art. 7 (VT)
-	  - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°80-645 du 4 août 1980 - art. 5 (Ab)
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Décret n°96-857 du 2 octobre 1996 - art. 3 () JORF 3 octobre 1996
+	  - Décret n°91-486 du 14 mai 1991 - art. 8 (V)
+	  - Arrêté du 31 juillet 1991 - art. 2 (Ab)
+	  - Décret n°94-943 du 28 octobre 1994 - art. 7 (VT)
+	  - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
+	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L611-7 (V)
+	  - Code de la propriété intellectuelle - art. R611-11 (V)
+	  - Code de la propriété intellectuelle - art. R615-31 (V)
+	  - Code de la propriété intellectuelle - art. R615-6 (V)
 
 
 ###### Article R615-31
 
 Pour ce qui concerne les litiges intéressant les fonctionnaires et agents visés à l'article R. 611-11, il est établi une
 liste spéciale sur laquelle sont choisis pour chaque affaire les deux assesseurs du président de la commission paritaire de
-conciliation.
+conciliation. 
 
 Sous réserve des dispositions du dernier alinéa du présent article, cette liste comprend des personnes inscrites sur
-proposition, d'une part, des ministres, d'autre part, des organisations représentant le personnel.
+proposition, d'une part, des ministres, d'autre part, des organisations représentant le personnel. 
 
-La liste de ces organisations est fixée par arrêté du Premier ministre sur proposition des différents ministres.
+La liste de ces organisations est fixée par arrêté du Premier ministre sur proposition des différents ministres. 
 
 L'un des assesseurs est choisi parmi les personnes proposées par les organisations précitées, l'autre parmi les personnes
-proposées par les ministres.
+proposées par les ministres. 
 
 Lorsque l'invention a été réalisée par un agent soumis au statut général des militaires, il est procédé à la désignation de
 l'assesseur représentant l'agent, par le président de la commission de conciliation, sur une liste de cinq membres du corps
@@ -39609,13 +40020,13 @@ militaire du contrôle général des armées établie par le chef du contrôle g
 	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
 	  - Code de la propriété intellectuelle - art. R615-30 (V)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°95-385 1955-04-10
+	  - DEPLACE: Décret n°2008-624 du 27 juin 2008 - art. 6
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Code de la propriété intellectuelle - art. R611-11 (V)
 
 
 #### Chapitre VI : Le certificat d'utilité
@@ -40078,9 +40489,10 @@ permet pas d'identifier la topographie protégée.
 
 ###### Article R622-6
 
-Les articles R. 411-19 à R. 411-26, R. 612-1 (2e alinéa), R. 612-2, R. 612-38, R. 613-45, R. 613-53 à R. 613-59 et R. 618-1 à
-R. 618-3 sont applicables aux conditions dans lesquelles sont reçus les dépôts, transmis ou modifiés les droits qui y sont
-attachés, émises les notifications de l'Institut national de la propriété industrielle et réglé le contentieux.
+Les articles R. 411-19 à R. 411-26, R. 612-1 (2e alinéa), R. 612-2, R. 612-38, R. 613-45, R. 613-53 à R. 613-59, R. 615-1 à
+R. 615-4, et R. 618-1 à R. 618-3 sont applicables aux conditions dans lesquelles sont reçus les dépôts, transmis ou modifiés
+les droits qui y sont attachés, émises les notifications de l'Institut national de la propriété industrielle et réglé le
+contentieux. 
 
 Pour l'application des articles R. 613-53 à R. 613-59, le Registre national visé auxdits articles comporte une section dite
 Registre national des dépôts de topographies de produits semi-conducteurs. La première inscription prévue à l'article R.
@@ -40089,17 +40501,23 @@ enregistrement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°89-816 du 2 novembre 1989 - art. 6 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-624 du 27 juin 2008 - art. 10
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R411-19
+	  - Code de la propriété intellectuelle - art. R612-1
+	  - Code de la propriété intellectuelle - art. R612-38
+	  - Code de la propriété intellectuelle - art. R613-45
+	  - Code de la propriété intellectuelle - art. R613-53
+	  - Code de la propriété intellectuelle - art. R615-1
+	  - Code de la propriété intellectuelle - art. R618-1
 
 
 ###### Article R622-7
@@ -41660,33 +42078,67 @@ suivant.
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-###### Article R623-51
+###### Article R623-50-1
 
-La description détaillée, avec ou sans saisie réelle des plantes, parties de plantes, ou tous éléments de reproduction ou de
-multiplication végétative de la variété considérée prétendue contrefaite, prévue par l'article L. 623-27, est ordonnée par le
-président du tribunal de grande instance ou dans les territoires d'outre-mer du tribunal de première instance dans le ressort
-duquel les opérations doivent être effectuées.
-
-L'ordonnance est rendue sur simple requête et sur la présentation soit du certificat d'obtention, soit, dans le cas prévu à
-l'article L. 623-26, d'une copie conforme de la demande de certificat d'obtention végétale.
-
-Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
-d'office visée aux articles L. 623-17 et L. 623-20, le requérant doit justifier de l'inaction du propriétaire du certificat
-d'obtention végétale après une mise en demeure l'invitant à exercer l'action.
+Le délai prévu au dernier alinéa de l'article L. 623-27-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°71-764 1971-09-09 art. 60
+	  - Décret n°2008-624 du 27 juin 2008 - art. 11
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. L623-27-1
+
+
+###### Article R623-51
+
+La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des tribunaux de
+grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées.
+
+L'ordonnance est rendue sur simple requête et sur la présentation du certificat d'obtention végétale, soit dans le cas prévu
+à l'article L. 623-26, d'une copie certifiée conforme de la demande de certificat d'obtention végétale. Dans ce dernier cas,
+le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies. 
+
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence
+octroyée en vertu de l'article L. 623-18, le requérant doit justifier que les conditions de l'article L. 623-25 sont
+remplies. 
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de la contrefaçon.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 12
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. D631-1
+	  - Code de la propriété intellectuelle - art. L623-18
+	  - Code de la propriété intellectuelle - art. L623-25
+	  - Code de la propriété intellectuelle - art. L623-26
+	  - Code de la propriété intellectuelle - art. L623-27-1
+
+
+###### Article R623-51-1
+
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
+avant qu'il soit procédé à la saisie. 
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
+détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution des
+garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-624 du 27 juin 2008 - art. 13
 
 
 ###### Article R623-52
@@ -41714,22 +42166,37 @@ la variété considérée copie de l'ordonnance et, le cas échéant, de l'acte 
 
 ###### Article R623-53
 
-Le délai prévu à l'article L. 623-27, deuxième alinéa, pour se pourvoir devant le tribunal est de quinze jours à compter du
-jour où la saisie ou la description est intervenue.
+Le délai prévu au dernier alinéa de l'article L. 623-7-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
+description.
+
+**Nota:**
+
+Une anomalie s'est glissée dans la rédaction de l'article R. 623-53. Au lieu de " L. 623-7-1 " ; il faut lire " L. 623-27-1
+".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°71-764 1971-09-09 art. 62
+	  - Décret n°2008-624 du 27 juin 2008 - art. 14
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. L623-27-1 (V)
+
+
+###### Article R623-53-1
+
+Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
+preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt
+légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-624 du 27 juin 2008 - art. 15
 
 
 ###### Article R623-54
@@ -42101,53 +42568,193 @@ modalités d'application du présent chapitre.
 
 ###### Article D631-1
 
-Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande
+Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande
 instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de
-la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après
+la propriété intellectuelle sont fixés conformément au tableau V annexé au code de l'organisation judiciaire, ci-après
 reproduit : 
 
 Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
-**Nota:**
+<table>
+  <tbody>
+    <tr>
+      <td width="186">
 
-Tableau non reproduit, consulter le fac-similé du décret n° 2005-1756.
+Tribunaux de grande instance
+
+</td>
+      <td width="419">
+
+Compétence territoriale
+
+s'étendant aux départements compris dans le ressort des cours d'appel de
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Marseille
+
+</td>
+      <td width="419">
+
+Aix : Aix-en-Provence,Bastia, Nîmes
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Bordeaux
+
+</td>
+      <td width="419">
+
+Bordeaux : Agen, Bordeaux, Poitiers
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Strasbourg
+
+</td>
+      <td width="419">
+
+Colmar : Colmar, Metz
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Lille
+
+</td>
+      <td width="419">
+
+Douai : Amiens, Douai
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Limoges
+
+</td>
+      <td width="419">
+
+Limoges : Bourges,Limoges, Riom
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Lyon
+
+</td>
+      <td width="419">
+
+Lyon : Chambéry,Lyon, Grenoble
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Nancy
+
+</td>
+      <td width="419">
+
+Nancy : Besançon,Dijon, Nancy
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Paris
+
+</td>
+      <td width="419">
+
+Paris : Orléans,Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion,Nouméa, Papeete,
+Mamoudzou et Saint-Pierre-et-Miquelon
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Rennes
+
+</td>
+      <td width="419">
+
+Rennes : Angers, Caen,Rennes
+
+</td>
+    </tr>
+    <tr>
+      <td width="186">
+
+Toulouse
+
+</td>
+      <td width="419">
+
+Toulouse : Pau, Montpellier, Toulouse
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. 6
+	  - Décret n°2008-624 du 27 juin 2008 - art. 17
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-31 (V)
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R623-51 (V)
 
-	**Anciens textes**:
-
-	  - Code de la propriété intellectuelle - art. R631-1 (T)
-
 
 ###### Article D631-2
 
-Ainsi qu'il est dit à l'article R. 312-2-1 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de
-grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats
+Ainsi qu'il est dit à l'article D. 211-6 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande
+instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats
 complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17
-et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau IV sexties annexé au code de
-l'organisation judiciaire.
+et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé au code de l'organisation
+judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. 6
+	  - Décret n°2008-624 du 27 juin 2008 - art. 17
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L611-2
+	  - Code de la propriété intellectuelle - art. L615-17
+	  - Code de la propriété intellectuelle - art. L622-7
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-6 (V)
+	  - Code de l'organisation judiciaire
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R615-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de la propriété intellectuelle - art. R631-2 (T)
 
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
@@ -43536,74 +44143,327 @@ qu'alimentaires.
 
 #### Chapitre VI : Contentieux
 
-###### Article R*716-1-1
+##### Section 1 : Mesures provisoires et conservatoires
 
-L'autorité administrative compétente mentionnée aux I et II de l'article R. 716-1 est le ministre chargé des douanes.
+###### Article R716-1
+
+Le délai prévu au dernier alinéa de l'article L. 716-6 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 47
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°92-100 du 30 janvier 1992 - art. 47 (Ab)
 
 	**Modifié par**:
-
-	  - Décret n°2005-1298 du 20 octobre 2005 - art. 2 () JORF 21 octobre 2005
-
-	**Abrogé par**:
 
 	  - Décret n°2008-624 du 27 juin 2008 - art. 16
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R716-1 (V)
+	  - Code de la propriété intellectuelle - art. L716-6
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
 
 
-###### Article R716-1
+##### Section 2 :  Mesures probatoires
 
-I. -  La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
+###### Article R716-2
 
-1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
+La saisie, descriptive ou réelle, prévue à l'article L. 716-7 est ordonnée par le président du tribunal de grande instance
+compétent pour connaître du fond. 
 
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de la contrefaçon.
 
-3° La qualité du demandeur au regard des droits qu'il invoque ;
+**Liens relatifs à cet article**
 
-4° La désignation et le numéro d'enregistrement de la marque concernée ;
+	**Créé par**:
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
 
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont
-légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté
-européenne.
+	**Cite**:
 
-II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des
-marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+	  - Code de la propriété intellectuelle - art. L716-7
+
+
+###### Article R716-3
+
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
+avant qu'il soit procédé à la saisie. 
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
+détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
+garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie. 
+
+Toutefois, en matière de substitution de produits ou de services, l'huissier n'est tenu de donner copie de l'ordonnance et de
+l'acte constatant la constitution de garantie qu'après livraison des produits ou fourniture des services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+
+###### Article R716-4
+
+Le délai prévu au dernier alinéa de l'article L. 716-7 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
+description.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-7
+
+
+###### Article R716-5
+
+Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes de
+contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut
+également prendre toute mesure pour préserver la confidentialité de certains éléments.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+
+##### Section 3 : Retenue en douane 
+
+
+
+###### Article R716-6
+
+La demande de retenue prévue à l'article L. 716-8 comporte : 
+
+1° Les nom et prénom ou la dénomination sociale du demandeur, son domicile ou son siège social ; 
+
+2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ; 
+
+3° La qualité du demandeur au regard des droits qu'il invoque ; 
+
+4° La désignation et le numéro d'enregistrement de la ou des marques dont la protection est demandée ; 
+
+5° La description des marchandises authentiques ainsi que celle des marchandises arguées de contrefaçon dont la retenue est
+demandée ; 
+
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont pas
+dans la situation décrite aux derniers alinéas de l'article L. 716-8. 
+
+La demande est adressée au ministre chargé des douanes. Elle peut être présentée avant même l'entrée des marchandises arguées
+de contrefaçon sur le territoire français. La décision d'acceptation de la demande a une durée de validité d'un an
+renouvelable sur demande de l'intéressé. 
 
 Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°92-100 1992-01-30 art. 47
-	  - Décret n°92-100 du 30 janvier 1992 - art. 47 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2005-1298 du 20 octobre 2005 - art. 1 () JORF 21 octobre 2005
+	  - Décret n°2008-625 du 27 juin 2008 - art. 10
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R*716-1-1 (Ab)
+	  - Arrêté du 23 septembre 2008 - art. 1 (Ab)
+	  - Arrêté du 23 septembre 2008 - art. 3 (Ab)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 29 juin 2015 (V)
+	  - Arrêté du 29 juin 2015 - art. 1 (V)
+	  - Arrêté du 29 juin 2015 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article R716-7
+
+Le ministre chargé des douanes est l'autorité compétente pour se prononcer sur la demande de retenue mentionnée à l'article
+L. 716-8-2, sur sa prorogation et sa suspension dans les conditions prévues aux articles 8 et 12 du règlement (CE) n° 1383 /
+2003 du Conseil du 22 juillet 2003. 
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8-2
+
+
+###### Article R716-8
+
+Les garanties qui peuvent être exigées du demandeur en application du quatrième alinéa de l'article L. 716-8 en vue
+d'indemniser, le cas échéant, le détenteur des marchandises sont fixées par l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article R716-9
+
+Les frais mis à la charge du propriétaire de la marque enregistrée en application du cinquième alinéa de l'article L. 716-8
+et du II de l'article L. 716-8-2 comprennent les dépenses de stockage et de manutention lorsque les marchandises retenues
+sont entreposées à titre onéreux dans des lieux ou locaux n'appartenant pas à l'administration des douanes. 
+
+Les frais sont calculés en fonction d'un barème et exigibles selon une périodicité qui sont déterminés par un arrêté du
+ministre chargé des douanes. Les frais sont recouvrés par le comptable des douanes selon les mêmes règles et sous les mêmes
+garanties et privilèges qu'en matière de douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8
+	  - Code de la propriété intellectuelle - art. L716-8-2
+
+
+###### Article R716-10
+
+La demande d'information prévue au sixième alinéa de l'article L. 716-8 et au II de l'article L. 716-8-2 est adressée au
+directeur régional des douanes territorialement compétent selon des modalités fixées par arrêté du ministre chargé des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8
+	  - Code de la propriété intellectuelle - art. L716-8-2
+
+
+###### Article R716-11
+
+I.-Le prélèvement d'échantillons est effectué, en application de l'article L. 716-8-3, par les agents des douanes ayant au
+moins le grade de contrôleur. Deux échantillons sont remis au propriétaire de la marque enregistrée ou au bénéficiaire du
+droit exclusif d'exploitation ou au représentant de l'un d'entre eux. Deux autres échantillons sont conservés par
+l'administration des douanes. Les quatre échantillons doivent être, autant que possible, identiques. 
+
+Le prélèvement est réalisé en présence soit du propriétaire de la marchandise, soit du détenteur de celle-ci ou d'un
+représentant de l'un d'entre eux. Le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif
+d'exploitation ou le représentant de l'un d'entre eux est également présent. 
+
+En cas d'absence du propriétaire ou du détenteur de la marchandise ou d'un représentant de l'un d'entre eux, un témoin
+n'appartenant pas à l'administration des douanes est requis par deux agents des douanes ayant au moins le grade de contrôleur
+pour assister au prélèvement. 
+
+Si le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un
+d'entre eux n'est pas présent, aucun prélèvement n'est réalisé. 
+
+Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop
+faible quantité de produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement de quatre échantillons, la marchandise
+ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon qui est remis au propriétaire de la marque
+enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux. 
+
+II.-Tout échantillon prélevé est mis sous scellés. Ceux-ci doivent retenir une étiquette d'identification portant les
+mentions suivantes : 
+
+a) Les nom, prénom ou raison sociale et adresse du propriétaire ou du détenteur de la marchandise ; 
+
+b) Le cas échéant, les nom, prénoms et adresse du témoin requis ; 
+
+c) Les nom, prénom ou raison sociale et adresse du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif
+d'exploitation ou du représentant de l'un d'entre eux auquel l'échantillon ou les échantillons sont remis ; 
+
+d) La dénomination exacte de la marchandise ; 
+
+e) La date, l'heure et le lieu du prélèvement ; 
+
+f) Le numéro d'ordre de chaque échantillon ; 
+
+g) Les nom, prénoms et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature. 
+
+III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes.
+Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes : 
+
+a) La date, l'heure et le lieu du prélèvement ; 
+
+b) Les noms, prénoms ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ; 
+
+c) Le cas échéant, mention du défaut ou du refus de la présence du propriétaire, du détenteur de la marchandise ou du
+représentant de l'un d'entre eux ; 
+
+d) Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ; 
+
+e) L'identification exacte du ou des échantillons ainsi que la remise de l'échantillon ou de deux d'entre eux au propriétaire
+de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux, aux
+seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale. 
+
+Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations
+qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de
+constat. 
+
+Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement. 
+
+IV.-L'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En
+fonction du résultat de l'action civile ou pénale engagée par le propriétaire de la marque enregistrée ou le bénéficiaire du
+droit exclusif d'exploitation, ils sont restitués soit à ces derniers soit à leur détenteur ou à leur propriétaire ou à un
+représentant de l'un d'entre eux. 
+
+Les échantillons détenus par le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou
+le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à un
+représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 716-8-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-625 du 27 juin 2008 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8-3
+	  - Code des douanes - art. 334
 
 
 #### Chapitre VII : Marque internationale et marque communautaire
@@ -43956,22 +44816,23 @@ conditions prévues aux articles R. 712-9 à R. 712-23.
 
 ###### Article R717-11
 
-Ainsi qu'il est dit à l'article R. 312-10 du code de l'organisation judiciaire, les actions et demandes en matière de marque
-communautaire prévues par l'article L. 717-4 sont portées devant le tribunal de grande instance de Paris.
+Les actions et demandes en matière de marques communautaires prévues par l'article L. 717-4 sont portées devant les tribunaux
+de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L717-4
+	  - Code de l'organisation judiciaire - art. R211-7
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°2002-216 du 18 février 2002 - art. 2 () JORF 20 février 2002
 
 
 #### Chapitre VIII : Dispositions communes
@@ -44112,6 +44973,110 @@ propriété industrielle.
 	  - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
 
+### Titre Ier : Marques de fabrique, de commerce ou de service
+
+#### Chapitre II : Acquisition du droit sur la marque
+
+#### Chapitre IV : Transmission et perte du droit sur la marque
+
+#### Chapitre V : Marques collectives
+
+#### Chapitre VI : Contentieux
+
+#### Chapitre VII : Marque internationale et marque communautaire
+
+#### Chapitre VIII : Dispositions communes
+
+### Titre II : Indications géographiques
+
+#### Chapitre II : Contentieux
+
+##### Section 1 : Mesures provisoires et conservatoires
+
+###### Article R722-1
+
+Le délai prévu au dernier alinéa de l'article L. 722-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-3
+
+
+##### Section 2 : Mesures probatoires
+
+###### Article R722-2
+
+La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du tribunal de grande instance
+compétent pour connaître du fond. 
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et
+l'étendue de l'atteinte à une indication géographique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-4
+
+
+###### Article R722-3
+
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées
+avant qu'il soit procédé à la saisie. 
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux
+détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de
+garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+
+###### Article R722-4
+
+Le délai prévu au dernier alinéa de l'article L. 722-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours
+ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la
+description.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-4
+
+
+###### Article R722-5
+
+Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la
+preuve des actes portant prétendument atteinte à une indication géographique. A la demande de la partie saisie agissant sans
+délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de
+certains éléments.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 16
+
+
 ## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises
 
 ### Titre unique
@@ -44121,42 +45086,39 @@ propriété industrielle.
 ###### Article R811-1
 
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en
-Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises : 
 
-1° Les dispositions du livre Ier à l'exception des articles R. 133-1 et R. 133-2 (4°) ;
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1 et R. 133-2 (4°) ; 
 
-2° Les dispositions du livre II ;
+2° Les dispositions du livre II ; 
 
-3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
+3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ; 
 
-4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2 ;
+4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R.
+423-2 ; 
 
-5° Les dispositions du livre V à l'exception des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1 et R. 513-2
-seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+5° Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R.
+512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
 
-6° Les dispositions du livre VI à l'exception des articles R. 615-1 à R. 615-5 ainsi que des articles R. 612-2, R. 612-38, R.
-613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R.
+613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ; 
 
 7° Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4 et
-R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
+R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle. 
 
-Toutefois, l'article R. 613-63 est ainsi rédigé :
+Toutefois, l'article R. 613-63 est ainsi rédigé : 
 
-Art. R. 613-63. - La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi
-n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
-industrielle.
+Art.R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n°
+2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
+industrielle. 
 
 Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La
-décision est notifiée au requérant.
+décision est notifiée au requérant. 
 
 Si la demande est accueillie, le bénéfice de la rédaction est acquis au requérant sous réserve qu'il produise chaque année un
 avis de non-imposition ou une justification équivalente.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
@@ -44171,15 +45133,46 @@ avis de non-imposition ou une justification équivalente.
 	  - Décret n°95-370 du 6 avril 1995 - art. 7 (V)
 	  - Arrêté du 29 octobre 1980 - art. 2 (Ab)
 
+	**Cite**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 (V)
+	  - Code de la propriété intellectuelle - art. L612-20 (V)
+	  - Code de la propriété intellectuelle - art. R133-1 (V)
+	  - Code de la propriété intellectuelle - art. R326-1 (V)
+	  - Code de la propriété intellectuelle - art. R421-1 (V)
+	  - Code de la propriété intellectuelle - art. R422-1 (V)
+	  - Code de la propriété intellectuelle - art. R423-1 (V)
+	  - Code de la propriété intellectuelle - art. R512-13 (V)
+	  - Code de la propriété intellectuelle - art. R512-15 (V)
+	  - Code de la propriété intellectuelle - art. R512-2 (V)
+	  - Code de la propriété intellectuelle - art. R513-1 (V)
+	  - Code de la propriété intellectuelle - art. R522-1 (V)
+	  - Code de la propriété intellectuelle - art. R612-2 (V)
+	  - Code de la propriété intellectuelle - art. R612-38 (V)
+	  - Code de la propriété intellectuelle - art. R613-25-1 (V)
+	  - Code de la propriété intellectuelle - art. R613-46 (V)
+	  - Code de la propriété intellectuelle - art. R613-56 (V)
+	  - Code de la propriété intellectuelle - art. R613-58 (V)
+	  - Code de la propriété intellectuelle - art. R613-63 (V)
+	  - Code de la propriété intellectuelle - art. R712-13 (V)
+	  - Code de la propriété intellectuelle - art. R712-14 (V)
+	  - Code de la propriété intellectuelle - art. R712-2 (V)
+	  - Code de la propriété intellectuelle - art. R712-21 (V)
+	  - Code de la propriété intellectuelle - art. R712-24 (V)
+	  - Code de la propriété intellectuelle - art. R714-4 (V)
+	  - Code de la propriété intellectuelle - art. R714-6 (V)
+	  - Code de la propriété intellectuelle - art. R717-11 (V)
+	  - Code de la propriété intellectuelle - art. R811-3 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 29 () JORF 3 mars 2007
+	  - Décret n°2008-625 du 27 juin 2008 - art. 12 (V)
 
 
 ###### Article R811-2
 
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent
-code à l'exception des articles R. 133-1, R. 133-2, R. 326-1 et R. 326-2.
+code à l'exception des articles R. 133-1, R. 133-2, R. 326-1, R. 326-2, R. 522-1 et R. 613-25-1 à R. 613-25-4.
 
 **Liens relatifs à cet article**
 
@@ -44192,7 +45185,17 @@ code à l'exception des articles R. 133-1, R. 133-2, R. 326-1 et R. 326-2.
 
 	**Modifié par**:
 
-	  - Décret n°2008-402 du 24 avril 2008 - art. 2
+	  - Décret n°2008-625 du 27 juin 2008 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R133-1
+	  - Code de la propriété intellectuelle - art. R133-2
+	  - Code de la propriété intellectuelle - art. R326-1
+	  - Code de la propriété intellectuelle - art. R326-2
+	  - Code de la propriété intellectuelle - art. R522-1
+	  - Code de la propriété intellectuelle - art. R613-25-1
+	  - Code de la propriété intellectuelle - art. R811-3
 
 
 ###### Article R811-3
@@ -44215,15 +45218,14 @@ Wallis-et-Futuna ;
 
 - "conseil de prud'hommes" par "tribunal du travail".
 
+Pour l'application du présent code aux collectivités d'outre-mer et à Mayotte, toute référence au code des douanes est
+remplacée par la référence aux codes des douanes applicables à ces collectivités et à Mayotte, ayant le même objet.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 29 () JORF 3 mars 2007
+	  - Décret n°2008-625 du 27 juin 2008 - art. 12 (V)
 
 	**Cité par**:
 
