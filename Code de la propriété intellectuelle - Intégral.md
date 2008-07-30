@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-06-30
+Version Consolidée au 2008-07-31
 
 # Partie législative
 
@@ -32615,32 +32615,6 @@ afférentes à des actes intervenus postérieurement au 15 septembre 1992.
 
 ### Titre II : Contentieux
 
-#### Chapitre II : Contentieux des dessins et modèles communautaires
-
-###### Article R522-1
-
-Les actions et demandes en matière de dessins ou modèles communautaires prévues par l'article L. 522-2 sont portées devant
-les tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-624 du 27 juin 2008 - art. 5
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L522-2
-	  - Code de l'organisation judiciaire - art. R211-7
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R811-1 (V)
-	  - Code de la propriété intellectuelle - art. R811-2 (V)
-
-
-### Titre II : Contentieux
-
 #### Chapitre Ier : Contentieux des dessins ou modèles nationaux
 
 ##### Section 1 : Mesures provisoires et conservatoires
@@ -32733,6 +32707,28 @@ légitime, il peut également prendre toute mesure pour préserver la confidenti
 
 
 #### Chapitre II : Contentieux des dessins et modèles communautaires
+
+###### Article R522-1
+
+Les actions et demandes en matière de dessins ou modèles communautaires prévues par l'article L. 522-2 sont portées devant
+les tribunaux de grande instance mentionnés à l'article R. 211-7 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-624 du 27 juin 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L522-2
+	  - Code de l'organisation judiciaire - art. R211-7
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R811-1 (V)
+	  - Code de la propriété intellectuelle - art. R811-2 (V)
+
 
 #### Chapitre III : Retenue en douane
 
@@ -33284,47 +33280,70 @@ de la demande.
 
 ###### Article Annexe art. R611-14-1
 
-Education nationale, enseignement supérieur et recherche.
+**
+
+**
+
+**Education nationale, enseignement supérieur et recherche. **
 
 Corps de fonctionnaires :
 
-- chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le décret n° 83-1260 du 30 décembre
-1983 modifié.
+- chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le 
+décret n° 83-1260 du 30 décembre 1983
+modifié.
 
-- enseignants chercheurs régis par le décret n° 84-431 du 6 juin 1984 modifié et enseignants-chercheurs appartenant à des
-corps propres dont la liste figure en annexe dudit décret.
+- enseignants chercheurs régis par le 
+décret n° 84-431 du 6 juin 1984
+modifié et enseignants-chercheurs appartenant à des corps propres dont la liste figure en annexe dudit décret.
 
-- ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le décret n° 85-1534 du 31 décembre
-1985 modifié.
+- ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le 
+décret n° 85-1534 du 31 décembre 1985
+modifié.
 
 - Ingénieurs principaux de physique nucléaire, ingénieurs de physique nucléaire, techniciens principaux de physique
 nucléaire, techniciens de physique nucléaire, techniciens d'atelier de physique nucléaire, techniciens d'études de physique
-nucléaire, préparateurs de physique nucléaire et prototypistes de physique nucléaire, régis par le décret n° 85-1462 du 30
-décembre 1985 modifié.
+nucléaire, préparateurs de physique nucléaire et prototypistes de physique nucléaire, régis par le 
+décret n° 85-1462 du 30 décembre 1985
+modifié.
 
-- Chargés de mission de la recherche du Centre national de la recherche scientifique, régis par le décret n° 85-1461 du 30
-décembre 1985 ;
+- Chargés de mission de la recherche du Centre national de la recherche scientifique, régis par le 
+décret n° 85-1461 du 30 décembre 1985
+; 
 
 Agents non titulaires :
 
-- chercheurs régis par le décret n° 80-31 du 17 janvier 1980 modifié.
+- chercheurs régis par le 
+décret n° 80-31 du 17 janvier 1980
+modifié.
 
-- ingénieurs et spécialistes régis par le décret n° 59-1405 du 9 décembre 1959 modifié.
+- ingénieurs et spécialistes régis par le 
+décret n° 59-1405 du 9 décembre 1959
+modifié.
 
-- attachés scientifiques et contractuels régis par le décret n° 80-479 du 27 juin 1980.
+- attachés scientifiques et contractuels régis par le 
+décret n° 80-479 du 27 juin 1980.
 
-- professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984 et
-de la loi n° 85-1223 du 22 novembre 1985.
+- professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984
+et de la loi n° 85-1223 du 22 novembre 1985.
 
-- allocataires de recherche régis par le décret n° 85-402 du 3 avril 1985 modifié par le décret n° 92-339 du 30 mars 1992.
+- allocataires de recherche régis par le 
+décret n° 85-402 du 3 avril 1985
+modifié par le décret n° 92-339 du 30 mars 1992.
 
-- moniteurs et allocataires-moniteurs normaliens régis par le décret n° 89-794 du 30 octobre 1989 modifié.
+- moniteurs et allocataires-moniteurs normaliens régis par le 
+décret n° 89-794 du 30 octobre 1989
+modifié.
 
-- moniteurs en pharmacie régis par le décret n° 92-1229 du 19 novembre 1992 modifié.
+- moniteurs en pharmacie régis par le 
+décret n° 92-1229 du 19 novembre 1992
+modifié.
 
-- attachés temporaires d'enseignement et de recherche régis par le décret n° 88-654 du 7 mai 1988 modifié.
+- attachés temporaires d'enseignement et de recherche régis par le 
+décret n° 88-654 du 7 mai 1988
+modifié.
 
-- Chercheurs associés au Centre national de la recherche scientifique régis par le décret n° 69-894 du 26 septembre 1969
+- Chercheurs associés au Centre national de la recherche scientifique régis par le 
+décret n° 69-894 du 26 septembre 1969
 modifié.
 
 - Agents contractuels hors catégorie, de catégorie exceptionnelle et de première catégorie régis par le règlement intérieur
@@ -33334,36 +33353,46 @@ rural, des eaux et des forêts.
 - Ingénieurs et spécialistes de l'Institut national de la santé et de la recherche médicale régis par le décret n° 64-420 du
 12 mai 1964 modifié.
 
-- Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le décret n° 86-83 du 17
-janvier 1986 modifié.
+- Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le 
+décret n° 86-83 du 17 janvier 1986
+modifié.
 
 - Agents recrutés par les établissements publics à caractère scientifique et technologique en application des dispositions de
-l'article 23 de la loi n° 82-610 du 15 juillet 1982 modifiée d'orientation et de programmation pour la recherche et le
-développement technologique de la France.
+l'article 23 de la loi n° 82-610 du 15 juillet 1982
+modifiée d'orientation et de programmation pour la recherche et le développement technologique de la France.
 
 - autres agents recrutés par les établissements publics à caractère scientifique et technologique et les établissements
-d'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant
-dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de
-la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel
-doctorat.
+d'enseignement supérieur en application des 
+articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984
+modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche
+dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après
+l'obtention d'un tel doctorat.
 
 - agents recrutés dans les services d'activités industrielles et commerciales des établissements publics d'enseignement
 supérieur en application de l'article L. 123-5 du code de l'éducation pour effectuer des travaux de recherche dans le cadre
 de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel
-doctorat.
+doctorat. 
 
-Enseignement supérieur, recherche et affaires sociales :
+**Enseignement supérieur, recherche et affaires sociales :**
 
-- personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le décret n° 84-135 du 24
-février 1984 modifié.
+- personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le 
+décret n° 84-135 du 24 février 1984
+modifié.
 
 - personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres
-hospitaliers et universitaires, régis par le décret n° 90-92 du 24 janvier 1990 modifié.
+hospitaliers et universitaires, régis par le 
+décret n° 90-92 du 24 janvier 1990
+modifié.
 
 - professeurs du premier et du deuxième grade de chirurgien dentaire-odontologiste des services de consultations et de
-traitement dentaire, régis par le décret n° 65-803 du 22 septembre 1965 modifié.
+traitement dentaire, régis par le 
+décret n° 65-803 du 22 septembre 1965
+modifié. 
 
-Agriculture, pêche et alimentation.
+personnels enseignants des universités, titulaires et non titulaires de médecine générale, régis par le 
+décret n° 2008-744 du 28 juillet 2008. 
+
+**Agriculture, pêche et alimentation. **
 
 Corps de fonctionnaires :
 
@@ -33373,59 +33402,76 @@ Corps de fonctionnaires :
 
 - ingénieurs des travaux des eaux et forêts régis par le décret n° 70-128 du 14 février 1970 modifié.
 
-- ingénieurs des travaux ruraux régis par le décret n° 65-688 du 10 août 1965 modifié.
+- ingénieurs des travaux ruraux régis par le 
+décret n° 65-688 du 10 août 1965
+modifié.
 
-- ingénieurs des travaux agricoles régis par le décret n° 65-690 du 10 août 1965 modifié.
+- ingénieurs des travaux agricoles régis par le 
+décret n° 65-690 du 10 août 1965
+modifié.
 
-- vétérinaires inspecteurs régis par le décret n° 62-1439 du 26 novembre 1962 modifié.
+- vétérinaires inspecteurs régis par le 
+décret n° 62-1439 du 26 novembre 1962
+modifié.
 
 - personnels scientifiques du Centre national d'études vétérinaires et alimentaires régis par le décret n° 64-642 du 29 juin
 1964 modifié.
 
 - enseignants-chercheurs des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture
-régis par le décret n° 92-171 du 21 février 1992.
+régis par le 
+décret n° 92-171 du 21 février 1992.
 
-- ingénieurs, assistants ingénieurs et techniciens régis par le décret n° 95-370 du 6 avril 1995.
+- ingénieurs, assistants ingénieurs et techniciens régis par le 
+décret n° 95-370 du 6 avril 1995.
 
-- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996.
+- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996. 
 
 Agents non titulaires :
 
 - personnels associés ou invités dans les établissements d'enseignement supérieur et de la recherche relevant du ministre
-chargé de l'agriculture, régis par le décret n° 95-621 du 6 mai 1995.
+chargé de l'agriculture, régis par le 
+décret n° 95-621 du 6 mai 1995.
 
 - assistants d'enseignement et de recherche contractuels des établissements d'enseignement supérieur publics relevant du
-ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 1991.
+ministre chargé de l'agriculture, régis par le 
+décret n° 91-374 du 16 avril 1991.
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-Industrie  :
+**Industrie : **
 
 Corps de fonctionnaires :
 
-- Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
+- Corps des ingénieurs des mines régis par le 
+décret n° 88-507 du 29 avril 1988
+modifié.
 
 - Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
 
 - Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales
-supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
+supérieures des techniques industrielles et des mines régis par le 
+décret n° 2007-468 du 28 mars 2007.
 
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales
-supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
+supérieures des techniques industrielles et des mines et régis par le 
+décret n° 96-273 du 26 mars 1996
+modifié.
 
-- Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
+- Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le 
+décret n° 67-715 du 16 août 1967.
 
 - Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des télécommunications en vertu du 1° de l'article
-36 du décret n° 96-1177 du 27 décembre 1996.
+36 du décret n° 96-1177 du 27 décembre 1996. 
 
 Agents non titulaires
 
-- chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux
-agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques
-industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
+- chercheurs et ingénieurs régis par le 
+décret n° 2000-677 du 18 juillet 2000
+portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles
+nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
 
 - attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 
@@ -33441,15 +33487,16 @@ du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 d
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-Equipement, transports et logement.
+**Equipement, transports et logement. **
 
 Corps de fonctionnaires :
 
 - ingénieurs des ponts et chaussées régis par le décret n° 59-358 du 20 février 1959 modifié ;
 
-- chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
+- chargés de recherche et directeurs de recherche régis par le 
+décret n° 94-943 du 28 octobre 1994 ;
 
 - ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
 
@@ -33458,18 +33505,25 @@ Corps de fonctionnaires :
 
 - ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
 
-- ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+- ingénieurs de l'aviation civile régis par le 
+décret n° 71-234 du 30 mars 1971
+modifié ;
 
-- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
+- ingénieurs des études et de l'exploitation de l'aviation civile régis par le 
+décret n° 71-907 du 8 novembre 1971
+modifié ;
 
 - ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
 
-- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par
-le décret n° 94-278 du 11 avril 1994 ;
+- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le 
+décret n° 91-56 du 16 janvier 1991
+, modifié par le décret n° 94-278 du 11 avril 1994 ;
 
 - ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
 
-- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
+- ingénieurs des travaux de la météorologie régis par le 
+décret n° 65-184 du 5 mars 1965
+modifié. 
 
 Agents non titulaires :
 
@@ -33502,32 +33556,45 @@ l'équipement de l'Ile-de-France.
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
 la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de
-doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat. 
 
-Défense.
+**Défense. **
 
 Corps de fonctionnaires civils et militaires :
 
-- ingénieurs de l'armement régis par le décret n° 82-1067 du 15 décembre 1982 modifié ;
-
-- ingénieurs militaires des essences régis par le décret n° 76-802 du 19 août 1976 modifié ;
-
-- praticiens des armées régis par le décret n° 2004-534 du 14 juin 2004 ;
-
-- ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
-
-- ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989
+- ingénieurs de l'armement régis par le 
+décret n° 82-1067 du 15 décembre 1982
 modifié ;
 
-- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre
-1989 modifié ;
+- ingénieurs militaires des essences régis par le 
+décret n° 76-802 du 19 août 1976
+modifié ;
 
-- techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié.
+- praticiens des armées régis par le 
+décret n° 2004-534 du 14 juin 2004
+;
+
+- ingénieurs des études et techniques régis par le 
+décret n° 79-1135 du 27 décembre 1979
+modifié ;
+
+- ingénieurs d'études et de fabrications du ministère de la défense régis par le 
+décret n° 89-750 du 18 octobre 1989
+modifié ;
+
+- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le 
+décret n° 89-749 du 18 octobre 1989
+modifié ;
+
+- techniciens du ministère de la défense régis par le 
+décret n° 98-203 du 20 mars 1998
+modifié. 
 
 Agents non titulaires :
 
-- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le décret n° 49-1378 du 3 octobre
-1949 modifié ;
+- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le 
+décret n° 49-1378 du 3 octobre 1949
+modifié ;
 
 - professeurs à occupation principale de l'Ecole nationale supérieure de l'aéronautique régis par le décret n° 67-962 du 23
 octobre 1967 ;
@@ -33538,13 +33605,16 @@ octobre 1967 ;
 - ingénieurs et spécialistes des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-312
 du 14 mars 1973 modifié ;
 
-- agents non titulaires ingénieurs régis par le décret n° 88-541 du 4 mai 1988 relatif à certains agents sur contrat des
-services à caractère industriel ou commercial du ministère de la défense ;
+- agents non titulaires ingénieurs régis par le 
+décret n° 88-541 du 4 mai 1988
+relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
 
-- personnels enseignants de l'Ecole polytechnique régis par le décret n° 2000-497 du 5 juin 2000 ;
+- personnels enseignants de l'Ecole polytechnique régis par le 
+décret n° 2000-497 du 5 juin 2000 ;
 
-- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le
-décret n° 2003-1006 du 21 octobre 2003 ;
+- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le 
+décret n° 2003-1006 du 21 octobre 2003
+ ;
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
@@ -33553,9 +33623,88 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°49-1378 du 3 octobre 1949 (V)
+	  - Décret n°59-358 du 20 février 1959, v. init.
+	  - Décret n°59-1405 du 9 décembre 1959 (V)
+	  - Décret n°62-1439 du 26 novembre 1962 (V)
+	  - Décret n°63-1376 du 24 décembre 1963, v. init.
+	  - Décret n°64-420 du 12 mai 1964, v. init.
+	  - Décret n°64-642 du 29 juin 1964, v. init.
+	  - Décret n°65-184 du 5 mars 1965 (V)
+	  - Décret n°65-427 du 4 juin 1965, v. init.
+	  - Décret n°65-426 du 4 juin 1965, v. init.
+	  - Décret n°65-688 du 10 août 1965 (Ab)
+	  - Décret n°65-690 du 10 août 1965 (Ab)
+	  - Décret n°65-793 du 16 septembre 1965, v. init.
+	  - Décret n°65-803 du 22 septembre 1965 (V)
+	  - Décret n°67-715 du 16 août 1967 (Ab)
+	  - Décret n°67-962 du 23 octobre 1967, v. init.
+	  - Décret n°68-313 du 1 avril 1968, v. init.
+	  - Décret n°69-894 du 26 septembre 1969 (V)
+	  - Décret n°70-128 du 14 février 1970 (Ab)
+	  - Décret n°70-663 du 10 juillet 1970, v. init.
+	  - Décret n°71-234 du 30 mars 1971 (Ab)
+	  - Décret n°71-345 du 5 mai 1971 (Ab)
+	  - Décret n°73-264 du 6 mars 1973 (V)
+	  - Décret n°73-311 du 14 mars 1973, v. init.
+	  - Décret n°75-62 du 28 janvier 1975, v. init.
+	  - Décret n°75-1355 du 18 décembre 1975, v. init.
+	  - Décret n°76-802 du 19 août 1976 (Ab)
+	  - Décret n°79-1135 du 27 décembre 1979 (V)
+	  - Décret n°80-31 du 17 janvier 1980 (V)
+	  - Décret n°80-479 du 27 juin 1980 (V)
+	  - Loi n°82-610 du 15 juillet 1982 - art. 23 (V)
+	  - Décret n°82-1067 du 15 décembre 1982 (Ab)
+	  - Décret n°83-1260 du 30 décembre 1983 (V)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 4 (V)
+	  - Loi n°84-52 du 26 janvier 1984 - art. 54 (M)
+	  - Décret n°84-135 du 24 février 1984 (V)
+	  - Décret n°84-431 du 6 juin 1984 (V)
+	  - Décret n°85-402 du 3 avril 1985 (Ab)
+	  - Loi n°85-1223 du 22 novembre 1985, v. init.
+	  - Décret n°85-1461 du 30 décembre 1985 (V)
+	  - Décret n°85-1462 du 30 décembre 1985 (V)
+	  - Décret n°85-1534 du 31 décembre 1985 (V)
+	  - Décret n°86-83 du 17 janvier 1986 (V)
+	  - Décret n°88-507 du 29 avril 1988 (V)
+	  - Décret n°88-541 du 4 mai 1988 (V)
+	  - Décret n°88-654 du 7 mai 1988 (V)
+	  - Décret n°89-749 du 18 octobre 1989 (V)
+	  - Décret n°89-750 du 18 octobre 1989 (V)
+	  - Décret n°89-794 du 30 octobre 1989 (Ab)
+	  - Décret n°90-92 du 24 janvier 1990 (V)
+	  - Décret n°90-160 du 16 février 1990, v. init.
+	  - Décret n°90-998 du 8 novembre 1990 (V)
+	  - Décret n°91-56 du 16 janvier 1991 (V)
+	  - Décret n°91-374 du 16 avril 1991 (V)
+	  - Décret n°92-171 du 21 février 1992 (V)
+	  - Décret n°92-339 du 30 mars 1992, v. init.
+	  - Décret n°92-1229 du 19 novembre 1992 (V)
+	  - Décret n°94-278 du 11 avril 1994 (V)
+	  - Décret n°94-943 du 28 octobre 1994 (M)
+	  - Décret n°95-370 du 6 avril 1995 (V)
+	  - Décret n°95-621 du 6 mai 1995 (V)
+	  - Décret n°96-273 du 26 mars 1996 (V)
+	  - Décret n°96-501 du 7 juin 1996 (V)
+	  - Décret n°96-1177 du 27 décembre 1996 - art. 36 (V)
+	  - Décret n°98-203 du 20 mars 1998 (V)
+	  - Décret n°2000-497 du 5 juin 2000 (V)
+	  - Décret n°2000-677 du 18 juillet 2000 (V)
+	  - Décret n°2003-1006 du 21 octobre 2003 (V)
+	  - Décret n°2004-534 du 14 juin 2004 (Ab)
+	  - Décret n°2007-468 du 28 mars 2007 (V)
+	  - Décret n°2008-744  du 28 juillet 2008 (V)
+	  - Code de l'éducation - art. L123-5 (M)
+	  - Code de l'éducation - art. L612-7 (M)
+	  - arrêté du 27 mars 1973
+	  - décret n°71-907 du 8 novembre 1971
+	  - règlement intérieur du 30 mars 1988
+
 	**Modifié par**:
 
-	  - Décret n°2007-468 du 28 mars 2007 - art. 45 (V)
+	  - Décret n°2008-744 du 28 juillet 2008 - art. 48
 
 
 ###### Article R611-11
@@ -33706,44 +33855,44 @@ La liste des fonctionnaires et agents auteurs d'une invention est annexée à l'
 
 ###### Article R611-14-1
 
-I. - Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics relevant des catégories définies
-dans l'annexe au présent article et qui sont les auteurs d'une invention mentionnée au 1 de l'article R. 611-12, la
-rémunération supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de
-l'invention par la personne publique qui en est bénéficiaire et par une prime au brevet d'invention.
+I.-Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics relevant des catégories définies dans
+l'annexe au présent article et qui sont les auteurs d'une invention mentionnée au 1 de l'article R. 611-12, la rémunération
+supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de l'invention
+par la personne publique qui en est bénéficiaire et par une prime au brevet d'invention. 
 
-II. - La prime d'intéressement est calculée, pour chaque invention, sur une base constituée du produit hors taxes des
+II.-La prime d'intéressement est calculée, pour chaque invention, sur une base constituée du produit hors taxes des
 redevances perçues chaque année au titre de l'invention par la personne publique, après déduction de la totalité des frais
 directs supportés par celle-ci, et affectée du coefficient représentant la contribution à l'invention de l'agent concerné. La
-prime au brevet d'invention n'est pas prise en compte dans les frais directs.
+prime au brevet d'invention n'est pas prise en compte dans les frais directs. 
 
 Le montant versé à chaque agent auteur d'une invention est égal à 50 % de la base définie ci-dessus, dans la limite du
 montant du traitement brut annuel soumis à retenue pour pension correspondant au deuxième chevron du groupe hors échelle D,
-et, au-delà de ce montant, à 25 % de cette base.
+et, au-delà de ce montant, à 25 % de cette base. 
 
-La prime d'intéressement est versée annuellement et peut faire l'objet d'avances en cours d'année.
+La prime d'intéressement est versée annuellement et peut faire l'objet d'avances en cours d'année. 
 
-III. - La prime au brevet d'invention a un caractère forfaitaire. Son montant est fixé par arrêté conjoint des ministres
+III.-La prime au brevet d'invention a un caractère forfaitaire. Son montant est fixé par arrêté conjoint des ministres
 chargés du budget, de la fonction publique et de la recherche. Elle est pour chaque agent affectée du coefficient
-représentant sa contribution à l'invention.
+représentant sa contribution à l'invention. 
 
 Cette prime est versée en deux tranches. Le droit au versement de la première tranche, qui représente 20 % du montant de la
 prime, est ouvert à l'issue d'un délai d'un an à compter du premier dépôt de la demande de brevet. Le droit au versement de
 la seconde tranche est ouvert lors de la signature d'une concession de licence d'exploitation ou d'un contrat de cession
-dudit brevet.
+dudit brevet. 
 
-IV. - Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention,
+IV.-Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention,
 représentée par un coefficient, est déterminée définitivement avant le premier versement annuel au titre de la rémunération
 supplémentaire mentionnée au I ou, le cas échéant, avant le versement d'avances, selon des modalités arrêtées par le ministre
 ayant autorité sur le service ou par l'ordonnateur principal de la personne publique. Lorsqu'un seul agent est auteur de
-l'invention, le coefficient représentant sa contribution est égal à 1.
+l'invention, le coefficient représentant sa contribution est égal à 1. 
 
 Si l'invention résulte d'une collaboration entre agents relevant de plusieurs personnes publiques, les modalités de
 répartition et de paiement de la prime d'intéressement et de la prime au brevet d'invention sont arrêtées de concert par les
 personnes publiques concernées.
 
-V. - Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de
+V.-Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de
 la prime d'intéressement et de la prime au brevet d'invention lui est versée, en complément de sa rémunération d'activité,
-sans autre limitation que celle prévue par le présent article.
+sans autre limitation que celle prévue par le présent article. 
 
 Le cas échéant, la prime d'intéressement continue d'être versée à l'agent pendant le temps d'exploitation de l'invention,
 s'il quitte ses fonctions pour quelque cause que ce soit ou est admis à faire valoir ses droits à pension de retraite. En cas
@@ -33767,11 +33916,7 @@ du décès.
 
 	**Modifié par**:
 
-	  - Décret n°2007-468 du 28 mars 2007 - art. 45 (V) JORF 30 mars 2007 en vigueur le 1er avril 2007
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Décret n°2008-744 du 28 juillet 2008 - art. 48
 
 
 ##### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.
@@ -36535,8 +36680,6 @@ l'Institut national de la propriété industrielle.
 
 ##### Section 1 : Droits d'exploitation
 
-##### Sous-section 2 : Licences obligatoires.
-
 ##### Sous-section 1 : Licences obligatoires
 
 ###### Article R613-4
@@ -36687,8 +36830,6 @@ Les demandes tendant à la cession de la licence obligatoire, à son retrait ou 
 
 	  - Décret n°69-975 du 18 octobre 1969 - art. 6 (Ab)
 
-
-##### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.
 
 ##### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique
 
@@ -42759,7 +42900,7 @@ judiciaire.
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
 
-### Titre unique : Marques de fabrique, de commerce ou de service
+### Titre Ier : Marques de fabrique, de commerce ou de service
 
 #### Chapitre II : Acquisition du droit sur la marque
 
@@ -44972,20 +45113,6 @@ propriété industrielle.
 
 	  - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
 
-
-### Titre Ier : Marques de fabrique, de commerce ou de service
-
-#### Chapitre II : Acquisition du droit sur la marque
-
-#### Chapitre IV : Transmission et perte du droit sur la marque
-
-#### Chapitre V : Marques collectives
-
-#### Chapitre VI : Contentieux
-
-#### Chapitre VII : Marque internationale et marque communautaire
-
-#### Chapitre VIII : Dispositions communes
 
 ### Titre II : Indications géographiques
 
