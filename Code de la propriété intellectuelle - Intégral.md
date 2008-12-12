@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-11-15
+Version Consolidée au 2008-12-13
 
 # Partie législative
 
@@ -7863,19 +7863,19 @@ conseils de prud'hommes.
 ###### Article L411-1
 
 L'Institut national de la propriété industrielle est un établissement public doté de la personnalité civile et de l'autonomie
-financière, placé auprès du ministre de l'industrie.
+financière, placé auprès du ministre   chargé de la propriété industrielle. 
 
-Cet établissement a pour mission :
+Cet établissement a pour mission : 
 
 1° De centraliser et diffuser toute information nécessaire pour la protection des innovations et pour l'enregistrement des
-entreprises, ainsi que d'engager toute action de sensibilisation et de formation dans ces domaines ;
+entreprises, ainsi que d'engager toute action de sensibilisation et de formation dans ces domaines ; 
 
 2° D'appliquer les lois et règlements en matière de propriété industrielle, de registre du commerce et des sociétés et de
 répertoire des métiers ; à cet effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de
 propriété industrielle ou annexes à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la
 surveillance de leur maintien ; il centralise le registre du commerce et des sociétés, le répertoire des métiers et le
 Bulletin officiel des annonces civiles et commerciales ; il assure la diffusion des informations techniques, commerciales et
-financières contenues dans les titres de propriété industrielle et instruments centralisés de publicité légale ;
+financières contenues dans les titres de propriété industrielle et instruments centralisés de publicité légale ; 
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des
 innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il
@@ -7883,18 +7883,6 @@ estime utile en ces matières ; il participe à l'élaboration des accords inter
 France dans les organisations internationales compétentes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°51-444 du 19 avril 1951 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 	**Cité par**:
 
@@ -7904,6 +7892,10 @@ France dans les organisations internationales compétentes.
 	  - Loi n°2015-990 du 6 août 2015 - art. 60 (V)
 	  - Code de commerce - art. L123-6 (V)
 	  - Code monétaire et financier - art. L561-47 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 3 (V)
 
 
 ###### Article L411-2
@@ -10369,38 +10361,6 @@ un certificat complémentaire de protection pour celles des parties du brevet co
 	  - Code de la santé publique - art. L617-1 (Ab)
 
 
-###### Article L611-4
-
-Les demandes de brevet et brevets déposés avant le 1er juillet 1979 restent soumis aux règles applicables à la date de leur
-dépôt.
-
-Toutefois, les dispositions du présent livre sont applicables à l'exercice des droits résultant de ces brevets et demandes de
-brevet, ainsi qu'à la poursuite de l'instruction des demandes de brevet pour lesquelles le premier projet d'avis documentaire
-n'a pas été établi avant le 1er juillet 1979.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-742 du 13 juillet 1978 - art. 45 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R612-33 (V)
-
-
 ###### Article L611-5
 
 Les certificats d'addition demandés antérieurement à l'entrée en vigueur de la loi n° 90-1052 du 26 novembre 1990 relative à
@@ -10975,14 +10935,14 @@ réglementaire.
 
 ###### Article L612-2
 
-La date de dépôt de la demande de brevet est celle à laquelle le demandeur a produit les documents qui contiennent :
+La date de dépôt de la demande de brevet est celle à laquelle le demandeur a produit les documents qui contiennent : 
 
-a) Une déclaration selon laquelle un brevet est demandé ;
+a) Une indication selon laquelle un brevet est demandé ; 
 
-b) L'identification du demandeur ;
+b) Les informations permettant d'identifier ou de communiquer avec le demandeur ; 
 
-c) Une description et une ou plusieurs revendications, même si la description et les revendications ne sont pas conformes aux
-autres exigences du présent titre.
+c) Une description, même si celle-ci n'est pas conforme aux autres exigences du présent titre, ou un renvoi à une demande
+déposée antérieurement dans les conditions fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -10990,13 +10950,9 @@ autres exigences du présent titre.
 
 	  - Loi n°68-1 du 2 janvier 1968 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11134,19 +11090,19 @@ description.
 ###### Article L612-7
 
 1. Le demandeur d'un brevet qui veut se prévaloir de la priorité d'un dépôt antérieur est tenu de produire une déclaration de
-priorité et une copie de la demande antérieure dans les conditions et délais fixés par voie réglementaire.
+priorité et de justifier de l'existence de la demande antérieure dans les conditions et délais fixés par voie réglementaire. 
 
 2. Des priorités multiples peuvent être revendiquées pour une demande de brevet, même si elles proviennent d'Etats
 différents. Le cas échéant, des priorités multiples peuvent être revendiquées pour une même revendication. Si des priorités
 multiples sont revendiquées, les délais qui ont pour point de départ la date de priorité sont calculés à compter de la date
-de la priorité la plus ancienne.
+de la priorité la plus ancienne. 
 
 3. Lorsqu'une ou plusieurs priorités sont revendiquées pour la demande de brevet, le droit de priorité ne couvre que les
-éléments de la demande dont la priorité est revendiquée.
+éléments de la demande dont la priorité est revendiquée. 
 
 4. Si certains éléments de l'invention pour lesquels la priorité est revendiquée ne figurent pas parmi les revendications
 formulées dans la demande antérieure, il suffit, pour que la priorité puisse être accordée, que l'ensemble des pièces de la
-demande antérieure révèle d'une façon précise lesdits éléments.
+demande antérieure révèle d'une façon précise lesdits éléments. 
 
 5. Pour l'effet du droit de priorité, la date de priorité est considérée comme celle du dépôt de la demande de brevet pour
 l'application des deuxième et troisième alinéas de l'article L. 611-11.
@@ -11157,17 +11113,13 @@ l'application des deuxième et troisième alinéas de l'article L. 611-11.
 
 	  - Loi n°68-1 du 2 janvier 1968 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L611-11 (V)
+	  - Code de la propriété intellectuelle - art. L611-11
 
 	**Cité par**:
 
@@ -11474,21 +11426,13 @@ Ce rapport est établi dans des conditions fixées par décret.
 
 ###### Article L612-15
 
-Le demandeur peut requérir que l'établissement du rapport de recherche soit différé pendant un délai de dix-huit mois ; ce
-délai court du dépôt de la demande de brevet ou de la date de priorité si une priorité a été revendiquée. Le demandeur peut
-renoncer à cette requête à tout moment ; il doit le faire avant d'exercer une action en contrefaçon ou de procéder à la
-notification prévue au premier alinéa de l'article L. 615-4. A partir de la publication prévue au 1° de l'article L. 612-21,
-tout tiers peut requérir l'établissement du rapport de recherche.
-
-Le demandeur peut à tout moment transformer sa demande de brevet en demande de certificat d'utilité. Au terme du délai prévu
-à l'alinéa précédent, si le rapport de recherche n'a pas été requis, cette transformation est prononcée d'office dans des
-conditions fixées par voie réglementaire.
+Le demandeur peut transformer sa demande de brevet en demande de certificat d'utilité dans des conditions fixées par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 du 2 janvier 1968 - art. 20 (M)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 20 (Ab)
 
 	**Cité par**:
@@ -11502,37 +11446,32 @@ conditions fixées par voie réglementaire.
 	  - Code de la propriété intellectuelle - art. R612-55 (V)
 	  - Code de la propriété intellectuelle - art. R612-56 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-21 (V)
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
 
 ###### Article L612-16
 
 Le demandeur qui n'a pas respecté un délai à l'égard de l'Institut national de la propriété industrielle peut présenter un
-recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime et si l'empêchement a pour conséquence
-directe le rejet de la demande de brevet ou d'une requête, la perte de tout autre droit ou celle d'un moyen de recours.
+recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime et si l'inobservation de ce délai a pour
+conséquence directe le rejet de la demande de brevet ou d'une requête, la déchéance de la demande de brevet ou du brevet ou
+la perte de tout autre droit. 
 
 Le recours doit être présenté au directeur de l'Institut national de la propriété industrielle dans un délai de deux mois à
 compter de la cessation de l'empêchement. L'acte non accompli doit l'être dans ce délai. Le recours n'est recevable que dans
-un délai d'un an à compter de l'expiration du délai non observé.
+un délai d'un an à compter de l'expiration du délai non observé. 
 
-Les dispositions du présent article ne sont applicables ni aux délais prévus aux articles L. 612-15, L. 612-19 et L. 613-22
-ni au délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle.
+Lorsque le recours se rapporte au défaut de paiement d'une redevance de maintien en vigueur, le délai non observé s'entend du
+délai de grâce prévu au second alinéa de l'article L. 612-19 et la restauration n'est accordée par le directeur de l'Institut
+national de la propriété industrielle qu'à la condition que les redevances de maintien en vigueur échues au jour de la
+restauration aient été acquittées dans le délai prescrit par voie réglementaire. 
+
+Les dispositions du présent article ne sont applicables ni aux délais prévus aux deuxième et troisième alinéas, à l'article
+L. 612-16-1 et aux délais de présentation et de correction d'une déclaration de priorité prescrits par voie réglementaire, ni
+au délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-1 1968-01-02 art. 20 bis
 
 	**Cité par**:
 
@@ -11540,24 +11479,45 @@ ni au délai de priorité institué par l'article 4 de la convention de Paris po
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code de la propriété intellectuelle - art. R613-52 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L612-15 (V)
-	  - Code de la propriété intellectuelle - art. L612-19 (V)
-	  - Code de la propriété intellectuelle - art. L613-22 (V)
+	  - Code de la propriété intellectuelle - art. L612-16-1
+	  - Code de la propriété intellectuelle - art. L612-19
+
+
+###### Article L612-16-1
+
+Le demandeur qui n'a pas respecté le délai de priorité institué par l'article 4 de la convention de Paris pour la protection
+de la propriété industrielle à l'égard de l'Institut national de la propriété industrielle peut présenter un recours en vue
+d'être restauré dans son droit s'il justifie d'une excuse légitime. 
+
+La demande de brevet, déposée plus d'un an après la demande antérieure dont elle revendique la priorité, doit l'être dans le
+délai de deux mois à compter de l'expiration du délai de priorité. 
+
+Le recours doit également être présenté auprès du directeur général de l'INPI dans le délai de deux mois à compter de
+l'expiration du délai de priorité. Toutefois, le recours n'est pas recevable s'il est présenté après l'achèvement des
+préparatifs techniques de publication de la demande de brevet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L612-16 (V)
+	  - Code de la propriété intellectuelle - art. R612-24 (V)
+	  - Code de la propriété intellectuelle - art. R613-52 (V)
 
 
 ###### Article L612-17
 
-Après l'accomplissement de la procédure prévue aux articles L. 612-14 et L. 612-15, le brevet est délivré.
+Après l'accomplissement de la procédure prévue à l'article L. 612-14, le brevet est délivré. 
 
 Tous les titres délivrés comprennent la description, s'il y a lieu les dessins, les revendications et, s'il s'agit d'un
 brevet, le rapport de recherche.
@@ -11566,16 +11526,11 @@ brevet, le rapport de recherche.
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 du 2 janvier 1968 - art. 21 (M)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11584,8 +11539,7 @@ brevet, le rapport de recherche.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L612-14 (V)
-	  - Code de la propriété intellectuelle - art. L612-15 (V)
+	  - Code de la propriété intellectuelle - art. L612-14
 
 
 ###### Article L612-18
@@ -11621,8 +11575,7 @@ Toute demande de brevet ou tout brevet donne lieu au paiement de redevances annu
 tard au jour fixé par décret pris en Conseil d'Etat.
 
 Lorsque le paiement d'une redevance annuelle n'a pas été effectué à la date prévue à l'alinéa précédent, ladite redevance
-peut être valablement versée dans un délai supplémentaire de six mois moyennant le paiement d'un supplément dans le même
-délai.
+peut être valablement versée dans un délai de grâce de six mois moyennant le paiement d'un supplément dans le même délai.
 
 **Liens relatifs à cet article**
 
@@ -11643,13 +11596,9 @@ délai.
 	  - Code de la propriété intellectuelle - art. R614-15 (V)
 	  - Code de la propriété intellectuelle - art. R614-16 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
 
 ###### Article L612-20
@@ -12808,20 +12757,16 @@ validité de la saisie et aux fins de mise en vente du brevet.
 ###### Article L613-22
 
 1. Est déchu de ses droits le propriétaire d'une demande de brevet ou d'un brevet qui n'a pas acquitté la redevance annuelle
-prévue à l'article L. 612-19 dans le délai prescrit par ledit article.
+prévue à l'article L. 612-19 dans le délai prescrit par ledit article. 
 
-La déchéance prend effet à la date de l'échéance de la redevance annuelle non acquittée.
+La déchéance prend effet à la date de l'échéance de la redevance annuelle non acquittée. 
 
 Elle est constatée par une décision du directeur de l'Institut national de la propriété industrielle ou, à la requête du
-breveté ou d'un tiers, dans les conditions fixées par voie réglementaire.
+breveté ou d'un tiers, dans les conditions fixées par voie réglementaire. 
 
-La décision est publiée et notifiée au breveté.
+La décision est publiée et notifiée au breveté. 
 
-2. Le breveté peut, dans les trois mois suivant la notification de la décision, présenter un recours en vue d'être restauré
-dans ses droits s'il justifie d'une excuse légitime du non-paiement de l'annuité.
-
-La restauration est accordée par le directeur de l'Institut national de la propriété industrielle sous réserve que la ou les
-redevances annuelles soient acquittées dans le délai prescrit par voie réglementaire.
+2. Abrogé.
 
 **Liens relatifs à cet article**
 
@@ -12840,42 +12785,17 @@ redevances annuelles soient acquittées dans le délai prescrit par voie réglem
 	  - Code de la propriété intellectuelle - art. R618-1 (M)
 	  - Code de la propriété intellectuelle - art. R618-2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - RECTIFICATION: Ordonnance n°2008-1301 du 11 décembre 2008 - art., v. init.
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L612-19 (V)
-
-
-###### Article L613-23
-
-Les délais mentionnés à l'article L. 613-22 peuvent être suspendus dans les cas et selon les modalités prévues à l'article L.
-612-18.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-18 (V)
-	  - Code de la propriété intellectuelle - art. L613-22 (V)
 
 
 ###### Article L613-24
@@ -16956,35 +16876,27 @@ des observations auprès du directeur de l'Institut national de la propriété i
 
 Pendant le délai mentionné à l'article L. 712-3, opposition à la demande d'enregistrement peut être faite auprès du directeur
 de l'Institut national de la propriété industrielle par le propriétaire d'une marque enregistrée ou déposée antérieurement ou
-bénéficiant d'une date de priorité antérieure, ou par le propriétaire d'une marque antérieure notoirement connue.
+bénéficiant d'une date de priorité antérieure, ou par le propriétaire d'une marque antérieure notoirement connue. 
 
 Le bénéficiaire d'un droit exclusif d'exploitation dispose également du même droit, sauf stipulation contraire du contrat.
 
 L'opposition est réputée rejetée s'il n'est pas statué dans un délai de six mois suivant l'expiration du délai prévu à
-l'article L. 712-3.
+l'article L. 712-3. 
 
-Toutefois, ce délai peut être suspendu :
+Toutefois, ce délai peut être suspendu : 
 
-a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ;
+a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ; 
 
-b) En cas d'engagement d'une action en nullité, en déchéance ou en revendication de propriété ;
+b) En cas de demande en nullité, en déchéance ou en revendication de propriété, de la marque sur laquelle est fondée
+l'opposition ; 
 
-c) Sur demande conjointe des parties, sans que la suspension puisse dans ce cas excéder six mois.
+c) Sur demande conjointe des parties, pendant une durée de trois mois renouvelable une fois.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 8
 	  - Loi n°91-7 du 4 janvier 1991 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 	**Liens**:
 
@@ -17017,9 +16929,13 @@ c) Sur demande conjointe des parties, sans que la suspension puisse dans ce cas 
 	  - Code de la propriété intellectuelle - art. R717-9 (V)
 	  - Code rural et de la pêche maritime - art. L643-3-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L712-3 (V)
+	  - Code de la propriété intellectuelle - art. L712-3
 
 
 ###### Article L712-5
@@ -17164,24 +17080,19 @@ Toute modification du signe ou extension de la liste des produits ou services d�
 
 ###### Article L712-10
 
-Le demandeur qui n'a pas respecté les délais mentionnés aux articles L. 712-2 et L. 712-9, et qui justifie d'un empêchement
-qui n'est imputable ni à sa volonté, ni à sa faute, ni à sa négligence, peut, dans des conditions fixées par décret en
-Conseil d'Etat, être relevé des déchéances qu'il a pu encourir.
+Le demandeur qui n'a pas respecté les délais mentionnés à l'article L. 712-2, et qui justifie d'un empêchement qui n'est
+imputable ni à sa volonté, ni à sa faute, ni à sa négligence, peut, dans des conditions fixées par décret en Conseil d'Etat,
+être relevé des déchéances qu'il a pu encourir.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 13
 	  - Loi n°91-7 du 4 janvier 1991 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
 
 	**Cité par**:
 
@@ -17191,8 +17102,7 @@ Conseil d'Etat, être relevé des déchéances qu'il a pu encourir.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L712-2 (M)
-	  - Code de la propriété intellectuelle - art. L712-9 (V)
+	  - Code de la propriété intellectuelle - art. L712-2
 
 
 ###### Article L712-11
@@ -17427,27 +17337,22 @@ motifs légitimes, tenant notamment à la modification ou à l'altération, ult�
 
 ###### Article L713-5
 
-L'emploi d'une marque jouissant d'une renommée pour des produits ou services non similaires à ceux désignés dans
-l'enregistrement engage la responsabilité civile de son auteur s'il est de nature à porter préjudice au propriétaire de la
-marque ou si cet emploi constitue une exploitation injustifiée de cette dernière.
+La reproduction ou l'imitation d'une marque jouissant d'une renommée pour des produits ou services non similaires à ceux
+désignés dans l'enregistrement engage la responsabilité civile de son auteur si elle est de nature à porter préjudice au
+propriétaire de la marque ou si cette reproduction ou imitation constitue une exploitation injustifiée de cette dernière.
 
-Les dispositions de l'alinéa précédent sont applicables à l'emploi d'une marque notoirement connue au sens de l'article 6 bis
-de la convention de Paris pour la protection de la propriété industrielle précitée.
+Les dispositions de l'alinéa précédent sont applicables à la reproduction ou l'imitation d'une marque notoirement connue au
+sens de l'article 6 bis de la convention de Paris pour la protection de la propriété industrielle précitée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 16
 	  - Loi n°91-7 du 4 janvier 1991 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
 
 
 ###### Article L713-6
@@ -17674,8 +17579,8 @@ b) Propre à induire en erreur, notamment sur la nature, la qualité ou la prove
 
 ###### Article L714-7
 
-Toute transmission ou modification des droits attachés à une marque enregistrée doit, pour être opposable aux tiers, être
-inscrite au Registre national des marques.
+Toute transmission ou modification des droits attachés à une marque doit, pour être opposable aux tiers, être inscrite au
+Registre national des marques.
 
 Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais
 qui avaient connaissance de celui-ci lors de l'acquisition de ces droits. 
@@ -17692,11 +17597,26 @@ du préjudice qui lui est propre.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 133
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+
+###### Article L714-8
+
+Les titulaires de marques reproduisant ou imitant l'emblème du troisième protocole additionnel aux conventions de Genève du
+12 août 1949 relatif à l'adoption d'un signe distinctif additionnel ou la dénomination de cet emblème peuvent continuer à
+exploiter leurs droits à condition que ceux-ci aient été acquis avant le 8 décembre 2005 et que leur usage ne puisse
+apparaître, en temps de conflit armé, comme visant à conférer la protection des conventions de Genève et, le cas échéant, des
+protocoles additionnels de 1977.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
 
 
 ##### Chapitre V : Marques collectives
@@ -19114,9 +19034,8 @@ déterminés par voie réglementaire.
 
 Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des
 articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont
-applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et
-en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à
-L. 422-13 et L. 423-2.
+applicables dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie à
+l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2.
 
 **Liens relatifs à cet article**
 
@@ -19132,19 +19051,16 @@ L. 422-13 et L. 423-2.
 	  - Loi n°90-1052 du 26 novembre 1990 - art. 54 (Ab)
 	  - Loi n°91-7 du 4 janvier 1991 - art. 43 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 12 () JORF 2 juin 2006
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L335-4 (M)
-	  - Code de la propriété intellectuelle - art. L423-2 (V)
-	  - Code de la propriété intellectuelle L335-4, L133-1 à L133-4, L421-1 à L422-13, L423-2
+	  - Code de la propriété intellectuelle - art. L133-1
+	  - Code de la propriété intellectuelle - art. L335-4
+	  - Code de la propriété intellectuelle - art. L421-1
+	  - Code de la propriété intellectuelle - art. L423-2
 
 	**Nouveaux textes**:
 
@@ -19153,9 +19069,9 @@ L. 422-13 et L. 423-2.
 
 ###### Article L811-2
 
-Pour l'application du présent code et des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis-
-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les mots suivants
-énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour l'application du présent code et des dispositions qu'il rend applicables dans les îles Wallis-et-Futuna, dans les Terres
+australes et antarctiques françaises, en Nouvelle- Calédonie et à Mayotte, les mots suivants énumérés ci-dessous sont
+respectivement remplacés par les mots suivants :
 
 - " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
 
@@ -19168,64 +19084,45 @@ judiciaire " pour ce qui concerne Mayotte ;
 
 - " conseil de prud'hommes " par " tribunal du travail ".
 
-De même, les références à des dispositions législatives non applicables en Polynésie française, dans les îles Wallis-et-
-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux
-dispositions ayant le même objet, résultant des textes applicables localement.
+De même, les références à des dispositions législatives non applicables dans les îles Wallis-et-Futuna, dans les Terres
+australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux dispositions ayant le
+même objet, résultant des textes applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 2001-07-13
-	  - Ordonnance 2001-670 2001-07-25 art. 6 I, II, III, IV, V JORF 28 juillet 2001
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 6 () JORF 28 juillet 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
 
 ###### Article L811-2-1
 
-Pour leur application à Mayotte, en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et
-antarctiques françaises et en Nouvelle-Calédonie, les articles L. 122-3-1 et L. 211-6 sont ainsi rédigés :
+Pour leur application à Mayotte, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et en
+Nouvelle-Calédonie, les articles L. 122-3-1 et L. 211-6 sont ainsi rédigés :
 
 Art. L. 122-3-1. - Dès lors que la première vente d'un ou des exemplaires matériels d'une oeuvre a été autorisée par l'auteur
 ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur
-l'Espace économique européen ou sur le territoire de Mayotte, de la Polynésie française, des îles Wallis-et-Futuna, des
-Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette oeuvre ne peut
-plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+l'Espace économique européen ou sur le territoire de Mayotte, des îles Wallis et Futuna, des Terres australes et antarctiques
+françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette oeuvre ne peut plus être interdite dans la
+Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
 
 Art. L. 211-6. - Dès lors que la première vente d'un ou des exemplaires matériels d'une fixation protégée par un droit voisin
 a été autorisée par le titulaire du droit ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne
-ou sur le territoire de Mayotte, de la Polynésie française, des îles Wallis-et-Futuna, des Terres australes et antarctiques
-françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette fixation ne peut plus être interdite dans la
-Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+ou sur le territoire de Mayotte, des îles Wallis et Futuna, des Terres australes et antarctiques françaises et de la
+Nouvelle-Calédonie, la vente de ces exemplaires de cette fixation ne peut plus être interdite dans la Communauté européenne
+ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°2006-961 du 1 août 2006 - art. 49 (V) JORF 3 août 2006
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L122-3-1 (V)
-	  - Code de la propriété intellectuelle - art. L211-6 (V)
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
 
 ###### Article L811-3
 
-Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques
-françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+Pour son application dans les îles de Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-
+Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
 
 "Art. L. 621-1 :
 
@@ -19233,39 +19130,23 @@ françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présen
 fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 "Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction
-des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
-
-**Nota:**
-
-Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à la
-"collectivité territoriale de Mayotte" est remplacée par la référence à "Mayotte", et la référence à la "collectivité
-territoriale" est remplacée par la référence à la "collectivité départementale".
+des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal."
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L621-1 (M)
-	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-26
 
 
 ###### Article L811-4
 
-I. - Pour leur application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques
-françaises, en Nouvelle-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont
-ainsi rédigés :
+I. - Pour leur application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-
+Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont ainsi rédigés :
 
 "Art. L. 717-1. :
 
@@ -19368,33 +19249,16 @@ III. - La demande de marque nationale issue de la transformation d'une demande o
 date de dépôt ou de la date de priorité de cette demande ou de cette marque et, le cas échéant, de l'ancienneté d'une marque
 nationale antérieurement enregistrée et valablement revendiquée."
 
-**Nota:**
-
-Loi 2001-616 2001-07-11 art. 75 : Dans tous les textes législatifs et réglementaires en vigueur à Mayotte, la référence à la
-" collectivité territoriale de Mayotte " est remplacée par la référence à " Mayotte ", et la référence à la " collectivité
-territoriale " est remplacée par la référence à la " collectivité départementale ".
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
-	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 dispositions applicables aux DOM-TOM
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
-	**Créé par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 7 () JORF 28 juillet 2001
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L714-5 (M)
-	  - Code de la propriété intellectuelle - art. L717-1 (V)
-	  - Code de la propriété intellectuelle - art. L717-4 (V)
-	  - Code de la propriété intellectuelle - art. L717-7 (V)
-
+#### Titre unique
 
 # Partie réglementaire
 
