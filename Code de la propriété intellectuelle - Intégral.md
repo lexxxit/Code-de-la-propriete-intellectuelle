@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-12-13
+Version Consolidée au 2008-12-25
 
 # Partie législative
 
@@ -19024,7 +19024,7 @@ déterminés par voie réglementaire.
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
 
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
 #### Titre unique
 
@@ -19256,10 +19256,6 @@ nationale antérieurement enregistrée et valablement revendiquée."
 	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
 
-### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
-
-#### Titre unique
-
 # Partie réglementaire
 
 ## Livre Ier : Le droit d'auteur
@@ -19335,39 +19331,33 @@ ministre chargé de la culture.
 
 #### Chapitre II : Droits patrimoniaux
 
+##### Section 1 : Dispositions générales
+
 ###### Article R122-1
 
-Le droit de suite prévu à l'article L. 122-8 est exigible, dans les conditions prévues au présent chapitre, lors de la vente,
-sous quelque forme que ce soit, d'une oeuvre d'art originale graphique ou plastique autre que la première cession opérée par
-l'auteur ou par ses ayants droit, dès lors que le vendeur, l'acheteur ou un intermédiaire interviennent dans cette cession
-dans le cadre de leur activité professionnelle et que l'une au moins des conditions suivantes est remplie :
-
-1° La vente est effectuée sur le territoire français ;
-
-2° La vente y est assujettie à la taxe sur la valeur ajoutée.
-
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
+Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalogue d'une vente d'oeuvres d'art graphiques ou
+plastiques s'entend des exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères publiques, décrivant,
+en vue d'informer les acheteurs potentiels, les oeuvres qui seront dispersées au cours de la vente, ainsi que les conditions
+de celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute personne qui en fait la demande à l'officier
+public ou ministériel procédant à la vente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°57-297 1957-03-11 art. 42 alinéa 3
-
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 3
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L122-8 (M)
+	  - Code de la propriété intellectuelle - art. L122-5 (V)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R122-12 (M)
 
 	**Cité par**:
 
@@ -19376,64 +19366,35 @@ premier jour du mois suivant sa publication au Journal officiel de la Républiqu
 	  - Code de la propriété intellectuelle - art. R122-5 (M)
 	  - Code de la propriété intellectuelle - art. R122-6 (M)
 
-	**Nouveaux textes**:
 
-	  - Code de la propriété intellectuelle - art. R122-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
+##### Section 2 : Droit de suite
 
 ###### Article R122-2
 
-Les oeuvres mentionnées à l'article R. 122-1 sont les oeuvres originales graphiques ou plastiques créées par l'auteur lui-
-même, telles que les tableaux, les collages, les peintures, les dessins, les gravures, les estampes, les lithographies, les
-sculptures, les tapisseries, les céramiques, les verreries, les photographies et les créations plastiques sur support
-audiovisuel ou numérique.
+Le droit de suite prévu à l'article L. 122-8 est exigible, dans les conditions prévues au présent chapitre, lors de la vente,
+sous quelque forme que ce soit, d'une oeuvre d'art originale graphique ou plastique autre que la première cession opérée par
+l'auteur ou par ses ayants droit, dès lors que le vendeur, l'acheteur ou un intermédiaire interviennent dans cette cession
+dans le cadre de leur activité professionnelle et que l'une au moins des conditions suivantes est remplie : 
 
-Les oeuvres exécutées en nombre limité d'exemplaires et sous la responsabilité de l'auteur sont considérées comme oeuvres
-d'art originales au sens de l'alinéa précédent si elles sont numérotées ou signées ou dûment autorisées d'une autre manière
-par l'auteur. Ce sont notamment :
+1° La vente est effectuée sur le territoire français ; 
 
-a) Les gravures, estampes et lithographies originales tirées en nombre limité d'une ou plusieurs planches ;
-
-b) Les éditions de sculpture, dans la limite de douze exemplaires, exemplaires numérotés et épreuves d'artiste confondus ;
-
-c) Les tapisseries et oeuvres d'art textile faites à la main, sur la base de modèles originaux fournis par l'artiste, dans la
-limite de huit exemplaires ;
-
-d) Les émaux entièrement exécutés à la main et comportant la signature de l'artiste, dans la limite de huit exemplaires
-numérotés et de quatre épreuves d'artiste ;
-
-e) Les oeuvres photographiques signées, dans la limite de trente exemplaires, quels qu'en soient le format et le support ;
-
-f) Les créations plastiques sur support audiovisuel ou numérique dans la limite de douze exemplaires.
-
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
+2° La vente y est assujettie à la taxe sur la valeur ajoutée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1920-12-17 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-8 (V)
+
+	**Anciens textes**:
 
 	  - Code de la propriété intellectuelle - art. R122-1 (M)
 
@@ -19444,18 +19405,64 @@ premier jour du mois suivant sa publication au Journal officiel de la Républiqu
 	  - Code de la propriété intellectuelle - art. R122-5 (M)
 	  - Code de la propriété intellectuelle - art. R122-6 (M)
 
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-3 (V)
-
 
 ###### Article R122-3
+
+Les oeuvres mentionnées à l'article R. 122-1 sont les oeuvres originales graphiques ou plastiques créées par l'auteur lui-
+même, telles que les tableaux, les collages, les peintures, les dessins, les gravures, les estampes, les lithographies, les
+sculptures, les tapisseries, les céramiques, les verreries, les photographies et les créations plastiques sur support
+audiovisuel ou numérique. 
+
+Les oeuvres exécutées en nombre limité d'exemplaires et sous la responsabilité de l'auteur sont considérées comme oeuvres
+d'art originales au sens de l'alinéa précédent si elles sont numérotées ou signées ou dûment autorisées d'une autre manière
+par l'auteur. Ce sont notamment : 
+
+a) Les gravures, estampes et lithographies originales tirées en nombre limité d'une ou plusieurs planches ; 
+
+b) Les éditions de sculpture, dans la limite de douze exemplaires, exemplaires numérotés et épreuves d'artiste confondus ; 
+
+c) Les tapisseries et oeuvres d'art textile faites à la main, sur la base de modèles originaux fournis par l'artiste, dans la
+limite de huit exemplaires ; 
+
+d) Les émaux entièrement exécutés à la main et comportant la signature de l'artiste, dans la limite de huit exemplaires
+numérotés et de quatre épreuves d'artiste ; 
+
+e) Les oeuvres photographiques signées, dans la limite de trente exemplaires, quels qu'en soient le format et le support ; 
+
+f) Les créations plastiques sur support audiovisuel ou numérique dans la limite de douze exemplaires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R122-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R122-2 (M)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R122-4 (M)
+	  - Code de la propriété intellectuelle - art. R122-5 (M)
+	  - Code de la propriété intellectuelle - art. R122-6 (M)
+
+
+###### Article R122-4
 
 Les auteurs non ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
 économique européen ainsi que leurs ayants droit au sens des dispositions de l'article L. 123-7 bénéficient du droit de suite
 dans les conditions prévues par le présent code si leur législation nationale fait bénéficier de ce droit les auteurs
 ressortissants des Etats mentionnés ci-dessus ainsi que leurs ayants droit et pour la durée pendant laquelle ils sont admis à
-exercer ce droit dans leur pays.
+exercer ce droit dans leur pays. 
 
 Les auteurs non ressortissants des Etats mentionnés à l'alinéa précédent qui, au cours de leur carrière artistique, ont
 participé à la vie de l'art français et ont eu, pendant au moins cinq années, même non consécutives, leur résidence en France
@@ -19464,42 +19471,31 @@ dispositions de l'article L. 123-7 jouissent de la même faculté. Les auteurs i
 présenter une demande au ministre chargé de la culture qui statue après avis d'une commission dont la composition et les
 conditions de fonctionnement sont fixées par un arrêté du ministre chargé de la culture.
 
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 *modalités d'application* et art. 79 *modifications ultérieures*
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L123-7 (M)
+	  - Code de la propriété intellectuelle - art. L123-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R122-3 (M)
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R122-4 (M)
-	  - Code de la propriété intellectuelle - art. R122-5 (M)
-	  - Code de la propriété intellectuelle - art. R122-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-4 (V)
+	  - Code de la propriété intellectuelle - art. R122-5 (V)
+	  - Code de la propriété intellectuelle - art. R122-6 (V)
 
 
-###### Article R122-4
+###### Article R122-5
 
 Le prix de vente de chaque oeuvre pris en considération pour la perception du droit de suite est, hors taxes, le prix
 d'adjudication en cas de vente aux enchères publiques et, pour les autres ventes, le prix de cession perçu par le vendeur.
@@ -19507,126 +19503,53 @@ d'adjudication en cas de vente aux enchères publiques et, pour les autres vente
 Le droit de suite n'est pas exigible si le prix de vente de l'oeuvre, tel que défini à l'alinéa précédent, est inférieur à
 750 euros.
 
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1920-12-17 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R122-5 (V)
-	  - Code de la propriété intellectuelle - art. R122-6 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-5 (V)
-
-
-###### Article R122-5
-
-Le taux du droit de suite est égal à 4 % du prix de vente tel que défini à l'article R. 122-4 lorsque celui-ci est inférieur
-ou égal à 50 000 euros.
-
-Lorsque le prix de vente est supérieur à 50 000 euros, le droit de suite est fixé comme suit :
-
-4 % pour la première tranche de 50 000 euros du prix de vente tel que défini à l'article R. 122-4 ;
-
-3 % pour la tranche du prix de vente comprise entre 50 000,01 et 200 000 euros ;
-
-1 % pour la tranche du prix de vente comprise entre 200 000,01 et 350 000 euros ;
-
-0,5 % pour la tranche du prix de vente comprise entre 350 000,01 et 500 000 euros ;
-
-0,25 % pour la tranche du prix de vente dépassant 500 000 euros.
-
-Le montant total du droit exigible lors de la vente d'une oeuvre ne peut excéder 12 500 euros.
-
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 *modalités d'application* et art. 79 *modifications ultérieures*
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. R122-4
+
+	**Anciens textes**:
+
 	  - Code de la propriété intellectuelle - art. R122-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-6 (V)
 
 
 ###### Article R122-6
 
-I. - Le ministre chargé de la culture fixe par arrêté une liste de sociétés de perception et de répartition de droits aptes à
-informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisées des ventes d'oeuvres originales
-graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9.
+Le taux du droit de suite est égal à 4 % du prix de vente tel que défini à l'article R. 122-4 lorsque celui-ci est inférieur
+ou égal à 50 000 euros. 
 
-II. - Pour être inscrite sur la liste mentionnée au I du présent article, une société de perception et de répartition de
-droits doit à l'appui de sa demande :
+Lorsque le prix de vente est supérieur à 50 000 euros, le droit de suite est fixé comme suit : 
 
-1° Apporter la preuve de la diversité de ses associés et du nombre des ayants droit ;
+4 % pour la première tranche de 50 000 euros du prix de vente tel que défini à l'article R. 122-4 ; 
 
-2°  Justifier la qualification de ses gérants et mandataires sociaux, appréciée en fonction de leur expérience
-professionnelle dans le secteur des arts graphiques ou plastiques ou de la gestion d'organismes professionnels ;
+3 % pour la tranche du prix de vente comprise entre 50 000,01 et 200 000 euros ; 
 
-3° Donner toutes informations relatives à son organisation administrative, à ses conditions d'installation et d'équipement et
-à sa capacité à informer les bénéficiaires du droit de suite, y compris à l'étranger.
+1 % pour la tranche du prix de vente comprise entre 200 000,01 et 350 000 euros ; 
 
-Est radiée de la liste, par arrêté du ministre chargé de la culture, toute société qui en fait la demande ou, sous réserve
-d'avoir été mise à même de faire valoir ses observations dans un délai de deux mois, toute société qui ne remplit plus les
-conditions auxquelles est subordonnée l'inscription sur la liste.
+0,5 % pour la tranche du prix de vente comprise entre 350 000,01 et 500 000 euros ; 
 
-III. - Les arrêtés du ministre chargé de la culture mentionnés au I et au II sont publiés au Journal officiel de la
-République française.
+0,25 % pour la tranche du prix de vente dépassant 500 000 euros. 
 
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
+Le montant total du droit exigible lors de la vente d'une oeuvre ne peut excéder 12 500 euros.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 *modalités d'application* et art. 79 *modifications ultérieures*
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cité par**:
 
@@ -19634,41 +19557,48 @@ premier jour du mois suivant sa publication au Journal officiel de la Républiqu
 	  - Code de la propriété intellectuelle - art. R122-7 (V)
 	  - Code de la propriété intellectuelle - art. R122-9 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R122-7 (M)
+	  - Code de la propriété intellectuelle - art. R122-4 (V)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. R122-5 (M)
 
 
 ###### Article R122-7
 
-Toute personne susceptible de bénéficier du droit de suite qui souhaite obtenir des sociétés inscrites sur la liste
-mentionnée au I de l'article R. 122-6 la transmission d'un avis de vente la concernant, dont ces sociétés sont destinataires
-en application du II de l'article R. 122-9, peut communiquer son adresse et toutes autres informations utiles à ces sociétés.
-Cette communication doit être renouvelée lors de tout changement d'adresse ou de situation.
+I.-Le ministre chargé de la culture fixe par arrêté une liste de sociétés de perception et de répartition de droits aptes à
+informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisées des ventes d'oeuvres originales
+graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9. 
 
-**Nota:**
+II.-Pour être inscrite sur la liste mentionnée au I du présent article, une société de perception et de répartition de droits
+doit à l'appui de sa demande : 
 
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
+1° Apporter la preuve de la diversité de ses associés et du nombre des ayants droit ; 
+
+2° Justifier la qualification de ses gérants et mandataires sociaux, appréciée en fonction de leur expérience professionnelle
+dans le secteur des arts graphiques ou plastiques ou de la gestion d'organismes professionnels ; 
+
+3° Donner toutes informations relatives à son organisation administrative, à ses conditions d'installation et d'équipement et
+à sa capacité à informer les bénéficiaires du droit de suite, y compris à l'étranger. 
+
+Est radiée de la liste, par arrêté du ministre chargé de la culture, toute société qui en fait la demande ou, sous réserve
+d'avoir été mise à même de faire valoir ses observations dans un délai de deux mois, toute société qui ne remplit plus les
+conditions auxquelles est subordonnée l'inscription sur la liste. 
+
+III.-Les arrêtés du ministre chargé de la culture mentionnés au I et au II sont publiés au Journal officiel de la République
+française.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 et art. 79
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cité par**:
 
@@ -19676,12 +19606,45 @@ premier jour du mois suivant sa publication au Journal officiel de la Républiqu
 	  - Code de la propriété intellectuelle - art. R122-6 (M)
 	  - Code de la propriété intellectuelle - art. R122-9 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la propriété intellectuelle - art. R122-8 (M)
+	  - Code de la propriété intellectuelle - art. R122-6 (M)
 
 
 ###### Article R122-8
+
+Toute personne susceptible de bénéficier du droit de suite qui souhaite obtenir des sociétés inscrites sur la liste
+mentionnée au I de l'article R. 122-6 la transmission d'un avis de vente la concernant, dont ces sociétés sont destinataires
+en application du II de l'article R. 122-9, peut communiquer son adresse et toutes autres informations utiles à ces sociétés.
+Cette communication doit être renouvelée lors de tout changement d'adresse ou de situation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-6 (V)
+	  - Code de la propriété intellectuelle - art. R122-9 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R122-11 (V)
+	  - Code de la propriété intellectuelle - art. R122-12 (M)
+	  - Code de la propriété intellectuelle - art. R122-6 (M)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R122-7 (M)
+
+
+###### Article R122-9
 
 I. - En cas de vente d'une oeuvre originale graphique ou plastique aux enchères publiques, le professionnel du marché de
 l'art responsable du paiement du droit de suite est, selon le cas, la société de ventes volontaires ou le commissaire-priseur
@@ -19697,78 +19660,15 @@ est :
 
 3° A défaut, l'acheteur, s'il agit dans le cadre de son activité professionnelle.
 
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 *modalités d'application* et art. 79 *modifications ultérieures*
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
 
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R122-11 (V)
-	  - Code de la propriété intellectuelle - art. R122-12 (M)
-	  - Code de la propriété intellectuelle - art. R122-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-9 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-
-###### Article R122-9
-
-I. - Lorsqu'il est saisi d'une demande du bénéficiaire, le professionnel responsable du paiement du droit de suite lui verse
-le montant de celui-ci dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande ou, si
-cette demande est reçue antérieurement à la vente, à compter de la date de cette vente.
-
-Si l'oeuvre est due à la collaboration de plusieurs auteurs, le bénéficiaire en fait la déclaration et précise la répartition
-du droit de suite décidée entre les auteurs.
-
-II. - S'il n'est saisi d'aucune demande, le professionnel responsable du paiement du droit de suite avise par lettre
-recommandée avec demande d'avis de réception, au plus tard trois mois après la fin du trimestre civil au cours duquel la
-vente a eu lieu, l'une des sociétés de perception et de répartition des droits mentionnées à l'article R. 122-6 de la
-réalisation de la vente en lui indiquant la date de la vente, le nom de l'auteur de l'oeuvre et, le cas échéant, les
-informations relatives au bénéficiaire du droit de suite dont il dispose.
-
-Lorsque une société de perception et de répartition des droits est avisée d'une vente ouvrant droit à la perception du droit
-de suite au profit d'un bénéficiaire mentionné à l'article R. 122-7, elle est tenue de l'en informer. Lorsque le bénéficiaire
-n'est pas identifié, la société de perception et de répartition des droits procède aux diligences utiles pour informer les
-personnes susceptibles de bénéficier du droit de suite, au besoin en faisant appel aux autres sociétés de perception et de
-répartition de droits mentionnées à l'article R. 122-6. A défaut d'avoir pu informer le bénéficiaire, elle procède aux
-mesures de publicité appropriées sous forme électronique ou par tout autre moyen adapté.
-
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 *modalités d'application* et art. 79 *modifications ultérieures*
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
-	**Modifié par**:
-
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-10 (M)
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cité par**:
 
@@ -19779,143 +19679,383 @@ premier jour du mois suivant sa publication au Journal officiel de la Républiqu
 	  - Code de la propriété intellectuelle - art. R122-7 (V)
 	  - Code de la propriété intellectuelle - art. R122-8 (V)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. R122-8 (M)
 
 
 ###### Article R122-10
 
-I. - Pour la liquidation des sommes qui lui sont dues au titre du droit de suite, et pendant un délai de trois ans suivant la
-vente ouvrant droit à la perception de ce droit, le bénéficiaire peut, en précisant le titre, la description sommaire et le
-nom de l'auteur de l'oeuvre concernée, obtenir des personnes qui sont intervenues dans cette vente dans le cadre de leur
-activité professionnelle :
+I.-Lorsqu'il est saisi d'une demande du bénéficiaire, le professionnel responsable du paiement du droit de suite lui verse le
+montant de celui-ci dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande ou, si
+cette demande est reçue antérieurement à la vente, à compter de la date de cette vente. 
 
-a) Le nom et l'adresse du professionnel responsable du paiement du droit de suite ;
+Si l'oeuvre est due à la collaboration de plusieurs auteurs, le bénéficiaire en fait la déclaration et précise la répartition
+du droit de suite décidée entre les auteurs. 
 
-b) La date de la vente de l'oeuvre et son prix.
+II.-S'il n'est saisi d'aucune demande, le professionnel responsable du paiement du droit de suite avise par lettre
+recommandée avec demande d'avis de réception, au plus tard trois mois après la fin du trimestre civil au cours duquel la
+vente a eu lieu, l'une des sociétés de perception et de répartition des droits mentionnées à l'article R. 122-6 de la
+réalisation de la vente en lui indiquant la date de la vente, le nom de l'auteur de l'oeuvre et, le cas échéant, les
+informations relatives au bénéficiaire du droit de suite dont il dispose. 
 
-II. - Le bénéficiaire peut, dans les conditions et pendant le délai prévus au I, obtenir du professionnel responsable du
-paiement du droit de suite :
-
-a) La copie des pièces établissant que le droit de suite a été versé à son bénéficiaire, ainsi que, s'il y a lieu, la copie
-de la demande du bénéficiaire et de la déclaration d'oeuvre de collaboration, prévues au I de l'article R. 122-9 ;
-
-b) A défaut de ces documents, la copie des pièces justifiant que le professionnel responsable du paiement du droit de suite a
-exécuté les obligations qui lui incombaient en application des dispositions du premier alinéa du II de l'article R. 122-9.
-
-III. - Le professionnel responsable du paiement du droit de suite doit, en outre, conserver pendant le délai prévu au I le
-nom et l'adresse du vendeur.
-
-**Nota:**
-
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
+Lorsqu'une société de perception et de répartition des droits est avisée d'une vente ouvrant droit à la perception du droit
+de suite au profit d'un bénéficiaire mentionné à l'article R. 122-7, elle est tenue de l'en informer. Lorsque le bénéficiaire
+n'est pas identifié, la société de perception et de répartition des droits procède aux diligences utiles pour informer les
+personnes susceptibles de bénéficier du droit de suite, au besoin en faisant appel aux autres sociétés de perception et de
+répartition de droits mentionnées à l'article R. 122-6. A défaut d'avoir pu informer le bénéficiaire, elle procède aux
+mesures de publicité appropriées sous forme électronique ou par tout autre moyen adapté.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-650 2001-07-19 art. 78 modalités d'application et art. 79 modifications ultérieures
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
-
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R122-11 (V)
 	  - Code de la propriété intellectuelle - art. R122-12 (M)
 
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-11 (V)
-
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. R122-6 (V)
+	  - Code de la propriété intellectuelle - art. R122-7 (V)
+
+	**Anciens textes**:
+
 	  - Code de la propriété intellectuelle - art. R122-9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R122-11
 
-Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un professionnel responsable du
-paiement du droit de suite en application de l'article R. 122-8 :
+I.-Pour la liquidation des sommes qui lui sont dues au titre du droit de suite, et pendant un délai de trois ans suivant la
+vente ouvrant droit à la perception de ce droit, le bénéficiaire peut, en précisant le titre, la description sommaire et le
+nom de l'auteur de l'oeuvre concernée, obtenir des personnes qui sont intervenues dans cette vente dans le cadre de leur
+activité professionnelle : 
 
-1° De ne pas verser le droit de suite au bénéficiaire qui en fait la demande conformément au I de l'article R. 122-9 ;
+a) Le nom et l'adresse du professionnel responsable du paiement du droit de suite ; 
 
-2° De ne pas aviser l'une des sociétés de perception et de répartition des droits conformément aux dispositions du premier
-alinéa du II de l'article R. 122-9 ;
+b) La date de la vente de l'oeuvre et son prix. 
 
-3° De ne pas communiquer au bénéficiaire du droit de suite les informations prévues au I de l'article R. 122-10.
+II.-Le bénéficiaire peut, dans les conditions et pendant le délai prévus au I, obtenir du professionnel responsable du
+paiement du droit de suite : 
 
-**Nota:**
+a) La copie des pièces établissant que le droit de suite a été versé à son bénéficiaire, ainsi que, s'il y a lieu, la copie
+de la demande du bénéficiaire et de la déclaration d'oeuvre de collaboration, prévues au I de l'article R. 122-9 ; 
 
-Décret 2007-756 2007-05-09 article 3 : Les dispositions du présent décret s'appliquent aux ventes conclues à compter du
-premier jour du mois suivant sa publication au Journal officiel de la République française.
+b) A défaut de ces documents, la copie des pièces justifiant que le professionnel responsable du paiement du droit de suite a
+exécuté les obligations qui lui incombaient en application des dispositions du premier alinéa du II de l'article R. 122-9. 
+
+III.-Le professionnel responsable du paiement du droit de suite doit, en outre, conserver pendant le délai prévu au I le nom
+et l'adresse du vendeur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1920-12-17 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Modifié par**:
 
-	  - Décret n°2007-756 du 9 mai 2007 - art. 1 () JORF 10 mai 2007
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 2
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R122-10 (M)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R122-10 (M)
-	  - Code de la propriété intellectuelle - art. R122-8 (M)
-	  - Code de la propriété intellectuelle - art. R122-9 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. R122-12 (M)
+	  - Code de la propriété intellectuelle - art. R122-9 (V)
 
 
 ###### Article R122-12
 
-Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalogue d'une vente d'oeuvres d'art graphiques ou
-plastiques s'entend des exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères publiques, décrivant,
-en vue d'informer les acheteurs potentiels, les oeuvres qui seront dispersées au cours de la vente, ainsi que les conditions
-de celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute personne qui en fait la demande à l'officier
-public ou ministériel procédant à la vente.
+Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un professionnel responsable du
+paiement du droit de suite en application de l'article R. 122-8 : 
+
+1° De ne pas verser le droit de suite au bénéficiaire qui en fait la demande conformément au I de l'article R. 122-9 ; 
+
+2° De ne pas aviser l'une des sociétés de perception et de répartition des droits conformément aux dispositions du premier
+alinéa du II de l'article R. 122-9 ; 
+
+3° De ne pas communiquer au bénéficiaire du droit de suite les informations prévues au I de l'article R. 122-10.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 2
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 3
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-1391 du 19 décembre 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R122-10 (V)
+	  - Code de la propriété intellectuelle - art. R122-8 (V)
+	  - Code de la propriété intellectuelle - art. R122-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la propriété intellectuelle - art. R122-11 (M)
+
+
+##### Section 3 : Exception en faveur de personnes atteintes d'un handicap
+
+##### Sous-section 1 : Dispositions relatives aux personnes bénéficiaires de l'exception
+
+
+
+###### Article R122-13
+
+Les personnes atteintes d'un handicap mentionnées au 7° de l'article L. 122-5 sont celles dont le taux d'incapacité, apprécié
+en application du guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées figurant à l'annexe
+2-4 du code de l'action sociale et des familles, est égal ou supérieur à 80 % ainsi que celles titulaires d'une pension
+d'invalidité au titre du 3° de l'article L. 341-4 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°97-1316 du 23 décembre 1997 - art. 1 () JORF 31 décembre 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-1391 du 19 décembre 2008 - art. 3
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L122-5 (M)
+	  - Code de la propriété intellectuelle - art. L122-5
+	  - Code de la sécurité sociale. - art. L341-4
+	  - Code de l'action sociale et des familles - art. Annexe 2-4
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R122-1 (V)
+	  - Code de la propriété intellectuelle - art. R122-17 (M)
+	  - Code de la propriété intellectuelle - art. R122-18 (M)
+	  - Code de la propriété intellectuelle - art. R211-1 (V)
+	  - Code de la propriété intellectuelle - art. R341-1 (V)
 
-	**Codifié par**:
 
-	  - Décret n°95-385 1955-04-10
+###### Article R122-14
+
+Le certificat médical attestant qu'une personne est atteinte d'une incapacité de lire après correction est délivré par un
+médecin ophtalmologiste autorisé à exercer la profession de médecin dans les conditions prévues aux articles L. 4111-1 et L.
+4111-2 du code de la santé publique. Le certificat médical est valable pendant une durée de cinq ans. Il est délivré à titre
+définitif s'il s'avère que le handicap est irrémédiable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L4111-1
+
+
+##### Sous-section 2 : Dispositions relatives au contrôle exercé par l'autorité administrative
+
+
+
+
+###### Article R122-15
+
+La liste des personnes morales et des établissements ouverts au public mentionnés au premier alinéa du 7° de l'article L.
+122-5 est arrêtée, en application de ce même alinéa, sur proposition de la commission prévue à l'article R. 122-16, par le
+ministre chargé de la culture et le ministre chargé des personnes handicapées. 
+
+Cette liste indique parmi ces personnes morales et ces établissements ceux qui, en application du troisième alinéa du 7° de
+l'article L. 122-5, sont habilités à demander que soient mis à leur disposition les fichiers numériques ayant servi à
+l'édition d'œuvres imprimées. 
+
+Elle est publiée au Journal officiel de la République française. 
+
+La radiation de la liste ou la privation de la possibilité d'avoir accès aux fichiers numériques est prononcée par arrêté
+conjoint du ministre chargé de la culture et du ministre chargé des personnes handicapées soit à la demande des personnes
+morales et des établissements inscrits, soit, sous réserve que ceux-ci aient été à même de présenter leurs observations dans
+un délai de deux mois à compter de la mise en demeure de régulariser adressée par l'autorité administrative, lorsqu'ils ne
+remplissent plus les conditions auxquelles est subordonnée l'inscription.
+
+L'arrêté est publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R122-13 (V)
+	  - Code de la propriété intellectuelle - art. R122-14 (V)
+	  - Code de la propriété intellectuelle - art. R122-16 (M)
+	  - Code de la propriété intellectuelle - art. R122-18 (M)
+
+
+###### Article R122-16
+
+I.-Il est institué auprès du ministre chargé de la culture et du ministre chargé des personnes handicapées une commission qui
+comprend dix membres nommés par arrêté conjoint de ces ministres pour une période de quatre ans :
+
+- cinq membres représentant des organisations nationales représentatives de personnes atteintes d'un handicap et de leurs
+familles ;
+
+- cinq membres représentant les titulaires de droits. 
+
+II.-Les attributions de cette commission sont les suivantes : 
+
+a) Instruire les demandes déposées par les personnes morales et les établissements mentionnés au premier alinéa du 7° de
+l'article L. 122-5 en vue d'une inscription sur la liste arrêtée dans les conditions définies à l'article R. 122-15 ; 
+
+b) Etablir un projet de liste à l'intention du ministre chargé de la culture et du ministre chargé des personnes
+handicapées ; 
+
+c) Veiller à ce que les activités des personnes morales et des établissements inscrits sur la liste s'exercent dans le strict
+respect des dispositions du 7° de l'article L. 122-5. A cette fin, ces personnes morales et ces établissements lui
+communiquent un rapport d'activité annuel ainsi que toute information qui lui paraît utile ; 
+
+d) Avertir le ministre chargé de la culture et le ministre chargé des personnes handicapées en cas d'inobservation des
+dispositions du 7° de l'article L. 122-5 par une personne morale ou un établissement inscrit sur la liste. 
+
+III.-Le président de la commission est élu par les membres pour une durée d'un an, alternativement parmi les représentants
+des organisations représentatives de personnes atteintes d'un handicap et parmi les représentants des titulaires de droits. 
+
+Les décisions de la commission sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est
+prépondérante. 
+
+Un représentant de l'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 participe aux travaux de
+la commission avec voix consultative. 
+
+La commission peut entendre toute personne qualifiée afin d'éclairer ses travaux. 
+
+La commission adopte un règlement intérieur. 
+
+Les membres de la commission exercent leurs fonctions à titre gratuit. 
+
+Leurs frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation applicable aux
+fonctionnaires de l'Etat. 
+
+Le secrétariat de la commission est assuré conjointement par le ministre chargé de la culture et le ministre chargé des
+personnes handicapées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R122-15 (M)
+	  - Code de la propriété intellectuelle - art. R211-1 (V)
+
+
+##### Sous-section 3 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception
+
+###### Article R122-17
+
+I.-Pour être inscrit sur la liste prévue à l'article R. 122-15, la personne morale ou l'établissement doit à l'appui de sa
+demande adressée à la commission par lettre recommandée avec demande d'avis de réception : 
+
+1° Donner toute information relative à son organisation, son fonctionnement, ses comptes financiers, ses conditions
+d'installation et d'équipement ainsi que, le cas échéant, à ses statuts ; 
+
+2° Indiquer le nombre et la qualité de ses adhérents ou de ses usagers et justifier que ceux-ci entrent dans la catégorie des
+personnes mentionnées aux articles R. 122-13 et R. 122-14 ; 
+
+3° Apporter la preuve de son activité de conception, de réalisation et de communication de supports au bénéfice de ces
+personnes en communiquant les éléments suivants :
+
+- la composition de son catalogue d'œuvres disponibles sur des supports répondant à leurs besoins, en distinguant les types
+d'adaptation ;
+
+- les moyens humains et matériels disponibles pour assurer la communication et, le cas échéant, la conception et la
+réalisation des supports ;
+
+- les conditions d'accès et d'utilisation de ses collections ;
+
+- un bilan annuel des services rendus et, le cas échéant, des œuvres rendues accessibles permettant d'apprécier l'effectivité
+de son activité au bénéfice des personnes mentionnées aux articles R. 122-13 et R. 122-14 ; 
+
+4° Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au premier alinéa
+du 7° de l'article L. 122-5. 
+
+II.-Pour être inscrit sur la même liste au titre des personnes morales et des établissements habilités à demander l'accès aux
+fichiers numériques ayant servi à l'édition d'œuvres imprimées, la personne morale ou l'établissement doit en outre à l'appui
+de sa demande : 
+
+1° Donner toute information relative aux conditions de conservation et de sécurisation des fichiers numériques transmis dans
+un format ouvert par l'organisme dépositaire ; 
+
+2° Donner toute information relative aux conditions d'adaptation de ces fichiers aux besoins de lecture des personnes
+mentionnées aux articles R. 122-13 et R. 122-14 ; 
+
+3° Apporter la preuve de la sécurisation de ces fichiers adaptés ou non, en vue de leur transmission ; 
+
+4° Apporter la preuve de la sécurisation et de la confidentialité de la transmission de ces fichiers aux personnes
+mentionnées aux articles R. 122-13 et R. 122-14. 
+
+III.-La validité de l'inscription sur la liste est de cinq ans à compter de la date de sa publication au Journal officiel de
+la République française. Toute nouvelle demande est présentée dans les formes et les conditions prévues au présent article. 
+
+IV.-Les personnes morales et les établissements inscrits sur la liste communiquent à la commission toute modification
+concernant les renseignements qu'ils ont fournis à l'appui de leur demande.
+
+**Nota:**
+
+Décret n° 2008-1391 du 19 décembre 2008 art. 9 : les dispositions du II de l'article R122-17 entrent en vigueur le premier
+jour du douzième mois qui suit la publication du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 9 (V)
+	  - Code de la propriété intellectuelle - art. R122-16 (V)
+	  - Code de la propriété intellectuelle - art. R122-17 (M)
+	  - Code de la propriété intellectuelle - art. R211-1 (V)
+	  - Code de la propriété intellectuelle - art. R331-56 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5
+	  - Code de la propriété intellectuelle - art. R122-13
+
+
+###### Article R122-18
+
+Les personnes morales et les établissements inscrits sur la liste mentionnée à l'article R. 122-15 qui demandent un fichier
+numérique ayant servi à l'édition d'une œuvre imprimée ne peuvent communiquer le fichier transmis par l'organisme dépositaire
+qu'aux personnes atteintes d'un handicap au sens des articles R. 122-13 et R. 122-14, pour lesquelles l'accès à ces fichiers
+conditionne la lecture des ouvrages.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R122-13
+	  - Code de la propriété intellectuelle - art. R122-15
 
 
 ### Titre III : Exploitation des droits
@@ -20542,6 +20682,26 @@ révisable tous les trois ans à partir d'estimations chiffrées relatives au d�
 ## Livre II : Les droits voisins du droit d'auteur
 
 ### Titre unique
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R211-1
+
+L'exception prévue au 6° de l'article L. 211-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-16 et
+aux I, III et IV de l'article R. 122-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L211-3
+	  - Code de la propriété intellectuelle - art. R122-13
+	  - Code de la propriété intellectuelle - art. R122-17
+
 
 #### Chapitre II : Droits des artistes-interprètes
 
@@ -26005,6 +26165,24 @@ des fins de sécurité informatique ou à des fins de recherche scientifique en 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L331-22 (V)
+
+
+### Titre IV : Droits des producteurs de bases de données
+
+###### Article R341-1
+
+L'exception prévue au 3° de l'article L. 342-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-21.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 8
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L342-3
+	  - Code de la propriété intellectuelle - art. R122-13
 
 
 ### Chapitre III : Procédures et sanctions
