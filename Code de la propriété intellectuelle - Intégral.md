@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2008-12-25
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -26825,21 +26825,23 @@ procédures et formalités suivantes :
 
 1° Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : 
 
-Dépôt ; 
+- dépôt ; 
 
-Rapport de recherche ou rapport de recherche complémentaire ; 
+- rapport de recherche ou rapport de recherche complémentaire ; 
 
-Revendication supplémentaire à partir de la onzième ; 
+- revendication supplémentaire à partir de la onzième ; 
 
-Requête en rectification d'erreurs ; 
+- requête en rectification d'erreurs ; 
 
-Requête en poursuite de la procédure ; 
+- requête en poursuite de la procédure ; 
 
-Délivrance et impression du fascicule ; 
+- requête en limitation ; 
 
-Maintien en vigueur ; 
+- délivrance et impression du fascicule ; 
 
-Recours en restauration ; 
+- maintien en vigueur ; 
+
+- recours en restauration.
 
 2° Pour les brevets européens :
 
@@ -26955,7 +26957,7 @@ d'établissement du rapport de recherche n'a pas été engagée.
 
 	**Modifié par**:
 
-	  - Décret n°2008-625 du 27 juin 2008 - art. 2
+	  - Décret n°2008-1471 du 30 décembre 2008 - art. 2
 
 
 ###### Article R411-18
@@ -32490,31 +32492,15 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour
 ouvrable suivant.
 
-Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété
-industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont
-ouvertes.
-
-La liste des jours mentionnés à l'alinéa précédent est établie chaque année par le directeur général de l'Institut national
-de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-792 1992-08-13 art. 21
 	  - Décret n°92-792 du 13 août 1992 - art. 21 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 29 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 21
 
 
 ###### Article R514-3
@@ -34108,34 +34094,30 @@ sont revêtus d'une mention faisant apparaître le changement de propriétaire d
 ###### Article R611-19
 
 La procédure de délivrance du brevet est suspendue à la requête écrite de toute personne qui apporte la justification qu'elle
-a intenté auprès du tribunal de grande instance une action en revendication de la propriété de la demande de brevet.
+a intenté auprès du tribunal de grande instance une action en revendication de la propriété de la demande de brevet. 
 
-La suspension de la procédure prend effet du jour où la justification est apportée et s'applique notamment au délai prévu au
-premier alinéa de l'article L. 612-15 ; toutefois, elle ne fait pas obstacle à l'application de l'article R. 612-39.
+La suspension de la procédure prend effet du jour où la justification est apportée ; toutefois, elle ne fait pas obstacle à
+l'application de l'article R. 612-39.
 
 La procédure de délivrance du brevet est reprise dès que la décision du tribunal est passée en force de chose jugée ; elle
 peut également être reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication de
-propriété de la demande de brevet ; ce consentement est irrévocable.
+propriété de la demande de brevet ; ce consentement est irrévocable. 
 
 La suspension et la reprise de la procédure sont inscrites au Registre national des brevets.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 64 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 2
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-39 (M)
+	  - Code de la propriété intellectuelle - art. R612-39
 
 
 ###### Article R611-20
@@ -34329,21 +34311,13 @@ La demande de brevet doit, dans le mois à compter de la remise des pièces, êt
 
 1° De la redevance de dépôt ;
 
-2° De la redevance de rapport de recherche, à moins que l'établissement de ce dernier n'ait été différé.
+2° De la redevance de rapport de recherche.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°79-822 du 19 septembre 1979 - art. 3 (M)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 3
 
 	**Cité par**:
 
@@ -34412,31 +34386,37 @@ pas la signature du demandeur ou de son mandataire.
 ###### Article R612-8
 
 Le bénéfice de la date de dépôt de la demande de brevet est acquis à la date de la remise d'au moins un exemplaire des pièces
-énumérées à l'article L. 612-2, rédigées en langue française, sauf exception prévue à l'article R. 612-21. Le bénéfice de la
-date de dépôt est acquis même si ces pièces sont irrégulières en la forme.
+énumérées à l'article L. 612-2, rédigées en langue française, sous réserve des dispositions de l'article R. 612-21.
 
 Lorsque l'une des pièces mentionnées à l'alinéa précédent fait défaut, invitation est faite au demandeur d'avoir à compléter
-la demande de brevet dans le délai d'un mois.
+la demande de brevet dans le délai de deux mois. 
 
 Si le demandeur défère à cette invitation, la date de dépôt est celle à laquelle la demande a été complétée ; cette date est
 notifiée au demandeur. Dans le cas contraire, la demande est déclarée irrecevable ; les pièces remises sont renvoyées au
-demandeur et les redevances éventuellement acquittées lui sont remboursées.
+demandeur et les redevances éventuellement acquittées lui sont remboursées. 
+
+Un renvoi à une demande déposée antérieurement effectué conformément au c de l'article L. 612-2 doit indiquer la date de
+dépôt, le numéro de cette demande et l'office auprès duquel elle a été déposée. Un tel renvoi doit préciser qu'il remplace la
+description et, le cas échéant, les dessins. 
+
+Si la demande contient un renvoi conformément à l'alinéa précédent, une copie de la demande déposée antérieurement,
+accompagnée, le cas échéant, de sa traduction en langue française doit être produite dans un délai de deux mois à compter du
+dépôt de la demande.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 6 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 6 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L612-2 (V)
-	  - Code de la propriété intellectuelle - art. R612-21 (V)
+	  - Code de la propriété intellectuelle - art. L612-2
+	  - Code de la propriété intellectuelle - art. R612-21
 
 	**Cité par**:
 
@@ -34444,36 +34424,46 @@ demandeur et les redevances éventuellement acquittées lui sont remboursées.
 	  - Code de la propriété intellectuelle - art. R612-46 (V)
 	  - Code de la propriété intellectuelle - art. R618-2 (V)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 
 ###### Article R612-9
 
-Si les dessins sont remis après la date de dépôt visée à l'article précédent, le demandeur est informé que les dessins et les
-références faites aux dessins dans la demande de brevet sont supprimés à moins qu'il ne présente, dans le délai d'un mois,
-une requête tendant à l'obtention d'un brevet prenant date au jour de la remise des dessins.
+1. S'il est constaté que des parties de la description, ou des dessins auxquels il est fait référence dans la description ou
+les revendications, ne semblent pas figurer dans la demande, le demandeur est invité à produire les parties manquantes dans
+le délai de deux mois. 
 
-Si les dessins n'ont pas été remis, le demandeur est invité à réparer l'omission dans un délai d'un mois ; il est informé que
-la demande de brevet prendra date au jour de la remise des dessins et qu'à défaut les références faites à ces derniers sont
-supprimées.
+2. Si les parties manquantes de la description ou les dessins manquants sont remis dans le délai de deux mois après la date
+de dépôt ou, lorsqu'une invitation est émise conformément au paragraphe 1, dans le délai de deux mois à compter de cette
+invitation, le demandeur est informé que la date de dépôt de la demande est celle à laquelle les parties manquantes de la
+description ou les dessins manquants ont été déposés, à moins que les parties manquantes de la description ou les dessins
+manquants ne soient retirés dans un délai d'un mois à compter de la date de leur dépôt. 
+
+3. Si les parties manquantes de la description ou les dessins manquants sont remis dans le délai prévu au 2°, et si la
+demande revendique la priorité d'une demande antérieure, la date de dépôt reste la date à laquelle il a été satisfait aux
+exigences de l'article L. 612-2, sous réserve que les parties manquantes de la description ou les dessins manquants figurent
+intégralement dans la demande antérieure et que, dans le délai prévu au 2°, le demandeur en fasse la demande et produise une
+copie de la demande antérieure, à moins qu'une telle copie ne soit à la disposition de l'Institut national de la propriété
+industrielle ainsi que, le cas échéant, une traduction en langue française. Le demandeur doit alors indiquer l'endroit où les
+parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et, le cas
+échéant, dans la traduction de celle-ci. 
+
+4. Si le demandeur ne dépose pas les parties manquantes de la description ou les dessins manquants dans les délais prévus aux
+1° et 2°, toute référence faite à ces parties de la description ou ces dessins est supprimée. 
 
 Le cas échéant, la nouvelle date de dépôt est notifiée au demandeur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 7 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L612-2
 
 	**Cité par**:
 
@@ -34521,47 +34511,35 @@ ou de son mandataire ;
 
 ###### Article R612-11
 
-La requête en délivrance est complétée, le cas échéant, par les indications relatives :
+La requête en délivrance est complétée, le cas échéant, par les indications relatives : 
 
-1° A l'établissement différé du rapport de recherche ;
+1° A la réduction du taux des redevances accordée au demandeur ou requise par lui ; 
 
-2° Aux facilités demandées pour le paiement de la redevance d'établissement de ce rapport ;
+2° Aux dépôts antérieurs dont les éléments ont été éventuellement repris ; 
 
-3° A la réduction du taux des redevances accordée au demandeur ou requise par lui ;
+3° Aux priorités revendiquées ; 
 
-4° Aux dépôts antérieurs dont les éléments ont été éventuellement repris ;
+4° A la présentation de l'invention dans une exposition officielle ou officiellement reconnue. 
 
-5° Aux priorités revendiquées ;
-
-6° A la présentation de l'invention dans une exposition officielle ou officiellement reconnue.
-
-En cas de non-respect des dispositions prévues à l'article R. 612-10 (3°), invitation est notifiée au demandeur d'avoir à
+En cas de non-respect des dispositions prévues au 3° de l'article R. 612-10, invitation est notifiée au demandeur d'avoir à
 régulariser sa demande dans un délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne dont
 bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la date de priorité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°79-822 1979-09-19 art. 8 alinéa 4 à 7
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 6
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-10 (V)
+	  - Code de la propriété intellectuelle - art. R612-10
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R612-35 (V)
 	  - Code de la propriété intellectuelle - art. R612-45 (V)
 	  - Code de la propriété intellectuelle - art. R618-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2007-280 du 1 mars 2007 - art. 10 () JORF 3 mars 2007
 
 
 ###### Article R612-12
@@ -34896,21 +34874,10 @@ postérieurement à cette mention, immédiatement après qu'il a été mis en fo
 
 ###### Article R612-21
 
-Peuvent être rédigées en langue étrangère les descriptions et revendications contenues dans des demandes déposées :
+Les descriptions et revendications contenues dans les demandes déposées peuvent être rédigées en langue étrangère.
 
-Soit par des personnes physiques ou morales étrangères, à condition que le pays dont ces personnes sont ressortissantes
-accorde un traitement équivalent aux ressortissants français ;
-
-Soit par des personnes physiques ou morales cessionnaires d'une demande déposée à l'étranger ou d'un droit de priorité sur
-une telle demande, à la condition que le pays dans lequel la demande initiale a été déposée accorde aux ressortissants
-français un traitement équivalent.
-
-S'il est usé de cette faculté, une traduction des pièces est fournie par le demandeur dans le délai de trois mois à compter
-de la date de dépôt de la demande de brevet.
-
-La liste des pays considérés comme accordant un traitement équivalent ainsi que la langue nationale ou l'une de celles des
-langues nationales dans laquelle les ressortissants de ces pays peuvent faire le dépôt sont arrêtées par le ministre des
-affaires étrangères et le ministre chargé de la propriété industrielle.
+S'il est usé de cette faculté, le demandeur est invité à fournir une traduction en langue française des pièces dans le délai
+de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -34918,19 +34885,15 @@ affaires étrangères et le ministre chargé de la propriété industrielle.
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 14 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 7
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R612-45 (V)
 	  - Code de la propriété intellectuelle - art. R612-71 (V)
 	  - Code de la propriété intellectuelle - art. R612-8 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-22
@@ -34965,46 +34928,51 @@ revêtues d'une mention d'authenticité par l'autorité susvisée.
 
 ###### Article R612-24
 
-La déclaration de priorité prévue à l'article L. 612-7, paragraphe 1, comporte la date du dépôt antérieur, l'Etat dans lequel
-ou pour lequel il a été effectué, ainsi que le numéro qui lui a été attribué.
+La déclaration de priorité prévue au 1 de l'article L. 612-7 comporte la date du dépôt antérieur, l'Etat dans lequel ou pour
+lequel il a été effectué, ainsi que le numéro qui lui a été attribué. 
 
-La date et l'état du dépôt antérieur sont indiqués lors du dépôt de la demande de brevet, le numéro de dépôt avant
-l'expiration du seizième mois suivant la date de priorité.
+La déclaration de priorité doit être effectuée lors du dépôt de la demande de brevet ou dans le délai de seize mois à compter
+de la date de priorité la plus ancienne revendiquée. 
 
-La copie de la demande antérieure prévue à l'article L. 612-7, paragraphe 1, est produite avant l'expiration du seizième mois
-suivant la date de priorité, accompagnée, le cas échéant, de l'autorisation de revendiquer la priorité donnée par écrit par
-le propriétaire de la demande antérieure.
+Le demandeur peut corriger la déclaration de priorité dans un délai de seize mois à compter de la date de priorité la plus
+ancienne ou, dans le cas où la correction entraîne une modification de la date de priorité la plus ancienne, dans un délai de
+seize mois à compter de la date de priorité la plus ancienne corrigée, le délai de seize mois qui expire en premier devant
+être appliqué, étant entendu que la correction peut être demandée jusqu'à l'expiration d'un délai de quatre mois à compter de
+la date de dépôt attribuée à la demande de brevet. 
 
-Elle est certifiée conforme par l'autorité qui a reçu la demande antérieure et accompagnée d'une attestation de cette
-autorité indiquant sa date de dépôt.
+Toutefois, une déclaration de priorité ne peut être effectuée ou corrigée après qu'une requête a été présentée en vertu du 1°
+de l'article L. 612-21. 
+
+Conformément au 1 de l'article L. 612-7, le demandeur doit produire, afin de justifier de l'existence de la demande
+antérieure, une copie de celle-ci avant l'expiration du seizième mois suivant la date de priorité, accompagnée, le cas
+échéant, de l'autorisation de revendiquer la priorité donnée par écrit par le propriétaire de la demande antérieure. 
 
 En cas de non-respect des dispositions prévues aux paragraphes précédents, la revendication du droit de priorité est déclarée
-irrecevable.
+irrecevable. 
 
 Si la date du dépôt antérieur indiquée précède de plus d'un an la date de dépôt de la demande de brevet, notification est
-faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai d'un mois il n'indique une date
-rectifiée qui se situe dans le délai de priorité.
+faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai visé aux deuxième et troisième alinéas,
+il n'indique une date rectifiée qui se situe dans le délai de priorité ou qu'il ne présente un recours en restauration
+conformément à l'article L. 612-16-1. 
 
 Les indications contenues dans la déclaration de priorité sont mentionnées dans la demande de brevet publiée et portées sur
 le fascicule du brevet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 17 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 8
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L612-7 (V)
+	  - Code de la propriété intellectuelle - art. L612-16-1
+	  - Code de la propriété intellectuelle - art. L612-21
+	  - Code de la propriété intellectuelle - art. L612-7
 
 
 ###### Article R612-25
@@ -35739,12 +35707,13 @@ peut à tout moment obtenir à ses frais une copie officielle des documents de s
 
 ###### Article R612-45
 
-La demande de brevet est rejetée si :
+La demande de brevet est rejetée si : 
 
-1° Elle n'a pas été complétée dans les délais prévus aux articles R. 612-11 (2e alinéa), R. 612-21 et R. 612-35 (4e alinéa) ;
+1° Elle n'a pas été complétée dans les délais prévus aux articles R. 612-8 (cinquième alinéa), R. 612-11 (sixième alinéa), R.
+612-21 et R. 612-35 (sixième alinéa) ; 
 
 2° Les redevances de dépôt et de rapport de recherche visées à l'article R. 612-5 n'ont pas été acquittées dans le délai
-prescrit.
+prescrit. 
 
 La décision de rejet est notifiée au demandeur qui dispose d'un délai de deux mois à compter de la date de réception de la
 notification pour présenter des observations ou payer les redevances exigibles visées au 2° du présent article en acquittant
@@ -35755,27 +35724,23 @@ délai prescrit, ni contesté l'irrégularité ou le défaut de paiement ni acqu
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 33 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 33 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 9
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-11 (M)
-	  - Code de la propriété intellectuelle - art. R612-21 (V)
-	  - Code de la propriété intellectuelle - art. R612-35 (M)
-	  - Code de la propriété intellectuelle - art. R612-5 (V)
+	  - Code de la propriété intellectuelle - art. R612-11
+	  - Code de la propriété intellectuelle - art. R612-21
+	  - Code de la propriété intellectuelle - art. R612-35
+	  - Code de la propriété intellectuelle - art. R612-5
+	  - Code de la propriété intellectuelle - art. R612-8
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R612-46 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-46
@@ -35925,10 +35890,10 @@ l'irrégularité.
 
 ###### Article R612-50
 
-En cas de non-conformité partielle de la description ou des dessins aux dispositions de l'article L. 611-17 (a) ou L. 612-1,
-notification en est faite au demandeur.
+En cas de non-conformité partielle de la description ou des dessins aux dispositions des articles L. 611-17, L. 611-18, L.
+611-19 (4°) ou L. 612-1, notification en est faite au demandeur. 
 
-La notification précise les suppressions envisagées ainsi que le délai imparti au demandeur pour présenter des observations.
+La notification précise les suppressions envisagées ainsi que le délai imparti au demandeur pour présenter des observations. 
 
 Si le demandeur n'a pas présenté d'observations dans le délai imparti ou si ces observations ne sont pas retenues, les
 suppressions sont effectuées d'office.
@@ -35939,17 +35904,14 @@ suppressions sont effectuées d'office.
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 38 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 10
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L611-17 (M)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. L611-17 (V)
+	  - Code de la propriété intellectuelle - art. L612-1
 
 
 ###### Article R612-51
@@ -36012,152 +35974,24 @@ est accompagnée du paiement de la redevance exigible.
 
 ##### Sous-section 5 : Etablissement du rapport de recherche
 
-###### Article R612-53
-
-La procédure d'établissement du rapport de recherche ne peut être différée, conformément aux dispositions de l'article L.
-612-15, que si la requête en est présentée au moment du dépôt de la demande. Le paiement de la redevance de rapport de
-recherche vaut renonciation à cette requête.
-
-Lorsqu'une demande de brevet bénéficie de plusieurs dates conformément aux dispositions de l'article L. 612-3, le délai de
-dix-huit mois pendant lequel l'établissement du rapport de recherche peut être différé court à compter de la date la plus
-ancienne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°79-822 du 19 septembre 1979 - art. 40 (M)
-	  - Décret n°79-822 du 19 septembre 1979 - art. 40 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 11
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-15
-	  - Code de la propriété intellectuelle - art. L612-3
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R616-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-
-###### Article R612-54
-
-La requête présentée par tout tiers et tendant à engager la procédure d'établissement du rapport de recherche est formulée
-par écrit. Elle n'est recevable que si elle est accompagnée de la justification du paiement de la redevance prescrite.
-
-Dès que la requête a été reçue, notification en est faite au demandeur. Si, dans le délai de trois mois à compter de la date
-de réception de cette notification, le demandeur a effectué le retrait de la demande de brevet ou sa transformation en
-demande de certificat d'utilité conformément aux dispositions de l'article R. 612-55, la procédure d'établissement du rapport
-de recherche n'est pas engagée et la redevance prescrite est remboursée à la personne qui a présenté la requête mentionnée au
-premier alinéa.
-
-A l'expiration du délai fixé à l'alinéa précédent, la procédure d'établissement du rapport de recherche est engagée. Dès que
-le rapport de recherche préliminaire prévu à l'article R. 612-57 est établi, il est notifié au tiers requérant en même temps
-qu'au demandeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°79-822 du 19 septembre 1979 - art. 41 (M)
-	  - Décret n°79-822 du 19 septembre 1979 - art. 41 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 11
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R612-55 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R612-57
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-
 ###### Article R612-55
 
 La requête en transformation de la demande de brevet en demande de certificat d'utilité est formulée par écrit à tout moment
-pendant le délai fixé à l'article L. 612-15, même si le demandeur n'a pas requis le bénéfice des dispositions de cet article
-ou si un tiers a requis l'application de l'article R. 612-54.
+pendant le délai de dix-huit mois à compter du dépôt ou de la date de priorité si une priorité a été revendiquée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 42 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 42 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-15 (V)
-	  - Code de la propriété intellectuelle - art. R612-54 (V)
-
-
-###### Article R612-56
-
-La transformation d'office prévue au deuxième alinéa de l'article L. 612-15 est notifiée au demandeur, qui dispose d'un délai
-de deux mois à compter de la date de réception de la notification pour présenter des observations ou requérir l'établissement
-du rapport de recherche en acquittant la redevance prescrite majorée du supplément pour requête tardive.
-
-En cas d'absence d'observations dans le délai, la transformation d'office est maintenue.
-
-Si les observations présentées ne sont pas retenues ou si le rapport de recherche n'a pas été valablement requis, la
-transformation d'office est confirmée et une nouvelle notification motivée est adressée au demandeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°79-822 du 19 septembre 1979 - art. 43 (M)
-	  - Décret n°79-822 du 19 septembre 1979 - art. 43 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 11
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-15
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 12
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R618-2 (V)
+	  - Code de la propriété intellectuelle - art. R612-54 (Ab)
 
 
 ###### Article R612-56-1
@@ -37944,9 +37778,10 @@ nationale et, si besoin est, devant ses représentants.
 
 Les notifications et communications au propriétaire du brevet ou de la demande de brevet prévues par les dispositions des
 articles R. 613-10 à R. 613-42 sont valablement faites à l'adresse indiquée dans la demande de brevet ou à la dernière
-adresse que le propriétaire du brevet a notifiée à l'administration, soit à celle de son représentant en France. Est
-considéré comme tel le mandataire désigné par le demandeur du brevet au moment du dépôt de sa demande, à moins que la
-désignation d'un autre mandataire n'ait été notifiée à l'administration.
+adresse que le propriétaire du brevet a notifiée à l'administration, soit à celle de son représentant ayant son domicile, son
+siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace
+économique européen. Est considéré comme tel le mandataire désigné par le demandeur du brevet au moment du dépôt de sa
+demande, à moins que la désignation d'un autre mandataire n'ait été notifiée à l'administration. 
 
 Toutes les notifications et communications adressées au propriétaire du brevet ou de la demande de brevet, à ses ayants cause
 ou aux demandeurs ou bénéficiaires de licences d'office en application des dispositions prévues aux articles R. 613-10 à R.
@@ -37954,17 +37789,13 @@ ou aux demandeurs ou bénéficiaires de licences d'office en application des dis
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 13
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle R613-10 à R613-42
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. R613-10 (V)
 
 	**Anciens textes**:
 
@@ -37999,32 +37830,45 @@ Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appl
 
 ###### Article R613-45
 
-La renonciation au brevet ou à une ou plusieurs de ses revendications est faite par une déclaration écrite.
+La requête en renonciation ou en limitation est faite par une déclaration écrite. 
 
-Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le propriétaire du brevet ou par un mandataire,
-lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir
-spécial de renonciation.
+La requête doit, pour être recevable : 
 
-Si le brevet appartient à plusieurs personnes, la renonciation ne peut être effectuée que si elle est requise par l'ensemble
-de celles-ci.
+1° Emaner du titulaire du brevet inscrit, au jour de la requête, sur le Registre national des brevets, ou de son mandataire,
+lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la requête un pouvoir spécial
+de renonciation ou de limitation. 
 
-Si des droits réels, de gage ou de licence, ont été inscrits au Registre national des brevets, la déclaration de renonciation
-n'est recevable que si elle est accompagnée du consentement des titulaires de ces droits.
+Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation ne peut être effectuée que si elle est
+requise par l'ensemble de celles-ci ; 
 
-La renonciation est inscrite au Registre national des brevets. Elle prend effet à la date de cette inscription.
+2° Etre accompagnée de la justification du paiement de la redevance prescrite ; 
 
-Un avis d'inscription est adressé à l'auteur de la renonciation.
+3° Ne viser qu'un seul brevet ; 
+
+4° Etre accompagnée, si des droits réels, de gage ou de licence ont été inscrits au Registre national des brevets, du
+consentement des titulaires de ces droits ; 
+
+5° Etre accompagnée, lorsque la limitation est requise, du texte complet des revendications modifiées et, le cas échéant, de
+la description et des dessins tels que modifiés. 
+
+Si, lorsque la limitation est demandée, les revendications modifiées ne constituent pas une limitation par rapport aux
+revendications antérieures du brevet ou si elles ne sont pas conformes aux dispositions de l'article L. 612-6, notification
+motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa requête ou présenter des observations. A
+défaut de régularisation ou d'observations permettant de lever l'objection, la requête est rejetée par décision du directeur
+général de l'Institut national de la propriété industrielle. 
+
+Les renonciations et limitations sont inscrites au Registre national des brevets. Un avis d'inscription est adressé à
+l'auteur de la renonciation ou de la limitation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 69 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 69 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
+	  - Décret n°2008-1471 du 30 décembre 2008 - art. 3
 
 	**Cité par**:
 
@@ -38033,9 +37877,9 @@ Un avis d'inscription est adressé à l'auteur de la renonciation.
 	  - Code de la propriété intellectuelle - art. R617-2 (V)
 	  - Code de la propriété intellectuelle - art. R622-6 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. L612-6 (V)
 
 
 ###### Article R613-46
@@ -38148,34 +37992,34 @@ pas une cause de restauration des droits du propriétaire du brevet.
 
 ###### Article R613-49
 
-La requête prévue à l'article L. 613-22-1, tendant à la constatation de la déchéance des droits attachés à une demande de
-brevet ou à un brevet, est présentée par écrit.
+La requête prévue à l'article L. 613-22, tendant à la constatation de la déchéance des droits attachés à une demande de
+brevet ou à un brevet, est présentée par écrit. 
 
 Il y est statué par décision motivée. La décision est notifiée au requérant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 72 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 14
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L613-22
 
 
 ###### Article R613-50
 
-Sont inscrites au Registre national des brevets :
+Sont inscrites au Registre national des brevets : 
 
-La mention de la décision de constatation de déchéance prévue au 1 de l'article L. 613-22 ;
+La mention de la décision de constatation de déchéance prévue à l'article L. 613-22 ; 
 
 Les requêtes introductives des recours en restauration, des recours contre les décisions du directeur de l'institut et des
-pourvois en cassation, ainsi que les décisions rendues.
+pourvois en cassation, ainsi que les décisions rendues. 
 
 La décision qui restaure le breveté dans ses droits est sans effet si les redevances échues ne sont pas acquittées dans un
 délai de trois mois à compter de l'inscription de la décision au Registre national des brevets. Mention de la date du
@@ -38183,26 +38027,17 @@ paiement est portée au registre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L613-22 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 73 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 73 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 46 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 15
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L613-22
 
 
 ###### Article R613-51
@@ -38241,13 +38076,13 @@ prévue à l'alinéa premier dudit article.
 
 ###### Article R613-52
 
-Les recours en restauration prévus aux articles L. 612-16 et L. 613-22 sont présentés au directeur général de l'institut par
-le titulaire du dépôt, qui doit être le titulaire inscrit au Registre national des brevets si le dépôt est publié, ou son
-mandataire.
+Les recours en restauration prévus aux articles L. 612-16 et L. 612-16-1 sont présentés au directeur général de l'institut
+par le titulaire du dépôt, qui doit être le titulaire inscrit au Registre national des brevets si le dépôt est publié, ou son
+mandataire. 
 
-Le recours n'est recevable qu'après paiement de la redevance prescrite.
+Le recours n'est recevable qu'après paiement de la redevance prescrite. 
 
-Le recours est écrit. Il indique les faits et justifications invoqués à son appui.
+Le recours est écrit. Il indique les faits et justifications invoqués à son appui. 
 
 La décision motivée est notifiée au requérant.
 
@@ -38255,16 +38090,11 @@ La décision motivée est notifiée au requérant.
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 108 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 108 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 48 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 16
 
 	**Cité par**:
 
@@ -38273,12 +38103,8 @@ La décision motivée est notifiée au requérant.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L612-16 (V)
-	  - Code de la propriété intellectuelle - art. L613-22 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. L612-16
+	  - Code de la propriété intellectuelle - art. L612-16-1
 
 
 ##### Section 5 : Registre national des brevets
@@ -40295,27 +40121,23 @@ La requête n'est recevable que si elle est accompagnée de la justification du 
 
 Les dispositions des chapitres Ier, II, III, V, VI et VIII du présent titre sont applicables aux demandes de certificat
 d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-53 à R. 612-69, du troisième alinéa de l'article R.
-612-71, des articles R. 613-1 à R. 613-3 et R. 613-60 à R. 613-62.
+612-71 et des articles R. 613-60 à R. 613-62.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 90 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 90 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 17
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-71 (M)
-	  - Code de la propriété intellectuelle R612-71, R613-1 à R613-3, R613-60 à R613-62
+	  - Code de la propriété intellectuelle - art. R612-53 (Ab)
+	  - Code de la propriété intellectuelle - art. R612-71 (V)
+	  - Code de la propriété intellectuelle - art. R613-60 (V)
 
 
 #### Chapitre VII : Le certificat complémentaire de protection
@@ -40344,38 +40166,32 @@ certificat.
 
 ###### Article R617-2
 
-Les articles R. 611-18 à R. 611-20, R. 612-1, R. 612-2, R. 612-5 (1°), R. 612-6, R. 612-7, R. 612-36, R. 612-38, R. 612-52,
-R. 612-71 (alinéas 1 et 2), R. 612-72, R. 613-1 à R. 613-3, R. 613-45 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux
-demandes de certificat complémentaire de protection et aux certificats complémentaires de protection.
+Les articles R. 611-18 à R. 611-20, R. 612-1, R. 612-2, 
+R. 612-5 (1°), R. 612-6, R. 612-7, R. 612-36, R. 612-38, R. 612-52, R. 612-71 (alinéas 1 et 2), R. 612-72, R. 613-45 à R.
+613-59 et R. 618-1 à R. 618-3 sont applicables aux demandes de certificat complémentaire de protection et aux certificats
+complémentaires de protection.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 93-9 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 93-9 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 18
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-1 (M)
-	  - Code de la propriété intellectuelle - art. R612-2 (M)
-	  - Code de la propriété intellectuelle - art. R612-36 (M)
-	  - Code de la propriété intellectuelle - art. R612-38 (M)
+	  - Code de la propriété intellectuelle - art. R611-18 (V)
+	  - Code de la propriété intellectuelle - art. R612-1 (V)
+	  - Code de la propriété intellectuelle - art. R612-36 (V)
+	  - Code de la propriété intellectuelle - art. R612-38 (V)
 	  - Code de la propriété intellectuelle - art. R612-5 (V)
 	  - Code de la propriété intellectuelle - art. R612-52 (V)
-	  - Code de la propriété intellectuelle - art. R612-6 (M)
-	  - Code de la propriété intellectuelle - art. R612-7 (M)
-	  - Code de la propriété intellectuelle - art. R612-71 (M)
-	  - Code de la propriété intellectuelle - art. R612-72 (V)
-	  - Code de la propriété intellectuelle R611-18 à R611-20, R612-1, R612-2, R612-5, R612-6, R612-7, R612-36, R612-38, R612-52, R612-71, R612-72, R613-1 à R613-3, R613-45 à R613-59, R618-1 à R618-3
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
+	  - Code de la propriété intellectuelle - art. R612-71 (V)
+	  - Code de la propriété intellectuelle - art. R613-45 (V)
+	  - Code de la propriété intellectuelle - art. R618-1 (V)
 
 
 #### Chapitre VIII : Dispositions communes
@@ -40485,30 +40301,15 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour
 ouvrable suivant.
 
-Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété
-industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont
-ouvertes.
-
-La liste des jours mentionnés à l'alinéa précédent est établie chaque année par décision du directeur général de l'Institut
-national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 122 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 61 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 21
 
 	**Cité par**:
 
@@ -42556,215 +42357,6 @@ qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteu
 	  - Décret n°95-385 1955-04-10
 
 
-#### Chapitre IV : Transferts techniques internationaux
-
-###### Article R624-1
-
-Tout contrat ou avenant de contrat ayant pour objet l'acquisition par une personne physique ou morale dont le domicile ou le
-siège est situé en France, à une personne physique ou morale dont le domicile ou le siège est situé à l'étranger, de droits
-de propriété industrielle et de tous éléments intellectuels relevant de l'acte scientifique et technique sous toutes ses
-formes, notamment le savoir-faire et l'ingénierie, est soumis à déclaration auprès de l'Institut national de la propriété
-industrielle.
-
-Tout contrat ou avenant de contrat ayant pour objet la cession, par une personne physique ou morale dont le domicile ou le
-siège est situé en France à une personne physique ou morale dont le domicile ou le siège est situé à l'étranger, de droits de
-propriété industrielle et de tous les éléments intellectuels relevant de l'aide scientifique ou technique sous toutes ses
-formes, notamment le savoir-faire et l'ingénierie, est soumis à déclaration auprès de l'Institut national de la propriété
-industrielle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R624-2 (Ab)
-	  - Code de la propriété intellectuelle - art. R624-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-
-###### Article R624-2
-
-La déclaration visée à l'article R. 624-1 doit être faite obligatoirement par le contractant dont le domicile ou le siège est
-situé en France un mois au plus tard après la conclusion du contrat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R624-1
-
-
-###### Article R624-3
-
-Pour chacun des contrats visés à l'article R. 624-1 et pour chacun de ceux conclus antérieurement au 1er juin 1970 et ayant
-l'un des objets visés à l'article R. 624-1, le contractant dont le domicile ou le siège est situé en France doit établir
-obligatoirement au début de chaque année :
-
-- d'une part, un relevé des montants des transferts financiers à l'étranger ou en provenance de l'étranger effectués au cours
-de l'année précédente en exécution du contrat ;
-
-- d'autre part, un relevé des montants des apports ou échanges portant sur des droits ou connaissances effectués par voie de
-compensation et ne donnant lieu à aucun transfert financier effectif par la voie bancaire (ou postale) vers l'étranger ou en
-provenance de l'étranger, ces montants étant, le cas échéant, évalués par le déclarant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R624-1
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R624-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-
-###### Article R624-4
-
-Les relevés annuels visés à l'article R. 624-3 doivent être adressés par le contractant dont le domicile ou le siège est
-situé en France à l'Institut national de la propriété industrielle avant le 31 mars de chaque année.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R624-3
-
-
-###### Article R624-5
-
-Les renseignements et les documents qui sont fournis à l'administration en application du présent chapitre ont, au regard des
-tiers, le caractère confidentiel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-
-###### Article R624-6
-
-Pour l'application du présent chapitre, les personnes physiques ou morales dont le domicile ou le siège est situé dans les
-territoires français d'outre-mer ou dans la Principauté de Monaco sont assimilées aux personnes physiques ou morales dont le
-domicile ou le siège est fixé en France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-
-###### Article R624-7
-
-Un arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la propriété industrielle fixe les
-modalités d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°70-441 du 26 mai 1970 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 19
-
-
 ### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques
 
 #### Chapitre unique
@@ -44747,38 +44339,26 @@ marque collective de certification.
 
 ###### Article R717-3
 
-L'institut tient à la disposition du public le bulletin La Gazette publié par l'Organisation mondiale de la propriété
-intellectuelle.
-
 Le délai de deux mois dans lequel les observations de tiers doivent être présentées en application de l'article L. 712-3
-court à partir du premier jour du mois suivant la réception du bulletin La Gazette à l'Institut national de la propriété
-industrielle.
+court à compter de la publication du bulletin La Gazette par l'Organisation mondiale de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 31 janvier 1992 - art. 5 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L712-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°92-100 du 30 janvier 1992 - art. 33 (Ab)
 
+	**Cité par**:
+
+	  - Arrêté du 31 janvier 1992 - art. 5 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 84 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 20
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L712-3 (V)
 
 
 ###### Article R717-4
@@ -44820,11 +44400,11 @@ de l'Organisation mondiale de la propriété intellectuelle.
 
 ###### Article R717-5
 
-Le délai pour former opposition, conformément à l'article L. 712-4, court à partir du premier jour du mois suivant la
-réception du bulletin La Gazette à l'Institut national de la propriété industrielle.
+Le délai pour former opposition, conformément à l'article L. 712-4, court à compter de la publication du bulletin La Gazette
+par l'Organisation mondiale de la propriété intellectuelle. 
 
 L'opposition est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de
-l'Organisation mondiale de la propriété intellectuelle.
+l'Organisation mondiale de la propriété intellectuelle. 
 
 Le titulaire de l'enregistrement international est réputé avoir reçu la notification de l'opposition dans un délai de quinze
 jours à compter de la date d'émission de cette notification par l'Institut national de la propriété industrielle.
@@ -44845,19 +44425,14 @@ jours à compter de la date d'émission de cette notification par l'Institut nat
 
 	  - TXT_SOURCE: Arrêté du 6 décembre 1995
 	  - TXT_SOURCE: Arrêté du 6 décembre 1995 - art. 1 (V)
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 84 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 20
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L712-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R717-6
@@ -45083,31 +44658,15 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour
 ouvrable suivant.
 
-Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété
-industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont
-ouvertes.
-
-La liste des jours mentionnés à l'alinéa précédent est établie chaque année par décision du directeur général de l'Institut
-national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-100 1992-01-30 art. 41
 	  - Décret n°92-100 du 30 janvier 1992 - art. 41 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 85 () JORF 3 mars 2004
+	  - Décret n°2008-1472 du 30 décembre 2008 - art. 21
 
 	**Cité par**:
 
