@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -7136,12 +7136,9 @@ condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 ###### Article L335-8
 
-Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de
-l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 du présent code encourent : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées à l'article 131-39 du même code. 
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 335-2 à L. 335-4-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise. 
@@ -7154,13 +7151,9 @@ des circuits commerciaux ou confisqués, sans préjudice de tous dommages et int
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 38 () JORF 30 octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
@@ -7176,18 +7169,14 @@ des circuits commerciaux ou confisqués, sans préjudice de tous dommages et int
 
 ###### Article L335-9
 
-En cas de récidive des délits prévus et réprimés au présent chapitre ou si le délinquant est ou a été lié par convention avec
-la partie lésée, les peines encourues sont portées au double.
+Si l'auteur de l'un des délits prévus et réprimés par le présent chapitre est ou a été lié par convention avec la partie
+lésée, les peines encourues sont portées au double.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Loi n°2006-961 du 1 août 2006 - art. 26 () JORF 3 août 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
 
 
 ###### Article L335-10
@@ -7798,12 +7787,9 @@ les conditions et sous les peines prévues à l'article 131-35 du code pénal.
 
 ###### Article L343-6
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des
-délits prévus et réprimés au présent chapitre encourent : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées à l'article 131-39 du même code. 
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code
+pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise. 
@@ -7813,13 +7799,9 @@ des circuits commerciaux ou confisqués, sans préjudice de tous dommages et int
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 40 () JORF 30 octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
@@ -9898,12 +9880,9 @@ condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 ###### Article L521-12
 
-Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, du
-délit prévu au premier alinéa de l'article L. 521-10 du présent code encourent : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées à l'article 131-39 du même code. 
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'infraction définie au premier alinéa de l'article L. 521-10 encourent, outre l'amende suivant les modalités prévues par
+l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise. 
@@ -9916,18 +9895,15 @@ des circuits commerciaux ou confisqués, sans préjudice de tous dommages et int
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 4 () JORF 30 octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L521-10 (V)
 	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
 	  - Code pénal - art. 131-39 (V)
 
 
@@ -14561,8 +14537,7 @@ au présent article aussi longtemps que ces demandes sont soumises aux interdict
 ###### Article L615-12
 
 Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 7
-500 euros. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a
-été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
+500 euros.
 
 **Liens relatifs à cet article**
 
@@ -14570,13 +14545,9 @@ Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d
 
 	  - Loi n°68-1 du 2 janvier 1968 - art. 60 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
 
 
 ###### Article L615-13
@@ -14696,38 +14667,31 @@ condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 ###### Article L615-14-3
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du
-délit prévu à l'article L. 615-14 du présent code encourent :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'infraction définie à l'article L. 615-14 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise.
+l'exercice de laquelle l'infraction a été commise. 
 
 Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
-circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
 
 La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
 des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 16 () JORF 30 octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L615-14 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la propriété intellectuelle - art. L615-14 (V)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39 (V)
 
 
 ###### Article L615-15
@@ -16485,38 +16449,31 @@ condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 ###### Article L623-32-2
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du
-délit prévu à l'article L. 623-32 du présent code encourent :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'infraction définie à l'article L. 623-32 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise.
+l'exercice de laquelle l'infraction a été commise. 
 
 Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
-circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
 
 La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
 des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 22 () JORF 30 octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L623-32 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la propriété intellectuelle - art. L623-32 (V)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
 
 
 ###### Article L623-33
@@ -16546,42 +16503,6 @@ questions relatives à la propriété dudit certificat ne peuvent être soulevé
 
 	  - Code de la propriété intellectuelle - art. R623-35 (V)
 	  - Code de la propriété intellectuelle - art. R623-37 (V)
-
-
-###### Article L623-34
-
-Quiconque se prévaut indûment de la qualité de propriétaire d'un certificat ou d'une demande de certificat d'obtention
-végétale est puni d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe
-[*sanctions pénales*]. En cas de récidive, l'amende est celle prévue par le 5° de l'article 131-13 du code pénal pour les
-contraventions de la 5e classe commises en récidive. Il y a récidive au sens du présent article lorsqu'il a été rendu contre
-le prévenu, dans les cinq années antérieures, une condamnation pour le même délit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-489 du 11 juin 1970 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Cité par**:
-
-	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
-	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 122
-
-	**Cite**:
-
-	  - Code pénal - art. 131-13
 
 
 ###### Article L623-35
@@ -18403,27 +18324,20 @@ mois d'emprisonnement et de 3 750 euros d'amende.
 
 ###### Article L716-11-2
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des
-infractions définies aux articles L. 716-9 à L. 716-11 du présent code encourent :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 716-9 à L. 716-11 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise.
+l'exercice de laquelle l'infraction a été commise. 
 
 Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des
-circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction. 
 
 La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés
 des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
 
 	**Cité par**:
 
@@ -18431,14 +18345,14 @@ des circuits commerciaux ou confisqués, sans préjudice de tous dommages et int
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle L716-9 à L716-11
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la propriété intellectuelle - art. L716-9 (V)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
 
 
 ###### Article L716-12
