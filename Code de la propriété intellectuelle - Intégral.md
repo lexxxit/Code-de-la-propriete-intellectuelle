@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2009-06-14
+Version Consolidée au 2009-06-22
 
 # Partie législative
 
@@ -5116,12 +5116,8 @@ représentant les bénéficiaires du droit à rémunération, pour un quart, de 
 représentant les fabricants ou importateurs des supports mentionnés au premier alinéa du précédent article et, pour un quart,
 de personnes désignées par les organisations représentant les consommateurs.
 
-Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à
-désigner sont déterminées par arrêté du ministre chargé de la culture.
-
-La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix
-prépondérante. Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret.
-La commission publie un rapport annuel, transmis au Parlement.
+Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret. La commission
+publie un rapport annuel, transmis au Parlement.
 
 Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde
 délibération.
@@ -5134,13 +5130,9 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 	  - Loi n°85-660 du 3 juillet 1985 - art. 34 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Loi n°2006-961 du 1 août 2006 - art. 10 () JORF 3 août 2006
+	  - Décret n°2009-744 du 19 juin 2009 - art. 2
 
 	**Cité par**:
 
@@ -5737,7 +5729,7 @@ applicables devant elle.
 	  - Code de la propriété intellectuelle - art. R325-4 (V)
 
 
-#### Titre III : Procédures et sanctions
+#### Titre III : Prévention, procédures et sanctions
 
 ##### Chapitre Ier : Dispositions générales
 
@@ -7599,20 +7591,6 @@ Communauté européenne, pour y être légalement commercialisées.
 	  - Code de la propriété intellectuelle - art. L332-1 (V)
 	  - Code des douanes - art. 59 bis (V)
 
-
-##### Chapitre VI : Prévention du téléchargement illicite.
-
-#### Titre III : Prévention, procédures et sanctions
-
-##### Chapitre Ier : Dispositions générales
-
-##### Chapitre II : Saisie-contrefaçon
-
-##### Chapitre III : Saisie-arrêt
-
-##### Chapitre IV : Droit de suite
-
-##### Chapitre V : Dispositions pénales
 
 ##### Chapitre VI : Prévention du téléchargement et de la mise à disposition illicites d'œuvres et d'objets protégés par un droit d'auteur ou un droit voisin
 
@@ -21349,7 +21327,7 @@ de la culture.
 
 #### Chapitre unique
 
-###### Article D311-1
+###### Article D311-8
 
 Les comptes rendus des séances de la commission comportent :
 
@@ -21363,27 +21341,15 @@ rémunérations soumises au vote de la commission et les éléments utilisés po
 Les comptes rendus sont approuvés par la commission à la majorité des membres présents. Ils sont publiés sur le site internet
 du ministère de la culture.
 
-**Nota:**
-
-Lire D311-8.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Créé par**:
 
-	  - Décret n°2007-873 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+	  - Décret n°2009-744 du 19 juin 2009 - art. 5
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2009-744 du 19 juin 2009 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code de la propriété intellectuelle - art. D311-8 (V)
+	  - Code de la propriété intellectuelle - art. D311-1 (T)
 
 
 ###### Article R311-1
@@ -21415,31 +21381,37 @@ acquisitions intracommunautaires de supports et, pour un quart, des représentan
 
 ###### Article R311-2
 
-Le représentant de l'Etat, président de la commission, est nommé par arrêté du ministre chargé de la culture.
+Le représentant de l'Etat, président de la commission, est nommé par arrêté conjoint des ministres chargés de la culture, de
+l'industrie et de la consommation, parmi les membres du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes. 
 
 La commission comprend en outre vingt-quatre membres représentant les catégories mentionnées au premier alinéa de l'article
-L. 311-5 et désignés dans les conditions prévues au deuxième alinéa du même article.
+L. 311-5. 
+
+Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à
+désigner sont déterminées par arrêté conjoint des ministres chargés de la culture, de l'industrie et de la consommation. 
+
+La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix
+prépondérante. 
+
+Lorsque le président fait usage de la faculté, prévue à l'article L. 311-5, de demander une seconde délibération, la décision
+est adoptée à la majorité des deux tiers des suffrages exprimés. 
 
 Un suppléant est désigné, dans les mêmes conditions, pour chacun des membres titulaires. Les membres suppléants n'assistent
 aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2009-744 du 19 juin 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L311-5 (M)
+	  - Code de la propriété intellectuelle - art. L311-5
 
 
 ###### Article R311-3
@@ -21512,19 +21484,18 @@ délibérer quel que soit le nombre des membres présents.
 Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils
 ont eu connaissance.
 
+Est déclaré démissionnaire d'office par le président tout membre qui n'a pas participé sans motif valable à trois séances
+consécutives de la commission.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 6 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2009-744 du 19 juin 2009 - art. 4
 
 
 ###### Article R311-7
