@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2009-07-24
+Version Consolidée au 2009-07-26
 
 # Partie législative
 
@@ -5875,28 +5875,12 @@ partie lésée ou à ses ayants droit.
 ###### Article L331-2
 
 Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux
-dispositions des livres Ier, II et III du présent code et de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux
-droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises
-de communication audiovisuelle peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre
-national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés
-mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions
-prévues par un décret en Conseil d'Etat.
+dispositions des livres Ier, II et III du présent code peut résulter des constatations d'agents assermentés désignés selon
+les cas par le    Centre national du cinéma et de l'image animée, par les organismes de défense professionnelle visés à
+l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre
+chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-660 du 3 juillet 1985 - art. 52 (V)
-	  - Code de la propriété intellectuelle - art. L331-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Modifié par**:
-
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 33 () JORF 30 octobre 2007
 
 	**Cité par**:
 
@@ -5909,6 +5893,15 @@ prévues par un décret en Conseil d'Etat.
 	  - Code de la propriété intellectuelle - art. R331-1 (V)
 	  - Code du cinéma et de l'image animée - art. L111-3 (V)
 	  - Code du cinéma et de l'image animée - art. L411-2 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 6
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-1
 
 
 ###### Article L331-3
@@ -5923,13 +5916,9 @@ le ministère public ou la partie lésée.
 
 	  - Loi n°85-660 du 3 juillet 1985 - art. 53 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 30 () JORF 30 octobre 2007
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
 
 	**Cite**:
 
