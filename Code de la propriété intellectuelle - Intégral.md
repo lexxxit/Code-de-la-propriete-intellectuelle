@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2009-11-01
+Version Consolidée au 2009-12-01
 
 # Partie législative
 
@@ -20987,6 +20987,84 @@ conditionne la lecture des ouvrages.
 
 	  - Code de la propriété intellectuelle - art. R122-13
 	  - Code de la propriété intellectuelle - art. R122-15
+
+
+##### Sous-section 4 : Dispositions relatives à l'organisme dépositaire des fichiers numériques ayant servi à l'édition d'œuvres imprimées
+
+###### Article D122-22
+
+L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 est la Bibliothèque nationale de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-131 du 6 février 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-253 du 27 février 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R331-56 (V)
+
+
+###### Article R122-19
+
+L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 doit remplir les conditions suivantes : 
+
+a) Exercer une activité d'organisation et de mise à disposition du public de ressources documentaires ; 
+
+b) Disposer d'une infrastructure permettant le développement, d'une part, des moyens nécessaires à la mise à disposition des
+fichiers numériques ayant servi à l'édition d'œuvres imprimées, d'autre part, des techniques de sécurisation, de stockage et
+de communication de ces fichiers ; 
+
+c) Ne pas avoir pour objet social ou statutaire la défense des droits des personnes atteintes d'un handicap ou du droit de la
+propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-5
+
+
+###### Article R122-20
+
+L'éditeur transmet à l'organisme dépositaire le fichier numérique ayant servi à l'édition d'une œuvre imprimée dans les deux
+mois de la demande qui lui en est faite par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
+
+
+###### Article R122-21
+
+L'organisme dépositaire rend compte chaque année dans un rapport au ministre chargé de la culture et au ministre chargé des
+personnes handicapées des conditions de dépôt et de mise à disposition des fichiers numériques ayant servi à l'édition
+d'œuvres imprimées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1391 du 19 décembre 2008 - art. 6
 
 
 ### Titre III : Exploitation des droits
