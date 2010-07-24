@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2010-06-27
+Version Consolidée au 2010-07-25
 
 # Partie législative
 
@@ -9393,37 +9393,34 @@ d'un autre conseil en propriété industrielle.
 
 ###### Article L422-7
 
-Lorsque la profession de conseil en propriété industrielle est exercée en société, elle peut l'être par une société civile
-professionnelle, par une société d'exercice libéral ou par une société constituée sous une autre forme. Dans ce dernier cas,
-il est nécessaire que : 
+Les professionnels inscrits sur la liste prévue à l'article L. 422-1 ou ceux établis sur le territoire d'un Etat membre de
+l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et habilités à représenter en matière de
+propriété industrielle des personnes devant le service central de propriété industrielle de leur Etat sont admis à
+constituer, pour exercer leur profession, des sociétés civiles professionnelles, des sociétés d'exercice libéral ou toute
+société constituée sous une autre forme. Dans ce dernier cas, il est nécessaire que : 
 
-a) Le président du conseil d'administration, les directeurs généraux, les membres du directoire, le directeur général unique
+1° Le président du conseil d'administration, les directeurs généraux, les membres du directoire, le directeur général unique
 et le ou les gérants ainsi que la majorité des membres du conseil d'administration ou du conseil de surveillance aient la
-qualité de conseil en propriété industrielle ; 
+qualité des personnes visées au premier alinéa ; 
 
-b) Les conseils en propriété industrielle détiennent plus de la moitié du capital social et des droits de vote ; 
+2° Les personnes visées au premier alinéa détiennent plus de la moitié du capital social et des droits de vote ; 
 
-c) L'admission de tout nouvel associé est subordonnée à l'agrément préalable, selon le cas, du conseil d'administration, du
-conseil de surveillance, du ou des gérants. 
+3° L'admission de tout nouvel associé est subordonnée à l'agrément préalable, selon le cas, du conseil d'administration, du
+conseil de surveillance ou du ou des gérants. 
 
-Les dispositions des deux premiers alinéas de l'article L. 225-21, des articles L. 225-44 et L. 225-85 du code de commerce ne
-sont applicables respectivement ni aux membres du conseil d'administration ni aux membres du conseil de surveillance des
-sociétés de conseils en propriété industrielle. 
+Les deux premiers alinéas de l'article L. 225-22 et les articles L. 225-44 et L. 225-85 du code de commerce ne sont
+applicables respectivement ni aux membres du conseil d'administration ni aux membres du conseil de surveillance des sociétés
+de conseils en propriété industrielle. 
 
 Lorsque la profession de conseil en propriété industrielle est exercée par une société, il y a lieu, outre l'inscription des
-conseils personnes physiques, à l'inscription de la société dans une section spéciale de la liste prévue à l'article L.
-422-1.
+conseils en propriété industrielle personnes physiques, à l'inscription de la société dans une section spéciale de la liste
+prévue à l'article L. 422-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-1052 1990-11-26 art. 38
 	  - Loi n°90-1052 du 26 novembre 1990 - art. 38 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
 
 	**Cité par**:
 
@@ -9441,14 +9438,13 @@ conseils personnes physiques, à l'inscription de la société dans une section 
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 66 () JORF 12 février 2004
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 39
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-21 (V)
-	  - Code de commerce. - art. L225-44 (V)
-	  - Code de commerce. - art. L225-85 (V)
-	  - Code de la propriété intellectuelle - art. L422-1 (V)
+	  - Code de commerce - art. L225-22
+	  - Code de commerce - art. L225-44
+	  - Code de la propriété intellectuelle - art. L422-1
 
 
 ###### Article L422-8
