@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2010-07-28
+Version Consolidée au 2010-08-29
 
 # Partie législative
 
@@ -21583,6 +21583,162 @@ b) Un certificat constatant qu'il n'existe pas d'inscription.
 	**Créé par**:
 
 	  - Décret n°96-103 du 2 février 1996 - art. 2 () JORF 9 février 1996
+
+
+##### Section 6 : Droit d'exploitation des œuvres des journalistes
+
+
+###### Article R132-18
+
+La commission prévue à l'article L. 132-44 comprend, outre son président, six membres titulaires désignés par les
+organisations professionnelles de presse représentatives et six membres titulaires désignés par les organisations syndicales
+de journalistes professionnels représentatives. 
+
+Un suppléant est désigné pour chacun des membres titulaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L132-44 (V)
+
+
+###### Article R132-19
+
+Le président et les membres de la commission, ainsi que les suppléants, sont nommés par arrêté du ministre chargé de la
+communication pour une période de trois années. Leur mandat est renouvelable une fois.
+
+Il est pourvu aux vacances survenant en cours de mandat par une désignation faite pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-20
+
+La commission établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-21
+
+La commission se réunit sur convocation du président et sur l'ordre du jour qu'il a fixé.
+
+La commission ne peut valablement délibérer que si le président et au moins deux représentants des organisations
+professionnelles de presse et deux représentants des organisations syndicales de journalistes professionnels sont présents.
+
+Lorsque ce quorum n'est pas atteint, le président convoque la commission dans un délai de huit jours. La commission délibère
+alors valablement en présence du président et d'au moins un représentant des organisations professionnelles de presse et un
+représentant des organisations syndicales de journalistes professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-22
+
+Lorsqu'il n'est pas suppléé, un membre de la commission peut donner mandat à un autre membre, titulaire ou suppléant, de le
+représenter. Le nombre de mandats détenus par une même personne n'est pas limité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-23
+
+La commission est saisie par lettre remise contre signature ou tout autre moyen propre à établir la date de présentation.
+
+La saisine comporte :
+
+- le nom et les coordonnées du demandeur ;
+
+- l'objet de la saisine, qui doit être motivée et, le cas échéant, les pièces sur lesquelles se fonde celle-ci ;
+
+- les coordonnées des parties à la négociation.
+
+Il est accusé réception du dépôt de la demande complète auprès de la partie qui l'a formulée par lettre remise contre
+signature ou tout autre moyen propre à établir la preuve de la date de présentation. La demande est notifiée dans les mêmes
+conditions à l'autre partie, qui est invitée à présenter ses observations dans un délai d'un mois à compter de cette
+notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-24
+
+Les séances de la commission ne sont pas publiques.
+
+La commission peut entendre toute personne dont l'audition lui paraît susceptible de contribuer à son information. La
+décision rendue en fait expressément mention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-25
+
+Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils
+ont eu connaissance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-26
+
+Une fois exécutoires, les décisions de la commission sont notifiées aux parties à la négociation de l'accord collectif en
+cause par lettre remise contre signature ou tout autre moyen propre à établir la preuve de la date de présentation.
+
+La lettre de notification indique les voies et délais de recours. Elle comporte en annexe les noms, qualités et adresses des
+parties auxquelles la décision de la commission a été notifiée.
+
+Les décisions de la commission sont publiées au Bulletin officiel du ministère chargé de la communication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
+
+
+###### Article R132-27
+
+Les parties à la négociation de l'accord collectif en cause disposent d'un délai de deux mois à compter de la notification de
+la décision pour déférer celle-ci à la juridiction administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-994 du 26 août 2010 - art. 1
 
 
 #### Chapitre III : Rémunération au titre du prêt en bibliothèque
