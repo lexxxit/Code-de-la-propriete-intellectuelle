@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2011-04-26
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -3387,78 +3387,6 @@ Ses stipulations peuvent être rendues obligatoires pour l'ensemble des intéres
 	  - Code de la propriété intellectuelle - art. L132-32 (Ab)
 
 
-###### Article L132-32
-
-A défaut d'accord conclu soit avant le 4 avril 1986, soit à la date d'expiration du précédent accord, les bases des
-rémunérations visées au deuxième alinéa de l'article L. 132-31 sont déterminées par une commission présidée par un magistrat
-de l'ordre judiciaire désigné par le premier président de la Cour de cassation et composée, en outre, d'un membre du Conseil
-d'Etat désigné par le vice-président du Conseil d'Etat, d'une personnalité qualifiée désignée par le ministre chargé de la
-culture et, en nombre égal, d'une part, de membres désignés par les organisations représentatives des auteurs et, d'autre
-part, de membres désignés par les organisations représentatives des producteurs en publicité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-660 du 3 juillet 1985 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Codifié par**:
-
-	  - Loi n°92-597 du 1 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 67
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L132-31
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R132-1 (Ab)
-
-
-###### Article L132-33
-
-Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à
-désigner sont déterminés par arrêté du ministre chargé de la culture.
-
-La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix
-prépondérante.
-
-Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde
-délibération.
-
-Les décisions de la commission sont publiées au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-660 du 3 juillet 1985 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 67
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R132-2 (Ab)
-
-
 ##### Section 5 : Contrat de nantissement du droit d'exploitation des logiciels
 
 ###### Article L132-34
@@ -3543,24 +3471,27 @@ leur responsabilité, la mention dudit titre de presse devant impérativement fi
 
 ###### Article L132-36
 
-Sous réserve des dispositions de l'article L. 121-8, la convention liant un journaliste professionnel ou assimilé au sens des
-articles L. 7111-3 et suivants du code du travail, qui contribue, de manière permanente ou occasionnelle, à l'élaboration
-d'un titre de presse, et l'employeur emporte, sauf stipulation contraire, cession à titre exclusif à l'employeur des droits
-d'exploitation des œuvres du journaliste réalisées dans le cadre de ce titre, qu'elles soient ou non publiées.
+Par dérogation à l'article L. 131-1 et sous réserve des dispositions de l'article L. 121-8, la convention liant un
+journaliste professionnel ou assimilé au sens des articles L. 7111-3 et suivants du code du travail, qui contribue, de
+manière permanente ou occasionnelle, à l'élaboration d'un titre de presse, et l'employeur emporte, sauf stipulation
+contraire, cession à titre exclusif à l'employeur des droits d'exploitation des œuvres du journaliste réalisées dans le cadre
+de ce titre, qu'elles soient ou non publiées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-669 du 12 juin 2009 - art. 20
+	  - Loi n°2011-525 du 17 mai 2011 - art. 65 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L121-8 (V)
+	  - Code de la propriété intellectuelle - art. L131-1
+	  - Code du travail - art. L7111-3
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L132-41 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L7111-3
 
 
 ###### Article L132-37
@@ -3593,21 +3524,21 @@ contenu.
 
 ###### Article L132-38
 
-L'exploitation de l'œuvre dans le titre de presse, au-delà de la période prévue à l'article L. 132-37, est rémunérée, sous
-forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise ou, à défaut, par tout
-autre accord collectif.
+L'exploitation de l'œuvre dans le titre de presse, au-delà de la période prévue à l'article L. 132-37, est rémunérée, à titre
+de rémunération complémentaire sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord
+d'entreprise ou, à défaut, par tout autre accord collectif.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-669 du 12 juin 2009 - art. 20
 
 	**Cité par**:
 
 	  - Loi n°2009-669 du 12 juin 2009 - art. 20 (V)
 	  - Code de la propriété intellectuelle - art. L132-42 (V)
 	  - Code de la propriété intellectuelle - art. L132-43 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 65 (V)
 
 	**Cite**:
 
@@ -3620,21 +3551,21 @@ Lorsque la société éditrice ou la société qui la contrôle, au sens de l'ar
 plusieurs titres de presse, un accord d'entreprise peut prévoir la diffusion de l'œuvre par d'autres titres de cette société
 ou du groupe auquel elle appartient, à condition que ces titres et le titre de presse initial appartiennent à une même
 famille cohérente de presse. Cet accord définit la notion de famille cohérente de presse ou fixe la liste de chacun des
-titres de presse concernés.
+titres de presse concernés. 
 
 L'exploitation de l'œuvre du journaliste au sein de la famille cohérente de presse doit comporter des mentions qui permettent
 une identification dudit journaliste et, si l'accord le prévoit, du titre de presse dans lequel l'œuvre a été initialement
 publiée. 
 
-Ces exploitations hors du titre de presse tel que défini à l'article L. 132-35 du présent code donnent lieu à rémunération,
-sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise mentionné au premier
-alinéa du présent article.
+Ces exploitations hors du titre de presse tel que défini à l'article L. 132-35 du présent code donnent lieu à rémunération
+complémentaire, sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise
+mentionné au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-669 du 12 juin 2009 - art. 20
+	  - Loi n°2011-525 du 17 mai 2011 - art. 65 (V)
 
 	**Cite**:
 
@@ -3739,7 +3670,7 @@ organisations professionnelles de presse représentatives et pour moitié de rep
 journalistes professionnels représentatives. 
 
 Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes,
-par arrêté du ministre chargé de la communication.
+par arrêté du ministre chargé de la communication. 
 
 A défaut de conclusion d'un accord d'entreprise dans un délai de six mois à compter de la publication de la loi n° 2009-669
 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et en l'absence de tout autre accord
@@ -3747,6 +3678,17 @@ collectif applicable, l'une des parties à la négociation de l'accord d'entrepr
 déterminer les modes et bases de la rémunération due en contrepartie des droits d'exploitation. La demande peut également
 porter sur l'identification des titres composant une famille cohérente de presse au sein du groupe, en application de
 l'article L. 132-39. 
+
+En l'absence d'engagement de négociation, sont considérés comme des parties à la négociation de l'accord d'entreprise
+l'employeur et le délégué syndical. En l'absence de délégué syndical, peuvent saisir la commission : 
+
+― les institutions représentatives du personnel ; 
+
+― à défaut, tout salarié mandaté par une organisation syndicale de journalistes professionnels au sens de l'article L. 7111-3
+du code du travail ; 
+
+― à défaut, tout journaliste professionnel au sens du même article L. 7111-3 collaborant de manière régulière à l'entreprise
+de presse. 
 
 Pour les accords d'entreprise conclus pour une durée déterminée qui arrivent à échéance ou pour ceux qui sont dénoncés par
 l'une des parties, la commission peut être saisie dans les mêmes conditions et sur les mêmes questions qu'au précédent
@@ -3762,10 +3704,10 @@ La commission se détermine à la majorité de ses membres présents. En cas de 
 prépondérante. 
 
 Les décisions de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde
-délibération. Elles sont notifiées aux parties et au ministre chargé de la communication, qui en assure la publicité.
+délibération. Elles sont notifiées aux parties et au ministre chargé de la communication, qui en assure la publicité. 
 
 L'intervention de la décision de la commission ne fait pas obstacle à ce que s'engage dans les entreprises de presse
-concernées une nouvelle négociation collective.L'accord collectif issu de cette négociation se substitue à la décision de la
+concernées une nouvelle négociation collective. L'accord collectif issu de cette négociation se substitue à la décision de la
 commission, après son dépôt par la partie la plus diligente auprès de l'autorité administrative, conformément à l'article L.
 2231-6 du code du travail. 
 
@@ -3776,14 +3718,11 @@ de saisine et de fonctionnement de la commission ainsi que les voies de recours 
 
 	**Cite**:
 
-	  - Loi n°2009-669 du 12 juin 2009
-	  - Code de la propriété intellectuelle - art. L132-39
-	  - Code du travail - art. L2231-6
-	  - Code du travail - art. L2261-10
-
-	**Créé par**:
-
-	  - Loi n°2009-669 du 12 juin 2009 - art. 20
+	  - Loi n°2009-669 du 12 juin 2009 (V)
+	  - Code de la propriété intellectuelle - art. L132-39 (V)
+	  - Code du travail - art. L2231-6 (V)
+	  - Code du travail - art. L2261-10 (V)
+	  - Code du travail - art. L7111-3 (V)
 
 	**Cité par**:
 
@@ -3793,6 +3732,10 @@ de saisine et de fonctionnement de la commission ainsi que les voies de recours 
 	  - Décret n°2012-879 du 16 juillet 2012 (V)
 	  - Code de la propriété intellectuelle - art. L132-42-1 (V)
 	  - Code de la propriété intellectuelle - art. R132-18 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 65 (V)
 
 
 ###### Article L132-45
@@ -5733,20 +5676,19 @@ applicables devant elle.
 
 ###### Article L331-1
 
-Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des
-juridictions de l'ordre judiciaire sont    exclusivement portées devant les tribunaux de grande instance, sans préjudice du
-droit pour la partie lésée de se pourvoir devant la juridiction répressive dans les termes du droit commun. 
+Les actions civiles et les demandes relatives à la propriété littéraire et artistique, y compris lorsqu'elles portent
+également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande
+instance, déterminés par voie réglementaire.
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des
 intérêts dont ils ont statutairement la charge. 
 
 Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif
 d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de
-licence, exercer l'action en justice au titre de ce droit.L'exercice de l'action est notifié au producteur. 
+licence, exercer l'action en justice au titre de ce droit. L'exercice de l'action est notifié au producteur. 
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et
-artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et
-artistique et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
+et 2060 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -5766,7 +5708,7 @@ artistique et sur une question connexe de concurrence déloyale, sont détermin�
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 135
+	  - Loi n°2011-525 du 17 mai 2011 - art. 196
 
 
 ###### Article L331-1-1
@@ -10582,18 +10524,18 @@ L'action civile en contrefaçon se prescrit par trois ans à compter des faits q
 
 ###### Article L521-3-1
 
-Les actions civiles et les demandes relatives aux dessins et modèles sont exclusivement portées devant les tribunaux de
-grande instance, y compris lorsqu'elles portent à la fois sur une question de dessins et modèles et sur une question connexe
-de concurrence déloyale.
+Les actions civiles et les demandes relatives aux dessins et modèles, y compris lorsqu'elles portent également sur une
+question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
+voie réglementaire.
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles sont
-déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
+et 2060 du code civil.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 135
+	  - Loi n°2011-525 du 17 mai 2011 - art. 196
 
 	**Cité par**:
 
@@ -15738,19 +15680,17 @@ la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, 
 
 ###### Article L615-17
 
-L'ensemble du contentieux né du présent titre est attribué aux tribunaux de grande instance et aux cours d'appel auxquelles
-ils sont rattachés, à l'exception des recours formés contre les décrets, arrêtés et autres décisions de nature administrative
-du ministre chargé de la propriété industrielle, qui relèvent de la juridiction administrative.
-
-Les tribunaux de grande instance appelés à connaître des actions en matière de brevets sont déterminés par voie
-réglementaire.
+Les actions civiles et les demandes relatives aux brevets d'invention, y compris lorsqu'elles portent également sur une
+question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
+voie réglementaire, à l'exception des recours formés contre les actes administratifs du ministre chargé de la propriété
+industrielle qui relèvent de la juridiction administrative. 
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
-et 2060 du code civil.
+et 2060 du code civil. 
 
-Les tribunaux de grande instance ci-dessus visés, ainsi que les cours d'appel auxquelles ils sont rattachés, sont seuls
-compétents pour constater que le brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions
-prévues à l'article L. 614-13.
+Les tribunaux de grande instance mentionnés au premier alinéa du présent article sont seuls compétents pour constater que le
+brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions prévues à l'article L. 614-13 du
+présent code.
 
 **Liens relatifs à cet article**
 
@@ -15761,11 +15701,11 @@ prévues à l'article L. 614-13.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2011-525 du 17 mai 2011 - art. 196
 
 	**Cité par**:
 
@@ -15782,8 +15722,6 @@ prévues à l'article L. 614-13.
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L614-13 (V)
-	  - Code civil - art. 2059 (V)
-	  - Code civil - art. 2060 (V)
 
 
 ###### Article L615-18
@@ -17337,15 +17275,16 @@ Une telle exploitation fait encourir de plein droit à ses auteurs la responsabi
 
 ###### Article L623-31
 
-L'ensemble du contentieux né du présent chapitre est attribué aux tribunaux de grande instance et aux cours d'appel
-auxquelles ils sont rattachés, à l'exception des recours formés contre les décrets et les arrêtés et décisions ministérielles
-qui relèvent de la juridiction administrative.
+Les actions civiles et les demandes relatives aux obtentions végétales, y compris lorsqu'elles portent également sur une
+question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, dont le nombre
+ne peut être inférieur à dix, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de
+la juridiction administrative.
 
 La cour d'appel de Paris connaît directement des recours formés contre les décisions du comité de la protection des
 obtentions végétales prises en application du présent chapitre.
 
-Les tribunaux de grande instance compétents, dont le nombre ne pourra être inférieur à dix, et le ressort dans lequel ces
-juridictions exercent les attributions qui leur sont ainsi dévolues, sont déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
+et 2060 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -17355,11 +17294,11 @@ juridictions exercent les attributions qui leur sont ainsi dévolues, sont déte
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2011-525 du 17 mai 2011 - art. 196
 
 	**Cité par**:
 
@@ -18682,11 +18621,9 @@ copie de la demande d'enregistrement. Le tribunal saisi sursoit à statuer jusqu
 
 ###### Article L716-3
 
-Les actions civiles et les demandes relatives aux marques sont exclusivement portées devant les tribunaux de grande instance,
-y compris lorsqu'elles portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale.
-
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques sont déterminés par
-voie réglementaire.
+Les actions civiles et les demandes relatives aux marques, y compris lorsqu'elles portent également sur une question connexe
+de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -18696,7 +18633,7 @@ voie réglementaire.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 135
+	  - Loi n°2011-525 du 17 mai 2011 - art. 196
 
 	**Cité par**:
 
@@ -19893,18 +19830,18 @@ Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de
 
 ###### Article L722-8
 
-Les actions civiles et les demandes relatives aux indications géographiques sont exclusivement portées devant les tribunaux
-de grande instance, y compris lorsqu'elles portent à la fois sur une question d'indications géographiques et sur une question
-connexe de concurrence déloyale. 
+Les actions civiles et les demandes relatives aux indications géographiques, y compris lorsqu'elles portent également sur une
+question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
+voie réglementaire.
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière d'indications géographiques sont
-déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
+et 2060 du code civil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 135
+	  - Loi n°2011-525 du 17 mai 2011 - art. 196
 
 	**Cité par**:
 
