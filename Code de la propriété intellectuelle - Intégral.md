@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-05-29
 
 # Partie législative
 
@@ -2758,24 +2758,24 @@ suivants du code civil, par la convention et les usages.
 Le contrat peut prévoir soit une rémunération proportionnelle aux produits d'exploitation, soit, dans les cas prévus aux
 articles L. 131-4 et L. 132-6, une rémunération forfaitaire.
 
+Le contrat d'édition garantit aux auteurs, lors de la commercialisation ou de la diffusion d'un livre numérique, que la
+rémunération résultant de l'exploitation de ce livre est juste et équitable. L'éditeur rend compte à l'auteur du calcul de
+cette rémunération de façon explicite et transparente.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 52 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2011-590 du 26 mai 2011 - art. 6
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L131-4 (V)
-	  - Code de la propriété intellectuelle - art. L132-6 (V)
+	  - Code de la propriété intellectuelle - art. L131-4
+	  - Code de la propriété intellectuelle - art. L132-6
 
 
 ###### Article L132-9
