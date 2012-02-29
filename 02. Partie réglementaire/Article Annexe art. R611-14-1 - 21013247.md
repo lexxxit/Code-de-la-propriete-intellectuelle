@@ -141,8 +141,8 @@ supérieures des techniques industrielles et des mines et régis par le décret 
 
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 
-- Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en vertu du 1° de l'article 36 du décret n° 96-1177
-du 27 décembre 1996. 
+- Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n°
+96-1177 du 27 décembre 1996. 
 
 Agents non titulaires
 
@@ -158,8 +158,8 @@ industrielles et des mines placées sous la tutelle du ministre chargé de l'ind
 agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975
 modifié.
 
-- Personnels contractuels de droit public du groupe des écoles des télécommunications recrutés en vertu du 2° de l'article 36
-du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+- Personnels contractuels de droit public de l' Institut Mines-Télécom recrutés en vertu du 2° de l'article 36 du décret n°
+96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en
 application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à
@@ -278,84 +278,80 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 	**Cite**:
 
-	  - Décret n°46-1507 du 18 juin 1946 (V)
-	  - Décret n°48-1018 du 16 juin 1948 (V)
-	  - Décret n°49-1378 du 3 octobre 1949 (V)
-	  - Décret n°59-358 du 20 février 1959, v. init.
-	  - Décret n°59-1405 du 9 décembre 1959 (V)
-	  - Décret n°62-1439 du 26 novembre 1962 (V)
-	  - Décret n°63-1376 du 24 décembre 1963, v. init.
-	  - Décret n°64-420 du 12 mai 1964, v. init.
-	  - Décret n°64-642 du 29 juin 1964, v. init.
-	  - Décret n°65-184 du 5 mars 1965 (V)
-	  - Décret n°65-427 du 4 juin 1965, v. init.
-	  - Décret n°65-426 du 4 juin 1965, v. init.
-	  - Décret n°65-688 du 10 août 1965, v. init.
-	  - Décret n°65-690 du 10 août 1965, v. init.
-	  - Décret n°65-803 du 22 septembre 1965 (V)
-	  - Décret n°67-715 du 16 août 1967 (Ab)
-	  - Décret n°67-962 du 23 octobre 1967, v. init.
-	  - Décret n°68-313 du 1 avril 1968, v. init.
-	  - Arrêté du 10 juillet 1968 (V)
-	  - Décret n°69-894 du 26 septembre 1969 (V)
-	  - Décret n°70-128 du 14 février 1970, v. init.
-	  - Décret n°70-663 du 10 juillet 1970, v. init.
-	  - Décret n°71-234 du 30 mars 1971 (Ab)
-	  - Décret n°71-345 du 5 mai 1971 (Ab)
-	  - Décret n°71-907 du 10 novembre 1971 (V)
-	  - Décret n°71-999 du 7 décembre 1971 (V)
-	  - Décret n°73-264 du 6 mars 1973 (V)
-	  - Décret n°73-311 du 14 mars 1973, v. init.
-	  - Décret n°73-312  du 14 mars 1973 (V)
-	  - Décret n°75-62 du 28 janvier 1975, v. init.
-	  - Décret n°75-1355 du 18 décembre 1975, v. init.
-	  - Décret n°76-802 du 19 août 1976 (Ab)
-	  - Décret n°79-1135 du 27 décembre 1979 (VT)
-	  - Décret n°80-31 du 17 janvier 1980 (V)
-	  - Décret n°80-479 du 27 juin 1980 (V)
-	  - Loi n°82-610 du 15 juillet 1982 - art. 23 (V)
-	  - Décret n°82-1067 du 15 décembre 1982 (Ab)
-	  - Décret n°83-1260 du 30 décembre 1983 (V)
-	  - Loi n°84-16 du 11 janvier 1984 (V)
-	  - Loi n°84-52 du 26 janvier 1984 (Ab)
-	  - Décret n°84-135 du 24 février 1984 (V)
-	  - Décret n°84-431 du 6 juin 1984 (V)
-	  - Décret n°85-402 du 3 avril 1985 (Ab)
-	  - Loi n°85-1223 du 22 novembre 1985, v. init.
-	  - Décret n°85-1461 du 30 décembre 1985 (V)
-	  - Décret n°85-1462 du 30 décembre 1985 (V)
-	  - Décret n°85-1534 du 31 décembre 1985 (V)
-	  - Décret n°86-83 du 17 janvier 1986 (V)
-	  - Décret n°88-507 du 29 avril 1988 (V)
-	  - Décret n°88-541 du 4 mai 1988 (V)
-	  - Décret n°88-654 du 7 mai 1988 (V)
-	  - Décret n°89-749 du 18 octobre 1989 (V)
-	  - Décret n°89-750 du 18 octobre 1989 (V)
-	  - Décret n°89-794 du 30 octobre 1989, v. init.
-	  - Décret n°90-92 du 24 janvier 1990 (V)
-	  - Décret n°90-160 du 16 février 1990, v. init.
-	  - Décret n°90-998 du 8 novembre 1990 (V)
-	  - Décret n°91-56 du 16 janvier 1991 (V)
-	  - Décret n°91-374 du 16 avril 1991 (V)
-	  - Décret n°92-171 du 21 février 1992 (V)
-	  - Décret n°92-339 du 30 mars 1992, v. init.
-	  - Décret n°92-1229 du 19 novembre 1992 (V)
-	  - Décret n°94-278 du 11 avril 1994 (V)
-	  - Décret n°94-943 du 28 octobre 1994 (V)
-	  - Décret n°95-370 du 6 avril 1995 (V)
-	  - Décret n°95-621 du 6 mai 1995 (V)
-	  - Décret n°96-273 du 26 mars 1996 (V)
-	  - Décret n°96-501 du 7 juin 1996, v. init.
-	  - Décret n°96-1177 du 27 décembre 1996 - art. 36 (V)
-	  - Décret n°98-203 du 20 mars 1998 (V)
-	  - Décret n°2000-497 du 5 juin 2000 (V)
-	  - Décret n°2000-677 du 18 juillet 2000 (V)
-	  - Décret n°2003-1006 du 21 octobre 2003 (V)
-	  - Décret n°2004-534 du 14 juin 2004 (Ab)
-	  - Décret n°2007-468 du 28 mars 2007 (V)
-	  - Code de l'éducation - art. L123-5 (V)
-	  - Code de l'éducation - art. L612-7 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-1702 du 30 décembre 2010 - art. 31 (V)
+	  - Décret n°46-1507 du 18 juin 1946
+	  - Décret n°48-1018 du 16 juin 1948
+	  - Décret n°49-1378 du 3 octobre 1949
+	  - Décret n°59-358 du 20 février 1959
+	  - Décret n°59-1405 du 9 décembre 1959
+	  - Décret n°62-1439 du 26 novembre 1962
+	  - Décret n°63-1376 du 24 décembre 1963
+	  - Décret n°64-420 du 12 mai 1964
+	  - Décret n°64-642 du 29 juin 1964
+	  - Décret n°65-184 du 5 mars 1965
+	  - Décret n°65-427 du 4 juin 1965
+	  - Décret n°65-426 du 4 juin 1965
+	  - Décret n°65-688 du 10 août 1965
+	  - Décret n°65-690 du 10 août 1965
+	  - Décret n°65-803 du 22 septembre 1965
+	  - Décret n°67-715 du 16 août 1967
+	  - Décret n°67-962 du 23 octobre 1967
+	  - Décret n°68-313 du 1 avril 1968
+	  - Arrêté du 10 juillet 1968
+	  - Décret n°69-894 du 26 septembre 1969
+	  - Décret n°70-128 du 14 février 1970
+	  - Décret n°70-663 du 10 juillet 1970
+	  - Décret n°71-234 du 30 mars 1971
+	  - Décret n°71-345 du 5 mai 1971
+	  - Décret n°71-907 du 10 novembre 1971
+	  - Décret n°71-999 du 7 décembre 1971
+	  - Décret n°73-264 du 6 mars 1973
+	  - Décret n°73-311 du 14 mars 1973
+	  - Décret n°73-312 du 14 mars 1973
+	  - Décret n°75-62 du 28 janvier 1975
+	  - Décret n°75-1355 du 18 décembre 1975
+	  - Décret n°76-802 du 19 août 1976
+	  - Décret n°79-1135 du 27 décembre 1979
+	  - Décret n°80-31 du 17 janvier 1980
+	  - Décret n°80-479 du 27 juin 1980
+	  - Loi n°82-610 du 15 juillet 1982 - art. 23
+	  - Décret n°82-1067 du 15 décembre 1982
+	  - Décret n°83-1260 du 30 décembre 1983
+	  - Loi n°84-16 du 11 janvier 1984
+	  - Loi n°84-52 du 26 janvier 1984
+	  - Décret n°84-135 du 24 février 1984
+	  - Décret n°84-431 du 6 juin 1984
+	  - Décret n°85-402 du 3 avril 1985
+	  - Loi n°85-1223 du 22 novembre 1985
+	  - Décret n°85-1461 du 30 décembre 1985
+	  - Décret n°85-1462 du 30 décembre 1985
+	  - Décret n°85-1534 du 31 décembre 1985
+	  - Décret n°86-83 du 17 janvier 1986
+	  - Décret n°88-507 du 29 avril 1988
+	  - Décret n°88-541 du 4 mai 1988
+	  - Décret n°88-654 du 7 mai 1988
+	  - Décret n°89-749 du 18 octobre 1989
+	  - Décret n°89-750 du 18 octobre 1989
+	  - Décret n°89-794 du 30 octobre 1989
+	  - Décret n°90-92 du 24 janvier 1990
+	  - Décret n°90-160 du 16 février 1990
+	  - Décret n°90-998 du 8 novembre 1990
+	  - Décret n°91-56 du 16 janvier 1991
+	  - Décret n°91-374 du 16 avril 1991
+	  - Décret n°92-171 du 21 février 1992
+	  - Décret n°92-339 du 30 mars 1992
+	  - Décret n°92-1229 du 19 novembre 1992
+	  - Décret n°94-278 du 11 avril 1994
+	  - Décret n°94-943 du 28 octobre 1994
+	  - Décret n°95-370 du 6 avril 1995
+	  - Décret n°95-621 du 6 mai 1995
+	  - Décret n°96-273 du 26 mars 1996
+	  - Décret n°96-501 du 7 juin 1996
+	  - Décret n°96-1177 du 27 décembre 1996 - art. 36
+	  - Décret n°98-203 du 20 mars 1998
+	  - Décret n°2000-497 du 5 juin 2000
+	  - Décret n°2000-677 du 18 juillet 2000
+	  - Décret n°2003-1006 du 21 octobre 2003
+	  - Décret n°2004-534 du 14 juin 2004
+	  - Décret n°2007-468 du 28 mars 2007
+	  - Code de l'éducation - art. L123-5
+	  - Code de l'éducation - art. L612-7
