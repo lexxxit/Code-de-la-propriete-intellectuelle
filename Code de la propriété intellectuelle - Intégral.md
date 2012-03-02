@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-03-03
 
 # Partie législative
 
@@ -625,6 +625,25 @@ publiques et des établissements publics à caractère administratif.
 	**Modifié par**:
 
 	  - Loi n°94-361 du 10 mai 1994 - art. 2 () JORF 11 mai 1994
+
+
+###### Article L113-10
+
+L'œuvre orpheline est une œuvre protégée et divulguée, dont le titulaire des droits ne peut pas être identifié ou retrouvé,
+malgré des recherches diligentes, avérées et sérieuses.
+
+Lorsqu'une œuvre a plus d'un titulaire de droits et que l'un de ces titulaires a été identifié et retrouvé, elle n'est pas
+considérée comme orpheline.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-287 du 1er mars 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L135-1 (V)
 
 
 #### Titre II : Droits des auteurs
