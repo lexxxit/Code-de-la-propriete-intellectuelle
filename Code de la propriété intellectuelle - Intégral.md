@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-05-01
 
 # Partie législative
 
@@ -37374,7 +37374,7 @@ santé ;
 
 5° Le directeur général des entreprises ou son représentant ; 
 
-6° Le directeur général de l'Agence française de sécurité sanitaire des produits de santé ou son représentant ; 
+6° Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé ou son représentant ; 
 
 7° Deux médecins ou leurs suppléants désignés pour trois ans renouvelables par le ministre chargé de la santé, sur
 proposition de l'Académie nationale de médecine ; 
@@ -37399,12 +37399,12 @@ La voix du président est prépondérante en cas de partage égal des voix.
 
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 15 () JORF 3 mars 2007
+	  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L613-16 (V)
-	  - Code de la propriété intellectuelle - art. L613-17 (V)
+	  - Code de la propriété intellectuelle - art. L613-16
+	  - Code de la propriété intellectuelle - art. L613-17
 
 	**Cité par**:
 
@@ -37888,14 +37888,14 @@ prévues à l'article 16-4 du règlement (CE) n° 816/2006.
 ###### Article R613-25-4
 
 Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du
-règlement (CE) n° 816 / 2006 sont établies par une décision du directeur général de l'Agence française de sécurité sanitaire
-des produits de santé.
+règlement (CE) n° 816/2006 sont établies par une décision du directeur général de l'Agence nationale de sécurité du
+médicament et des produits de santé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-625 du 27 juin 2008 - art. 5
+	  - Décret n°2012-597 du 27 avril 2012 - art. 5
 
 
 ##### Sous-section 4 : Licences d'office dans l'intérêt du développement économique
