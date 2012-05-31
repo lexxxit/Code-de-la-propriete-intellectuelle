@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -7563,11 +7563,13 @@ concrétiser par une copie.
 
 ##### Chapitre III : Saisie-arrêt
 
+##### Chapitre III : Saisies des produits d'exploitation
+
 ###### Article L333-1
 
-Lorsque les produits d'exploitation revenant à l'auteur d'une oeuvre de l'esprit ont fait l'objet d'une saisie-arrêt, le
-président du tribunal de grande instance peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou
-d'une quotité déterminée des sommes saisies.
+Lorsque les produits d'exploitation revenant à l'auteur d'une oeuvre de l'esprit ont fait l'objet d'une saisie, le président
+du tribunal de grande instance peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou d'une
+quotité déterminée des sommes saisies.
 
 **Liens relatifs à cet article**
 
@@ -7577,11 +7579,11 @@ d'une quotité déterminée des sommes saisies.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 
 ###### Article L333-2
@@ -7625,18 +7627,18 @@ du code du travail.
 
 ###### Article L333-4
 
-Les dispositions du présent chapitre ne font pas obstacle aux saisies-arrêts pratiquées en vertu des dispositions du code
-civil relatives aux créances d'aliments.
+Les dispositions du présent chapitre ne font pas obstacle aux                saisies pratiquées en vue du recouvrement des
+créances d'aliments prévues par les dispositions du code civil.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 
 ##### Chapitre IV : Droit de suite
