@@ -137,7 +137,7 @@ Corps de fonctionnaires :
 supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
 
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales
-supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
+supérieures des techniques industrielles et des mines et régis par le décret n° 2012-1002 du 29 août 2012.
 
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 
@@ -355,3 +355,8 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 	  - Décret n°2007-468 du 28 mars 2007
 	  - Code de l'éducation - art. L123-5
 	  - Code de l'éducation - art. L612-7
+
+	**Modifié par**:
+
+	  - Décret n°2012-279 du 28 février 2012 - art. 48 (V)
+	  - Décret n°2012-1002 du 29 août 2012 - art. 12 (VD)
