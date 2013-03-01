@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-03-02
 
 # Partie législative
 
@@ -22442,6 +22442,318 @@ révisable tous les trois ans à partir d'estimations chiffrées relatives au d�
 	  - Décret n°95-385 1955-04-10
 
 
+#### Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle 
+
+
+##### Section 1 : Registre des livres indisponibles du xxe siècle 
+
+
+
+###### Article Annexe à l'article R134-1
+
+Les données et informations enregistrées, selon leur disponibilité, dans le traitement dénommé Registre des livres
+indisponibles du xxe siècle sont les suivantes : 
+
+1. Noms et prénoms ou pseudonymes du ou des auteurs. 
+
+2. Précisions sur la qualité de l'auteur (préfacier, illustrateur...). 
+
+3. Année du décès du ou des auteurs. 
+
+4. Mention d'un numéro d'identification de l'auteur. 
+
+5. Dénomination de l'auteur collectivité. 
+
+6. Titre du livre. 
+
+7. Nom ou raison sociale de l'éditeur. 
+
+8. Année de publication du livre. 
+
+9. Mention de l'édition (notamment première édition, édition revue, édition augmentée...). 
+
+10. Mention de la collection. 
+
+11. Caractère illustré du livre. 
+
+12. Nombre de volumes et nombre de pages. 
+
+13. Mention du numéro international normalisé du livre (ISBN). 
+
+14. Mention d'un numéro d'identification pérenne du livre. 
+
+15. Mentions prévues aux articles L. 134-4, L. 134-5 et L. 134-6.
+
+16. Mention prévue à l'article R. 134-3, selon laquelle le livre fait l'objet d'une déclaration d'opposition en cours
+d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art.
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-4
+	  - Code de la propriété intellectuelle - art. R134-3
+
+
+###### Article R134-1
+
+La base de données publique mentionnée à l'article L. 134-2 est dénommée " Registre des livres indisponibles du xxe siècle ".
+Elle est ouverte à la consultation du public sur le service de communication au public en ligne de la Bibliothèque nationale
+de France. Elle est enrichie d'une nouvelle liste de livres indisponibles le 21 mars de chaque année, s'il est ouvré, ou le
+premier jour ouvré suivant. 
+
+La liste des livres indisponibles qui y sont enregistrés est arrêtée par un comité scientifique placé auprès du président de
+la Bibliothèque nationale de France et composé, en majorité et à parité, de représentants des auteurs et des éditeurs. La
+composition et le fonctionnement de ce comité sont déterminés par arrêté du ministre chargé de la culture. 
+
+A chaque livre indisponible sont associées des données et informations dont la liste figure en annexe au présent article. Ces
+données et informations sont issues des bases bibliographiques publiées par la Bibliothèque nationale de France et par les
+organisations professionnelles du secteur du livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 2013 (V)
+	  - Arrêté du 18 mars 2013 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. R134-11 (V)
+	  - Code de la propriété intellectuelle - art. R134-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-2 (V)
+
+
+###### Article R134-2
+
+Le titre de chaque livre ainsi que l'ensemble des données et informations mentionnées à l'article R. 134-1 qui lui sont
+associées sont effacés à l'expiration des durées de protection mentionnées aux articles L. 123-1 à L. 123-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L123-1
+	  - Code de la propriété intellectuelle - art. R134-1
+
+
+###### Article R134-3
+
+Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 ne s'applique pas au présent traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. Annexe à l'article R134-1 (V)
+
+
+###### Article R134-4
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 s'exercent auprès du
+président de la Bibliothèque nationale de France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+
+##### Section 2 : Procédure 
+
+
+
+
+
+
+###### Article R134-5
+
+L'opposition prévue au premier et au troisième alinéa du I de l'article L. 134-4, l'opposition prévue au cinquième alinéa de
+l'article L. 134-5, la demande de retrait prévue aux deux premiers alinéas de l'article L. 134-6 et la demande de retrait
+prévue au troisième alinéa de l'article L. 134-8 sont présentées par lettre recommandée avec demande d'avis de réception ou
+par voie électronique avec demande d'accusé de réception. 
+
+A l'appui de son opposition ou de sa demande de retrait, l'auteur produit la copie d'une pièce d'identité et une déclaration
+sur l'honneur attestant sa qualité. 
+
+A l'appui de son opposition, l'ayant droit de l'auteur doit justifier de son identité en produisant une copie d'une pièce
+d'identité et adresser un acte de notoriété prouvant sa qualité d'ayant droit. 
+
+A l'appui de son opposition ou de sa demande de retrait, l'éditeur communique toute pièce de nature à justifier de sa qualité
+d'éditeur du livre concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-4
+	  - Code de la propriété intellectuelle - art. L134-5 (V)
+	  - Code de la propriété intellectuelle - art. L134-6 (V)
+	  - Code de la propriété intellectuelle - art. L134-8 (V)
+
+
+###### Article R134-6
+
+L'opposition prévue au premier alinéa du I de l'article L. 134-4 s'exerce auprès de la Bibliothèque nationale de France. Dès
+réception, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une
+mention selon laquelle le livre fait l'objet d'une déclaration d'opposition en cours d'instruction. Elle en informe les
+sociétés de perception et de répartition des droits agréées mentionnées à l'article L. 134-3 et leur communique les pièces
+produites à l'appui de l'opposition dans un délai d'un mois. 
+
+Faute pour ces sociétés d'établir dans les trois mois suivant la communication de ces pièces que la déclaration d'opposition
+a été présentée par une personne n'ayant pas qualité pour ce faire, la Bibliothèque nationale de France inscrit dans la base
+de données publique créée par l'article L. 134-2 une mention selon laquelle elles ne peuvent exercer le droit d'autoriser la
+reproduction et la représentation sous forme numérique du livre concerné. 
+
+Si la déclaration d'opposition émane de l'auteur du livre indisponible, la Bibliothèque nationale de France cesse de rendre
+accessible au public les données et informations relatives à ce livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-2 (V)
+	  - Code de la propriété intellectuelle - art. L134-3 (V)
+	  - Code de la propriété intellectuelle - art. L134-4
+
+
+###### Article R134-7
+
+L'opposition prévue au troisième alinéa du I de l'article L. 134-4 s'exerce auprès de la société de perception et de
+répartition des droits mentionnée à l'article L. 134-3. A défaut d'établir dans les trois mois suivant la réception de ces
+pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, la société en
+informe la Bibliothèque nationale de France, qui cesse de rendre accessibles au public les données et informations relatives
+à ce livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-3 (V)
+	  - Code de la propriété intellectuelle - art. L134-4
+
+
+###### Article R134-8
+
+L'opposition prévue au cinquième alinéa de l'article L. 134-5 s'exerce auprès de la société de perception et de répartition
+des droits mentionnée à l'article L. 134-3. A l'appui de son opposition, l'auteur produit tout élément probant de nature à
+établir que l'éditeur ne dispose pas du droit de reproduction du livre concerné sous une forme imprimée. La société
+communique ces éléments à l'éditeur, qui dispose d'un délai d'un mois pour présenter ses observations. A défaut d'établir
+dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition n'est étayée d'aucun élément probant,
+la société retire l'autorisation délivrée à l'éditeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-3 (V)
+	  - Code de la propriété intellectuelle - art. L134-5
+
+
+###### Article R134-9
+
+La demande de retrait prévue au deuxième alinéa de l'article L. 134-6 s'exerce auprès de la société de perception et de
+répartition des droits mentionnée à l'article L. 134-3. Lorsque l'auteur du livre soutient être seul titulaire des droits
+définis à l'article L. 134-3, il produit à l'appui de sa demande de retrait tout élément probant de nature à l'établir. La
+société communique ces éléments à l'éditeur, s'il existe. Ce dernier dispose alors d'un délai d'un mois pour présenter ses
+observations. A défaut d'établir dans les trois mois suivant la réception de la demande de retrait que cette demande a été
+présentée par une personne n'ayant pas qualité pour ce faire ou l'ayant fait à tort, la société perd le droit prévu au I de
+l'article L. 134-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-3 (V)
+	  - Code de la propriété intellectuelle - art. L134-6
+
+
+###### Article R134-10
+
+Lorsque le droit prévu au I de l'article L. 134-3 lui est retiré, la société en informe la Bibliothèque nationale de France,
+qui inscrit la mention de ce retrait dans la base de données publique créée par l'article L. 134-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-2 (V)
+	  - Code de la propriété intellectuelle - art. L134-3
+
+
+###### Article R134-11
+
+Les mesures de publicité mentionnées à l'article L. 134-7 comportent une campagne d'information menée à l'initiative du
+ministère chargé de la culture, en liaison avec les sociétés de perception et de répartition des droits et les organisations
+professionnelles du secteur du livre. 
+
+Cette campagne comprend la présentation du dispositif sur un service de communication au public en ligne, une opération de
+publipostage en ligne, la publication d'encarts dans la presse nationale ainsi que la diffusion de bannières sur des sites
+internet d'information. 
+
+Elle débute à la date prévue au premier alinéa de l'article R. 134-1 et se poursuit durant une période de six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-7
+	  - Code de la propriété intellectuelle - art. R134-1
+
+
 ## Livre II : Les droits voisins du droit d'auteur
 
 ### Titre unique
@@ -24480,6 +24792,222 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 	**Nouveaux textes**:
 
 	  - Code de la propriété intellectuelle - art. R325-7 (V)
+
+
+#### Chapitre VII : Sociétés agréées pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle 
+
+
+###### Article R327-1
+
+Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 134-3, si elle : 
+
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison
+des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la
+diversité des genres éditoriaux ; 
+
+2° Apporte la preuve de la représentation paritaire des auteurs et des éditeurs parmi ses associés et au sein de ses organes
+dirigeants ; 
+
+3° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'auteur ; ou 
+
+b) De la nature et du niveau de leurs diplômes ; ou 
+
+c) De leur expérience dans le secteur de l'édition ou de la gestion d'organismes professionnels ; 
+
+4° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
+
+b) Aux moyens mis en œuvre pour gérer les opérations relatives aux livres indisponibles au regard des dispositions des
+articles L. 134-1 et suivants et en informer la Bibliothèque nationale de France aux fins de mention dans la base de données
+publique mentionnée à l'article L. 134-2 ; 
+
+c) Aux moyens mis en œuvre pour la perception des rémunérations et le traitement des données nécessaires à la répartition de
+ces rémunérations ; 
+
+d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+5° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des
+rémunérations entre les auteurs et les éditeurs ainsi que le caractère équitable des règles de répartition des sommes perçues
+entre les ayants droit, qu'ils soient ou non parties au contrat d'édition ; 
+
+6° Donne les informations nécessaires relatives aux moyens mis en œuvre afin d'identifier et de retrouver les titulaires de
+droits aux fins de répartir les sommes perçues ; 
+
+7° Donne les informations nécessaires relatives aux moyens mis en œuvre pour développer des relations contractuelles
+permettant d'assurer la plus grande disponibilité possible des œuvres ; 
+
+8° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour veiller à la défense des intérêts légitimes des
+ayants droit non parties au contrat d'édition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-1 (V)
+	  - Code de la propriété intellectuelle - art. L134-2 (V)
+	  - Code de la propriété intellectuelle - art. L134-3
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-1 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R327-2 (V)
+	  - Code de la propriété intellectuelle - art. R327-6 (V)
+
+
+###### Article R327-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 327-1, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R327-1
+
+
+###### Article R327-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-3 (V)
+
+
+###### Article R327-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-4 (V)
+
+
+###### Article R327-5
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
+dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-5 (V)
+
+
+###### Article R327-6
+
+Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 327-1, le ministre chargé de la culture la
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-6 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R327-1 (V)
+
+
+###### Article R327-7
+
+L'auteur et l'éditeur d'un livre indisponible disposent d'un délai de six mois à compter de l'inscription de ce livre dans la
+base de données mentionnée à l'article L. 134-2 pour désigner conjointement une société agréée de perception et de
+répartition des droits. A l'expiration de ce délai, la gestion du droit d'autoriser l'exploitation numérique de leurs livres
+indisponibles est confiée à la société réunissant le plus grand nombre de livres indisponibles gérés. 
+
+Le ministre chargé de la culture désigne chaque année la société répondant à la condition définie à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-182 du 27 février 2013 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L134-2
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R326-7 (V)
 
 
 ### Titre III : Procédures et sanctions
