@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2013-03-02
+Version Consolidée au 2013-07-10
 
 # Partie législative
 
@@ -1187,13 +1187,16 @@ d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou pl
 d'une vente judiciaire effectuée en France pour les exemplaires mis à la disposition du public avant la vente dans le seul
 but de décrire les oeuvres d'art mises en vente ; 
 
-e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des oeuvres conçues à des fins pédagogiques, des
-partitions de musique et des oeuvres réalisées pour une édition numérique de l'écrit, à des fins exclusives d'illustration
-dans le cadre de l'enseignement et de la recherche, à l'exclusion de toute activité ludique ou récréative, dès lors que le
-public auquel cette représentation ou cette reproduction est destinée est composé majoritairement d'élèves, d'étudiants,
-d'enseignants ou de chercheurs directement concernés, que l'utilisation de cette représentation ou cette reproduction ne
-donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire
-sans préjudice de la cession du droit de reproduction par reprographie mentionnée à l'article L. 122-10 ; 
+e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des oeuvres conçues à des fins pédagogiques et des
+partitions de musique, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, y compris
+pour l'élaboration et la diffusion de sujets d'examens ou de concours organisés dans la prolongation des enseignements à
+l'exclusion de toute activité ludique ou récréative, dès lors que cette représentation ou cette reproduction est destinée,
+notamment au moyen d'un espace numérique de travail, à un public composé majoritairement d'élèves, d'étudiants, d'enseignants
+ou de chercheurs directement concernés par l'acte d'enseignement, de formation ou l'activité de recherche nécessitant cette
+représentation ou cette reproduction, qu'elle ne fait l'objet d'aucune publication ou diffusion à un tiers au public ainsi
+constitué, que l'utilisation de cette représentation ou cette reproduction ne donne lieu à aucune exploitation commerciale et
+qu'elle est compensée par une rémunération négociée sur une base forfaitaire sans préjudice de la cession du droit de
+reproduction par reprographie mentionnée à l'article L. 122-10 ; 
 
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre ; 
 
@@ -1299,7 +1302,7 @@ Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1898 du 20 décembre 2011 - art. 1
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 77
 
 	**Cite**:
 
@@ -26053,12 +26056,13 @@ civil et relatif à la signature électronique.
 
 Les opérateurs de communications électroniques mentionnés à l'article L. 34-1 du code des postes et des communications
 électroniques et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la
-confiance dans l'économie numérique sont tenus de communiquer les données à caractère personnel et les informations
-mentionnées au 2° de l'annexe du décret n° 2010-236 du 5 mars 2010 dans un délai de huit jours suivant la transmission par la
-commission de protection des droits des données techniques nécessaires à l'identification de l'abonné dont l'accès à des
-services de communication au public en ligne a été utilisé à des fins de reproduction, de représentation, de mise à
-disposition ou de communication au public d'œuvres ou d'objets protégés sans l'autorisation des titulaires des droits prévus
-aux livres Ier et II lorsqu'elle est requise. 
+confiance dans l'économie numérique sont tenus de communiquer, par une interconnexion au traitement automatisé de données à
+caractère personnel mentionné à l'article L. 331-29 ou par le recours à un support d'enregistrement assurant leur intégrité
+et leur sécurité, les données à caractère personnel et les informations mentionnées au 2° de l'annexe du décret n° 2010-236
+du 5 mars 2010 dans un délai de huit jours suivant la transmission par la commission de protection des droits des données
+techniques nécessaires à l'identification de l'abonné dont l'accès à des services de communication au public en ligne a été
+utilisé à des fins de reproduction, de représentation, de mise à disposition ou de communication au public d'œuvres ou
+d'objets protégés sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise. 
 
 Ces opérateurs et prestataires sont également tenus de fournir les documents et les copies des documents mentionnés aux
 troisième et quatrième alinéas de l'article L. 331-21 dans un délai de quinze jours suivant la demande qui leur en est faite
@@ -26088,7 +26092,7 @@ commission de protection des droits.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1202 du 12 octobre 2010 - art. 1
+	  - Décret n°2013-596 du 8 juillet 2013 - art. 1
 
 
 ###### Article R331-38
@@ -27857,11 +27861,7 @@ disposition ou de communication au public d'œuvres ou d'objets protégés par u
 l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise ; 
 
 2° Dans l'année suivant la présentation de cette recommandation, cet accès est à nouveau utilisé aux fins mentionnées au 1°
-du présent II. 
-
-III.-Les personnes coupables de la contravention définie au I peuvent, en outre, être condamnées à la peine complémentaire de
-suspension de l'accès à un service de communication au public en ligne pour une durée maximale d'un mois, conformément aux
-dispositions de l'article L. 335-7-1.
+du présent II.
 
 **Liens relatifs à cet article**
 
@@ -27875,14 +27875,13 @@ dispositions de l'article L. 335-7-1.
 	  - Code de la propriété intellectuelle - art. 331-42 (V)
 	  - Code de la propriété intellectuelle - art. 331-45 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-695 du 25 juin 2010 - art. 1
+	  - Décret n°2013-596 du 8 juillet 2013 - art. 2
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L331-25
-	  - Code de la propriété intellectuelle - art. L335-7-1
 
 
 ### Titre IV : Droits des producteurs de bases de données
