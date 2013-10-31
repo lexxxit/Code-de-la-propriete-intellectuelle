@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2013-08-18
+Version Consolidée au 2013-11-01
 
 # Partie législative
 
@@ -4522,27 +4522,38 @@ du producteur ou de l'entreprise de communication audiovisuelle.
 
 ###### Article L211-4
 
-La durée des droits patrimoniaux objets du présent titre est de cinquante années à compter du 1er janvier de l'année civile
-suivant celle : 
+I.-La durée des droits patrimoniaux des artistes-interprètes est de cinquante années à compter du 1er janvier de l'année
+civile suivant celle de l'interprétation. 
 
-1° De l'interprétation pour les artistes-interprètes. Toutefois, si une fixation de l'interprétation fait l'objet d'une mise
-à disposition du public, par des exemplaires matériels, ou d'une communication au public pendant la période définie au
-premier alinéa, les droits patrimoniaux de l'artiste-interprète n'expirent que cinquante ans après le 1er janvier de l'année
-civile suivant le premier de ces faits ; 
+Toutefois, si, durant cette période, une fixation de l'interprétation dans un vidéogramme ou un phonogramme fait l'objet
+d'une mise à la disposition du public, par des exemplaires matériels, ou d'une communication au public, les droits
+patrimoniaux de l'artiste-interprète expirent : 
 
-2° De la première fixation d'une séquence de son pour les producteurs de phonogrammes. Toutefois, si un phonogramme fait
-l'objet, par des exemplaires matériels, d'une mise à disposition du public pendant la période définie au premier alinéa, les
-droits patrimoniaux du producteur du phonogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant
-ce fait. En l'absence de mise à disposition du public, ses droits expirent cinquante ans après le 1er janvier de l'année
-civile suivant la première communication au public ; 
+1° Pour une interprétation fixée dans un vidéogramme, cinquante ans après le 1er janvier de l'année civile suivant le premier
+de ces faits ; 
 
-3° De la première fixation d'une séquence d'images sonorisées ou non pour les producteurs de vidéogrammes. Toutefois, si un
-vidéogramme fait l'objet, par des exemplaires matériels, d'une mise à disposition du public ou d'une communication au public
-pendant la période définie au premier alinéa, les droits patrimoniaux du producteur du vidéogramme n'expirent que cinquante
-ans après le 1er janvier de l'année civile suivant le premier de ces faits ; 
+2° Pour une interprétation fixée dans un phonogramme, soixante-dix ans après le 1er janvier de l'année civile qui suit le
+premier de ces faits. 
 
-4° De la première communication au public des programmes mentionnés à l'article L. 216-1 pour des entreprises de
-communication audiovisuelle.
+II.-La durée des droits patrimoniaux des producteurs de phonogrammes est de cinquante années à compter du 1er janvier de
+l'année civile suivant celle de la première fixation d'une séquence de son. 
+
+Toutefois, si, durant cette période, un phonogramme fait l'objet d'une mise à la disposition du public par des exemplaires
+matériels ou d'une communication au public, les droits patrimoniaux du producteur de phonogrammes expirent soixante-dix ans
+après le 1er janvier de l'année civile suivant la mise à la disposition du public de ce phonogramme ou, à défaut, sa première
+communication au public. L'artiste-interprète peut exercer le droit de résiliation mentionné aux articles L. 212-3-1 et L.
+212-3-2.
+
+III.-La durée des droits patrimoniaux des producteurs de vidéogrammes est de cinquante années à compter du 1er janvier de
+l'année civile suivant celle de la première fixation d'une séquence d'images, sonorisées ou non. 
+
+Toutefois, si, durant cette période, un vidéogramme fait l'objet d'une mise à la disposition du public par des exemplaires
+matériels ou d'une communication au public, les droits patrimoniaux du producteur de vidéogrammes expirent cinquante ans
+après le 1er janvier de l'année civile suivant le premier de ces faits. 
+
+IV.-La durée des droits patrimoniaux des entreprises de communication audiovisuelle est de cinquante années à compter du 1er
+janvier de l'année civile suivant celle de la première communication au public des programmes mentionnés à l'article L.
+216-1.
 
 **Liens relatifs à cet article**
 
@@ -4552,11 +4563,11 @@ communication audiovisuelle.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2006-961 du 1 août 2006 - art. 7 () JORF 3 août 2006
+	  - Loi n°2015-195 du 20 février 2015 - art. 1
 
 	**Cité par**:
 
@@ -4568,7 +4579,7 @@ communication audiovisuelle.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L216-1 (V)
+	  - Code de la propriété intellectuelle - art. L216-1
 
 
 ###### Article L211-5
@@ -4721,6 +4732,135 @@ L. 762-2 du code du travail, sous réserve des dispositions de l'article L. 212-
 
 	  - Code de la propriété intellectuelle - art. L212-6 (V)
 	  - Code du travail - art. L762-1 (VT)
+
+
+###### Article L212-3-1
+
+I.-Au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4, l'artiste-
+interprète peut notifier son intention de résilier l'autorisation donnée en application de l'article L. 212-3 à un producteur
+de phonogrammes lorsque celui-ci n'offre pas à la vente des exemplaires du phonogramme en quantité suffisante ou ne le met
+pas à la disposition du public de manière que chacun puisse y avoir accès de sa propre initiative. 
+
+II.-Si, au cours des douze mois suivant la notification prévue au I du présent article, le producteur de phonogrammes n'offre
+pas à la vente des exemplaires du phonogramme en quantité suffisante et ne le met pas à la disposition du public de manière
+que chacun puisse y avoir accès de sa propre initiative, l'artiste-interprète peut exercer son droit de résiliation de
+l'autorisation. L'artiste-interprète ne peut renoncer à ce droit. 
+
+III.-Les modalités d'exercice du droit de résiliation sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L211-4 (V)
+	  - Code de la propriété intellectuelle - art. L212-3-2 (M)
+	  - Code de la propriété intellectuelle - art. R212-8 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L212-3
+
+
+###### Article L212-3-2
+
+Lorsqu'un phonogramme contient la fixation des prestations de plusieurs artistes-interprètes, ceux-ci exercent le droit de
+résiliation mentionné à l'article L. 212-3-1 d'un commun accord. 
+
+En cas de désaccord, il appartient à la juridiction civile de statuer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L212-3-1
+
+
+###### Article L212-3-3
+
+I.-Si l'autorisation donnée en application de l'article L. 212-3 prévoit une rémunération forfaitaire, le producteur de
+phonogrammes verse à l'artiste-interprète, en contrepartie de l'exploitation du phonogramme contenant la fixation autorisée,
+une rémunération annuelle supplémentaire pour chaque année complète au-delà des cinquante premières années du délai de
+soixante-dix ans prévu au 2° du I de l'article L. 211-4. L'artiste-interprète ne peut renoncer à ce droit. 
+
+Toutefois, le producteur de phonogrammes qui occupe moins de dix personnes et dont le chiffre d'affaires annuel ou le total
+du bilan annuel n'excède pas deux millions d'euros n'est pas tenu, pour l'exercice en question, au versement de la
+rémunération mentionnée au premier alinéa du présent I dans l'hypothèse où les frais des opérations de calcul et de contrôle
+seraient hors de proportion avec le montant de la rémunération à verser. 
+
+II.-Le montant global de la rémunération annuelle supplémentaire mentionnée au I du présent article est fixé à 20 % de
+l'ensemble des recettes perçues par le producteur de phonogrammes au cours de l'année précédant celle du paiement de ladite
+rémunération annuelle pour la reproduction, la mise à la disposition du public par la vente ou l'échange, ou la mise à
+disposition du phonogramme de manière que chacun puisse y avoir accès de sa propre initiative, à l'exclusion des
+rémunérations prévues aux articles L. 214-1 et L. 311-1. 
+
+III.-Le producteur de phonogrammes fournit, à la demande de l'artiste-interprète ou d'une société de perception et de
+répartition des droits mentionnée au IV et chargée de percevoir la rémunération annuelle supplémentaire de l'artiste-
+interprète, un état des recettes provenant de l'exploitation du phonogramme selon chaque mode d'exploitation mentionné au
+II. 
+
+Il fournit, dans les mêmes conditions, toute justification propre à établir l'exactitude des comptes. 
+
+IV.-La rémunération annuelle supplémentaire prévue aux I et II est perçue par une ou plusieurs sociétés de perception et de
+répartition des droits régies par le titre II du livre III et agréées à cet effet par le ministre chargé de la culture. 
+
+L'agrément prévu au premier alinéa du présent IV est délivré en considération : 
+
+1° De la qualification professionnelle des dirigeants des sociétés ; 
+
+2° Des moyens humains et matériels que ces sociétés proposent de mettre en œuvre pour assurer la perception et la répartition
+de la rémunération prévue aux mêmes I et II, tant auprès de leurs membres qu'auprès des artistes-interprètes qui ne sont pas
+leurs membres ; 
+
+3° De l'importance de leur répertoire et de la représentation des artistes-interprètes bénéficiaires de la rémunération
+prévue auxdits I et II au sein des organes dirigeants ; 
+
+4° De leur respect des obligations prévues au titre II du livre III. 
+
+Un décret en Conseil d'Etat fixe les modalités de délivrance et de retrait de cet agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L211-4
+	  - Code de la propriété intellectuelle - art. L212-3
+	  - Code de la propriété intellectuelle - art. L214-1
+	  - Code de la propriété intellectuelle - art. L311-1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R328-1 (T)
+
+
+###### Article L212-3-4
+
+Si l'autorisation donnée en application de l'article L. 212-3 prévoit une rémunération proportionnelle, le producteur de
+phonogrammes ne peut retrancher les avances ou les déductions définies contractuellement de la rémunération due à l'artiste-
+interprète en contrepartie de l'exploitation du phonogramme contenant la fixation autorisée après les cinquante premières
+années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L211-4
+	  - Code de la propriété intellectuelle - art. L212-3
 
 
 ###### Article L212-4
