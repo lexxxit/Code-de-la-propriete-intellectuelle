@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2013-11-01
+Version Consolidée au 2013-12-20
 
 # Partie législative
 
@@ -1372,9 +1372,9 @@ II. La personne ayant le droit d'utiliser le logiciel peut faire une copie de sa
 préserver l'utilisation du logiciel. 
 
 III. La personne ayant le droit d'utiliser le logiciel peut sans l'autorisation de l'auteur observer, étudier ou tester le
-fonctionnement de ce logiciel afin de déterminer les idées et principes qui sont à la base de n'importe quel élément du
-logiciel lorsqu'elle effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de stockage du
-logiciel qu'elle est en droit d'effectuer. 
+fonctionnement ou la sécurité de ce logiciel afin de déterminer les idées et principes qui sont à la base de n'importe quel
+élément du logiciel lorsqu'elle effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de
+stockage du logiciel qu'elle est en droit d'effectuer. 
 
 IV. La reproduction du code du logiciel ou la traduction de la forme de ce code n'est pas soumise à l'autorisation de
 l'auteur lorsque la reproduction ou la traduction au sens du 1° ou du 2° de l'article L. 122-6 est indispensable pour obtenir
@@ -1407,15 +1407,11 @@ Toute stipulation contraire aux dispositions prévues aux II, III et IV du prés
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°94-361 1994-05-10 art. 11 *champ d'application*
-
-	**Créé par**:
-
-	  - Loi n°94-361 du 10 mai 1994 - art. 5 () JORF 11 mai 1994
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 25
 
 	**Cité par**:
 
