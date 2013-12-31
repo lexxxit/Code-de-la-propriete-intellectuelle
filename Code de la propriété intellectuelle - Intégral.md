@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2013-12-30
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -35070,7 +35070,8 @@ Agents non titulaires :
 du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
 
 - règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des
-transports, de l'aménagement et des réseaux et des centres d'études techniques de l'équipement ;
+transports, de l'aménagement et des réseaux et des centre d'études et d'expertise sur les risques, l'environnement, la
+mobilité et l'aménagement ;
 
 - règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études
 techniques des routes et autoroutes ;
@@ -35226,8 +35227,7 @@ doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obten
 
 	**Modifié par**:
 
-	  - Décret n°2012-279 du 28 février 2012 - art. 48 (V)
-	  - Décret n°2012-1002 du 29 août 2012 - art. 12 (VD)
+	  - Décret n°2013-1273 du 27 décembre 2013 - art. 26
 
 
 ###### Article R611-11
