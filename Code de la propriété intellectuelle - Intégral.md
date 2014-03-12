@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-03-13
 
 # Partie législative
 
@@ -5893,13 +5893,13 @@ justificatifs déterminés par les ministres chargés de la culture et de l'éco
 ###### Article L321-1
 
 Les sociétés de perception et de répartition des droits d'auteur et des droits des artistes-interprètes et des producteurs de
-phonogrammes et de vidéogrammes sont constituées sous forme de sociétés civiles.
+phonogrammes et de vidéogrammes sont constituées sous forme de sociétés civiles. 
 
 Les associés doivent être des auteurs, des artistes-interprètes, des producteurs de phonogrammes ou de vidéogrammes, des
 éditeurs, ou leurs ayants droit. Ces sociétés civiles régulièrement constituées ont qualité pour ester en justice pour la
-défense des droits dont elles ont statutairement la charge.
+défense des droits dont elles ont statutairement la charge. 
 
-Les actions en paiement des droits perçus par ces sociétés civiles se prescrivent par dix ans à compter de la date de leur
+Les actions en paiement des droits perçus par ces sociétés civiles se prescrivent par cinq ans à compter de la date de leur
 perception, ce délai étant suspendu jusqu'à la date de leur mise en répartition.
 
 **Liens relatifs à cet article**
@@ -5922,15 +5922,11 @@ perception, ce délai étant suspendu jusqu'à la date de leur mise en répartit
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°97-283 1997-03-27 art. 19 *champ d'application*
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°98-536 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L321-2
@@ -6150,10 +6146,9 @@ leurs destinataires n'ont pas pu être identifiés ou retrouvés avant l'expirat
 l'article L. 321-1. 
 
 Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à compter de la fin de la cinquième année suivant
-la date de leur mise en répartition, sans préjudice des demandes de paiement des droits non prescrits. La répartition des
-sommes correspondantes, qui ne peut bénéficier à un organisme unique, est soumise à un vote de l'assemblée générale de la
-société, qui se prononce à la majorité des deux tiers. A défaut d'une telle majorité, une nouvelle assemblée générale,
-convoquée spécialement à cet effet, statue à la majorité simple. 
+la date de leur mise en répartition. La répartition des sommes correspondantes, qui ne peut bénéficier à un organisme unique,
+est soumise à un vote de l'assemblée générale de la société, qui se prononce à la majorité des deux tiers. A défaut d'une
+telle majorité, une nouvelle assemblée générale, convoquée spécialement à cet effet, statue à la majorité simple. 
 
 Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de
 répartition des droits au ministre chargé de la culture et aux commissions permanentes compétentes de l'Assemblée nationale
@@ -6172,7 +6167,7 @@ des informations contenues dans ce rapport. Il établit à cet effet un rapport 
 
 	**Modifié par**:
 
-	  - Loi n°2011-1898 du 20 décembre 2011 - art. 5
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 	**Cite**:
 
@@ -6424,53 +6419,52 @@ comptables ou commerciaux ou l'accès aux informations pertinentes.
 
 ###### Article L331-1-2
 
-Si la demande lui est faite, la juridiction saisie d'une procédure civile prévue aux livres Ier, II et III de la première
-partie peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des marchandises
-et services qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le
-défendeur ou par toute personne qui a été trouvée en possession de telles marchandises ou fournissant de tels services ou a
-été signalée comme intervenant dans la production, la fabrication ou la distribution de ces marchandises ou la fourniture de
-ces services.
+Si la demande lui est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue aux livres Ier, II et
+III de la première partie peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de
+distribution des marchandises et services qui portent prétendument atteinte aux droits du demandeur, la production de tous
+documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de telles
+marchandises ou fournissant de tels services ou a été signalée comme intervenant dans la production, la fabrication ou la
+distribution de ces marchandises ou la fourniture de ces services. 
 
 La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des
-marchandises ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les
-marchandises ou services en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 32 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 3
 
 
 ###### Article L331-1-3
 
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
-manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte aux droits et le préjudice
-moral causé au titulaire de ces droits du fait de l'atteinte.
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de l'atteinte aux droits, dont le manque à gagner et la perte subis par la partie
+lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par l'auteur de l'atteinte aux droits, y compris les économies d'investissements intellectuels,
+matériels et promotionnels que celui-ci a retirées de l'atteinte aux droits. 
 
 Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
-intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si
-l'auteur de l'atteinte avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+intérêts une somme forfaitaire. Cette somme est supérieure au montant des redevances ou droits qui auraient été dus si
+l'auteur de l'atteinte avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte. Cette somme n'est pas
+exclusive de l'indemnisation du préjudice moral causé à la partie lésée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 32 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 2
 
 
 ###### Article L331-1-4
@@ -7984,40 +7978,47 @@ la protection des droits sur internet et au plus tard le 1er novembre 2009.
 
 ###### Article L332-1
 
-Les commissaires de police et, dans les lieux où il n'y a pas de commissaire de police, les juges d'instance, sont tenus, à
-la demande de tout auteur d'une oeuvre protégée par le livre Ier, de ses ayants droit ou de ses ayants cause, de saisir les
-exemplaires constituant une reproduction illicite de cette oeuvre ou tout exemplaire, produit, appareil, dispositif,
-composant ou moyen portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L.
-331-5 et L. 331-11 ; 
+Tout auteur d'une œuvre protégée par le livre Ier de la présente partie, ses ayants droit ou ses ayants cause peuvent agir en
+contrefaçon. A cet effet, ces personnes sont en droit de faire procéder par tous huissiers, le cas échéant assistés par des
+experts désignés par le demandeur, sur ordonnance rendue sur requête par la juridiction civile compétente, soit à la
+description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des œuvres prétendument
+contrefaisantes ainsi que de tout document s'y rapportant. L'ordonnance peut autoriser la saisie réelle de tout document se
+rapportant aux œuvres prétendument contrefaisantes en l'absence de ces dernières. 
 
-Si la saisie doit avoir pour effet de retarder ou de suspendre des représentations ou des exécutions publiques en cours ou
-déjà annoncées, une autorisation spéciale doit être obtenue du président du tribunal de grande instance, par ordonnance
-rendue sur requête. Le président du tribunal de grande instance peut également, dans la même forme, ordonner : 
+La juridiction peut ordonner la description détaillée ou la saisie réelle des matériels et instruments utilisés pour produire
+ou distribuer illicitement les œuvres. 
 
-1° La suspension de toute fabrication en cours tendant à la reproduction illicite d'une oeuvre ou à la réalisation d'une
-atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-11 ; 
+A cet effet, la juridiction peut ordonner : 
 
-2° La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'oeuvre, déjà
+1° La saisie des exemplaires constituant une reproduction illicite d'une œuvre de l'esprit protégée par le livre Ier de la
+présente partie ou de tout exemplaire, produit, appareil, dispositif, composant ou moyen portant atteinte aux mesures
+techniques et aux informations mentionnées, respectivement, aux articles L. 331-5 et L. 331-11 ; 
+
+2° La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'œuvre, déjà
 fabriqués ou en cours de fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou moyens, fabriqués
-ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux
-articles L. 331-5 et L. 331-11, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ; il peut également
-ordonner la saisie réelle des matériels et instruments utilisés pour produire ou distribuer illicitement les oeuvres, ainsi
-que de tout document s'y rapportant ; 
+ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées, respectivement, aux
+articles L. 331-5 et L. 331-11, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ; 
 
 3° La saisie des recettes provenant de toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une
-oeuvre de l'esprit, effectuée en violation des droits de l'auteur ou provenant d'une atteinte aux mesures techniques et aux
-informations mentionnées respectivement aux articles L. 331-5 et L. 331-11 ; 
+œuvre de l'esprit, effectuée en violation des droits de l'auteur ou provenant d'une atteinte aux mesures techniques et aux
+informations mentionnées, respectivement, aux articles L. 331-5 et L. 331-11 ; 
 
-4° (Abrogé) ; 
+4° La saisie réelle des œuvres illicites ou produits soupçonnés de porter atteinte à un droit d'auteur ou leur remise entre
+les mains d'un tiers afin d'empêcher leur introduction ou leur circulation dans les circuits commerciaux. 
 
-5° La saisie réelle des oeuvres illicites ou produits soupçonnés de porter atteinte à un droit d'auteur, ou leur remise entre
-les mains d'un tiers afin d'empêcher leur introduction ou leur circulation dans les circuits commerciaux ; 
+La juridiction civile compétente peut également ordonner : 
 
-Le président du tribunal de grande instance peut, dans les mêmes formes, ordonner les mesures prévues aux 1° à 5° à la
-demande des titulaires de droits voisins définis au livre II. 
+a) La suspension ou la prorogation des représentations ou des exécutions publiques en cours ou déjà annoncées ; 
 
-Le président du tribunal de grande instance peut, dans les ordonnances prévues ci-dessus, ordonner la constitution préalable
-de garanties par le saisissant.
+b) La suspension de toute fabrication en cours tendant à la reproduction illicite d'une œuvre ou à la réalisation d'une
+atteinte aux mesures techniques et aux informations mentionnées, respectivement, aux articles L. 331-5 et L. 331-11. 
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
+assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
+annulée. 
+
+Elle peut, dans les mêmes formes, ordonner les mesures prévues au présent article à la demande des titulaires de droits
+voisins définis au livre II de la présente partie.
 
 **Liens relatifs à cet article**
 
@@ -8027,8 +8028,7 @@ de garanties par le saisissant.
 
 	**Modifié par**:
 
-	  - Loi n°2009-669 du 12 juin 2009 - art. 3
-	  - Loi n°2009-669 du 12 juin 2009 - art. 7
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cite**:
 
@@ -8041,6 +8041,19 @@ de garanties par le saisissant.
 	  - Code de la propriété intellectuelle - art. R332-1 (Ab)
 	  - Code de la propriété intellectuelle - art. R332-2 (V)
 	  - Code de la propriété intellectuelle - art. R332-3 (V)
+
+
+###### Article L332-1-1
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles, même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 332-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 
 ###### Article L332-2
@@ -8077,8 +8090,10 @@ l'auteur pourrait prétendre.
 
 ###### Article L332-3
 
-Faute par le saisissant de saisir la juridiction compétente dans un délai fixé par voie réglementaire, mainlevée de cette
-saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le président du tribunal, statuant en référé.
+A défaut pour le saisissant, dans un délai fixé par voie réglementaire, soit de s'être pourvu au fond, par la voie civile ou
+pénale, soit d'avoir déposé une plainte devant le procureur de la République, l'intégralité de la saisie, y compris la
+description, est annulée à la demande du saisi ou du tiers saisi, sans que celui-ci ait à motiver sa demande et sans
+préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -8088,11 +8103,11 @@ saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le pr
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 36 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 5
 
 	**Cité par**:
 
@@ -8102,18 +8117,29 @@ saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le pr
 
 ###### Article L332-4
 
-En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur
-requête par le président du tribunal de grande instance. Le président peut ordonner la saisie réelle des objets réalisés ou
-fabriqués illicitement ainsi que celle des matériels et instruments utilisés pour produire ou distribuer illicitement un
-logiciel ou une base de données ainsi que de tout document s'y rapportant.
+La contrefaçon de logiciels et de bases de données peut être prouvée par tout moyen. 
 
-L'huissier instrumentaire ou le commissaire de police peut être assisté d'un expert désigné par le requérant.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
+huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle du logiciel ou de la base de données prétendument contrefaisants ainsi que de tout document s'y rapportant. La saisie-
+description peut se concrétiser par une copie des logiciels ou des bases de données prétendument contrefaisants. 
 
-A défaut d'assignation ou de citation dans un délai fixé par voie réglementaire, la saisie-contrefaçon est nulle.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour produire ou distribuer un logiciel ou une base de données prétendument contrefaisants, ainsi que de
+tout document s'y rapportant. 
 
-En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de
-données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se
-concrétiser par une copie.
+L'ordonnance peut autoriser la saisie réelle de tout document se rapportant aux logiciels, bases de données, matériels et
+instruments mentionnés aux deuxième et troisième alinéas en l'absence de ces derniers. 
+
+La juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties
+destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou
+la saisie annulée. 
+
+A défaut pour le demandeur, dans un délai fixé par voie réglementaire, soit de s'être pourvu au fond, par la voie civile ou
+pénale, soit d'avoir déposé une plainte devant le procureur de la République, l'intégralité de la saisie, y compris la
+description, est annulée à la demande du saisi ou du tiers saisi, sans que celui-ci ait à motiver sa demande et sans
+préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -8123,11 +8149,11 @@ concrétiser par une copie.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 37 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cité par**:
 
@@ -8271,12 +8297,13 @@ matériels spécialement installés en vue de tels agissements.
 
 Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en
 entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon et toute
-contrefaçon est un délit.
+contrefaçon est un délit. 
 
 La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de trois ans d'emprisonnement et de 300 000
-euros d'amende.
+euros d'amende. 
 
-Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaisants.
+Seront punis des mêmes peines le débit, l'exportation, l'importation, le transbordement ou la détention aux fins précitées
+des ouvrages contrefaisants. 
 
 Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans
 d'emprisonnement et à 500 000 euros d'amende.
@@ -8285,7 +8312,7 @@ d'emprisonnement et à 500 000 euros d'amende.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -8309,7 +8336,7 @@ d'emprisonnement et à 500 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 	**Anciens textes**:
 
@@ -8453,8 +8480,9 @@ disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'
 vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur
 de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle. 
 
-Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation
-du producteur ou de l'artiste-interprète, lorsqu'elle est exigée. 
+Sont punis des mêmes peines  l'importation, l'exportation, le transbordement ou la détention aux fins précitées de
+phonogrammes ou de vidéogrammes réalisée sans l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est
+exigée. 
 
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement de la rémunération due à l'auteur, à l'artiste-
 interprète ou au producteur de phonogrammes ou de vidéogrammes au titre de la copie privée ou de la communication publique
@@ -8470,7 +8498,7 @@ d'emprisonnement et à 500 000 euros d'amende.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -8483,11 +8511,11 @@ d'emprisonnement et à 500 000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 34 () JORF 10 mars 2004
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L133-3 (V)
+	  - Code de la propriété intellectuelle - art. L133-3
 
 
 ###### Article L335-4-1
@@ -8803,38 +8831,56 @@ lésée, les peines encourues sont portées au double.
 	  - Loi n°2009-526 du 12 mai 2009 - art. 122
 
 
+##### Chapitre V bis : La retenue
+
 ###### Article L335-10
 
-L'administration des douanes peut, sur demande écrite du titulaire d'un droit d'auteur ou d'un droit voisin, assortie de
-justifications de son droit dans les conditions prévues par décret en Conseil d'Etat, retenir dans le cadre de ses contrôles
-les marchandises que celui-ci prétend constituer une contrefaçon de ce droit. 
+En dehors des cas prévus par la réglementation de l'Union européenne, l'administration des douanes peut, sur demande écrite
+du titulaire d'un droit d'auteur ou d'un droit voisin, assortie des justifications de son droit, retenir dans le cadre de ses
+contrôles les marchandises que celui-ci prétend constituer une contrefaçon. 
 
-Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans
-délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé. 
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes. 
 
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de
-la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au titulaire du droit d'auteur ou du droit voisin,
+par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être communiquées avant la mise en
+œuvre de la mesure prévue au présent article. 
 
-- soit des mesures conservatoires prévues par l'article L. 332-1 ;
+Sous réserve des procédures prévues aux articles L. 335-14 et L. 335-15 du présent code, la mesure de retenue est levée de
+plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès de l'administration des douanes
+soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la
+voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises
+au cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours ouvrables prévu au présent alinéa de dix jours
+ouvrables maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et
+le détenteur des marchandises en sont informés. 
 
-- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour
-couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue. 
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur. 
 
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration
-des douanes communication des noms et adresses de l'expéditeur, de l'importateur et du destinataire des marchandises
-retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des
-douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes. 
+Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir
+de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du
+déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur
+leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
 
-La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou
-mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire
-douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la
-Communauté européenne, pour y être légalement commercialisées.
+La retenue mentionnée au premier alinéa du présent article ne porte pas : 
+
+1° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de
+l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à
+être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ; 
+
+2° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre
+de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir
+transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union
+européenne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -8845,7 +8891,6 @@ Communauté européenne, pour y être légalement commercialisées.
 	  - Arrêté du 29 juin 2015 (V)
 	  - Code de la propriété intellectuelle - art. L335-11 (V)
 	  - Code de la propriété intellectuelle - art. L335-13 (V)
-	  - Code de la propriété intellectuelle - art. L335-14 (V)
 	  - Code de la propriété intellectuelle - art. L335-15 (V)
 	  - Code de la propriété intellectuelle - art. L335-17 (V)
 	  - Code de la propriété intellectuelle - art. L335-18 (V)
@@ -8853,12 +8898,274 @@ Communauté européenne, pour y être légalement commercialisées.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 84 () JORF 2 août 2003
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L332-1 (V)
-	  - Code des douanes - art. 59 bis (V)
+	  - Code de la propriété intellectuelle - art. L335-14
+	  - Code des douanes - art. 1
+
+
+###### Article L335-11
+
+En l'absence de demande écrite du titulaire d'un droit d'auteur ou d'un droit voisin et en dehors des cas prévus par la
+réglementation de l'Union européenne, l'administration des douanes peut, dans le cadre de ses contrôles, retenir des
+marchandises susceptibles de porter atteinte à un droit d'auteur ou à un droit voisin. 
+
+Cette retenue est immédiatement notifiée au titulaire du droit d'auteur ou du droit voisin. Le procureur de la République est
+également informé de ladite mesure par l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au titulaire du droit d'auteur ou du droit voisin,
+par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être communiquées avant la mise en
+œuvre de la mesure prévue au présent article. 
+
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du titulaire du droit d'auteur ou
+du droit voisin la demande prévue à l'article L. 335-10 du présent code, déposée dans un délai de quatre jours ouvrables à
+compter de la notification de la retenue mentionnée à la première phrase du deuxième alinéa du présent article. 
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 335-10 commence à courir à compter de l'acceptation de cette demande par l'administration
+des douanes. 
+
+Le présent article n'est pas applicable aux marchandises périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L335-14 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L335-12
+
+I. ― Lorsque la retenue prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'un droit d'auteur ou d'un droit voisin est mise en œuvre avant qu'une demande du titulaire du
+droit ait été déposée ou acceptée, les agents des douanes peuvent, par dérogation à l'article 59 bis du code des douanes,
+informer ce titulaire de la mise en œuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur
+la quantité des marchandises et leur nature. 
+
+Lorsque la retenue prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'un droit d'auteur ou d'un droit voisin est mise en œuvre après qu'une demande du titulaire du
+droit a été acceptée, les agents des douanes peuvent également communiquer à ce titulaire les informations prévues par cette
+réglementation, nécessaires pour déterminer s'il y a eu violation de son droit. 
+
+II. ― Les frais générés par la mise en œuvre de la retenue mentionnée au I sont à la charge du titulaire du droit d'auteur ou
+du droit voisin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L335-13 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L335-13
+
+Pendant le délai de la retenue mentionnée à l'article L. 335-10 et au second alinéa du I de l'article L. 335-12, le titulaire
+du droit d'auteur ou du droit voisin peut, à sa demande ou à la demande de l'administration des douanes, inspecter les
+marchandises retenues. 
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons. A la demande
+du titulaire du droit d'auteur ou du droit voisin, ces échantillons peuvent lui être remis aux seules fins d'analyse et en
+vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
+	  - Code de la propriété intellectuelle - art. L335-12
+
+
+###### Article L335-14
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de droit d'auteur ou de droit
+voisin est mise en œuvre après qu'une demande mentionnée à l'article L. 335-10 a été acceptée, les marchandises soupçonnées
+de porter atteinte à un droit d'auteur ou un droit voisin enregistré peuvent être détruites sous le contrôle des agents des
+douanes dès lors que les conditions suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II. ― Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction
+des marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à
+cette destruction. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur, lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+335-10. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En
+cas de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 335-10, la mesure de
+retenue est levée de plein droit. 
+
+IV. ― Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 335-10 et L. 335-11, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 335-10 peuvent également être communiquées au demandeur aux fins de mise en œuvre
+de la présente mesure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Arrêté du 29 juin 2015 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-11
+
+
+###### Article L335-15
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de droit d'auteur ou de droit
+voisin est mise en œuvre après qu'une demande mentionnée à l'article L. 335-10 a été acceptée, les marchandises transportées
+en petits envois peuvent être détruites sous le contrôle des agents des douanes lorsque le demandeur a, dans sa demande,
+sollicité le recours à la procédure prévue au présent article. 
+
+II. ― La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 335-10 est faite dans un délai d'un
+jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de
+détruire ou non les marchandises et indique que : 
+
+1° Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour
+faire connaître à l'administration des douanes ses observations ; 
+
+2° Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en
+retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de
+silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction. 
+
+L'administration des douanes communique au demandeur, sur requête de celui-ci, les informations relatives à la quantité
+réelle ou estimée des marchandises détruites et à leur nature. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction ou lorsqu'il n'est
+pas réputé avoir consenti à leur destruction, l'administration des douanes en informe immédiatement le demandeur et lui
+communique la quantité, la nature ainsi que des images des marchandises. 
+
+IV. ― La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à
+compter de l'information prévue au III du présent article, de justifier auprès de l'administration des douanes qu'il a pris
+les mesures mentionnées au quatrième alinéa de l'article L. 335-10. 
+
+En vue de prendre ces mesures, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de
+l'expéditeur, de l'importateur, du destinataire et du détenteur des marchandises retenues ainsi que de leur quantité, leur
+origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+V. ― La définition des petits envois mentionnés au I du présent article est précisée par arrêté du ministre chargé des
+douanes. 
+
+VI. ― Le présent article n'est pas applicable aux denrées périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L335-16
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
+abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L335-17
+
+En vue de prononcer les mesures prévues aux articles L. 335-10 à L. 335-13, les agents des douanes appliquent les pouvoirs
+qui leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
+
+
+###### Article L335-18
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 335-10 à L. 335-16 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à un droit d'auteur
+ou à un droit voisin prévue par la réglementation européenne en vigueur ainsi que les conditions du prélèvement
+d'échantillons préalable à ladite destruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
 
 
 ##### Chapitre VI : Prévention du téléchargement et de la mise à disposition illicites d'œuvres et d'objets protégés par un droit d'auteur ou un droit voisin
@@ -9261,12 +9568,16 @@ compétente, soit à la description détaillée, avec ou sans prélèvement d'é
 prétendument atteinte aux droits du producteur de bases de données, soit à la saisie réelle de ces supports ou produits ainsi
 que de tout document s'y rapportant. 
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
-produire ou distribuer les supports ou produits portant prétendument atteinte aux droits du producteur de bases de données. 
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour produire ou distribuer les supports ou produits portant prétendument atteinte aux droits du
+producteur de bases de données, ainsi que de tout document s'y rapportant. 
 
-Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
-assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non
-fondée ou si la mainlevée de la saisie est prononcée. 
+L'ordonnance peut autoriser la saisie réelle de tout document se rapportant aux supports, produits, matériels et instruments
+mentionnés aux deuxième et troisième alinéas en l'absence de ces derniers. 
+
+La juridiction  peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties
+destinées à assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement
+jugée non fondée ou si la mainlevée de la saisie est prononcée. 
 
 La mainlevée de la saisie peut être prononcée selon les modalités prévues par les articles L. 332-2 et L. 332-3.
 
@@ -9274,16 +9585,16 @@ La mainlevée de la saisie peut être prononcée selon les modalités prévues p
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L332-2 (V)
-	  - Code de la propriété intellectuelle - art. L332-3 (V)
+	  - Code de la propriété intellectuelle - art. L332-2
+	  - Code de la propriété intellectuelle - art. L332-3
 
 	**Cité par**:
 
@@ -9294,6 +9605,23 @@ La mainlevée de la saisie peut être prononcée selon les modalités prévues p
 	**Nouveaux textes**:
 
 	  - Code de la propriété intellectuelle - art. L343-4 (V)
+
+
+###### Article L343-1-1
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles, même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 343-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L343-1
 
 
 ###### Article L343-2
@@ -9321,19 +9649,20 @@ par le demandeur de garanties destinées à assurer l'indemnisation éventuelle 
 présent titre est ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits du producteur de bases de données sont ordonnées avant
-l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie
-réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont
-annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+l'engagement d'une action au fond, le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie
+civile ou pénale, soit déposer une plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans
+que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui
+peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 39 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
 
 	**Cité par**:
 
@@ -10164,6 +10493,32 @@ présidée par un magistrat de l'ordre judiciaire.
 	  - Code de la propriété intellectuelle - art. R423-1 (V)
 
 
+###### Article L422-10-1
+
+La formation continue est obligatoire pour les conseils en propriété industrielle inscrits sur la liste mentionnée au
+troisième alinéa de l'article L. 422-1. 
+
+La Compagnie nationale des conseils en propriété industrielle contrôle le respect de cette obligation. 
+
+Un décret en Conseil d'Etat détermine la nature et la durée des activités susceptibles d'être validées au titre de
+l'obligation de formation continue, ainsi que les modalités de son contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 17
+
+	**Cité par**:
+
+	  - Décret n°2015-515 du 7 mai 2015 (V)
+	  - Code de la propriété intellectuelle - art. R422-55-1 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-1
+
+
 ###### Article L422-11
 
 En toute matière et pour tous les services mentionnés à l'article L. 422-1, le conseil en propriété industrielle observe le
@@ -10612,9 +10967,9 @@ L'auteur de la demande d'enregistrement est, sauf preuve contraire, regardé com
 ###### Article L511-10
 
 Si un dessin ou modèle a été déposé en fraude des droits d'un tiers ou en violation d'une obligation légale ou
-conventionnelle, la personne qui estime avoir un droit sur le dessin ou modèle peut en revendiquer en justice la propriété.
+conventionnelle, la personne qui estime avoir un droit sur le dessin ou modèle peut en revendiquer en justice la propriété. 
 
-L'action en revendication de propriété se prescrit par trois ans à compter de la publication de l'enregistrement du dessin ou
+L'action en revendication de propriété se prescrit par cinq ans à compter de la publication de l'enregistrement du dessin ou
 modèle ou, en cas de mauvaise foi, au moment de la publication de l'enregistrement ou de l'acquisition du dessin ou modèle, à
 compter de l'expiration de la période de protection.
 
@@ -10622,15 +10977,11 @@ compter de l'expiration de la période de protection.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L511-11
@@ -10945,21 +11296,14 @@ d'obtenir la réparation du préjudice qui lui est propre.
 ###### Article L513-4
 
 Sont interdits, à défaut du consentement du propriétaire du dessin ou modèle, la fabrication, l'offre, la mise sur le marché,
-l'importation, l'exportation, l'utilisation, ou la détention à ces fins, d'un produit incorporant le dessin ou modèle.
+l'importation,   l'exportation, le transbordement, l'utilisation, ou la détention à ces fins, d'un produit incorporant le
+dessin ou modèle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2001-670 2001-07-25 art. 5 *dispositions applicables aux DOM - TOM*
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-670 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -10968,6 +11312,10 @@ l'importation, l'exportation, l'utilisation, ou la détention à ces fins, d'un 
 	  - Code des douanes - art. 38 (VD)
 	  - Code des douanes - art. 67 bis (V)
 	  - Code des douanes - art. 67 bis-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 
 ###### Article L513-5
@@ -11196,22 +11544,17 @@ afin d'obtenir la réparation du préjudice qui lui est propre.
 
 ###### Article L521-3
 
-L'action civile en contrefaçon se prescrit par trois ans à compter des faits qui en sont la cause.
+L'action civile en contrefaçon se prescrit par cinq ans à compter des faits qui en sont la cause.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1909-07-14 art. 11
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L521-3-1
@@ -11236,19 +11579,20 @@ et 2060 du code civil.
 
 ###### Article L521-4
 
-La contrefaçon peut être prouvée par tous moyens.
+La contrefaçon peut être prouvée par tous moyens. 
 
 A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
-huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
-civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
-objets prétendus contrefaisants ainsi que de tout document s'y rapportant.
+huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle des objets prétendus contrefaisants ainsi que de tout document s'y rapportant. L'ordonnance peut autoriser la saisie
+réelle de tout document se rapportant aux objets prétendus contrefaisants en l'absence de ces derniers. 
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
-produire ou distribuer les objets prétendus contrefaisants.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour produire ou distribuer les objets prétendus contrefaisants. 
 
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
 assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
-annulée.
+annulée. 
 
 A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
 l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
@@ -11262,7 +11606,7 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -11278,34 +11622,42 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
+
+
+###### Article L521-4-1
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles, même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 521-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-4
 
 
 ###### Article L521-5
 
-Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
-sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte
-aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a
-été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon
-ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la
-fourniture de ces services.
+Si la demande lui en est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue au présent titre
+peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits argués de
+contrefaçon qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le
+défendeur ou par toute personne qui a été trouvée en possession de produits argués de contrefaçon ou qui fournit des services
+utilisés dans de prétendues activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la
+fabrication ou la distribution de ces produits ou la fourniture de ces services. 
 
 La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
-ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que le prix obtenu pour les produits ou
-services en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -11313,8 +11665,7 @@ services en cause.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 3
 
 
 ###### Article L521-6
@@ -11345,15 +11696,15 @@ par le demandeur de garanties destinées à assurer l'indemnisation éventuelle 
 ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
-le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
-du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
-et intérêts qui peuvent être réclamés.
+le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
+plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
+demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -11363,8 +11714,7 @@ et intérêts qui peuvent être réclamés.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
 
 	**Nouveaux textes**:
 
@@ -11373,19 +11723,25 @@ et intérêts qui peuvent être réclamés.
 
 ###### Article L521-7
 
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
-manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
-titulaire des droits du fait de l'atteinte.
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et
+promotionnels que celui-ci a retirées de la contrefaçon. 
 
 Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
-intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
-contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+intérêts une somme forfaitaire. Cette somme est supérieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte. Cette somme n'est pas exclusive de
+l'indemnisation du préjudice moral causé à la partie lésée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -11394,8 +11750,7 @@ contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a port
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 2 () JORF 30 octobre 2007
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 3 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 2
 
 
 ###### Article L521-8
@@ -11558,6 +11913,8 @@ métiers, ainsi que pour les conseils de prud'hommes.
 	  - Code de la propriété intellectuelle - art. L521-6 (T)
 
 
+##### Chapitre Ier bis : La retenue
+
 ###### Article L521-14
 
 En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande
@@ -11565,26 +11922,32 @@ En dehors des cas prévus par la réglementation communautaire en vigueur, l'adm
 justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une
 contrefaçon. 
 
-Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai,
-par les services douaniers, de la retenue à laquelle ces derniers ont procédé. 
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes. 
 
-Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises sont communiquées
-au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article
-59 bis du code des douanes. 
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature, la quantité réelle
+ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire du droit
+exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
+communiquées avant la mise en œuvre de la mesure de retenue prévue par le présent article. 
 
-La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois
-jours ouvrables s'il s'agit de denrées périssables, à compter de la notification de la retenue des marchandises, de justifier
-auprès des services douaniers, soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être
-pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation
-éventuelle du détenteur des marchandises au cas où la contrefaçon ne serait pas ultérieurement reconnue. 
+Sous réserve des procédures prévues aux articles L. 521-17-1 et L. 521-17-2, la mesure de retenue est levée de plein droit à
+défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers, soit de
+mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la voie
+correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises au
+cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours, prévu au présent alinéa, de dix jours ouvrables
+maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et le
+détenteur des marchandises en sont informés. 
 
 Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
-charge du demandeur. 
+charge du demandeur, sous réserve des procédures prévues aux articles L. 521-18 et L. 521-19. 
 
 Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des
 douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de
-leur détenteur, ainsi que de leur quantité, leur origine et leur provenance par dérogation à l'article 59 bis du code des
-douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes. 
+leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance
+et leur destination par dérogation à l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus
+les agents de l'administration des douanes. 
 
 La retenue mentionnée au premier alinéa ne porte pas :
 
@@ -11602,7 +11965,7 @@ Etat non membre de la Communauté européenne.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -11621,14 +11984,15 @@ Etat non membre de la Communauté européenne.
 	  - Code de la propriété intellectuelle - art. R523-4 (Ab)
 	  - Code de la propriété intellectuelle - art. R523-5 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code des douanes - art. 1 (V)
-	  - Code des douanes - art. 59 bis (V)
+	  - Code des douanes - art. 1
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L521-15
@@ -11641,33 +12005,41 @@ un droit exclusif d'exploitation.
 Cette retenue est immédiatement notifiée au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif
 d'exploitation. Le procureur de la République est également informé de ladite mesure. 
 
-Lors de la notification visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises est communiquée
-au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article
-59 bis du code des douanes. 
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire du
+droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
+communiquées avant la mise en œuvre de la mesure de retenue prévue au présent article. 
 
-La mesure de retenue est levée de plein droit si le propriétaire du dessin ou du modèle déposé ou si le bénéficiaire du droit
-exclusif d'exploitation n'a pas déposé la demande prévue par l'article L. 521-14 du présent code dans un délai de trois jours
-ouvrables à compter de la notification de la retenue visée au deuxième alinéa du présent article.
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du propriétaire du dessin ou du
+modèle déposé ou du bénéficiaire d'un droit exclusif d'exploitation la demande prévue à l'article L. 521-14 du présent code,
+déposée dans un délai de quatre jours ouvrables à compter de la notification de la retenue mentionnée au deuxième alinéa du
+présent article. 
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 521-14 commence à courir à compter de l'acceptation de cette demande par l'administration
+des douanes. 
+
+Le présent article n'est pas applicable aux marchandises périssables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
 	  - Code de la propriété intellectuelle - art. L521-17-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L521-14 (V)
-	  - Code des douanes - art. 59 bis (V)
+	  - Code de la propriété intellectuelle - art. L521-14
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L521-16
@@ -11692,11 +12064,11 @@ charge du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -11707,16 +12079,16 @@ charge du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du
 
 	**Cite**:
 
-	  - Code des douanes - art. 59 bis (V)
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L521-17
 
-Pendant le délai de la retenue visée aux articles L. 521-14 à L. 521-16, le propriétaire du dessin ou du modèle déposé ou le
-bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de l'administration des douanes, inspecter
-les marchandises retenues. 
+Pendant le délai de la retenue visée à l'article L. 521-14 et au second alinéa du I de l'article L. 521-16, le propriétaire
+du dessin ou du modèle déposé ou le bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de
+l'administration des douanes, inspecter les marchandises retenues. 
 
-Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.A la demande
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons. A la demande
 du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent
 lui être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie
 civile ou pénale.
@@ -11725,36 +12097,163 @@ civile ou pénale.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
 	  - Code de la propriété intellectuelle - art. R523-6 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L521-14
+	  - Code de la propriété intellectuelle - art. L521-16
+
+
+###### Article L521-17-1
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un dessin et modèle déposé
+est mise en œuvre après qu'une demande mentionnée à l'article L. 521-14 a été acceptée, les marchandises soupçonnées de
+porter atteinte à un dessin et modèle déposé peuvent être détruites sous le contrôle des agents des douanes dès lors que les
+conditions suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II. ― Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction
+des marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à
+cette destruction. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+521-14. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En
+cas de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 521-14, la mesure de
+retenue est levée de plein droit. 
+
+IV. ― Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 521-14 et L. 521-15, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 521-14 peuvent également être communiquées au demandeur aux fins de mise en œuvre
+de la présente mesure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
 	  - Code de la propriété intellectuelle - art. L521-14 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-15
+
+
+###### Article L521-17-2
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un dessin et modèle déposé
+est mise en œuvre après qu'une demande mentionnée à l'article L. 521-14 a été acceptée, les marchandises transportées en
+petits envois peuvent être détruites sous le contrôle des agents des douanes lorsque le demandeur a, dans sa demande,
+sollicité le recours à la procédure prévue au présent article. 
+
+II. ― La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 521-14 est faite dans un délai d'un
+jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de
+détruire ou non les marchandises et indique que : 
+
+1° Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour
+faire connaître à l'administration des douanes ses observations ; 
+
+2° Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en
+retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de
+silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction. 
+
+L'administration des douanes communique au demandeur, sur requête de celui-ci, les informations relatives à la quantité
+réelle ou estimée des marchandises détruites et à leur nature. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction ou lorsqu'il n'est
+pas réputé avoir consenti à leur destruction, l'administration des douanes en informe immédiatement le demandeur et lui
+communique la quantité, la nature ainsi que des images des marchandises. 
+
+IV. ― La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à
+compter de l'information prévue au III du présent article, de justifier auprès de l'administration des douanes qu'il a pris
+les mesures mentionnées au quatrième alinéa de l'article L. 521-14. 
+
+En vue de prendre ces mesures, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de
+l'expéditeur, de l'importateur, du destinataire et du détenteur des marchandises retenues, ainsi que de leur quantité, leur
+origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+V. ― La définition des petits envois mentionnés au I du présent article est précisée par arrêté du ministre chargé des
+douanes. 
+
+VI. ― Le présent article n'est pas applicable aux denrées périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L521-14
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L521-17-3
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
+abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L521-18
 
-En vue de prononcer les mesures prévues aux articles L. 521-14 à L. 521-17, les agents des douanes appliquent les pouvoirs
+En vue de prononcer les mesures prévues aux articles L. 521-14 à L. 521-17-3, les agents des douanes appliquent les pouvoirs
 qui leur sont dévolus par le code des douanes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -11763,40 +12262,45 @@ qui leur sont dévolus par le code des douanes.
 
 ###### Article L521-19
 
-Les conditions d'application des mesures prévues aux articles L. 521-14 à L. 521-18 sont définies par décret en Conseil
-d'Etat.
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 521-14 à L. 521-17-3 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de constituer une contrefaçon d'un
+dessin ou modèle, prévue par la réglementation de l'Union européenne, ainsi que les conditions du prélèvement d'échantillons
+préalable à ladite destruction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 5 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L521-14 (V)
+	  - Code de la propriété intellectuelle - art. L521-14
 
 
 ##### Chapitre II : Contentieux des dessins ou modèles communautaires
 
 ###### Article L522-1
 
-Les dispositions du chapitre Ier du présent titre sont applicables aux atteintes portées aux droits du propriétaire d'un
-dessin ou modèle communautaire.
+Les chapitres Ier et Ier bis du présent titre sont applicables aux atteintes portées aux droits du propriétaire d'un dessin
+ou modèle communautaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 6 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 
 ###### Article L522-2
@@ -12108,27 +12612,23 @@ toutes autres personnes morales de droit public, selon des modalités qui sont f
 
 Si un titre de propriété industrielle a été demandé soit pour une invention soustraite à l'inventeur ou à ses ayants cause,
 soit en violation d'une obligation légale ou conventionnelle, la personne lésée peut revendiquer la propriété de la demande
-ou du titre délivré.
+ou du titre délivré. 
 
-L'action en revendication se prescrit par trois ans à compter de la publication de la délivrance du titre de propriété
-industrielle.
+L'action en revendication se prescrit par cinq ans à compter de la publication de la délivrance du titre de propriété
+industrielle. 
 
 Toutefois, en cas de mauvaise foi au moment de la délivrance ou de l'acquisition du titre, le délai de prescription est de
-trois ans à compter de l'expiration du titre.
+cinq ans à compter de l'expiration du titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°68-1 du 2 janvier 1968 - art. 2 (Ab)
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 	**Cité par**:
 
@@ -13529,15 +14029,15 @@ le marché, dès lors que la matière obtenue n'est pas utilisée ensuite pour d
 
 Sont interdites, à défaut de consentement du propriétaire du brevet :
 
-a) La fabrication, l'offre, la mise dans le commerce, l'utilisation ou bien l'importation ou la détention aux fins précitées
-du produit objet du brevet ;
+a) La fabrication, l'offre, la mise dans le commerce, l'utilisation, l'importation, l'exportation, le transbordement, ou la
+détention aux fins précitées du produit objet du brevet ;
 
 b) L'utilisation d'un procédé objet du brevet ou, lorsque le tiers sait ou lorsque les circonstances rendent évident que
 l'utilisation du procédé est interdite sans le consentement du propriétaire du brevet, l'offre de son utilisation sur le
 territoire français ;
 
-c) L'offre, la mise dans le commerce ou l'utilisation ou bien l'importation ou la détention aux fins précitées du produit
-obtenu directement par le procédé objet du brevet.
+c) L'offre, la mise dans le commerce, l'utilisation, l'importation, l'exportation, le transbordement ou la détention aux fins
+précitées du produit obtenu directement par le procédé objet du brevet.
 
 **Liens relatifs à cet article**
 
@@ -13547,11 +14047,7 @@ obtenu directement par le procédé objet du brevet.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -13563,9 +14059,9 @@ obtenu directement par le procédé objet du brevet.
 	  - Code des douanes - art. 67 bis (V)
 	  - Code des douanes - art. 67 bis-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de la propriété intellectuelle L615-14 *sanctions pénales*
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 
 ###### Article L613-4
@@ -15692,6 +16188,298 @@ l'alinéa précédent.
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
 
 
+##### Chapitre IV bis :  La retenue
+
+###### Article L614-32
+
+En dehors des cas prévus par la réglementation de l'Union européenne, l'administration des douanes peut, sur demande écrite
+du propriétaire d'un brevet ou d'un certificat complémentaire de protection rattaché à un brevet ou d'une personne habilitée
+à exploiter l'invention brevetée ou objet du certificat complémentaire d'exploitation, assortie des justifications de son
+droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon. 
+
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du brevet ou du certificat
+complémentaire de protection rattaché à un brevet ou à la personne habilitée à exploiter l'invention brevetée ou objet du
+certificat complémentaire d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent
+également être communiquées avant la mise en œuvre de la mesure prévue au présent article. 
+
+Sous réserve des procédures prévues aux articles L. 614-36 et L. 614-37 du présent code, la mesure de retenue est levée de
+plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès de l'administration des douanes
+soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la
+voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises
+au cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours ouvrables prévu au présent alinéa de dix jours
+ouvrables maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et
+le détenteur des marchandises en sont informés. 
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur. 
+
+Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir
+de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du
+déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur
+leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+La retenue mentionnée au premier alinéa du présent article ne porte pas : 
+
+1° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de
+l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à
+être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ; 
+
+2° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre
+de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir
+transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Décret n°2015-427 du 15 avril 2015 (V)
+	  - Arrêté du 29 juin 2015 (V)
+	  - Code de la propriété intellectuelle - art. L614-33 (V)
+	  - Code de la propriété intellectuelle - art. L614-35 (V)
+	  - Code de la propriété intellectuelle - art. L614-38 (V)
+	  - Code de la propriété intellectuelle - art. L614-39 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-36
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L614-33
+
+En l'absence de demande écrite du propriétaire d'un brevet ou d'un certificat complémentaire de protection rattaché à un
+brevet ou d'une personne habilitée à exploiter l'invention brevetée ou objet du certificat complémentaire d'exploitation et
+en dehors des cas prévus par la réglementation de l'Union européenne, l'administration des douanes peut, dans le cadre de ses
+contrôles, retenir des marchandises susceptibles de porter atteinte à un brevet ou à un certificat complémentaire
+d'exploitation. 
+
+Cette retenue est immédiatement notifiée au propriétaire du brevet ou du certificat complémentaire de protection rattaché à
+un brevet ou à la personne habilitée à exploiter l'invention brevetée ou objet du certificat complémentaire d'exploitation.
+Le procureur de la République est également informé de ladite mesure par l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du brevet ou du certificat
+complémentaire de protection rattaché à un brevet ou à la personne habilitée à exploiter l'invention brevetée ou objet du
+certificat complémentaire d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent
+également être communiquées avant la mise en œuvre de la mesure prévue au présent article. 
+
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du propriétaire du brevet ou du
+certificat complémentaire de protection rattaché à un brevet ou de la personne habilitée à exploiter l'invention brevetée ou
+objet du certificat complémentaire d'exploitation la demande prévue à l'article L. 614-32 du présent code, déposée dans un
+délai de quatre jours ouvrables à compter de la notification de la retenue mentionnée à la première phrase du deuxième alinéa
+du présent article. 
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 614-32 commence à courir à compter de l'acceptation de cette demande par l'administration
+des douanes. 
+
+Le présent article n'est pas applicable aux marchandises périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L614-36 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-32
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L614-34
+
+I. ― Lorsque la retenue, prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'un brevet ou d'un certificat complémentaire d'exploitation, est mise en œuvre avant qu'une
+demande du propriétaire d'un brevet ou d'un certificat complémentaire de protection rattaché à un brevet ou d'une personne
+habilitée à exploiter l'invention brevetée ou objet du certificat complémentaire d'exploitation ait été déposée ou acceptée,
+les agents des douanes peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce propriétaire ou ce
+bénéficiaire du droit exclusif d'exploitation de la mise en œuvre de cette mesure. Ils peuvent également lui communiquer des
+informations portant sur la quantité des marchandises et leur nature. 
+
+Lorsque la retenue, prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'un brevet ou d'un certificat complémentaire d'exploitation, est mise en œuvre après qu'une
+demande du propriétaire d'un brevet ou d'un certificat complémentaire de protection rattaché à un brevet ou d'une personne
+habilitée à exploiter l'invention brevetée ou objet du certificat complémentaire d'exploitation a été acceptée, les agents
+des douanes peuvent également communiquer à ce propriétaire ou à cette personne habilitée les informations prévues par cette
+réglementation, nécessaires pour déterminer s'il y a eu violation de son droit. 
+
+II. ― Les frais générés par la mise en œuvre de la retenue mentionnée au I sont à la charge du propriétaire du brevet ou du
+certificat complémentaire de protection rattaché à un brevet ou de la personne habilitée à exploiter l'invention brevetée ou
+objet du certificat complémentaire d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L614-35 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L614-35
+
+Pendant le délai de la retenue mentionnée à l'article L. 614-32 et au second alinéa du I de l'article L. 614-34, le
+propriétaire du brevet ou du certificat complémentaire de protection rattaché à un brevet ou la personne habilitée à
+exploiter l'invention brevetée ou objet du certificat complémentaire d'exploitation peut, à sa demande ou à la demande de
+l'administration des douanes, inspecter les marchandises retenues. 
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-32
+	  - Code de la propriété intellectuelle - art. L614-34
+
+
+###### Article L614-36
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un brevet, d'un certificat
+complémentaire de protection ou d'un certificat d'utilité est mise en œuvre après qu'une demande mentionnée à l'article L.
+614-32 a été acceptée, les marchandises soupçonnées de porter atteinte à un brevet, un certificat complémentaire de
+protection ou un certificat d'utilité peuvent être détruites sous le contrôle des agents des douanes dès lors que les
+conditions suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II. ― Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction
+des marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à
+cette destruction. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur qui, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+614-32. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En
+cas de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 614-32, la mesure de
+retenue est levée de plein droit. 
+
+IV. ― Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 614-32 et L. 614-33, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 614-32 peuvent également être communiquées au demandeur aux fins de mise en œuvre
+de la présente mesure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Arrêté du 29 juin 2015 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. L614-32 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-33
+
+
+###### Article L614-37
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
+abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L614-38
+
+En vue de prononcer les mesures prévues aux articles L. 614-32 à L. 614-35, les agents des douanes appliquent les pouvoirs
+qui leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-32
+
+
+###### Article L614-39
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 614-32 à L. 614-37 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à un brevet, un
+certificat complémentaire de protection ou un certificat d'utilité prévue par la réglementation européenne en vigueur, ainsi
+que les conditions du prélèvement d'échantillons préalable à ladite destruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L614-32
+
+
 ##### Chapitre V : Actions en justice
 
 ##### Section 1 : Actions civiles
@@ -15801,24 +16589,23 @@ par le demandeur de garanties destinées à assurer l'indemnisation éventuelle 
 ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
-le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
-du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
-et intérêts qui peuvent être réclamés.
+le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
+plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
+demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 du 2 janvier 1968 - art. 54 (M)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 54 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 11 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
 
 	**Cité par**:
 
@@ -15873,19 +16660,22 @@ délivrance du brevet.
 
 ###### Article L615-5
 
-La contrefaçon peut être prouvée par tous moyens.
+La contrefaçon peut être prouvée par tous moyens. 
 
 A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
-huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
-civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
-produits ou procédés prétendus contrefaisants ainsi que de tout document s'y rapportant.
+huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle des produits ou procédés prétendus contrefaisants ainsi que de tout document s'y rapportant. L'ordonnance peut
+autoriser la saisie réelle de tout document se rapportant aux produits ou procédés prétendus contrefaisants en l'absence de
+ces derniers. 
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
-fabriquer ou distribuer les produits ou pour mettre en oeuvre les procédés prétendus contrefaisants.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour fabriquer ou distribuer les produits ou pour mettre en oeuvre les procédés prétendus
+contrefaisants. 
 
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
 assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
-annulée.
+annulée. 
 
 A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
 l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
@@ -15895,16 +16685,15 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 	**Anciens textes**:
 
-	  - Loi n°68-1 du 2 janvier 1968 - art. 56 (M)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 56 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 12 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cité par**:
 
@@ -15948,34 +16737,48 @@ de ses secrets de fabrication et de commerce.
 	  - Loi n°96-1106 du 18 décembre 1996 - art. 10 () JORF 19 décembre 1996
 
 
+###### Article L615-5-1-1
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 615-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L615-5
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L622-7 (V)
+
+
 ###### Article L615-5-2
 
-Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
-sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits ou procédés contrefaisants qui
-portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par
-toute personne qui a été trouvée en possession de produits contrefaisants ou mettant en oeuvre des procédés contrefaisants ou
-qui fournit des services utilisés dans des activités de contrefaçon ou a été signalée comme intervenant dans la production,
-la fabrication ou la distribution de ces produits, la mise en oeuvre de ces procédés ou la fourniture de ces services.
+Si la demande lui en est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue au présent titre
+peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits ou procédés
+argués de contrefaçon qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus
+par le défendeur ou par toute personne qui a été trouvée en possession de produits argués de contrefaçon ou mettant en oeuvre
+des procédés argués de contrefaçon ou qui fournit des services utilisés dans de prétendues activités de contrefaçon ou a été
+signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits, la mise en oeuvre de ces
+procédés ou la fourniture de ces services. 
 
 La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits,
-procédés ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b)  Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits,
-procédés ou services en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 13 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 3
 
 	**Cité par**:
 
@@ -16009,13 +16812,19 @@ rapport de recherche établi dans les mêmes conditions que le rapport prévu à
 
 ###### Article L615-7
 
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
-manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
-titulaire des droits du fait de l'atteinte.
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et
+promotionnels que celui-ci a retirées de la contrefaçon. 
 
 Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
-intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
-contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+intérêts une somme forfaitaire. Cette somme est supérieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte. Cette somme n'est pas exclusive de
+l'indemnisation du préjudice moral causé à la partie lésée.
 
 **Liens relatifs à cet article**
 
@@ -16025,11 +16834,11 @@ contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a port
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 14 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 2
 
 	**Cité par**:
 
@@ -16067,7 +16876,7 @@ Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du
 
 ###### Article L615-8
 
-Les actions en contrefaçon prévues par le présent chapitre sont prescrites par trois ans à compter des faits qui en sont la
+Les actions en contrefaçon prévues par le présent chapitre sont prescrites par cinq ans à compter des faits qui en sont la
 cause.
 
 **Liens relatifs à cet article**
@@ -16078,11 +16887,11 @@ cause.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L615-9
@@ -16375,10 +17184,10 @@ la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, 
 
 ###### Article L615-17
 
-Les actions civiles et les demandes relatives aux brevets d'invention, y compris lorsqu'elles portent également sur une
-question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
-voie réglementaire, à l'exception des recours formés contre les actes administratifs du ministre chargé de la propriété
-industrielle qui relèvent de la juridiction administrative. 
+Les actions civiles et les demandes relatives aux brevets d'invention, y compris dans les cas prévus à l'article L. 611-7 ou
+lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des
+tribunaux de grande instance, déterminés par voie réglementaire, à l'exception des recours formés contre les actes
+administratifs du ministre chargé de la propriété industrielle qui relèvent de la juridiction administrative. 
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059
 et 2060 du code civil. 
@@ -16400,7 +17209,7 @@ présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 196
+	  - Loi n°2014-315 du 11 mars 2014 - art. 1
 
 	**Cité par**:
 
@@ -16416,86 +17225,25 @@ présent code.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L614-13 (V)
-
-
-###### Article L615-18
-
-Les actions en fixation d'indemnités intentées en application des dispositions des articles L. 612-10, L. 613-17, L. 613-19
-et L. 613-20 sont portées devant le tribunal de grande instance de Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-1 du 2 janvier 1968 - art. 69 (Ab)
-	  - Loi n°77-682 du 30 juin 1977 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Codifié par**:
-
-	  - Loi n°92-597 du 1 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°2014-315 du 11 mars 2014 - art. 1
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L612-10
-	  - Code de la propriété intellectuelle - art. L613-17
-	  - Code de la propriété intellectuelle - art. L613-19
-
-
-###### Article L615-19
-
-Les actions en contrefaçon de brevet sont de la compétence exclusive du tribunal de grande instance.
-
-Toutes les actions mettant en jeu une contrefaçon de brevet et une question de concurrence déloyale connexe sont portées
-exclusivement devant le tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-1 du 2 janvier 1968 - art. 52 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Codifié par**:
-
-	  - Loi n°92-597 du 1 juillet 1992
-
-	**Abrogé par**:
-
-	  - Loi n°2014-315 du 11 mars 2014 - art. 1
+	  - Code de la propriété intellectuelle - art. L611-7
+	  - Code de la propriété intellectuelle - art. L614-13
 
 
 ###### Article L615-20
 
 La juridiction saisie d'une action ou d'une exception relevant des dispositions du présent titre peut soit d'office, soit à
 la demande d'une des parties, désigner tel consultant de son choix pour suivre la procédure dès sa mise en état et assister à
-l'audience. Le consultant peut être autorisé à poser des questions aux parties ou à leurs représentants en chambre du
-conseil.
+l'audience. Le consultant peut être autorisé à poser des questions aux parties ou à leurs représentants.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°68-1 1968-01-02 art. 67 bis
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 18
 
 
 ###### Article L615-21
@@ -16679,24 +17427,20 @@ d'une constatation de réciprocité avec les pays dont elles sont ressortissante
 
 ###### Article L622-3
 
-Le droit au dépôt appartient au créateur ou à son ayant cause.
+Le droit au dépôt appartient au créateur ou à son ayant cause. 
 
 Si un dépôt a été effectué en violation des droits du créateur ou de son ayant cause, la personne lésée peut en revendiquer
-le bénéfice. L'action en revendication se prescrit par trois ans à compter de la publication du dépôt.
+le bénéfice. L'action en revendication se prescrit par cinq ans à compter de la publication du dépôt.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°87-890 1987-11-04 art. 2-1
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L622-4
@@ -16727,7 +17471,8 @@ Il est interdit à tout tiers :
 
 - de reproduire la topographie protégée ;
 
-- d'exploiter commercialement ou importer à cette fin une telle reproduction ou tout produit semi-conducteur l'incorporant.
+- d'exploiter commercialement ou de détenir, transborder, utiliser, exporter ou importer à cette fin une telle reproduction
+ou tout produit semi-conducteur l'incorporant.
 
 Cette interdiction ne s'étend pas :
 
@@ -16744,17 +17489,13 @@ de son auteur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°87-890 1987-11-04 art. 3-2
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 18 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 
 ###### Article L622-6
@@ -16785,8 +17526,8 @@ un délai de quinze ans à compter de la date à laquelle elle a été fixée ou
 
 Les articles L. 411-4, L. 411-5, L. 612-11, L. 613-8, L. 613-9, 
 L. 613-19, L. 615-2, L. 615-3, 
-L. 615-5, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-10 et L. 615-17 sont applicables aux conditions et formes dans
-lesquelles :
+L. 615-5, L. 615-5-1-1, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-10 et L. 615-17 sont applicables aux conditions et
+formes dans lesquelles :
 
 - sont prises les décisions du directeur de l'Institut national de la propriété industrielle mentionnées au présent
 chapitre ;
@@ -16803,11 +17544,11 @@ chapitre ;
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 19 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cité par**:
 
@@ -16819,16 +17560,33 @@ chapitre ;
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L411-4 (V)
-	  - Code de la propriété intellectuelle - art. L612-11 (V)
-	  - Code de la propriété intellectuelle - art. L613-19 (V)
-	  - Code de la propriété intellectuelle - art. L613-8 (V)
-	  - Code de la propriété intellectuelle - art. L615-10 (V)
-	  - Code de la propriété intellectuelle - art. L615-17 (V)
-	  - Code de la propriété intellectuelle - art. L615-2 (V)
-	  - Code de la propriété intellectuelle - art. L615-5 (V)
-	  - Code de la propriété intellectuelle - art. L615-5-2 (V)
-	  - Code de la propriété intellectuelle - art. L615-7 (V)
+	  - Code de la propriété intellectuelle - art. L411-4
+	  - Code de la propriété intellectuelle - art. L612-11
+	  - Code de la propriété intellectuelle - art. L613-19
+	  - Code de la propriété intellectuelle - art. L613-8
+	  - Code de la propriété intellectuelle - art. L615-10
+	  - Code de la propriété intellectuelle - art. L615-17
+	  - Code de la propriété intellectuelle - art. L615-2
+	  - Code de la propriété intellectuelle - art. L615-5
+	  - Code de la propriété intellectuelle - art. L615-5-1-1
+	  - Code de la propriété intellectuelle - art. L615-5-2
+	  - Code de la propriété intellectuelle - art. L615-7
+
+
+###### Article L622-8
+
+Le chapitre IV bis du titre Ier du présent livre est applicable au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2015-427 du 15 avril 2015 (V)
+	  - Arrêté du 29 juin 2015 (V)
 
 
 ##### Chapitre III : Obtention végétale
@@ -16966,16 +17724,12 @@ initiale ;
 2° Se distingue nettement de la variété initiale au sens dudit article L. 623-2 ; 
 
 3° Sauf en ce qui concerne les différences résultant de la dérivation, est conforme à la variété initiale dans l'expression
-des caractères essentiels résultant du génotype ou de la combinaison de génotypes de la variété initiale.
+des caractères essentiels résultant du génotype ou de la combinaison de génotypes de la variété initiale. 
 
-**Nota:**
-
-Loi n° 2011-1843 du 8 décembre 2011 article 19 I, III : Les dispositions modifiées ou nouvelles du présent article à
-l'exception de celles relatives aux variétés essentiellement dérivées sont applicables aux certificats d'obtention délivrés
-avant le 11 décembre 2011. Ces dispositions s'appliquent également aux certificats d'obtention délivrés pour les demandes de
-certificat enregistrées avant cette date. Le présent IV ne s'applique pas aux variétés essentiellement dérivées dont
-l'obtenteur a, avant le 11 décembre 2011, fait des préparatifs effectifs et sérieux en vue de leur exploitation ou que
-l'obtenteur a exploitées avant cette date.
+V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à défaut de consentement du titulaire du
+certificat d'obtention végétale, la production, l'offre, la vente, la mise sur le marché, l'importation, l'exportation, le
+transbordement, l'utilisation ou la détention à ces fins du matériel de reproduction ou de multiplication de la variété
+protégée.
 
 **Liens relatifs à cet article**
 
@@ -16989,7 +17743,7 @@ l'obtenteur a exploitées avant cette date.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1843 du 8 décembre 2011 - art. 5
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 	**Cité par**:
 
@@ -17846,18 +18600,13 @@ Par dérogation à l'article L. 623-4, pour les espèces énumérées par le rè
 1994 instituant un régime de protection communautaire des obtentions végétales ainsi que pour d'autres espèces qui peuvent
 être énumérées par décret en Conseil d'Etat, les agriculteurs ont le droit d'utiliser sur leur propre exploitation, sans
 l'autorisation de l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu
-par la mise en culture d'une variété protégée.
-
-**Nota:**
-
-Loi n° 2011-1843 du 8 décembre 2011 article 19 II : Les présentes dispositions sont applicables aux certificats d'obtention
-végétale délivrés avant le 11 décembre 2011.
+par la mise en culture d'une variété protégée. Cette utilisation ne constitue pas une contrefaçon.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-1843 du 8 décembre 2011 - art. 16
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 	**Cité par**:
 
@@ -18079,9 +18828,9 @@ par le demandeur de garanties destinées à assurer l'indemnisation éventuelle 
 ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
-le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
-du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
-et intérêts qui peuvent être réclamés.
+le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
+plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
+demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -18091,28 +18840,29 @@ et intérêts qui peuvent être réclamés.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 20 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
 
 
 ###### Article L623-27-1
 
-La contrefaçon peut être prouvée par tous moyens.
+La contrefaçon peut être prouvée par tous moyens. 
 
 A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
-huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
-civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
-objets prétendus contrefaisants ainsi que de tout document s'y rapportant.
+huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle des objets prétendus contrefaisants ainsi que de tout document s'y rapportant. L'ordonnance peut autoriser la saisie
+réelle de tout document se rapportant aux objets prétendus contrefaisants en l'absence de ces derniers. 
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
-produire ou distribuer les objets prétendus contrefaisants.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour produire ou distribuer les objets prétendus contrefaisants. 
 
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
 assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
-annulée.
+annulée. 
 
 A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
 l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
@@ -18122,11 +18872,11 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 20 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cité par**:
 
@@ -18136,45 +18886,60 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 	  - Code de la propriété intellectuelle - art. R623-53 (V)
 
 
+###### Article L623-27-1-1
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 623-27-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-27-1
+
+
 ###### Article L623-27-2
 
-Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
-sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte
-aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a
-été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon
-ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la
-fourniture de ces services.
+Si la demande lui en est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue au présent titre
+peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits argués de
+contrefaçon qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le
+défendeur ou par toute personne qui a été trouvée en possession de produits argués de contrefaçon ou qui fournit des services
+utilisés dans de prétendues activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la
+fabrication ou la distribution de ces produits ou la fourniture de ces services. 
 
 La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
-ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou
-services en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 20 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 3
 
 
 ###### Article L623-28
 
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
-manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
-titulaire des droits du fait de l'atteinte.
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et
+promotionnels que celui-ci a retirées de la contrefaçon. 
 
 Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
-intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
-contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+intérêts une somme forfaitaire. Cette somme est supérieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte. Cette somme n'est pas exclusive de
+l'indemnisation du préjudice moral causé à la partie lésée.
 
 **Liens relatifs à cet article**
 
@@ -18184,11 +18949,11 @@ contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a port
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 21 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 2
 
 	**Cité par**:
 
@@ -18225,8 +18990,8 @@ Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du
 
 ###### Article L623-29
 
-Les actions civiles et pénales prévues par le présent chapitre se prescrivent par trois ans à compter des faits qui en sont
-la cause.
+Les actions civiles et pénales prévues par le présent chapitre se prescrivent par cinq ans à compter des faits qui en sont la
+cause. 
 
 L'action civile introduite suspend la prescription de l'action pénale.
 
@@ -18238,11 +19003,11 @@ L'action civile introduite suspend la prescription de l'action pénale.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L623-30
@@ -18291,8 +19056,9 @@ Une telle exploitation fait encourir de plein droit à ses auteurs la responsabi
 ###### Article L623-31
 
 Les actions civiles et les demandes relatives aux obtentions végétales, y compris lorsqu'elles portent également sur une
-question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance           à
-l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la juridiction administrative. 
+question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par
+voie réglementaire, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la
+juridiction administrative. 
 
 La cour d'appel de Paris connaît directement des recours formés contre les décisions de l'organisme mentionné à l'article L.
 412-1 prises en application du présent chapitre. 
@@ -18311,10 +19077,6 @@ articles 2059 et 2060 du code civil
 
 	  - Loi n°92-597 du 1 juillet 1992
 
-	**Modifié par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 7
-
 	**Cité par**:
 
 	  - Décret n°2013-1 du 2 janvier 2013 (V)
@@ -18323,6 +19085,10 @@ articles 2059 et 2060 du code civil
 	  - Code de la propriété intellectuelle - art. L623-18 (V)
 	  - Code de la propriété intellectuelle - art. L623-20 (V)
 	  - Code de la propriété intellectuelle - art. R631-1 (T)
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 1
 
 	**Cite**:
 
@@ -18477,6 +19243,292 @@ violation a porté préjudice à la défense nationale, une peine d'emprisonneme
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L623-9 (V)
+
+
+##### Section 4 : La retenue
+
+###### Article L623-36
+
+En dehors des cas prévus par la réglementation de l'Union européenne, l'administration des douanes peut, sur demande écrite
+du titulaire d'un certificat d'obtention végétale, assortie des justifications de son droit, retenir dans le cadre de ses
+contrôles les marchandises que celui-ci prétend constituer une contrefaçon. 
+
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au titulaire du certificat d'obtention végétale,
+par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être communiquées avant la mise en
+œuvre de la mesure prévue au présent article. 
+
+Sous réserve des procédures prévues aux articles L. 623-40 et L. 623-41 du présent code, la mesure de retenue est levée de
+plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès de l'administration des douanes
+soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la
+voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises
+au cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours ouvrables prévu au présent alinéa de dix jours
+ouvrables maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et
+le détenteur des marchandises en sont informés. 
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur. 
+
+Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir
+de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du
+déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur
+leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+La retenue mentionnée au premier alinéa du présent article ne porte pas : 
+
+1° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de
+l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à
+être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ; 
+
+2° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre
+de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir
+transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Décret n°2015-427 du 15 avril 2015 (V)
+	  - Arrêté du 29 juin 2015 (V)
+	  - Arrêté du 29 juin 2015 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. L623-37 (V)
+	  - Code de la propriété intellectuelle - art. L623-39 (V)
+	  - Code de la propriété intellectuelle - art. L623-40 (V)
+	  - Code de la propriété intellectuelle - art. L623-42 (V)
+	  - Code de la propriété intellectuelle - art. L623-43 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 1
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L623-37
+
+En l'absence de demande écrite du titulaire du certificat d'obtention végétale et en dehors des cas prévus par la
+réglementation de l'Union européenne, l'administration des douanes peut, dans le cadre de ses contrôles, retenir des
+marchandises susceptibles de porter atteinte à un certificat d'obtention végétale. 
+
+Cette retenue est immédiatement notifiée au titulaire du certificat d'obtention végétale. Le procureur de la République est
+également informé de ladite mesure par l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au titulaire du certificat d'obtention végétale,
+par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être communiquées avant la mise en
+œuvre de la mesure prévue au présent article. 
+
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du titulaire du certificat
+d'obtention végétale la demande prévue à l'article L. 623-36 du présent code, déposée dans un délai de quatre jours ouvrables
+à compter de la notification de la retenue mentionnée à la première phrase du deuxième alinéa du présent article. 
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 623-36 commence à courir à compter de l'acceptation de cette demande par l'administration
+des douanes. 
+
+Le présent article n'est pas applicable aux marchandises périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L623-40 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-36
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L623-38
+
+I. ― Lorsque la retenue, prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'un certificat d'obtention végétale, est mise en œuvre avant qu'une demande du titulaire du
+certificat d'obtention végétale ait été déposée ou acceptée, les agents des douanes peuvent, par dérogation à l'article 59
+bis du code des douanes, informer ce titulaire de la mise en œuvre de cette mesure. Ils peuvent également lui communiquer des
+informations portant sur la quantité des marchandises et leur nature.
+
+Lorsque la retenue, prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'un certificat d'obtention végétale, est mise en œuvre après qu'une demande du titulaire du
+certificat d'obtention végétale a été acceptée, les agents des douanes peuvent également communiquer à ce titulaire les
+informations prévues par cette réglementation, nécessaires pour déterminer s'il y a eu violation de son droit.
+
+II. ― Les frais générés par la mise en œuvre de la retenue mentionnée au I sont à la charge du titulaire du certificat
+d'obtention végétale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L623-39 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L623-39
+
+Pendant le délai de la retenue mentionnée à l'article L. 623-36 et au second alinéa du I de l'article L. 623-38, le titulaire
+du certificat d'obtention végétale peut, à sa demande ou à la demande de l'administration des douanes, inspecter les
+marchandises retenues. 
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-36
+	  - Code de la propriété intellectuelle - art. L623-38
+
+
+###### Article L623-40
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un certificat d'obtention
+végétale est mise en œuvre après qu'une demande mentionnée à l'article L. 623-36 a été acceptée, les marchandises soupçonnées
+de porter atteinte à un certificat d'obtention végétale peuvent être détruites sous le contrôle des agents des douanes dès
+lors que les conditions suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II. ― Lorsque le détenteur n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction des
+marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à cette
+destruction. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+623-36. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En
+cas de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 623-36, la mesure de
+retenue est levée de plein droit. 
+
+IV. ― Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 623-36 et L. 623-37, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 623-36 peuvent également être communiquées au demandeur aux fins de mise en œuvre
+de la présente mesure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-36
+	  - Code de la propriété intellectuelle - art. L623-37
+
+
+###### Article L623-41
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
+abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L623-42
+
+En vue de prononcer les mesures prévues aux articles L. 623-36 à L. 623-39, les agents des douanes appliquent les pouvoirs
+qui leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-36
+	  - Code des douanes
+
+
+###### Article L623-43
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 623-36 à L. 623-41 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à un certificat
+d'obtention végétale prévue par la réglementation européenne en vigueur ainsi que les conditions du prélèvement
+d'échantillons préalable à ladite destruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L623-36
+
+
+###### Article L623-44
+
+La présente section n'est pas applicable aux semences de ferme relevant de la section 2 bis du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 
 ### Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
@@ -18826,25 +19878,24 @@ Il est statué sur l'opposition après une procédure contradictoire définie pa
 ###### Article L712-6
 
 Si un enregistrement a été demandé soit en fraude des droits d'un tiers, soit en violation d'une obligation légale ou
-conventionnelle, la personne qui estime avoir un droit sur la marque peut revendiquer sa propriété en justice.
+conventionnelle, la personne qui estime avoir un droit sur la marque peut revendiquer sa propriété en justice. 
 
-A moins que le déposant ne soit de mauvaise foi, l'action en revendication se prescrit par trois ans à compter de la
+A moins que le déposant ne soit de mauvaise foi, l'action en revendication se prescrit par cinq ans à compter de la
 publication de la demande d'enregistrement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 9
 	  - Loi n°91-7 du 4 janvier 1991 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L712-7
@@ -19691,12 +20742,12 @@ articles 2059 et 2060 du code civil.
 
 L'action civile en contrefaçon est engagée par le propriétaire de la marque. Toutefois, le bénéficiaire d'un droit exclusif
 d'exploitation peut agir en contrefaçon, sauf stipulation contraire du contrat si, après mise en demeure, le titulaire
-n'exerce pas ce droit.
+n'exerce pas ce droit. 
 
 Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie
-afin d'obtenir la réparation du préjudice qui lui est propre.
+afin d'obtenir la réparation du préjudice qui lui est propre. 
 
-L'action en contrefaçon se prescrit par trois ans.
+L'action en contrefaçon se prescrit par cinq ans. 
 
 Est irrecevable toute action en contrefaçon d'une marque postérieure enregistrée dont l'usage a été toléré pendant cinq ans,
 à moins que son dépôt n'ait été effectué de mauvaise foi. Toutefois, l'irrecevabilité est limitée aux seuls produits et
@@ -19706,16 +20757,15 @@ services pour lesquels l'usage a été toléré.
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 19
 	  - Loi n°91-7 du 4 janvier 1991 - art. 19 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-315 du 11 mars 2014 - art. 16
 
 
 ###### Article L716-6
@@ -19746,24 +20796,23 @@ par le demandeur de garanties destinées à assurer l'indemnisation éventuelle 
 ultérieurement jugée non fondée ou les mesures annulées.
 
 Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond,
-le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande
-du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages
-et intérêts qui peuvent être réclamés.
+le demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
+plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
+demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 20
 	  - Loi n°91-7 du 4 janvier 1991 - art. 20 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 24 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
 
 	**Cité par**:
 
@@ -19772,19 +20821,21 @@ et intérêts qui peuvent être réclamés.
 
 ###### Article L716-7
 
-La contrefaçon peut être prouvée par tous moyens.
+La contrefaçon peut être prouvée par tous moyens. 
 
 A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous
-huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction
-civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des
-produits ou services prétendus contrefaisants ainsi que de tout document s'y rapportant.
+huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
+juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
+réelle des produits ou services prétendus contrefaisants ainsi que de tout document s'y rapportant. L'ordonnance peut
+autoriser la saisie réelle de tout document se rapportant aux produits et services prétendus contrefaisants en l'absence de
+ces derniers.
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
-fabriquer ou distribuer les produits ou fournir les services prétendus contrefaisants.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour fabriquer ou distribuer les produits ou fournir les services prétendus contrefaisants. 
 
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
 assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie
-annulée.
+annulée. 
 
 A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
 l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
@@ -19794,16 +20845,15 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 21
 	  - Loi n°91-7 du 4 janvier 1991 - art. 21 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 25 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cité par**:
 
@@ -19815,33 +20865,44 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 ###### Article L716-7-1
 
-Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin
-sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte
-aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a
-été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon
-ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la
-fourniture de ces services.
+Si la demande lui en est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue au présent titre
+peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits argués de
+contrefaçon qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le
+défendeur ou par toute personne qui a été trouvée en possession de produits argués de contrefaçon ou qui fournit des services
+utilisés dans de prétendues activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la
+fabrication ou la distribution de ces produits ou la fourniture de ces services. 
 
 La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
-ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou
-services en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 3
+
+
+###### Article L716-7-1 A
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 716-7.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 26 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-7
+
+
+##### Chapitre VI bis :  La retenue
 
 ###### Article L716-8
 
@@ -19850,26 +20911,32 @@ En dehors des cas prévus par la réglementation communautaire en vigueur, l'adm
 justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une
 contrefaçon. 
 
-Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai,
-par les services douaniers, de la retenue à laquelle ces derniers ont procédé. 
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes. 
 
-Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises sont communiquées
-au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59
-bis du code des douanes. 
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature, la quantité réelle
+ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire du droit
+exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
+communiquées avant la mise en œuvre de la mesure de retenue prévue par le présent article. 
 
-La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois
-jours ouvrables s'il s'agit de denrées périssables, à compter de la notification de la retenue des marchandises, de justifier
-auprès des services douaniers soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être
-pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation
-éventuelle du détenteur des marchandises au cas où la contrefaçon ne serait pas ultérieurement reconnue. 
+Sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5, la mesure de retenue est levée de plein droit à
+défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers soit de
+mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la voie
+correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises au
+cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours, prévu au présent alinéa, de dix jours ouvrables
+maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et le
+détenteur des marchandises en sont informés. 
 
 Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
-charge du demandeur. 
+charge du demandeur, sous réserve des procédures prévues aux articles L. 716-8-4 et L. 716-8-5. 
 
 Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des
 douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de
-leur détenteur, ainsi que de leur quantité, leur origine et leur provenance par dérogation à l'article 59 bis du code des
-douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes. 
+leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance
+et leur destination par dérogation à l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus
+les agents de l'administration des douanes. 
 
 La retenue mentionnée au premier alinéa ne porte pas :
 
@@ -19911,16 +20978,17 @@ Etat non membre de la Communauté européenne.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code des douanes - art. 1 (V)
-	  - Code des douanes - art. 59 bis (V)
+	  - Code des douanes - art. 1
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L716-8-1
@@ -19933,19 +21001,27 @@ d'exploitation.
 Cette retenue est immédiatement notifiée au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif
 d'exploitation. Le procureur de la République est également informé de ladite mesure. 
 
-Lors de la notification visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises est communiquée
-au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59
-bis du code des douanes. 
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées au propriétaire du droit ou au bénéficiaire du
+droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes. Ces informations peuvent également être
+communiquées avant la mise en œuvre de la mesure de retenue prévue au présent article. 
 
-La mesure de retenue est levée de plein droit si le propriétaire de la marque enregistrée ou le bénéficiaire du droit
-exclusif d'exploitation n'a pas déposé la demande prévue par l'article L. 716-8 du présent code dans un délai de trois jours
-ouvrables à compter de la notification de la retenue visée au deuxième alinéa du présent article.
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu du propriétaire de la marque
+enregistrée ou du bénéficiaire du droit exclusif d'exploitation la demande prévue à l'article L. 716-8 du présent code,
+déposée dans un délai de quatre jours ouvrables à compter de la notification de la retenue mentionnée à la première phrase du
+deuxième alinéa du présent article. 
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 716-8 commence à courir à compter de l'acceptation de cette demande par l'administration des
+douanes. 
+
+Le présent article n'est pas applicable aux marchandises périssables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -19954,11 +21030,12 @@ ouvrables à compter de la notification de la retenue visée au deuxième aliné
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-8 (V)
+	  - Code de la propriété intellectuelle - art. L716-8
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L716-8-2
@@ -19983,11 +21060,11 @@ charge du propriétaire de la marque enregistrée ou du bénéficiaire du droit 
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cité par**:
 
@@ -19998,16 +21075,16 @@ charge du propriétaire de la marque enregistrée ou du bénéficiaire du droit 
 
 	**Cite**:
 
-	  - Code des douanes - art. 59 bis (V)
+	  - Code des douanes - art. 59 bis
 
 
 ###### Article L716-8-3
 
-Pendant le délai de la retenue visée aux articles L. 716-8 à L. 716-8-2, le propriétaire de la marque enregistrée ou le
-bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de l'administration des douanes, inspecter
-les marchandises retenues. 
+Pendant le délai de la retenue visée à l'article L. 716-8 et au second alinéa du I de l'article L. 716-8-2, le propriétaire
+de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de
+l'administration des douanes, inspecter les marchandises retenues. 
 
-Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.A la demande
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons. A la demande
 du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent lui
 être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou
 pénale.
@@ -20016,68 +21093,198 @@ pénale.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
 	  - Code de la propriété intellectuelle - art. R716-11 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-8 (V)
+	  - Code de la propriété intellectuelle - art. L716-8
+	  - Code de la propriété intellectuelle - art. L716-8-2
 
 
 ###### Article L716-8-4
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est
+mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises soupçonnées de porter
+atteinte à la marque enregistrée peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions
+suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II.-Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction des
+marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à cette
+destruction. 
+
+III.-Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+716-8. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En cas
+de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa de l'article L. 716-8, la mesure de
+retenue est levée de plein droit. 
+
+IV.-Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 716-8 et L. 716-8-1, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 716-8 peuvent également être communiquées au demandeur aux fins de mise en œuvre de
+la présente mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L716-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8-1
+
+
+###### Article L716-8-5
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est
+mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises transportées en petits
+envois soupçonnées de porter atteinte à une marque enregistrée peuvent être détruites sous le contrôle des agents des douanes
+lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article. 
+
+II.-La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 716-8 est faite dans un délai d'un
+jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de
+détruire ou non les marchandises et indique que : 
+
+1° Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour
+faire connaître à l'administration des douanes ses observations ; 
+
+2° Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en
+retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de
+silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction. 
+
+Les autorités douanières communiquent au demandeur, sur requête de celui-ci, les informations relatives à la quantité réelle
+ou estimée des marchandises détruites et à leur nature. 
+
+III.-Lorsque le déclarant ou le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction ou
+lorsqu'il n'est pas réputé avoir consenti à leur destruction, l'administration des douanes en informe immédiatement le
+demandeur et lui communique la quantité, la nature ainsi que des images des marchandises. 
+
+IV.-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter
+de l'information prévue au III du présent article, de justifier auprès de l'administration des douanes qu'il a pris les
+mesures mentionnées au quatrième alinéa de l'article L. 716-8. 
+
+En vue de prendre ces mesures, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de
+l'expéditeur, de l'importateur, du destinataire et du détenteur des marchandises retenues, ainsi que de leur quantité, leur
+origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+V.-La définition des petits envois mentionnés au I du présent article est précisée par arrêté du ministre chargé des
+douanes. 
+
+VI.-Le présent article n'est pas applicable aux denrées périssables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article L716-8-6
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues au présent chapitre, l'administration des douanes
+abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L716-8-7
 
 En vue de prononcer les mesures prévues aux articles L. 716-8 à L. 716-8-3, les agents des douanes appliquent les pouvoirs
 qui leur sont dévolus par le code des douanes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-	  - Code de la propriété intellectuelle - art. L716-8 (V)
-
 	**Créé par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
-
-
-###### Article L716-8-5
-
-Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-4 sont définies par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-
-	**Créé par**:
-
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-8 (V)
+	  - Code de la propriété intellectuelle - art. L716-8
 
 
-###### Article L716-8-6
+###### Article L716-8-8
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-6 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de constituer une contrefaçon d'une
+marque enregistrée, prévue par la réglementation de l'Union européenne, ainsi que les conditions du prélèvement
+d'échantillons préalable à ladite destruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-8
+
+
+###### Article L716-8-9
 
 Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L.
 716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels
@@ -20085,17 +21292,13 @@ spécialement installés en vue de tels agissements.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
 	**Créé par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 27 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
+	  - Code de la propriété intellectuelle - art. L716-9
 
 
 ###### Article L716-9
@@ -20148,9 +21351,9 @@ peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 	  - Loi n°92-597 du 1 juillet 1992
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 3
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 
 ###### Article L716-10
@@ -20172,8 +21375,9 @@ d) De sciemment livrer un produit ou fournir un service autre que celui qui lui 
 L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de
 substitution prévue à l'article L. 5125-23 du code de la santé publique. 
 
-Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne,
-les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication   au public en ligne
+ou lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines
+sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -20187,12 +21391,16 @@ les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amen
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 3
+	  - Loi n°2014-315 du 11 mars 2014 - art. 19
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L5125-23 (V)
-	  - Code de la sécurité sociale. - art. L161-38 (V)
+	  - Code de la santé publique - art. L5125-23
+	  - Code de la sécurité sociale. - art. L161-38
 
 
 ###### Article L716-11
@@ -20218,17 +21426,13 @@ IV du code du travail.
 	  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
 	  - Code de la consommation - art. L511-13 (VD)
 
-	**Anciens textes**:
-
-	  - Loi n°91-7 1991-01-04 art. 38
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 
 ###### Article L716-11-1
@@ -20246,20 +21450,16 @@ mois d'emprisonnement et de 3 750 euros d'amende.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-102 1994-02-05 art. 18 champ d'application
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
-	  - Code du travail - art. L122-14-4 (Ab)
+	  - Code de la propriété intellectuelle - art. L716-9
+	  - Code du travail - art. L122-14-4
 
 
 ###### Article L716-11-2
@@ -20283,16 +21483,16 @@ des circuits commerciaux ou confisqués, sans préjudice de tous dommages et int
 
 	  - Loi n°94-102 du 5 février 1994 - art. 17 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
-	  - Code pénal - art. 121-2 (V)
-	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
+	  - Code de la propriété intellectuelle - art. L716-9
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
 
 
 ###### Article L716-12
@@ -20315,13 +21515,14 @@ métiers ainsi que pour les conseils de prud'hommes.
 	  - Code de la consommation - art. L132-25 (VD)
 	  - Code de la consommation - art. L216-9 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 8
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
+	  - Code de la propriété intellectuelle
+	  - Code de la propriété intellectuelle - art. L716-9
 
 
 ###### Article L716-13
@@ -20340,41 +21541,47 @@ condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
-	  - Code pénal - art. 131-35 (V)
+	  - Code de la propriété intellectuelle - art. L716-9
+	  - Code pénal - art. 131-35
 
 
 ###### Article L716-14
 
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
-manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au
-titulaire des droits du fait de l'atteinte.
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et
+promotionnels que celui-ci a retirées de la contrefaçon. 
 
 Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
-intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le
-contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+intérêts une somme forfaitaire. Cette somme est supérieure au montant des redevances ou droits qui auraient été dus si le
+contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte. Cette somme n'est pas exclusive de
+l'indemnisation du préjudice moral causé à la partie lésée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°91-7 1991-01-04 art. 38
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007 rectificatif JORF 10 novembre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 2
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 
 ###### Article L716-15
@@ -20392,17 +21599,13 @@ Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°91-7 1991-01-04 art. 40
-
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Nouveaux textes**:
 
@@ -20417,11 +21620,11 @@ Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions d'app
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 28 () JORF 30 octobre 2007
+	  - DEPLACE: Loi n°2014-315 du 11 mars 2014 - art. 7
 
 	**Anciens textes**:
 
@@ -20632,9 +21835,12 @@ et des facteurs humains. "
 
 ##### Section unique : Actions civiles
 
+##### Section 1 : Actions civiles
+
 ###### Article L722-1
 
-Toute atteinte portée à une indication géographique engage la responsabilité civile de son auteur. 
+Toute atteinte portée à une indication géographique en violation de la protection qui lui est accordée par le droit de
+l'Union européenne ou la législation nationale constitue une contrefaçon engageant la responsabilité de son auteur.
 
 Pour l'application du présent chapitre, on entend par " indication géographique " : 
 
@@ -20650,15 +21856,20 @@ réglementation communautaire portant organisation commune du marché vitivinico
 d) Les dénominations géographiques prévues par la réglementation communautaire établissant les règles générales relatives à
 la définition, à la désignation et à la présentation des boissons spiritueuses.
 
+Sont interdits la production, l'offre, la vente, la mise sur le marché, l'importation, l'exportation, le transbordement,
+l'utilisation ou la détention à ces fins de biens dont la présentation porte atteinte ou est susceptible de porter atteinte à
+une indication géographique.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 20
+	  - Loi n°2014-315 du 11 mars 2014 - art. 6
 
 	**Cité par**:
 
@@ -20666,46 +21877,44 @@ la définition, à la désignation et à la présentation des boissons spiritueu
 
 	**Cite**:
 
-	  - Code de la consommation - art. L115-1 (V)
+	  - Code de la consommation - art. L115-1
 
 
 ###### Article L722-2
 
-L'action civile pour atteinte à une indication géographique est exercée par toute personne autorisée à utiliser cette
-indication géographique ou tout organisme auquel la législation donne pour mission la défense des indications géographiques.
+L'action civile pour contrefaçon est exercée par toute personne autorisée à utiliser  l'indication géographique concernée  ou
+tout organisme auquel la législation donne pour mission la défense des indications géographiques.
 
 Toute personne mentionnée au premier alinéa est recevable à intervenir dans l'instance engagée par une autre partie pour
-atteinte à l'indication géographique.
+contrefaçon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 20
 
 
 ###### Article L722-3
 
-Toute personne ayant qualité pour agir pour une atteinte à une indication géographique peut saisir en référé la juridiction
-civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu auteur de cette atteinte ou des
-intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente à une indication
-géographique ou à empêcher la poursuite d'actes portant prétendument atteinte à celle-ci. La juridiction civile compétente
-peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas
-prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur.
-Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve,
-raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à une indication géographique ou
-qu'une telle atteinte est imminente.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir
+ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les
+services, toute mesure destinée à prévenir une atteinte imminente à une indication géographique ou à empêcher la poursuite
+d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête
+lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard
+serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut
+ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable
+qu'il est porté atteinte à une indication géographique ou qu'une telle atteinte est imminente.
 
-La juridiction peut interdire la poursuite des actes portant prétendument atteinte à une indication géographique, la
-subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie
-ou la remise entre les mains d'un tiers des produits portant prétendument atteinte à une indication géographique, pour
-empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de
-nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des
-biens mobiliers et immobiliers du prétendu auteur de l'atteinte à l'indication géographique, y compris le blocage de ses
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties
+destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des
+produits argués de contrefaçon, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le
+demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut
+ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu contrefacteur, y compris le blocage de ses
 comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de
 la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux
 informations pertinentes.
@@ -20714,23 +21923,24 @@ Elle peut également accorder au demandeur une provision lorsque l'existence de 
 contestable.
 
 Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution
-par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action pour atteinte à
-l'indication géographique est ultérieurement jugée non fondée ou les mesures annulées.
+par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est
+ultérieurement jugée non fondée ou les mesures annulées.
 
-Lorsque les mesures prises pour faire cesser une atteinte à une indication géographique sont ordonnées avant l'engagement
-d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire.
-A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans
-préjudice des dommages et intérêts qui peuvent être réclamés.
+Lorsque les mesures prises pour faire cesser une contrefaçon sont ordonnées avant l'engagement d'une action au fond, le
+demandeur doit, dans un délai fixé par voie réglementaire, soit se pourvoir par la voie civile ou pénale, soit déposer une
+plainte auprès du procureur de la République. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa
+demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 11
+	  - Loi n°2014-315 du 11 mars 2014 - art. 20
 
 	**Cité par**:
 
@@ -20739,19 +21949,20 @@ préjudice des dommages et intérêts qui peuvent être réclamés.
 
 ###### Article L722-4
 
-L'atteinte à une indication géographique peut être prouvée par tous moyens.
+La contrefaçon  peut être prouvée par tous moyens. 
 
 A cet effet, toute personne ayant qualité pour agir en vertu du présent titre est en droit de faire procéder en tout lieu et
-par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la
-juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie
-réelle des objets portant prétendument atteinte à une indication géographique ainsi que de tout document s'y rapportant.
+par tous huissiers, le cas échéant assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête
+par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la
+saisie réelle des objets prétendus contrefaisants  ainsi que de tout document s'y rapportant. L'ordonnance peut autoriser la
+saisie réelle de tout document se rapportant aux objets prétendus contrefaisants en l'absence de ces derniers.
 
-La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour
-produire ou distribuer les objets portant prétendument atteinte à une indication géographique.
+La juridiction peut ordonner, aux mêmes fins probatoires, la description détaillée ou la saisie réelle des matériels et
+instruments utilisés pour produire ou distribuer les objets prétendus contrefaisants. 
 
 Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à
 assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non
-fondée ou la saisie annulée.
+fondée ou la saisie annulée. 
 
 A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire,
 l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa
@@ -20761,11 +21972,12 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 20
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
 
 	**Cité par**:
 
@@ -20774,78 +21986,93 @@ demande et sans préjudice des dommages et intérêts qui peuvent être réclam�
 	  - Code de la propriété intellectuelle - art. R722-4 (V)
 
 
+###### Article L722-4-1
+
+La juridiction peut ordonner, d'office ou à la demande de toute personne ayant qualité pour agir en contrefaçon, toutes les
+mesures d'instruction légalement admissibles même si une saisie-contrefaçon n'a pas préalablement été ordonnée dans les
+conditions prévues à l'article L. 722-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-4
+
+
 ###### Article L722-5
 
-Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent chapitre peut ordonner, au
-besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits, la production de tous
-documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits portant
-atteinte à une indication géographique ou qui fournit des services utilisés dans des activités portant atteinte à une
-indication géographique ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution
-de ces produits ou la fourniture de ces services.
+Si la demande lui en est faite, la juridiction saisie au fond ou en référé d'une procédure civile prévue au présent chapitre
+peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits argués de
+contrefaçon, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée
+en possession de produits argués de contrefaçon ou qui fournit des services utilisés dans de prétendues activités de
+contrefaçon ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces
+produits ou la fourniture de ces services. 
 
 La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits
-ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou
-services en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 3
 
 
 ###### Article L722-6
 
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le
-manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte à une indication géographique
-et le préjudice moral causé à la partie lésée du fait de l'atteinte.
+Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement : 
+
+1° Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ; 
+
+2° Le préjudice moral causé à cette dernière ; 
+
+3° Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et
+promotionnels que celui-ci a retirées de la contrefaçon. 
 
 Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et
-intérêts une somme forfaitaire.
+intérêts une somme forfaitaire. Cette somme n'est pas exclusive de l'indemnisation du préjudice moral causé à la partie
+lésée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 2
 
 
 ###### Article L722-7
 
-En cas de condamnation civile pour atteinte à une indication géographique, la juridiction peut ordonner, à la demande de la
-partie lésée, que les produits reconnus comme portant atteinte à une indication géographique et les matériaux et instruments
-ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de
-ces circuits, détruits ou confisqués au profit de la partie lésée.
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les
+produits reconnus comme contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou
+fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au
+profit de la partie lésée.
 
 La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa
 publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle
 désigne, selon les modalités qu'elle précise.
 
-Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte.
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de la contrefaçon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - Loi n°2014-315 du 11 mars 2014 - art. 20
 
 
 ###### Article L722-8
@@ -20866,6 +22093,343 @@ et 2060 du code civil.
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. D722-6 (V)
+
+
+##### Section 2 : La retenue
+
+###### Article L722-9
+
+En dehors des cas prévus par la réglementation de l'Union européenne, l'administration des douanes peut, sur demande écrite
+d'une personne autorisée à utiliser une indication géographique ou de tout organisme de défense des indications
+géographiques, assortie des justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci
+prétend constituer une contrefaçon. 
+
+Cette retenue est immédiatement notifiée au demandeur et au détenteur. Le procureur de la République est également informé de
+ladite mesure par l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées à la personne autorisée à utiliser une indication
+géographique ou à l'organisme de défense des indications géographiques, par dérogation à l'article 59 bis du code des
+douanes. Ces informations peuvent également être communiquées avant la mise en œuvre de la mesure prévue au présent article. 
+
+Sous réserve des procédures prévues aux articles L. 722-13 et L. 722-14 du présent code, la mesure de retenue est levée de
+plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à compter de la notification de la retenue des marchandises, de justifier auprès de l'administration des douanes
+soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la
+voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises
+au cas où la contrefaçon ne serait pas ultérieurement reconnue, soit d'avoir déposé une plainte auprès du procureur de la
+République. L'administration des douanes peut proroger le délai de dix jours ouvrables prévu au présent alinéa de dix jours
+ouvrables maximum sur requête dûment motivée du demandeur. En cas de prorogation du délai, le procureur de la République et
+le détenteur des marchandises en sont informés. 
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la
+charge du demandeur. 
+
+Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir
+de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du
+déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur
+leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+La retenue mentionnée au premier alinéa du présent article ne porte pas : 
+
+1° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de
+l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à
+être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ; 
+
+2° Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre
+de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir
+transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Décret n°2015-427 du 15 avril 2015 (V)
+	  - Arrêté du 29 juin 2015 (V)
+	  - Arrêté du 29 juin 2015 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. L722-10 (V)
+	  - Code de la propriété intellectuelle - art. L722-12 (V)
+	  - Code de la propriété intellectuelle - art. L722-14 (V)
+	  - Code de la propriété intellectuelle - art. L722-16 (V)
+	  - Code de la propriété intellectuelle - art. L722-17 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-13
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L722-10
+
+En l'absence de demande écrite de la personne autorisée à utiliser une indication géographique ou de l'organisme de défense
+des indications géographiques et en dehors des cas prévus par la réglementation de l'Union européenne, l'administration des
+douanes peut, dans le cadre de ses contrôles, retenir des marchandises susceptibles de porter atteinte à une indication
+géographique. 
+
+Cette retenue est immédiatement notifiée à la personne autorisée à utiliser l'indication géographique ou à l'organisme de
+défense des indications géographiques. Le procureur de la République est également informé de ladite mesure par
+l'administration des douanes. 
+
+Lors de la notification mentionnée à la première phrase du deuxième alinéa du présent article, la nature et la quantité
+réelle ou estimée ainsi que des images des marchandises sont communiquées à la personne autorisée à utiliser l'indication
+géographique ou à l'organisme de défense des indications géographiques, par dérogation à l'article 59 bis du code des
+douanes. Ces informations peuvent également être communiquées avant la mise en œuvre de la mesure prévue au présent article. 
+
+La mesure de retenue est levée de plein droit si l'administration des douanes n'a pas reçu de la personne autorisée à
+utiliser l'indication géographique ou de l'organisme de défense des indications géographiques la demande prévue à l'article
+L. 722-9 du présent code, déposée dans un délai de quatre jours ouvrables à compter de la notification de la retenue
+mentionnée à la première phrase du deuxième alinéa du présent article. 
+
+Si la demande a été reçue conformément au quatrième alinéa du présent article, le délai de dix jours ouvrables mentionné au
+quatrième alinéa de l'article L. 722-9 commence à courir à compter de l'acceptation de cette demande par l'administration des
+douanes. 
+
+Le présent article n'est pas applicable aux marchandises périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L722-13 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-9
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L722-11
+
+I. ― Lorsque la retenue prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'une indication géographique est mise en œuvre avant qu'une demande de la personne autorisée à
+utiliser l'indication géographique ou de l'organisme de défense des indications géographiques ait été déposée ou acceptée,
+les agents des douanes peuvent, par dérogation à l'article 59 bis du code des douanes, informer cette personne ou cet
+organisme de la mise en œuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur la quantité
+des marchandises et leur nature. 
+
+Lorsque la retenue prévue par la réglementation de l'Union européenne et portant sur des marchandises soupçonnées de
+constituer une contrefaçon d'une indication géographique est mise en œuvre après qu'une demande de la personne autorisée à
+utiliser une indication géographique ou de l'organisme de défense des indications géographiques a été acceptée, les agents
+des douanes peuvent également communiquer à cette personne ou à cet organisme les informations, prévues par cette
+réglementation, nécessaires pour déterminer s'il y a eu violation de son droit. 
+
+II. ― Les frais générés par la mise en œuvre de la retenue mentionnée au I sont à la charge de la personne autorisée à
+utiliser une indication géographique ou de l'organisme de défense des indications géographiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L722-12 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L722-12
+
+Pendant le délai de la retenue mentionnée à l'article L. 722-9 et au second alinéa du I de l'article L. 722-11, la personne
+autorisée à utiliser une indication géographique ou l'organisme de défense des indications géographiques peut, à sa demande
+ou à la demande de l'administration des douanes, inspecter les marchandises retenues. 
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons. A la demande
+de la personne autorisée à utiliser l'indication géographique ou de l'organisme de défense des indications géographiques, ces
+échantillons peuvent lui être remis aux seules fins d'analyse et en vue de faciliter les actions qu'elle ou il peut être
+amené à engager par la voie civile ou pénale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-11
+	  - Code de la propriété intellectuelle - art. L722-9
+
+
+###### Article L722-13
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une indication géographique
+est mise en œuvre après qu'une demande mentionnée à l'article L. 722-9 a été acceptée, les marchandises soupçonnées de porter
+atteinte à une indication géographique peuvent être détruites sous le contrôle des agents des douanes dès lors que les
+conditions suivantes sont remplies : 
+
+1° Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours
+ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère
+contrefaisant des marchandises ; 
+
+2° Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours
+ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa
+responsabilité, des marchandises ; 
+
+3° Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de
+trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction
+des marchandises. 
+
+II. ― Si le détenteur des marchandises n'a, dans le délai mentionné au 3° du I, ni confirmé qu'il consent à la destruction
+des marchandises, ni informé l'administration des douanes qu'il s'oppose à leur destruction, il est réputé avoir consenti à
+cette destruction. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction et qu'il n'est pas
+réputé avoir consenti à la destruction des marchandises dans les délais prévus, l'administration des douanes en informe
+immédiatement le demandeur lequel, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées
+périssables, à partir de la notification de la retenue, prend les mesures mentionnées au quatrième alinéa de l'article L.
+722-9. Le délai de dix jours peut être prorogé de dix jours ouvrables maximum sur requête dûment motivée du demandeur. En cas
+de prorogation du délai, le procureur de la République et le détenteur des marchandises en sont informés. 
+
+Si les conditions prévues au I du présent article ne sont pas réunies et si le demandeur n'a pas justifié auprès de
+l'administration des douanes qu'il a pris les mesures mentionnées au quatrième alinéa du même article L. 722-9, la mesure de
+retenue est levée de plein droit. 
+
+IV. ― Dans le cadre de la communication d'informations prévues au troisième alinéa des articles L. 722-9 et L. 722-10, les
+autorités douanières informent le demandeur de l'existence de la procédure prévue au présent article. Les informations
+prévues au sixième alinéa de l'article L. 722-9 peuvent également être communiquées au demandeur aux fins de mise en œuvre de
+la présente mesure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Code de la propriété intellectuelle - art. L722-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-10
+
+
+###### Article L722-14
+
+I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une indication géographique
+est mise en œuvre après qu'une demande mentionnée à l'article L. 722-9 a été acceptée, les marchandises transportées en
+petits envois soupçonnées de porter atteinte à une indication géographique peuvent être détruites sous le contrôle des agents
+des douanes lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article. 
+
+II. ― La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 722-9 est faite dans un délai d'un
+jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de
+détruire ou non les marchandises et indique que : 
+
+1° Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour
+faire connaître à l'administration des douanes ses observations ; 
+
+2° Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en
+retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de
+silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction. 
+
+L'administration des douanes communique au demandeur, sur requête de celui-ci, les informations relatives à la quantité
+réelle ou estimée des marchandises détruites et à leur nature. 
+
+III. ― Lorsque le détenteur des marchandises n'a pas confirmé par écrit qu'il consent à leur destruction ou lorsqu'il n'est
+pas réputé avoir consenti à leur destruction, l'administration des douanes en informe immédiatement le demandeur et lui
+communique la quantité, la nature ainsi que des images des marchandises. 
+
+IV. ― La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à
+compter de l'information prévue au III du présent article, de justifier auprès de l'administration des douanes qu'il a pris
+les mesures mentionnées au quatrième alinéa de l'article L. 722-9. 
+
+En vue de prendre ces mesures, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de
+l'expéditeur, de l'importateur, du destinataire et du détenteur des marchandises retenues, ainsi que de leur quantité, leur
+origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes. 
+
+V. ― La définition des petits envois mentionnés au I du présent article est précisée par arrêté du ministre chargé des
+douanes. 
+
+VI. ― Le présent article n'est pas applicable aux denrées périssables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-9
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L722-15
+
+Lorsque le demandeur utilise les informations qui lui sont communiquées par l'administration des douanes, par dérogation à
+l'article 59 bis du code des douanes, à d'autres fins que celles prévues par le présent chapitre, l'administration des
+douanes abroge, suspend ou refuse de renouveler ladite demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
+###### Article L722-16
+
+En vue de prononcer les mesures prévues aux articles L. 722-9 à L. 722-12, les agents des douanes appliquent les pouvoirs qui
+leur sont dévolus par le code des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-9
+
+
+###### Article L722-17
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions d'application des mesures prévues aux articles L. 722-9 à L. 722-15 ; 
+
+2° Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à une indication
+géographique prévue par la réglementation européenne en vigueur ainsi que les conditions du prélèvement d'échantillons
+préalable à ladite destruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-9
 
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
@@ -21116,6 +22680,10 @@ nationale antérieurement enregistrée et valablement revendiquée."
 
 	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
+
+## Troisième partie : Dispositions relatives à l'outre-mer
+
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
 # Partie réglementaire
 
