@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-03-13
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -9816,12 +9816,13 @@ Cet établissement a pour mission :
 1° De centraliser et diffuser toute information nécessaire pour la protection des innovations et pour l'enregistrement des
 entreprises, ainsi que d'engager toute action de sensibilisation et de formation dans ces domaines ; 
 
-2° D'appliquer les lois et règlements en matière de propriété industrielle            et de registre du commerce et des
-sociétés ; à cet effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de propriété
-industrielle ou annexes à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la
-surveillance de leur maintien ; il centralise le registre du commerce et des sociétés et le Bulletin officiel des annonces
-civiles et commerciales ; il assure la diffusion des informations techniques, commerciales et financières contenues dans les
-titres de propriété industrielle et instruments centralisés de publicité légale ; 
+2° D'appliquer les lois et règlements en matière de propriété industrielle et de registre du commerce et des sociétés ; à cet
+effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de propriété industrielle ou annexes
+à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la surveillance de leur maintien ; il
+centralise le registre du commerce et des sociétés et le Bulletin officiel des annonces civiles et commerciales ; il assure
+la diffusion des informations techniques, commerciales et financières contenues dans les titres de propriété industrielle et
+instruments centralisés de publicité légale ; il statue sur les demandes d'homologation ou de modification des cahiers des
+charges des indications géographiques définies à l'article L. 721-2 ; 
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des
 innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il
@@ -9841,7 +9842,11 @@ France dans les organisations internationales compétentes.
 
 	**Modifié par**:
 
-	  - Loi n°2010-658 du 15 juin 2010 - art. 3
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-2 (V)
 
 
 ###### Article L411-2
@@ -9897,7 +9902,9 @@ L'organisation administrative et financière de l'Institut est fixée par décre
 ###### Article L411-4
 
 Le directeur de l'Institut national de la propriété industrielle prend les décisions prévues par le présent code à l'occasion
-de la délivrance, du rejet ou du maintien des titres de propriété industrielle.
+de la délivrance, du rejet ou du maintien des titres de propriété industrielle, ainsi qu'à l'occasion de l'homologation, du
+rejet ou de la modification du cahier des charges des indications géographiques définies à l'article L. 721-2 ou du retrait
+de cette homologation. 
 
 Dans l'exercice de cette compétence, il n'est pas soumis à l'autorité de tutelle. Les cours d'appel désignées par voie
 réglementaire connaissent directement des recours formés contre ses décisions. Il y est statué, le ministère public et le
@@ -9910,7 +9917,6 @@ qu'au directeur de l'Institut national de la propriété industrielle.
 
 	  - Loi n°51-444 du 19 avril 1951 - art. 3 (Ab)
 	  - Loi n°68-1 du 2 janvier 1968 - art. 67 (Ab)
-	  - Loi n°91-7 1991-01-04 art. 33-1
 
 	**Cité par**:
 
@@ -9921,16 +9927,19 @@ qu'au directeur de l'Institut national de la propriété industrielle.
 	  - Code de la propriété intellectuelle - art. L613-27 (V)
 	  - Code de la propriété intellectuelle - art. L622-7 (V)
 	  - Code de la propriété intellectuelle - art. L712-14 (V)
-	  - Code de la propriété intellectuelle - art. L721-2 (V)
 	  - Code de la propriété intellectuelle - art. R614-34 (V)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-2 (V)
 
 
 ###### Article L411-5
@@ -19668,7 +19677,7 @@ b) A une dénomination ou raison sociale, s'il existe un risque de confusion dan
 c) A un nom commercial ou à une enseigne connus sur l'ensemble du territoire national, s'il existe un risque de confusion
 dans l'esprit du public ;
 
-d) A une appellation d'origine protégée ;
+d) A une appellation d'origine protégée ou à une indication géographique ;
 
 e) Aux droits d'auteur ;
 
@@ -19682,16 +19691,15 @@ h) Au nom, à l'image ou à la renommée d'une collectivité territoriale.
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 4
 	  - Loi n°91-7 du 4 janvier 1991 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
 
 	**Cité par**:
 
@@ -19761,6 +19769,34 @@ auxquels elle s'applique.
 	  - Code de la propriété intellectuelle - art. L717-5 (V)
 
 
+###### Article L712-2-1
+
+Toute collectivité territoriale ou tout établissement public de coopération intercommunale peut demander à l'Institut
+national de la propriété industrielle d'être alerté en cas de dépôt d'une demande d'enregistrement d'une marque contenant sa
+dénomination, dans des conditions fixées par décret.
+
+Les conseils régionaux, la collectivité territoriale de Corse et les conseils généraux peuvent demander à l'Institut national
+de la propriété industrielle d'être alertés en cas de dépôt d'une demande d'enregistrement d'une marque contenant un nom de
+pays se situant sur leur territoire géographique, dans des conditions fixées par décret.
+
+**Nota:**
+
+Conformément à l'article 1 1° de la loi n° 2013-403 du 17 mai 2013, dans l'ensemble des dispositions législatives : Les
+mots : "conseils généraux", sont remplacés par les mots : "conseils départementaux".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-671 du 15 juin 2015 (V)
+	  - Code de la propriété intellectuelle - art. D712-29 (V)
+	  - Code de la propriété intellectuelle - art. R718-3 (V)
+
+
 ###### Article L712-3
 
 Pendant le délai de deux mois suivant la publication de la demande d'enregistrement, toute personne intéressée peut formuler
@@ -19792,17 +19828,26 @@ des observations auprès du directeur de l'Institut national de la propriété i
 ###### Article L712-4
 
 Pendant le délai mentionné à l'article L. 712-3, opposition à la demande d'enregistrement peut être faite auprès du directeur
-de l'Institut national de la propriété industrielle par le propriétaire d'une marque enregistrée ou déposée antérieurement ou
-bénéficiant d'une date de priorité antérieure, ou par le propriétaire d'une marque antérieure notoirement connue. 
+de l'Institut national de la propriété industrielle par : 
 
-Le bénéficiaire d'un droit exclusif d'exploitation dispose également du même droit, sauf stipulation contraire du contrat.
+1° Le propriétaire d'une marque enregistrée ou déposée antérieurement ou bénéficiant d'une date de priorité antérieure, ou le
+propriétaire d'une marque antérieure notoirement connue ; 
+
+2° Le bénéficiaire d'un droit exclusif d'exploitation, sauf stipulation contraire du contrat ; 
+
+3° Une collectivité territoriale au titre du h de l'article L. 711-4 ou au titre d'une atteinte à une indication géographique
+définie à l'article L. 721-2, dès lors que cette indication comporte le nom de la collectivité concernée ; 
+
+4° Un organisme de défense et de gestion mentionné à l'article L. 721-4 dont une indication géographique a été homologuée en
+application de l'article L. 721-3 ou dont la demande d'homologation est en cours d'instruction par l'institut. 
 
 L'opposition est réputée rejetée s'il n'est pas statué dans un délai de six mois suivant l'expiration du délai prévu à
 l'article L. 712-3. 
 
 Toutefois, ce délai peut être suspendu : 
 
-a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ; 
+a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ou sur une demande d'homologation d'indication
+géographique ; 
 
 b) En cas de demande en nullité, en déchéance ou en revendication de propriété, de la marque sur laquelle est fondée
 l'opposition ; 
@@ -19848,11 +19893,15 @@ c) Sur demande conjointe des parties, pendant une durée de trois mois renouvela
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 2
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L711-4
 	  - Code de la propriété intellectuelle - art. L712-3
+	  - Code de la propriété intellectuelle - art. L721-2 (V)
+	  - Code de la propriété intellectuelle - art. L721-3 (V)
+	  - Code de la propriété intellectuelle - art. L721-4 (V)
 
 
 ###### Article L712-5
@@ -20273,13 +20322,17 @@ sens de l'article 6 bis de la convention de Paris pour la protection de la propr
 
 ###### Article L713-6
 
-L'enregistrement d'une marque ne fait pas obstacle à l'utilisation du même signe ou d'un signe similaire comme :
+L'enregistrement d'une marque ne fait pas obstacle à l'utilisation du même signe ou d'un signe similaire comme : 
 
 a) Dénomination sociale, nom commercial ou enseigne, lorsque cette utilisation est soit antérieure à l'enregistrement, soit
-le fait d'un tiers de bonne foi employant son nom patronymique ;
+le fait d'un tiers de bonne foi employant son nom patronymique ; 
 
 b) Référence nécessaire pour indiquer la destination d'un produit ou d'un service, notamment en tant qu'accessoire ou pièce
-détachée, à condition qu'il n'y ait pas de confusion dans leur origine.
+détachée, à condition qu'il n'y ait pas de confusion dans leur origine ; 
+
+c) Indication géographique définie à l'article L. 721-2, sauf lorsque la marque, compte tenu de sa renommée, de sa notoriété
+et de la durée de son usage, est à l'origine exclusive de la réputation ou de la connaissance par le consommateur du produit
+pour lequel une indication géographique est demandée. 
 
 Toutefois, si cette utilisation porte atteinte à ses droits, le titulaire de l'enregistrement peut demander qu'elle soit
 limitée ou interdite.
@@ -20288,16 +20341,19 @@ limitée ou interdite.
 
 	**Anciens textes**:
 
-	  - Loi n°91-7 1991-01-04 art. 17
 	  - Loi n°91-7 du 4 janvier 1991 - art. 17 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-2 (V)
 
 
 ##### Chapitre IV : Transmission et perte du droit sur la marque
@@ -21809,6 +21865,8 @@ l'Institut national de la propriété industrielle.
 
 ##### Chapitre Ier : Généralités
 
+##### Section 1 : Appellations d'origine 
+
 ###### Article L721-1
 
 Les règles relatives à la détermination des appellations d'origine sont fixées par l'article L. 115-1 du code de la
@@ -21824,37 +21882,373 @@ et des facteurs humains. "
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 29 () JORF 30 octobre 2007
+	  - DEPLACE: Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L115-1
+
+
+##### Section 2 : Indications géographiques   protégeant les produits industriels et artisanaux
+
+###### Article L721-2
+
+Constitue une indication géographique la dénomination d'une zone géographique ou d'un lieu déterminé servant à désigner un
+produit, autre qu'agricole, forestier, alimentaire ou de la mer, qui en est originaire et qui possède une qualité déterminée,
+une réputation ou d'autres caractéristiques qui peuvent être attribuées essentiellement à cette origine géographique. Les
+conditions de production ou de transformation de ce produit, telles que la découpe, l'extraction ou la fabrication,
+respectent un cahier des charges homologué par décision prise en application de l'article L. 411-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code de la consommation - art. L115-16 (VT)
+	  - Code de la consommation - art. L116-1 (VT)
+	  - Code de la consommation - art. L431-2 (VD)
+	  - Code de la propriété intellectuelle - art. L411-1 (V)
+	  - Code de la propriété intellectuelle - art. L411-4 (V)
+	  - Code de la propriété intellectuelle - art. L712-4 (V)
+	  - Code de la propriété intellectuelle - art. L713-6 (V)
+	  - Code de la propriété intellectuelle - art. L721-3 (V)
+	  - Code de la propriété intellectuelle - art. L722-1 (V)
+	  - Code de la propriété intellectuelle - art. R411-1 (V)
+	  - Code de la propriété intellectuelle - art. R411-1-4 (V)
+	  - Code de la propriété intellectuelle - art. R411-17 (V)
+	  - Code de la propriété intellectuelle - art. R411-19 (V)
+	  - Code de la propriété intellectuelle - art. R721-3 (V)
+	  - Code de la propriété intellectuelle - art. R721-8 (V)
+
+
+###### Article L721-3
+
+La demande d'homologation ou de modification du cahier des charges est déposée auprès de l'Institut national de la propriété
+industrielle par un organisme de défense et de gestion, défini à l'article L. 721-4, représentant les opérateurs concernés. 
+
+La décision d'homologation est prise après : 
+
+1° La vérification du contenu du cahier des charges et de la représentativité des opérateurs au sein de l'organisme de
+défense et de gestion ; 
+
+2° La réalisation d'une enquête publique, dont les modalités sont fixées par voie réglementaire ; 
+
+3° La consultation : 
+
+a) Des collectivités territoriales ; 
+
+b) Des groupements professionnels intéressés ; 
+
+c) Du directeur de l'Institut national de l'origine et de la qualité lorsque la dénomination de l'indication géographique
+définie à l'article L. 721-2 peut entraîner un risque de confusion avec une indication géographique protégée ou une
+appellation d'origine protégée définies par le code rural et de la pêche maritime, existantes ou en cours d'instruction par
+l'Institut national de l'origine et de la qualité ; 
+
+d) Des associations de consommateurs agréées ayant obtenu la reconnaissance spécifique prévue au livre IV du code de la
+consommation. 
+
+A défaut de réponse dans les deux mois de leur saisine, les avis sont réputés favorables. 
+
+Lorsqu'il instruit la demande d'homologation ou de modification du cahier des charges, l'Institut national de la propriété
+industrielle s'assure que les opérations de production ou de transformation décrites dans le cahier des charges, ainsi que le
+périmètre de la zone ou du lieu, permettent de garantir que le produit concerné présente effectivement une qualité, une
+réputation ou d'autres caractéristiques qui peuvent être essentiellement attribuées à la zone géographique ou au lieu
+déterminé associés à l'indication géographique. 
+
+La décision d'homologation vaut reconnaissance de l'organisme qui assure la défense et la gestion du produit bénéficiant de
+l'indication géographique. Cette décision, accompagnée du cahier des charges correspondant, est publiée au Bulletin officiel
+de la propriété industrielle. Les modifications apportées, le cas échéant, au cahier des charges sont également publiées au
+Bulletin officiel de la propriété industrielle. Une information sur la publication au Bulletin officiel de la propriété
+industrielle est publiée sous forme d'avis au Journal officiel. 
+
+La redevance versée à l'Institut national de la propriété industrielle pour l'homologation du cahier des charges est à la
+charge de l'organisme défini à l'article L. 721-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2017 - art. 2 (V)
+	  - Code de la propriété intellectuelle - art. L712-4 (V)
+	  - Code de la propriété intellectuelle - art. R411-1-4 (V)
+	  - Code de la propriété intellectuelle - art. R721-3 (V)
+	  - Code de la propriété intellectuelle - art. R721-4 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-2
+	  - Code de la propriété intellectuelle - art. L721-4
+
+
+###### Article L721-4
+
+La défense et la gestion d'un produit bénéficiant d'une indication géographique sont assurées par un organisme privé doté de
+la personnalité morale.
+
+Un même organisme peut assurer la défense et la gestion de plusieurs produits.
+
+Pour chacun des produits pour lesquels une indication géographique est envisagée, les règles de composition et de
+fonctionnement de l'organisme doivent assurer la représentativité des opérateurs concernés.
+
+Les missions de défense et de gestion assurées par l'organisme mentionné au premier alinéa sont exercées de manière
+indépendante de ses autres qualités lorsqu'elles ne concernent pas la défense des droits collectifs des opérateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L712-4 (V)
+	  - Code de la propriété intellectuelle - art. L721-3 (V)
+	  - Code de la propriété intellectuelle - art. R712-13 (V)
+	  - Code de la propriété intellectuelle - art. R721-1 (V)
+	  - Code de la propriété intellectuelle - art. R721-11 (V)
+
+
+###### Article L721-5
+
+Tout opérateur qui en fait la demande est membre de droit de l'organisme de défense et de gestion dès lors qu'il respecte le
+cahier des charges homologué. 
+
+Un opérateur ne peut se prévaloir d'une indication géographique que s'il est membre de l'organisme de défense et de gestion
+de cette indication géographique et est inscrit sur la liste des opérateurs figurant dans le cahier des charges ou sur la
+liste des opérateurs actualisée et publiée au Bulletin officiel de la propriété industrielle conformément au 5° de l'article
+L. 721-6. 
+
+Pour l'application de la présente section, un opérateur désigne toute personne physique ou morale qui participe aux activités
+de production ou de transformation conformément au cahier des charges de l'indication géographique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2017 - art. 2 (V)
+	  - Code de la propriété intellectuelle - art. R411-1-4 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-6
+
+
+###### Article L721-6
+
+L'organisme de défense et de gestion contribue à la mission d'intérêt général de préservation et de mise en valeur des
+territoires, des traditions locales et des savoir-faire ainsi que des produits qui en sont issus. 
+
+Pour chaque produit bénéficiant d'une indication géographique dont il assure la défense et la gestion, l'organisme : 
+
+1° Elabore le projet de cahier des charges, le soumet à l'homologation de l'Institut national de la propriété industrielle et
+contribue à son application par les opérateurs ; 
+
+2° Soumet tout projet de modification du cahier des charges à l'Institut national de la propriété industrielle ; 
+
+3° S'assure que les opérations de contrôle des opérateurs par les organismes mentionnés à l'article L. 721-9 sont effectuées
+dans les conditions fixées par le cahier des charges. Il informe l'Institut national de la propriété industrielle des
+résultats des contrôles effectués et des mesures correctives appliquées ; 
+
+4° S'assure de la représentativité des opérateurs dans ses règles de composition et de fonctionnement ; 
+
+5° Tient à jour la liste des opérateurs et transmet les mises à jour à l'Institut national de la propriété industrielle, qui
+les publie au Bulletin officiel de la propriété industrielle ; 
+
+6° Exclut, après mise en demeure, tout opérateur qui ne respecte pas le cahier des charges et n'a pas pris les mesures
+correctives mentionnées au 3° ; 
+
+7° Participe aux actions de défense, de protection et de valorisation de l'indication géographique, des produits et du
+savoir-faire, ainsi qu'à la connaissance statistique du secteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 2017 - art. 2 (V)
+	  - Code de la propriété intellectuelle - art. L721-5 (V)
+	  - Code de la propriété intellectuelle - art. R721-1 (V)
+	  - Code de la propriété intellectuelle - art. R721-10 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-9
+
+
+###### Article L721-7
+
+Le cahier des charges d'une indication géographique précise : 
+
+1° Le nom de celle-ci ; 
+
+2° Le produit concerné ; 
+
+3° La délimitation de la zone géographique ou du lieu déterminé associé ; 
+
+4° La qualité, la réputation, le savoir-faire traditionnel ou les autres caractéristiques que possède le produit concerné et
+qui peuvent être attribués essentiellement à cette zone géographique ou à ce lieu déterminé, ainsi que les éléments
+établissant le lien entre le produit et la zone géographique ou le lieu déterminé associé ; 
+
+5° La description du processus d'élaboration, de production et de transformation, dont les opérations de production ou de
+transformation qui doivent avoir lieu dans la zone géographique ou le lieu déterminé ainsi que celles qui garantissent les
+caractéristiques mentionnées au 4° ; 
+
+6° L'identité de l'organisme de défense et de gestion, ses statuts, la liste des opérateurs initiaux qu'il représente et les
+modalités financières de leur participation ; 
+
+7° Les modalités et la périodicité des contrôles réalisés par les organismes mentionnés à l'article L. 721-9 ainsi que les
+modalités de financement de ces contrôles. Les modalités comportent notamment les points de contrôle du produit ; 
+
+8° Les obligations déclaratives ou de tenue de registres auxquelles les opérateurs doivent satisfaire afin de permettre la
+vérification du respect du cahier des charges ; 
+
+9° Les modalités de mise en demeure et d'exclusion des opérateurs en cas de non-respect du cahier des charges ; 
+
+10° Le financement prévisionnel de l'organisme de défense et de gestion ; 
+
+11° Les éléments spécifiques de l'étiquetage ; 
+
+12° Le cas échéant, les engagements sociaux et environnementaux pris par les opérateurs regroupés au sein de l'organisme de
+défense et de gestion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-9
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R721-1 (V)
+	  - Code de la propriété intellectuelle - art. R721-2 (V)
+	  - Code de la propriété intellectuelle - art. R721-5 (V)
+
+
+###### Article L721-8
+
+I. ― Sans préjudice des articles L. 115-16 du code de la consommation et L. 722-1 du présent code, les dénominations
+enregistrées sont protégées contre : 
+
+1° Toute utilisation commerciale directe ou indirecte d'une dénomination enregistrée à l'égard des produits non couverts par
+l'enregistrement, lorsque ces produits sont comparables à ceux enregistrés sous cette dénomination ou lorsque cette
+utilisation permet de profiter de la réputation de la dénomination protégée ; 
+
+2° Toute usurpation, imitation ou évocation, même si l'origine véritable des produits ou des services est indiquée ou si la
+dénomination protégée est traduite ou accompagnée d'une expression telle que " genre ", " type ", " méthode ", " façon ", "
+imitation " ou d'une expression similaire ; 
+
+3° Toute autre indication fausse ou fallacieuse quant à la provenance, l'origine, la nature ou les qualités essentielles du
+produit qui figure sur le conditionnement ou l'emballage, sur la publicité ou sur des documents afférents au produit
+concerné, ainsi que contre l'utilisation pour le conditionnement d'un récipient de nature à créer une impression erronée sur
+l'origine du produit ; 
+
+4° Toute autre pratique susceptible d'induire le consommateur en erreur quant à la véritable origine du produit. 
+
+Lorsqu'une indication géographique contient en elle-même le nom d'un produit considéré comme générique, l'utilisation de ce
+nom générique n'est pas considérée comme contraire aux 1° ou 2° du présent I. 
+
+II. ― L'indication géographique, dont le cahier des charges a été homologué dans les conditions prévues par la présente
+section, ne peut jamais être considérée comme présentant un caractère générique et tomber dans le domaine public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L722-1
+	  - Code de la consommation - art. L115-16
+
+
+###### Article L721-9
+
+Le respect du cahier des charges par les opérateurs est contrôlé par des organismes d'évaluation de la conformité, qui
+bénéficient d'une accréditation délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n°
+2008-776 du 4 août 2008 de modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de
+l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance
+mutuelle multilatéraux couvrant le champ de ce contrôle. 
+
+L'organisme de défense et de gestion peut demander à un opérateur d'avoir recours, à ses frais, à un organisme de contrôle
+accrédité conformément au premier alinéa du présent article afin qu'il effectue un contrôle supplémentaire visant à vérifier
+que cet opérateur a appliqué les mesures correctives mentionnées au 3° de l'article L. 721-6 du présent code. 
+
+L'Institut national de la propriété industrielle vérifie que les opérations de contrôle des opérateurs prévues par le cahier
+des charges sont effectuées par un organisme d'évaluation de la conformité et que les mesures correctives et les mises en
+demeure et exclusions des opérateurs prévues dans le cahier des charges sont mises en œuvre. 
+
+Après mise en demeure de l'organisme de défense et de gestion, l'institut peut retirer l'homologation du cahier des charges
+si ces contrôles ne sont pas effectués ou si les mesures correctives n'ont pas été mises en œuvre dans les délais requis. 
+
+La décision de retrait de l'homologation est publiée au Bulletin officiel de la propriété industrielle. Une information sur
+la publication au Bulletin officiel de la propriété industrielle est publiée sous forme d'avis au Journal officiel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 137
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L721-6 (V)
+	  - Code de la propriété intellectuelle - art. L721-7 (M)
+	  - Code de la propriété intellectuelle - art. R721-7 (V)
+	  - Code de la propriété intellectuelle - art. R721-9 (V)
+
+
+###### Article L721-10
+
+Les modalités d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
 
 
 ##### Chapitre II : Contentieux
-
-##### Section unique : Actions civiles
 
 ##### Section 1 : Actions civiles
 
 ###### Article L722-1
 
 Toute atteinte portée à une indication géographique en violation de la protection qui lui est accordée par le droit de
-l'Union européenne ou la législation nationale constitue une contrefaçon engageant la responsabilité de son auteur.
+l'Union européenne ou la législation nationale constitue une contrefaçon engageant la responsabilité de son auteur. 
 
 Pour l'application du présent chapitre, on entend par " indication géographique " : 
 
 a) Les appellations d'origine définies à l'article L. 115-1 du code de la consommation ; 
 
-b) Les appellations d'origine protégées et les indications géographiques protégées prévues par la réglementation
-communautaire relative à la protection des indications géographiques et des appellations d'origine des produits agricoles et
-des denrées alimentaires ; 
+b) Les indications géographiques définies à l'article L. 721-2 ; 
 
-c) Les noms des vins de qualité produits dans une région déterminée et les indications géographiques prévues par la
-réglementation communautaire portant organisation commune du marché vitivinicole ; 
-
-d) Les dénominations géographiques prévues par la réglementation communautaire établissant les règles générales relatives à
-la définition, à la désignation et à la présentation des boissons spiritueuses.
+c) Les appellations d'origine et les indications géographiques protégées en vertu du droit de l'Union européenne ; 
 
 Sont interdits la production, l'offre, la vente, la mise sur le marché, l'importation, l'exportation, le transbordement,
 l'utilisation ou la détention à ces fins de biens dont la présentation porte atteinte ou est susceptible de porter atteinte à
@@ -21868,16 +22262,16 @@ une indication géographique.
 
 	**Modifié par**:
 
-	  - Loi n°2014-315 du 11 mars 2014 - art. 20
-	  - Loi n°2014-315 du 11 mars 2014 - art. 6
+	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L721-2
+	  - Code de la consommation - art. L115-1
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L721-8 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L115-1
 
 
 ###### Article L722-2
@@ -22432,7 +22826,90 @@ préalable à ladite destruction.
 	  - Code de la propriété intellectuelle - art. L722-9
 
 
-## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
+#### Titre III : Indications relatives aux services publics
+
+##### Chapitre unique
+
+###### Article L731-1
+
+Le présent chapitre est applicable aux publicités, quel qu'en soit le support, et pratiques commerciales relatives aux
+prestations de dépannage, réparation et entretien dans le secteur du bâtiment et de l'équipement de la maison. Les
+prestations concernées sont énumérées par arrêté du ministre chargé de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 75
+
+	**Cité par**:
+
+	  - Arrêté du 17 novembre 2014 (V)
+
+
+###### Article L731-2
+
+Toute utilisation, dans les publicités et documents mentionnés au présent chapitre, de dessins, coordonnées, références ou
+autres signes distinctifs relatifs à un service public est soumise à l'autorisation préalable du service concerné.
+
+L'autorisation prévue au premier alinéa :
+
+1° Ne peut être délivrée sans présentation préalable d'un exemplaire du support destiné à la publication ;
+
+2° Ne peut être valable pour une durée supérieure à un an, éventuellement renouvelable dans les mêmes formes ;
+
+3° Est motivée par l'intérêt général.
+
+Le service ayant délivré l'autorisation peut la retirer à tout moment si l'une des conditions précitées n'est plus remplie.
+La décision de retrait prend effet dix jours après sa notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 75
+
+	**Cité par**:
+
+	  - Arrêté du 17 novembre 2014 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. L731-3 (VD)
+
+
+###### Article L731-3
+
+Tout manquement à l'article L. 731-2 est passible d'une amende administrative dont le montant ne peut excéder 100 000 €.
+L'amende est prononcée par l'autorité administrative chargée de la concurrence et de la consommation dans les conditions
+prévues à l'article L. 141-1-2 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 75
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L731-2
+	  - Code de la consommation - art. L141-1-2
+
+
+###### Article L731-4
+
+Les manquements au présent chapitre sont recherchés et constatés dans les conditions prévues au II de l'article L. 141-1 du
+code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 75
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+
+
+## Troisième partie : Dispositions relatives à l'outre-mer
 
 ### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
@@ -22680,10 +23157,6 @@ nationale antérieurement enregistrée et valablement revendiquée."
 
 	  - Ordonnance n°2008-1301 du 11 décembre 2008 - art. 4 (V)
 
-
-## Troisième partie : Dispositions relatives à l'outre-mer
-
-### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
 # Partie réglementaire
 
