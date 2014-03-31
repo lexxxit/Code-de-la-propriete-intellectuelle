@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-04-01
 
 # Partie législative
 
@@ -25289,6 +25289,8 @@ de la culture.
 
 #### Chapitre unique
 
+##### Section 1 : Commission prévue à l'article L. 311-5
+
 ###### Article D311-8
 
 Les comptes rendus des séances de la commission comportent :
@@ -25305,13 +25307,9 @@ du ministère de la culture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2009-744 du 19 juin 2009 - art. 5
-
-	**Anciens textes**:
-
-	  - Code de la propriété intellectuelle - art. D311-1 (T)
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
 ###### Article R311-1
@@ -25324,21 +25322,21 @@ acquisitions intracommunautaires de supports et, pour un quart, des représentan
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 1 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°95-385 1955-04-10
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L311-5 (V)
+	  - Code de la propriété intellectuelle - art. L311-5
 
 
 ###### Article R311-2
@@ -25367,9 +25365,9 @@ aux séances et ne participent aux délibérations qu'en cas d'absence du repré
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 2 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-744 du 19 juin 2009 - art. 3
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 	**Cite**:
 
@@ -25391,9 +25389,9 @@ mandat par une désignation faite pour la durée du mandat restant à courir.
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 3 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
 ###### Article R311-4
@@ -25413,9 +25411,9 @@ culture, soit par un tiers des membres de la commission.
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 4 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
 ###### Article R311-5
@@ -25436,9 +25434,9 @@ délibérer quel que soit le nombre des membres présents.
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 5 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
 ###### Article R311-6
@@ -25455,9 +25453,9 @@ consécutives de la commission.
 
 	  - Décret n°86-28 du 3 janvier 1986 - art. 6 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-744 du 19 juin 2009 - art. 4
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
 
 
 ###### Article R311-7
@@ -25474,17 +25472,113 @@ de la culture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-28 1986-01-03 art. 7 à art. 10
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2013-1141 du 10 décembre 2013 - art. 1
+
+
+##### Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée
+
+###### Article R311-9
+
+Pour l'application de l'article L. 311-4-1, doivent être portés à la connaissance de l'acquéreur de tout support
+d'enregistrement au sens de l'article L. 311-4 : 
+
+1° Le montant de la rémunération pour copie privée propre à chaque support d'enregistrement ; 
+
+2° L'existence de la notice explicative prévue par l'article L. 311-4-1 ; 
+
+3° L'adresse URL du site de communication au public en ligne auprès duquel une version dématérialisée de cette notice peut
+être consultée et téléchargée.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2013-1141 du 10 décembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L311-4
+	  - Code de la propriété intellectuelle - art. L311-4-1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R311-10 (VD)
+
+
+###### Article R311-10
+
+I.-Dans un lieu de vente, l'information prévue à l'article R. 311-9 prend la forme d'un affichage clair et lisible à
+proximité du support concerné. 
+
+II.-Toutefois, lorsque la mise en vente est faite à destination d'utilisateurs finaux par une technique de communication à
+distance, ou lorsque la mise en vente a lieu dans des conditions matérielles ne permettant pas un affichage, cette
+information est portée à la connaissance de l'acquéreur de façon précise par tout moyen faisant preuve, avant la conclusion
+du contrat. 
+
+III.-Lorsqu'un support d'enregistrement est vendu à un acquéreur professionnel, l'information prévue à l'article R. 311-9
+figure en pied de facture. S'ajoute alors à cette information la mention de la faculté de remboursement de la rémunération
+acquittée à l'occasion de l'achat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1141 du 10 décembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R311-9
+
+
+###### Article R311-11
+
+Un arrêté du ministre chargé de la culture précise le contenu de la notice prévue par l'article L. 311-4-1 ainsi que
+l'adresse URL du site de communication au public en ligne auprès duquel celle-ci peut être consultée ou téléchargée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1141 du 10 décembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L311-4-1
+
+
+###### Article R311-12
+
+L'autorité compétente pour prononcer les amendes administratives sanctionnant les manquements à l'article L. 311-4-1 est
+l'autorité administrative désignée par l'article R. 141-4 du code de la consommation. 
+
+Avant toute décision, l'autorité administrative transmet à la personne mise en cause une copie du procès-verbal constatant
+les manquements, l'informe par écrit de la sanction envisagée à son encontre, en lui indiquant qu'elle peut prendre
+connaissance des pièces du dossier et se faire assister par le conseil de son choix, et en l'invitant à présenter, dans le
+délai de soixante jours, ses observations écrites et, le cas échéant, orales. Passé ce délai, l'autorité administrative peut,
+par décision motivée, prononcer l'amende et émettre le titre de perception correspondant. 
+
+L'amende est recouvrée comme en matière de créances étrangères à l'impôt et au domaine. 
+
+Le délai de prescription de l'action administrative à l'égard des manquements à l'article L. 311-4-1 est d'une année révolue
+à compter des manquements, s'il n'a été fait pendant ce délai aucun acte tendant à leur recherche, à leur constatation ou à
+leur sanction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1141 du 10 décembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L311-4-1
+	  - Code de la consommation - art. R141-4
 
 
 ### Titre II : Sociétés de perception et de répartition des droits
