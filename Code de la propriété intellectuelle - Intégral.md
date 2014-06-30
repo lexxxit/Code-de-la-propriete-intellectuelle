@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-06-30
+Version Consolidée au 2014-07-01
 
 # Partie législative
 
@@ -31069,10 +31069,6 @@ propriété industrielle et, s'il y a lieu, à toute personne appelée en cause.
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
 
 
-#### Chapitre II : Le comité de la protection des obtentions végétales
-
-##### Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales
-
 #### Chapitre II : L'instance nationale des obtentions végétales
 
 ##### Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales
@@ -34823,13 +34819,16 @@ Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de
 
 ###### Article R512-1
 
-Tout dépôt de dessin ou modèle peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son
-siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace
-économique européen. Il en est accusé réception.
+La demande d'enregistrement de dessin ou modèle est déposée au siège de l'Institut national de la propriété industrielle ou y
+est envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur
+général. La date de dépôt est celle de la réception de la demande au siège de l'institut. 
 
-Il peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis
-de réception ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la
-date de dépôt est celle de la réception à l'institut.
+Le directeur général de l'institut peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à
+faciliter l'examen et la publication de la demande. 
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général. 
+
+Le présent article est également applicable aux déclarations de prorogation prévues à l'article R. 513-1.
 
 **Liens relatifs à cet article**
 
@@ -34839,7 +34838,7 @@ date de dépôt est celle de la réception à l'institut.
 
 	**Modifié par**:
 
-	  - Décret n°2002-215 du 18 février 2002 - art. 6 () JORF 20 février 2002
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cité par**:
 
@@ -34854,9 +34853,16 @@ date de dépôt est celle de la réception à l'institut.
 
 ###### Article R512-2
 
-Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie
-à l'accord sur l'Espace économique européen doivent, dans un délai qui leur est imparti par l'institut, constituer un
-mandataire satisfaisant aux conditions prévues à l'article R. 512-1. 
+Le dépôt peut être effectué personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son
+établissement dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. 
+
+Le mandataire constitué pour le dépôt d'une demande d'enregistrement de dessin ou modèle et tout acte subséquent relatif à la
+procédure d'enregistrement, à l'exception du simple paiement des redevances et des déclarations de prorogation, doit
+appartenir à l'une des catégories de représentants mentionnées aux articles L. 422-4 et L. 422-5. 
+
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de l'Union européenne ou dans un Etat partie à
+l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un
+mandataire satisfaisant aux conditions prévues aux alinéas précédents. 
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué. 
 
@@ -34873,12 +34879,12 @@ légalisation.
 
 	**Modifié par**:
 
-	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R512-1 (V)
-	  - Code de la propriété intellectuelle - art. R513-2 (V)
+	  - Code de la propriété intellectuelle - art. L422-4
+	  - Code de la propriété intellectuelle - art. R513-2
 
 	**Cité par**:
 
@@ -34899,8 +34905,8 @@ L. 512-2.
 
 Le dépôt comprend : 
 
-1° Une demande d'enregistrement établie dans les conditions prévues par l'arrêté mentionné à l'article R. 514-5 et précisant
-notamment : 
+1° Une demande d'enregistrement établie dans les conditions prévues par la décision mentionnée à l'article R. 514-5 et
+précisant notamment : 
 
 a) L'identification du déposant ; 
 
@@ -34918,8 +34924,8 @@ f) Le cas échéant, l'indication que la publication du dépôt doit être diff�
 précédent dépôt étranger est revendiqué ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril
 1908 ; 
 
-2° Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par l'arrêté
-mentionné au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout
+2° Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par la décision
+mentionnée au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout
 autre objet, accessoire, personne ou animal. Les textes explicatifs, légendes, ou toute autre indication ne faisant pas
 partie intégrante du dessin ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions peuvent être
 accompagnées d'une brève description, établie exclusivement à des fins documentaires. Son contenu définitif est, si
@@ -34935,11 +34941,6 @@ contenus dans son dépôt.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-792 1992-08-13 art. 3
-	  - Décret n°92-792 du 13 août 1992 - art. 3 (Ab)
-
 	**Cité par**:
 
 	  - Arrêté du 13 août 1992 - art. 1 (V)
@@ -34947,18 +34948,21 @@ contenus dans son dépôt.
 	  - Code de la propriété intellectuelle - art. R512-4 (V)
 	  - Code de la propriété intellectuelle - art. R512-8 (V)
 	  - Code de la propriété intellectuelle - art. R512-9 (V)
-	  - Code de la propriété intellectuelle - art. R514-5 (V)
+	  - Code de la propriété intellectuelle - art. R514-5 (VD)
 	  - Code de la propriété intellectuelle - art. R811-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°92-792 du 13 août 1992 - art. 3 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L512-2 (V)
-	  - Code de la propriété intellectuelle - art. R512-10 (V)
-	  - Loi n°1908-04-13
+	  - Code de la propriété intellectuelle - art. L512-2
+	  - Code de la propriété intellectuelle - art. R512-10
 
 	**Codifié par**:
 
@@ -35638,8 +35642,8 @@ renonciations ou prorogation dont il a fait l'objet ;
 ###### Article R513-1
 
 La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L. 513-1 résulte d'une déclaration de son titulaire
-établie dans les conditions fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la prorogation ne
-vaut que pour certains dessins ou modèles. 
+établie dans les conditions fixées par la décision mentionnée à l'article R. 514-5. Il peut être précisé que la prorogation
+ne vaut que pour certains dessins ou modèles. 
 
 La première prorogation peut toutefois être demandée lors du dépôt. 
 
@@ -35665,7 +35669,7 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 
 	  - Arrêté du 13 août 1992 - art. 1 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code de la propriété intellectuelle - art. R514-5 (V)
+	  - Code de la propriété intellectuelle - art. R514-5 (VD)
 	  - Code de la propriété intellectuelle - art. R514-6 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
@@ -35673,18 +35677,14 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 
 	  - Décret n°92-792 du 13 août 1992 - art. 10 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 26 () JORF 3 mars 2004
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L513-1 (V)
-	  - Code de la propriété intellectuelle - art. R512-9 (V)
+	  - Code de la propriété intellectuelle - art. L513-1
+	  - Code de la propriété intellectuelle - art. R512-9
 
 	**Codifié par**:
 
@@ -35887,8 +35887,8 @@ propriété industrielle.
 
 ###### Article R514-5
 
-Les modalités de présentation du dépôt et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété
-industrielle, notamment en ce qui concerne : 
+Les modalités de présentation du dépôt et le contenu du dossier sont précisés        par décision du directeur général de
+l'Institut national de la propriété industrielle, notamment en ce qui concerne : 
 
 1° La demande d'enregistrement et les spécifications matérielles auxquelles doit répondre la reproduction graphique ou
 photographique prévue à l'article R. 512-3 ; 
@@ -35903,30 +35903,44 @@ photographique prévue à l'article R. 512-3 ;
 
 	**Anciens textes**:
 
-	  - Décret n°92-792 1992-08-13 art. 24
 	  - Décret n°92-792 du 13 août 1992 - art. 24 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L512-2
+	  - Code de la propriété intellectuelle - art. R512-15
+	  - Code de la propriété intellectuelle - art. R513-1 (VD)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R512-3 (VD)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+###### Article R514-5-1
 
-	**Modifié par**:
+Toute correspondance ou toute pièce relatives à une procédure devant l'Institut national de la propriété industrielle prévue
+par le présent livre sont déposées au siège de l'institut ou y sont envoyées par pli postal ou par tout mode de
+télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la
+réception au siège de l'institut. 
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 32 () JORF 3 mars 2004
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique
+lorsque cette modalité est de nature à faciliter l'examen et la publication de ces pièces. 
 
-	**Cite**:
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
-	  - Code de la propriété intellectuelle - art. L512-2 (V)
-	  - Code de la propriété intellectuelle - art. R512-15 (V)
+**Liens relatifs à cet article**
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Code de la propriété intellectuelle - art. R512-3 (VD)
-	  - Code de la propriété intellectuelle - art. R513-1 (VD)
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
 ##### Section 2 : Dispositions transitoires
@@ -37473,15 +37487,14 @@ qu'il comporte, sauf sur le consentement écrit de la personne qui a intenté l'
 
 ###### Article R612-1
 
-La demande de brevet est déposée à l'Institut national de la propriété industrielle.
+La demande de brevet est déposée au siège de l'Institut national de la propriété industrielle ou y est envoyée par pli postal
+ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La date de dépôt est
+celle de la réception de la demande au siège de l'institut. 
 
-Le dépôt peut également résulter d'un envoi à l'Institut national de la propriété industrielle soit sous pli postal
-recommandé avec demande d'avis de réception, soit par un message utilisant tout mode de télétransmission, selon les modalités
-fixées par le directeur général de l'institut pour garantir notamment la sécurité de l'envoi. Dans ces cas, la date de la
-remise des pièces est celle de leur réception à l'Institut national de la propriété industrielle.
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique
+lorsque cette modalité est de nature à faciliter l'examen et la publication de la demande. 
 
-Le directeur de l'Institut national de la propriété industrielle peut exiger un dépôt sous forme électronique lorsqu'une
-telle modalité est de nature à faciliter l'examen et la publication de la demande de brevet.
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 **Liens relatifs à cet article**
 
@@ -37491,14 +37504,14 @@ telle modalité est de nature à faciliter l'examen et la publication de la dema
 
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 8 () JORF 3 mars 2007
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 	  - Code de la propriété intellectuelle - art. R612-2 (V)
 	  - Code de la propriété intellectuelle - art. R612-35 (V)
-	  - Code de la propriété intellectuelle - art. R614-22 (M)
+	  - Code de la propriété intellectuelle - art. R614-22 (VT)
 	  - Code de la propriété intellectuelle - art. R614-3 (VT)
 	  - Code de la propriété intellectuelle - art. R617-2 (V)
 	  - Code de la propriété intellectuelle - art. R618-5 (VD)
@@ -37679,34 +37692,29 @@ industrielle.
 
 ###### Article R612-7
 
-Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Institut national de la propriété industrielle à
-Paris, celui-ci attribue à la demande de brevet un numéro d'enregistrement national et le notifie sans délai au demandeur.
-Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro ou qui ne porte
-pas la signature du demandeur ou de son mandataire.
+Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Institut national de la propriété industrielle,
+celui-ci attribue à la demande de brevet un numéro d'enregistrement national et le notifie sans délai au demandeur. Est
+déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro ou qui ne porte pas
+la signature du demandeur ou de son mandataire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
 	**Anciens textes**:
 
-	  - Décret n°79-822 du 19 septembre 1979 - art. 5 (M)
 	  - Décret n°79-822 du 19 septembre 1979 - art. 5 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 35 () JORF 3 mars 2004
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D2332-3 (V)
 	  - Code de la propriété intellectuelle - art. R617-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R612-8
@@ -41849,8 +41857,9 @@ Le montant de l'amende infligée en cas de fausse déclaration est de dix fois l
 
 ###### Article R614-1
 
-Les centres régionaux de l'Institut national de la propriété industrielle auprès desquels peuvent être déposées des demandes
-de brevet européen sont désignés par arrêté du ministre chargé de la propriété industrielle.
+La demande de brevet européen peut être déposée au siège de l'Institut national de la propriété industrielle ou y être
+envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur
+général. La date de dépôt est celle de la réception de la demande au siège de l'institut.
 
 **Liens relatifs à cet article**
 
@@ -41862,70 +41871,13 @@ de brevet européen sont désignés par arrêté du ministre chargé de la propr
 
 	  - Décret n°78-1011 du 10 octobre 1978 - art. 1 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R614-20 (V)
-
-
-###### Article R614-2
-
-Lorsque le dépôt est fait dans un centre régional, les pièces de la demande, accompagnées d'un double du récépissé visé à la
-règle 24, paragraphe 2, du règlement d'exécution de la convention sur le brevet européen, sont transmises au siège de
-l'Institut national de la propriété industrielle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2014-650 du 20 juin 2014 - art. 3
-
-
-###### Article R614-3
-
-Le dépôt d'une demande de brevet européen peut être effectué par voie postale ou par tout mode de télétransmission dans les
-conditions prévues aux deuxième et troisième alinéas de l'article R. 612-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1011 du 10 octobre 1978 - art. 3 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 53 () JORF 3 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2014-650 du 20 juin 2014 - art. 3
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R612-1
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R614-4
@@ -42326,10 +42278,15 @@ délais prévus aux articles R. 614-1 à R. 614-19.
 
 ###### Article R614-21
 
-Une demande internationale peut être déposée auprès de l'Institut national de la propriété industrielle soit à son siège,
-soit dans ses centres régionaux désignés par arrêté du ministre chargé de la propriété industrielle. Sous réserve de
-l'obligation prévue à l'article L. 614-18, elle peut également être déposée auprès de l'Office européen des brevets, agissant
-en qualité d'office récepteur.
+La demande internationale peut être déposée au siège de l'Institut national de la propriété industrielle ou y être envoyée
+par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La
+date de dépôt est celle de la réception de la demande au siège de l'institut. 
+
+Le dépôt peut être effectué par le déposant personnellement ou par un mandataire. Les dispositions de l'article R. 612-2 sont
+applicables. 
+
+Sous réserve de l'obligation prévue à l'article L. 614-18, la demande internationale peut également être déposée auprès de
+l'Office européen des brevets, agissant en qualité d'office récepteur.
 
 **Liens relatifs à cet article**
 
@@ -42337,9 +42294,9 @@ en qualité d'office récepteur.
 
 	  - Décret n°78-1010 du 10 octobre 1978 - art. 1 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cité par**:
 
@@ -42348,47 +42305,12 @@ en qualité d'office récepteur.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L614-18 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-
-###### Article R614-22
-
-Le dépôt d'une demande internationale peut être effectué par voie postale ou par tout mode de télétransmission dans les
-conditions prévues aux deuxième et troisième alinéas de l'article R. 612-1. 
-
-Le dépôt peut être fait par le déposant personnellement ou par un mandataire ; les dispositions du premier et du second
-alinéa de l'article R. 612-2 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°78-1010 du 10 octobre 1978 - art. 2 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 54 () JORF 3 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2014-650 du 20 juin 2014 - art. 3
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R612-1 (VD)
+	  - Code de la propriété intellectuelle - art. L614-18
 	  - Code de la propriété intellectuelle - art. R612-2
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R614-23
@@ -42431,26 +42353,23 @@ l'Institut national de la propriété industrielle.
 Un récépissé, indiquant au moins le numéro attribué à la demande internationale, la nature et le nombre des pièces de la
 demande, ainsi que de leur réception, est délivré au déposant.
 
-Lorsque le dépôt est fait dans un centre régional, les pièces de la demande, accompagnées d'un double du récépissé, sont
-transmises sans délai au siège de l'Institut national de la propriété industrielle.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°78-1010 du 10 octobre 1978 - art. 4 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D2332-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R614-25
@@ -43664,27 +43583,46 @@ Les délais impartis par l'Institut national de la propriété industrielle conf
 
 ###### Article R618-5
 
-Les modalités d'application des articles R. 612-1 à R. 612-25 et R. 613-53 à R. 613-59 sont fixées par arrêté du ministre
-chargé de la propriété industrielle.
+Les modalités d'application des articles R. 612-1 à R. 612-25 et R. 613-53 à R. 613-59 sont fixées        par décision du
+directeur général de l'Institut national de la propriété industrielle.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 125 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R612-1 (V)
-	  - Code de la propriété intellectuelle - art. R613-53 (V)
+	  - Code de la propriété intellectuelle - art. R612-1
+	  - Code de la propriété intellectuelle - art. R613-53
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
+
+###### Article R618-6
+
+Toute correspondance ou toute pièce relatives à une procédure devant l'Institut national de la propriété industrielle prévue
+par le présent livre sont déposées au siège de l'institut ou y sont envoyées par pli postal ou par tout mode de
+télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la
+réception au siège de l'institut. 
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique
+lorsque cette modalité est de nature à faciliter l'examen et la publication de ces pièces. 
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
 ### Titre II : Protection des connaissances techniques
@@ -43693,26 +43631,28 @@ chargé de la propriété industrielle.
 
 ###### Article R622-1
 
-Le dépôt des topographies de produits semi-conducteurs, prévu par les articles L. 622-1 à L. 622-7, est effectué à l'Institut
-national de la propriété industrielle.
+Les topographies de produits semi-conducteurs sont déposées à l'Institut national de la propriété industrielle ou y sont
+envoyées par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur
+général. Leur date de dépôt est celle de la réception au siège de l'institut. 
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique
+lorsque cette modalité est de nature à faciliter l'examen et la publication des topographies de produits semi-conducteurs. 
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L622-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°89-816 du 2 novembre 1989 - art. 1 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R622-2
@@ -45769,13 +45709,16 @@ fixés conformément à l'article D. 211-6 du code de l'organisation judiciaire.
 
 ###### Article R712-1
 
-La demande d'enregistrement de marque est déposée à l'Institut national de la propriété industrielle. Il en est accusé
-réception. 
+La demande d'enregistrement de marque est déposée au siège de l'Institut national de la propriété industrielle ou y est
+envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur
+général. La date de dépôt est celle de la réception de la demande au siège de l'institut. 
 
-Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande
-d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce
-cas, la date de dépôt est celle de la réception à l'institut. Le présent article s'applique aux déclarations de
-renouvellement prévues à l'article R. 712-24.
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique
+lorsque cette modalité est de nature à faciliter l'examen et la publication de la demande. 
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général. 
+
+Le présent article est également applicable aux déclarations de renouvellement prévues à l'article R. 712-24.
 
 **Liens relatifs à cet article**
 
@@ -45783,18 +45726,18 @@ renouvellement prévues à l'article R. 712-24.
 
 	  - Décret n°92-100 du 30 janvier 1992 - art. 1 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2007-280 du 1 mars 2007 - art. 25 () JORF 3 mars 2007
-
 	**Cité par**:
 
 	  - Arrêté du 2 septembre 2008 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-24 (V)
+	  - Code de la propriété intellectuelle - art. R712-24 (VD)
 
 	**Codifié par**:
 
@@ -45860,8 +45803,8 @@ s'étend, sous réserve des dispositions des articles R. 712-21 et R. 714-1 et s
 
 Le dépôt comprend : 
 
-1° La demande d'enregistrement de la marque établie dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26
-et précisant notamment : 
+1° La demande d'enregistrement de la marque établie dans les conditions prévues par la décision mentionnée à l'article R.
+712-26 et précisant notamment : 
 
 a) L'identification du déposant ; 
 
@@ -45900,24 +45843,20 @@ Un même dépôt ne peut porter que sur une seule marque.
 	**Cité par**:
 
 	  - Arrêté du 31 janvier 1992 - art. 1 (V)
-	  - Code de la propriété intellectuelle - art. R712-26 (V)
+	  - Code de la propriété intellectuelle - art. R712-26 (VD)
 	  - Code de la propriété intellectuelle - art. R712-28 (V)
 	  - Code de la propriété intellectuelle - art. R712-7 (V)
 	  - Code de la propriété intellectuelle - art. R717-1 (V)
 	  - Code de la propriété intellectuelle - art. R717-2 (V)
 	  - Code de la propriété intellectuelle - art. R717-9 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2007-731 du 7 mai 2007 - art. 10 () JORF 8 mai 2007
 
 
 ###### Article R712-4
@@ -46271,7 +46210,7 @@ ou par l'intermédiaire d'une personne remplissant les conditions prévues à l'
 
 ###### Article R712-14
 
-L'opposition est présentée par écrit dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26. 
+L'opposition est présentée par écrit dans les conditions prévues par   la décision mentionnée à l'article R. 712-26. 
 
 Elle précise : 
 
@@ -46298,12 +46237,12 @@ pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
 
 	  - Arrêté du 31 janvier 1992 - art. 1 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code de la propriété intellectuelle - art. R712-26 (V)
+	  - Code de la propriété intellectuelle - art. R712-26 (VD)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2007-731 du 7 mai 2007 - art. 9 () JORF 8 mai 2007
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Codifié par**:
 
@@ -46313,26 +46252,27 @@ pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
 ###### Article R712-15
 
 Est déclarée irrecevable toute opposition soit formée hors délai, soit présentée par une personne qui n'avait pas qualité,
-soit non conforme aux conditions prévues aux articles R. 712-13 et R. 712-14 et à l'arrêté mentionné à l'article R. 712-26.
+soit non conforme aux conditions prévues aux articles R. 712-13 et R. 712-14 et    par la décision mentionnée à l'article R.
+712-26.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
 	  - Décret n°92-100 du 30 janvier 1992 - art. 14 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-13 (V)
-	  - Code de la propriété intellectuelle - art. R712-26 (V)
+	  - Code de la propriété intellectuelle - art. R712-13
+	  - Code de la propriété intellectuelle - art. R712-26
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R712-16
@@ -46575,8 +46515,8 @@ ou partielle du refus.
 ###### Article R712-24
 
 L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque,
-établie dans les conditions prévues à l'arrêté mentionné à l'article R. 712-26. Il peut être précisé que le renouvellement ne
-vaut que pour certains produits ou services désignés dans l'acte d'enregistrement. 
+établie dans les conditions prévues par la décision mentionnée à l'article R. 712-26. Il peut être précisé que le
+renouvellement ne vaut que pour certains produits ou services désignés dans l'acte d'enregistrement. 
 
 Le renouvellement prend effet le jour suivant la date d'expiration de l'enregistrement. 
 
@@ -46593,7 +46533,7 @@ redevance dans le même délai.
 national des marques ou de son mandataire. 
 
 Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue au 1° de l'article R.
-712-11.
+712-11. 
 
 L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
 
@@ -46608,18 +46548,18 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 	  - Arrêté du 31 janvier 1992 - art. 1 (V)
 	  - Décret n°2004-199 du 25 février 2004 - art. 88 (V)
 	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code de la propriété intellectuelle - art. R712-1 (V)
+	  - Code de la propriété intellectuelle - art. R712-1 (VD)
 	  - Code de la propriété intellectuelle - art. R712-12 (V)
 	  - Code de la propriété intellectuelle - art. R712-26 (VD)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2007-280 du 1 mars 2007 - art. 27 () JORF 3 mars 2007
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-11 (V)
+	  - Code de la propriété intellectuelle - art. R712-11
 
 	**Codifié par**:
 
@@ -46651,8 +46591,8 @@ Les renouvellements ultérieurs de la marque renouvelée et du nouveau dépôt s
 
 ###### Article R712-26
 
-Les conditions de présentation de la demande et le contenu du dossier sont précisés par arrêté du ministre chargé de la
-propriété industrielle, notamment en ce qui concerne : 
+Les conditions de présentation de la demande et le contenu du dossier sont précisés        par décision du directeur général
+de l'Institut national de la propriété industrielle, notamment en ce qui concerne : 
 
 1° La demande d'enregistrement prévue à l'article R. 712-3 ; 
 
@@ -46673,9 +46613,9 @@ visa de l'institut.
 
 	  - Décret n°92-100 du 30 janvier 1992 - art. 46 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cité par**:
 
@@ -46687,10 +46627,10 @@ visa de l'institut.
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-21 (V)
-	  - Code de la propriété intellectuelle - art. R714-1 (V)
-	  - Code de la propriété intellectuelle - art. R714-4 (V)
-	  - Code de la propriété intellectuelle - art. R714-6 (V)
+	  - Code de la propriété intellectuelle - art. R712-21
+	  - Code de la propriété intellectuelle - art. R714-1
+	  - Code de la propriété intellectuelle - art. R714-4
+	  - Code de la propriété intellectuelle - art. R714-6
 
 	**Codifié par**:
 
@@ -47716,8 +47656,8 @@ national des marques, dès lors qu'ils ne sont pas susceptibles d'être inscrits
 
 Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de
 l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, au visa de l'Institut national de la
-propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées à l'arrêté
-mentionné à l'article R. 712-26. 
+propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées    par la
+décision mentionnée à l'article R. 712-26. 
 
 Les dispositions de l'article R. 712-11 sont applicables à toute demande ne répondant pas aux conditions prévues à l'alinéa
 précédent. La date de saisine de l'Institut national de la propriété industrielle est celle à laquelle la demande a, le cas
@@ -47725,14 +47665,18 @@ précédent. La date de saisine de l'Institut national de la propriété industr
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+	  - Décret n°92-100 du 30 janvier 1992 - art. 38 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2014-650 du 20 juin 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-11 (V)
-	  - Code de la propriété intellectuelle - art. R712-26 (V)
+	  - Code de la propriété intellectuelle - art. R712-11
+	  - Code de la propriété intellectuelle - art. R712-26
 
 	**Cité par**:
 
@@ -47741,14 +47685,6 @@ précédent. La date de saisine de l'Institut national de la propriété industr
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°92-100 du 30 janvier 1992 - art. 38 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
 
 
 ##### Section 2 : Marque communautaire
@@ -47962,6 +47898,25 @@ propriété industrielle.
 	**Modifié par**:
 
 	  - Décret n°2004-199 du 25 février 2004 - art. 87 () JORF 3 mars 2004
+
+
+###### Article R718-5
+
+Toute correspondance ou toute pièce relatives à une procédure devant l'Institut national de la propriété industrielle prévue
+par le présent titre sont déposées au siège de l'institut ou y sont envoyées par pli postal ou par tout mode de
+télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la
+réception au siège de l'institut. 
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique
+lorsque cette modalité est de nature à faciliter l'examen et la publication de ces pièces. 
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-650 du 20 juin 2014 - art. 3
 
 
 ### Titre II : Indications géographiques
