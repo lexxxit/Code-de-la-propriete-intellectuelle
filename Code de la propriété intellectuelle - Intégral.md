@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-11-14
 
 # Partie législative
 
@@ -2386,301 +2386,6 @@ assurer l'exploitation de l'oeuvre.
 
 ##### Section 1 : Contrat d'édition
 
-###### Article L132-4
-
-Est licite la stipulation par laquelle l'auteur s'engage à accorder un droit de préférence à un éditeur pour l'édition de ses
-oeuvres futures de genres nettement déterminés.
-
-Ce droit est limité pour chaque genre à cinq ouvrages nouveaux à compter du jour de la signature du contrat d'édition conclu
-pour la première oeuvre ou à la production de l'auteur réalisée dans un délai de cinq années à compter du même jour.
-
-L'éditeur doit exercer le droit qui lui est reconnu en faisant connaître par écrit sa décision à l'auteur, dans le délai de
-trois mois à dater du jour de la remise par celui-ci de chaque manuscrit définitif.
-
-Lorsque l'éditeur bénéficiant du droit de préférence aura refusé successivement deux ouvrages nouveaux présentés par l'auteur
-dans le genre déterminé au contrat, l'auteur pourra reprendre immédiatement et de plein droit sa liberté quant aux oeuvres
-futures qu'il produira dans ce genre. Il devra toutefois, au cas où il aurait reçu ses oeuvres futures des avances du premier
-éditeur, effectuer préalablement le remboursement de celles-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 34 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. L132-24 (V)
-
-
-###### Article L132-6
-
-En ce qui concerne l'édition de librairie, la rémunération de l'auteur peut faire l'objet d'une rémunération forfaitaire pour
-la première édition, avec l'accord formellement exprimé de l'auteur, dans les cas suivants :
-
-1° Ouvrages scientifiques ou techniques ;
-
-2° Anthologies et encyclopédies ;
-
-3° Préfaces, annotations, introductions, présentations ;
-
-4° Illustrations d'un ouvrage ;
-
-5° Editions de luxe à tirage limité ;
-
-6° Livres de prières ;
-
-7° A la demande du traducteur pour les traductions ;
-
-8° Editions populaires à bon marché ;
-
-9° Albums bon marché pour enfants.
-
-Peuvent également faire l'objet d'une rémunération forfaitaire les cessions de droits à ou par une personne ou une entreprise
-établie à l'étranger.
-
-En ce qui concerne les oeuvres de l'esprit publiées dans les journaux et recueils périodiques de tout ordre et par les
-agences de presse, la rémunération de l'auteur, lié à l'entreprise d'information par un contrat de louage d'ouvrage ou de
-services, peut également être fixée forfaitairement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. L132-42 (V)
-	  - Code de la propriété intellectuelle - art. L132-5 (VD)
-	  - Code de la sécurité sociale. - art. R382-17 (V)
-
-
-###### Article L132-7
-
-Le consentement personnel et donné par écrit de l'auteur est obligatoire.
-
-Sans préjudice des dispositions qui régissent les contrats passés par les mineurs et les majeurs en curatelle, le
-consentement est même exigé lorsqu'il s'agit d'un auteur légalement incapable, sauf si celui-ci est dans l'impossibilité
-physique de donner son consentement.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le contrat d'édition est souscrit par les ayants droit
-de l'auteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L132-8
-
-L'auteur doit garantir à l'éditeur l'exercice paisible et, sauf convention contraire, exclusif du droit cédé.
-
-Il est tenu de faire respecter ce droit et de le défendre contre toutes atteintes qui lui seraient portées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 54 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L132-10
-
-Le contrat d'édition doit indiquer le nombre minimum d'exemplaires constituant le premier tirage. Toutefois, cette obligation
-ne s'applique pas aux contrats prévoyant un minimum de droits d'auteur garantis par l'éditeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 51 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L132-12
-
-L'éditeur est tenu d'assurer à l'oeuvre une exploitation permanente et suivie et une diffusion commerciale, conformément aux
-usages de la profession.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 57 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. L134-2 (VD)
-	  - Code de la propriété intellectuelle - art. L134-4 (V)
-	  - Code de la propriété intellectuelle - art. L134-5 (V)
-
-
-###### Article L132-13
-
-L'éditeur est tenu de rendre compte.
-
-L'auteur pourra, à défaut de modalités spéciales prévues au contrat, exiger au moins une fois l'an la production par
-l'éditeur d'un état mentionnant le nombre d'exemplaires fabriqués en cours d'exercice et précisant la date et l'importance
-des tirages et le nombre des exemplaires en stock.
-
-Sauf usage ou conventions contraires, cet état mentionnera également le nombre des exemplaires vendus par l'éditeur, celui
-des exemplaires inutilisables ou détruits par cas fortuit ou force majeure, ainsi que le montant des redevances dues ou
-versées à l'auteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 59 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L132-14
-
-L'éditeur est tenu de fournir à l'auteur toutes justifications propres à établir l'exactitude de ses comptes.
-
-Faute par l'éditeur de fournir les justifications nécessaires, il y sera contraint par le juge.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 60 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
-###### Article L132-15
-
-La procédure de sauvegarde ou de redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat. 
-
-Lorsque l'activité est poursuivie en application des articles L. 621-22 et suivants du code de commerce, toutes les
-obligations de l'éditeur à l'égard de l'auteur doivent être respectées. 
-
-En cas de cession de l'entreprise d'édition en application des articles L. 621-83 et suivants du code de commerce précité,
-l'acquéreur est tenu des obligations du cédant. 
-
-Lorsque l'activité de l'entreprise a cessé depuis plus de trois mois ou lorsque la liquidation judiciaire est prononcée,
-l'auteur peut demander la résiliation du contrat. 
-
-Le liquidateur ne peut procéder à la vente en solde des exemplaires fabriqués ni à leur réalisation dans les conditions
-prévues aux articles L. 622-17 et L. 622-18 du code de commerce précité que quinze jours après avoir averti l'auteur de son
-intention, par lettre recommandée avec demande d'accusé de réception. 
-
-L'auteur possède, sur tout ou partie des exemplaires, un droit de préemption. A défaut d'accord, le prix de rachat sera fixé
-à dire d'expert.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 61 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code de commerce - art. L622-17 (V)
-	  - Code de commerce. - art. L621-22 (M)
-	  - Code de commerce. - art. L621-83 (Ab)
-
-
-###### Article L132-16
-
-L'éditeur ne peut transmettre, à titre gratuit ou onéreux, ou par voie d'apport en société, le bénéfice du contrat d'édition
-à des tiers, indépendamment de son fonds de commerce, sans avoir préalablement obtenu l'autorisation de l'auteur.
-
-En cas d'aliénation du fonds de commerce, si celle-ci est de nature à compromettre gravement les intérêts matériels ou moraux
-de l'auteur, celui-ci est fondé à obtenir réparation même par voie de résiliation du contrat.
-
-Lorsque le fonds de commerce d'édition était exploité en société ou dépendait d'une indivision, l'attribution du fonds à l'un
-des ex-associés ou à l'un des co-indivisaires en conséquence de la liquidation ou du partage ne sera, en aucun cas,
-considérée comme une cession.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 62 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
-
-
 ##### Sous-section 1 : Dispositions générales
 
 ###### Article L132-1
@@ -2772,6 +2477,43 @@ suivants du code civil, par la convention et les usages.
 	  - Code civil - art. 1787 (V)
 
 
+###### Article L132-4
+
+Est licite la stipulation par laquelle l'auteur s'engage à accorder un droit de préférence à un éditeur pour l'édition de ses
+oeuvres futures de genres nettement déterminés.
+
+Ce droit est limité pour chaque genre à cinq ouvrages nouveaux à compter du jour de la signature du contrat d'édition conclu
+pour la première oeuvre ou à la production de l'auteur réalisée dans un délai de cinq années à compter du même jour.
+
+L'éditeur doit exercer le droit qui lui est reconnu en faisant connaître par écrit sa décision à l'auteur, dans le délai de
+trois mois à dater du jour de la remise par celui-ci de chaque manuscrit définitif.
+
+Lorsque l'éditeur bénéficiant du droit de préférence aura refusé successivement deux ouvrages nouveaux présentés par l'auteur
+dans le genre déterminé au contrat, l'auteur pourra reprendre immédiatement et de plein droit sa liberté quant aux oeuvres
+futures qu'il produira dans ce genre.
+
+Il devra toutefois, au cas où il aurait reçu ses oeuvres futures des avances du premier éditeur, effectuer préalablement le
+remboursement de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 34 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L132-24 (V)
+
+
 ###### Article L132-5
 
 Le contrat peut prévoir soit une rémunération proportionnelle aux produits d'exploitation, soit, dans les cas prévus aux
@@ -2797,6 +2539,100 @@ cette rémunération de façon explicite et transparente.
 	  - Code de la propriété intellectuelle - art. L132-6
 
 
+###### Article L132-6
+
+En ce qui concerne l'édition de librairie, la rémunération de l'auteur peut faire l'objet d'une rémunération forfaitaire pour
+la première édition, avec l'accord formellement exprimé de l'auteur, dans les cas suivants :
+
+1° Ouvrages scientifiques ou techniques ;
+
+2° Anthologies et encyclopédies ;
+
+3° Préfaces, annotations, introductions, présentations ;
+
+4° Illustrations d'un ouvrage ;
+
+5° Editions de luxe à tirage limité ;
+
+6° Livres de prières ;
+
+7° A la demande du traducteur pour les traductions ;
+
+8° Editions populaires à bon marché ;
+
+9° Albums bon marché pour enfants.
+
+Peuvent également faire l'objet d'une rémunération forfaitaire les cessions de droits à ou par une personne ou une entreprise
+établie à l'étranger.
+
+En ce qui concerne les oeuvres de l'esprit publiées dans les journaux et recueils périodiques de tout ordre et par les
+agences de presse, la rémunération de l'auteur, lié à l'entreprise d'information par un contrat de louage d'ouvrage ou de
+services, peut également être fixée forfaitairement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L132-42 (V)
+	  - Code de la propriété intellectuelle - art. L132-5 (VD)
+	  - Code de la sécurité sociale. - art. R382-17 (V)
+
+
+###### Article L132-7
+
+Le consentement personnel et donné par écrit de l'auteur est obligatoire.
+
+Sans préjudice des dispositions qui régissent les contrats passés par les mineurs et les majeurs en curatelle, le
+consentement est même exigé lorsqu'il s'agit d'un auteur légalement incapable, sauf si celui-ci est dans l'impossibilité
+physique de donner son consentement.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le contrat d'édition est souscrit par les ayants droit
+de l'auteur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 53 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+
+###### Article L132-8
+
+L'auteur doit garantir à l'éditeur l'exercice paisible et, sauf convention contraire, exclusif du droit cédé.
+
+Il est tenu de faire respecter ce droit et de le défendre contre toutes atteintes qui lui seraient portées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 54 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+
 ###### Article L132-9
 
 L'auteur doit mettre l'éditeur en mesure de fabriquer et de diffuser les exemplaires de l'oeuvre.
@@ -2820,6 +2656,26 @@ de celui-ci. L'éditeur en sera responsable pendant le délai d'un an après l'a
 	**Créé par**:
 
 	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+
+
+###### Article L132-10
+
+Le contrat d'édition doit indiquer le nombre minimum d'exemplaires constituant le premier tirage. Toutefois, cette obligation
+ne s'applique pas aux contrats prévoyant un minimum de droits d'auteur garantis par l'éditeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 51 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
 
 
 ###### Article L132-11
@@ -2859,6 +2715,148 @@ procéder à une nouvelle édition dans un délai de trente mois.
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L132-17-8 (V)
+
+
+###### Article L132-12
+
+L'éditeur est tenu d'assurer à l'oeuvre une exploitation permanente et suivie et une diffusion commerciale, conformément aux
+usages de la profession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 57 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L134-2 (VD)
+	  - Code de la propriété intellectuelle - art. L134-4 (V)
+	  - Code de la propriété intellectuelle - art. L134-5 (V)
+
+
+###### Article L132-13
+
+L'éditeur est tenu de rendre compte.
+
+L'auteur pourra, à défaut de modalités spéciales prévues au contrat, exiger au moins une fois l'an la production par
+l'éditeur d'un état mentionnant le nombre d'exemplaires fabriqués en cours d'exercice et précisant la date et l'importance
+des tirages et le nombre des exemplaires en stock.
+
+Sauf usage ou conventions contraires, cet état mentionnera également le nombre des exemplaires vendus par l'éditeur, celui
+des exemplaires inutilisables ou détruits par cas fortuit ou force majeure, ainsi que le montant des redevances dues ou
+versées à l'auteur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 59 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+
+###### Article L132-14
+
+L'éditeur est tenu de fournir à l'auteur toutes justifications propres à établir l'exactitude de ses comptes.
+
+Faute par l'éditeur de fournir les justifications nécessaires, il y sera contraint par le juge.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 60 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+
+###### Article L132-15
+
+La procédure de sauvegarde ou de redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat. 
+
+Lorsque l'activité est poursuivie en application des articles L. 621-22 et suivants du code de commerce, toutes les
+obligations de l'éditeur à l'égard de l'auteur doivent être respectées. 
+
+En cas de cession de l'entreprise d'édition en application des articles L. 621-83 et suivants du code de commerce précité,
+l'acquéreur est tenu des obligations du cédant. 
+
+Lorsque l'activité de l'entreprise a cessé depuis plus de trois mois ou lorsque la liquidation judiciaire est prononcée,
+l'auteur peut demander la résiliation du contrat. 
+
+Le liquidateur ne peut procéder à la vente en solde des exemplaires fabriqués ni à leur réalisation dans les conditions
+prévues aux articles L. 622-17 et L. 622-18 du code de commerce précité que quinze jours après avoir averti l'auteur de son
+intention, par lettre recommandée avec demande d'accusé de réception. 
+
+L'auteur possède, sur tout ou partie des exemplaires, un droit de préemption. A défaut d'accord, le prix de rachat sera fixé
+à dire d'expert.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 61 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L621-22
+	  - Code de commerce - art. L621-83
+	  - Code de commerce - art. L622-17
+
+
+###### Article L132-16
+
+L'éditeur ne peut transmettre, à titre gratuit ou onéreux, ou par voie d'apport en société, le bénéfice du contrat d'édition
+à des tiers, indépendamment de son fonds de commerce, sans avoir préalablement obtenu l'autorisation de l'auteur.
+
+En cas d'aliénation du fonds de commerce, si celle-ci est de nature à compromettre gravement les intérêts matériels ou moraux
+de l'auteur, celui-ci est fondé à obtenir réparation même par voie de résiliation du contrat.
+
+Lorsque le fonds de commerce d'édition était exploité en société ou dépendait d'une indivision, l'attribution du fonds à l'un
+des ex-associés ou à l'un des co-indivisaires en conséquence de la liquidation ou du partage ne sera, en aucun cas,
+considérée comme une cession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 62 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°92-597 du 1 juillet 1992
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-1348 du 12 novembre 2014 - art. 2
 
 
 ###### Article L132-17
