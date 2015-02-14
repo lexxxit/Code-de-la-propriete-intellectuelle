@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-02-15
 
 # Partie législative
 
@@ -45649,6 +45649,32 @@ des obtentions végétales préciseront, en tant que de besoin, les conditions d
 
 
 ##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur
+
+###### Article D623-58-1
+
+La composition et le fonctionnement de la commission paritaire de conciliation spécifique au domaine des obtentions végétales
+sont régis par les articles R. 615-6 à R. 615-8, R. 615-10 à R. 615-31, sous réserve des adaptations suivantes : 
+
+1° Les mots : " directeur général de l'Institut national de la propriété industrielle " sont remplacés par les mots : "
+responsable de l'instance nationale des obtentions végétales " et les mots : " Institut national de la propriété industrielle
+" sont remplacés par les mots : " instance nationale des obtentions végétales " ; 
+
+2° Les arrêtés mentionnés aux articles R. 615-6 et R. 615-10 sont pris conjointement par le ministre de la justice et le
+ministre chargé de l'agriculture. 
+
+La commission paritaire de conciliation se réunit au siège de l'instance nationale des obtentions végétales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-164 du 12 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R615-10
+	  - Code de la propriété intellectuelle - art. R615-6
+
 
 ###### Article R623-58
 
