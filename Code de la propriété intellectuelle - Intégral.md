@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-02-15
+Version Consolidée au 2015-02-23
 
 # Partie législative
 
@@ -4501,7 +4501,7 @@ Cette proposition est formulée par écrit. Elle est réputée avoir été refus
 écrit dans un délai de deux mois à la société de perception et de répartition des droits. 
 
 L'autorisation d'exploitation mentionnée au premier alinéa est délivrée par la société de perception et de répartition des
-droits à titre exclusif pour une durée de dix ans tacitement renouvelable, sauf dans le cas mentionné à l'article L. 134-8. 
+droits à titre exclusif pour une durée de dix ans tacitement renouvelable. 
 
 Mention de l'acceptation de l'éditeur est faite dans la base de données mentionnée à l'article L. 134-2. 
 
@@ -4522,12 +4522,6 @@ n° 2011-590 du 26 mai 2011 relative au prix du livre numérique.
 L'exploitation de l'œuvre dans les conditions prévues au présent article ne préjuge pas de l'application des articles L.
 132-12 et L. 132-17.
 
-**Nota:**
-
-Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
-de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
-la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -4537,15 +4531,10 @@ la propriété intellectuelle et au plus tard six mois après la promulgation de
 	  - Code de la propriété intellectuelle - art. L132-17
 	  - Code de la propriété intellectuelle - art. L134-2
 	  - Code de la propriété intellectuelle - art. L134-4
-	  - Code de la propriété intellectuelle - art. L134-8
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-287 du 1er mars 2012 - art. 1
-
-	**Liens**:
-
-	  - RECTIFICATION: Loi n°2012-287 du 1er mars 2012, v. init.
+	  - Loi n°2015-195 du 20 février 2015 - art. 3
 
 	**Cité par**:
 
@@ -4636,45 +4625,6 @@ la propriété intellectuelle et au plus tard six mois après la promulgation de
 	  - Code de la propriété intellectuelle - art. R134-11 (V)
 
 
-###### Article L134-8
-
-Sauf refus motivé, la société de perception et de répartition des droits mentionnée à l'article L. 134-3 autorise
-gratuitement les bibliothèques accessibles au public à reproduire et à diffuser sous forme numérique à leurs abonnés les
-livres indisponibles conservés dans leurs fonds dont aucun titulaire du droit de reproduction sous une forme imprimée n'a pu
-être trouvé dans un délai de dix ans à compter de la première autorisation d'exploitation. 
-
-L'autorisation mentionnée au premier alinéa est délivrée sous réserve que l'institution bénéficiaire ne recherche aucun
-avantage économique ou commercial. 
-
-Un titulaire du droit de reproduction du livre sous une forme imprimée obtient à tout moment de la société de perception et
-de répartition des droits le retrait immédiat de l'autorisation gratuite.
-
-**Nota:**
-
-Conformément à l'article 4 de la loi n° 2012-287 du 1er mars 2012, l'article 1 de la présente loi entre en vigueur à compter
-de la publication du décret pris pour l'application du chapitre IV du titre III du livre Ier de la première partie du code de
-la propriété intellectuelle et au plus tard six mois après la promulgation de la présente loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2012-287 du 1er mars 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2015-195 du 20 février 2015 - art. 3
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L134-3
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. L134-5 (VD)
-	  - Code de la propriété intellectuelle - art. R134-5 (V)
-
-
 ###### Article L134-9
 
 Par dérogation aux dispositions des trois premiers alinéas de l'article L. 321-9, les sociétés agréées mentionnées à
@@ -4703,6 +4653,202 @@ la propriété intellectuelle et au plus tard six mois après la promulgation de
 	  - Code de la propriété intellectuelle - art. L134-3 (VD)
 	  - Code de la propriété intellectuelle - art. L321-1 (V)
 	  - Code de la propriété intellectuelle - art. L321-9 (V)
+
+
+##### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines
+
+###### Article L135-1
+
+Sont soumises au présent chapitre : 
+
+1° Les œuvres orphelines, au sens de l'article L. 113-10, qui ont été initialement publiées ou radiodiffusées dans un Etat
+membre de l'Union européenne et qui appartiennent à l'une des catégories suivantes : 
+
+a) Les œuvres publiées sous la forme de livres, revues, journaux, magazines ou autres écrits faisant partie des collections
+des bibliothèques accessibles au public, des musées, des services d'archives, des institutions dépositaires du patrimoine
+cinématographique ou sonore ou des établissements d'enseignement, à l'exception des photographies et des images fixes qui
+existent en tant qu'œuvres indépendantes ; 
+
+b) Les œuvres audiovisuelles ou sonores faisant partie de ces collections ou qui ont été produites par des organismes de
+radiodiffusion de service public avant le 1er janvier 2003 et qui font partie de leurs archives. 
+
+Le fait pour un organisme mentionné aux a et b de rendre une œuvre accessible au public, avec l'accord des titulaires de
+droits, est assimilé à la publication ou à la radiodiffusion mentionnées au premier alinéa du présent 1°, sous réserve qu'il
+soit raisonnable de supposer que les titulaires de droits ne s'opposeraient pas aux utilisations de l'œuvre orpheline prévues
+à l'article L. 135-2 ;
+
+2° Toute œuvre considérée comme orpheline dans un autre Etat membre en application de l'article 2 de la directive 2012/28/UE
+du Parlement européen et du Conseil, du 25 octobre 2012, sur certaines utilisations autorisées des œuvres orphelines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-10
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L135-2 (V)
+	  - Code de la propriété intellectuelle - art. L135-3 (V)
+
+
+###### Article L135-2
+
+Les organismes mentionnés au 1° de l'article L. 135-1 ne peuvent utiliser les œuvres mentionnées à ce même article que dans
+le cadre de leurs missions culturelles, éducatives et de recherche et à condition de ne poursuivre aucun but lucratif et de
+ne percevoir, le cas échéant et pour une durée ne pouvant excéder sept ans, que les recettes couvrant les frais découlant
+directement de la numérisation et de la mise à la disposition du public des œuvres orphelines qu'ils utilisent. Ils
+mentionnent le nom des titulaires de droits identifiés, respectent le droit moral de ces derniers et communiquent les
+informations prévues au 2° de l'article L. 135-3 ou à l'article L. 135-4. Cette utilisation est faite selon les modalités
+suivantes : 
+
+1° Mise à la disposition du public d'une œuvre orpheline de manière que chacun puisse y avoir accès de sa propre
+initiative ; 
+
+2° Reproduction d'une œuvre orpheline à des fins de numérisation, de mise à disposition, d'indexation, de catalogage, de
+préservation ou de restauration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L135-1 (V)
+	  - Code de la propriété intellectuelle - art. L135-5 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L135-3
+	  - Code de la propriété intellectuelle - art. L135-4
+
+
+###### Article L135-3
+
+Un organisme mentionné au 1° de l'article L. 135-1 ne peut faire application de l'article L. 135-2 qu'après avoir : 
+
+1° Procédé à des recherches diligentes, avérées et sérieuses des titulaires de droits, en application du premier alinéa de
+l'article L. 113-10, dans l'Etat membre de l'Union européenne où a eu lieu la première publication ou, à défaut de celle-ci,
+la première radiodiffusion de l'œuvre. Ces recherches comportent la consultation des sources appropriées pour chaque
+catégorie d'œuvres. Lorsque l'œuvre n'a fait l'objet ni d'une publication, ni d'une radiodiffusion mais a été rendue
+accessible au public dans les conditions définies au dernier alinéa du 1° de l'article L. 135-1, ces recherches sont
+effectuées dans l'Etat membre où est établi l'organisme qui a rendu l'œuvre accessible au public. Pour les œuvres
+audiovisuelles, les recherches sont effectuées dans l'Etat membre où le producteur a son siège ou sa résidence habituelle ; 
+
+2° Communiqué le résultat des recherches mentionnées au 1°, ainsi que l'utilisation envisagée de l'œuvre orpheline, au
+ministre chargé de la culture, ou à l'organisme désigné à cette fin par celui-ci, qui le transmet sans délai à l'Office de
+l'harmonisation dans le marché intérieur mentionné au paragraphe 6 de l'article 3 de la directive 2012/28/UE du Parlement
+européen et du Conseil, du 25 octobre 2012, précitée aux fins de l'inscription de ces informations dans la base de données
+établie par cet office à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L135-1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L135-2 (V)
+	  - Code de la propriété intellectuelle - art. L135-4 (V)
+	  - Code de la propriété intellectuelle - art. L135-5 (V)
+	  - Code de la propriété intellectuelle - art. L135-6 (V)
+	  - Code de la propriété intellectuelle - art. L135-7 (V)
+
+
+###### Article L135-4
+
+Lorsqu'une œuvre orpheline est déjà inscrite dans la base de données mentionnée au 2° de l'article L. 135-3, l'organisme
+n'est pas tenu de procéder aux recherches mentionnées au même article. Il doit indiquer, dans les conditions prévues audit
+article, l'utilisation de l'œuvre orpheline qu'il envisage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L135-2 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L135-3
+
+
+###### Article L135-5
+
+Lorsque les recherches diligentes, avérées et sérieuses mentionnées à l'article L. 135-3 ont permis d'identifier et de
+retrouver le ou les titulaires des droits sur une œuvre, celle-ci cesse d'être orpheline. 
+
+Lorsqu'une œuvre a plus d'un titulaire de droits et que tous ses titulaires n'ont pu être identifiés et retrouvés,
+l'utilisation de l'œuvre prévue à l'article L. 135-2 est subordonnée à l'autorisation du ou des titulaires identifiés et
+retrouvés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L135-2
+	  - Code de la propriété intellectuelle - art. L135-3
+
+
+###### Article L135-6
+
+Lorsqu'un titulaire de droits sur une œuvre orpheline justifie de ses droits auprès d'un organisme mentionné à l'article L.
+135-3, ce dernier ne peut poursuivre l'utilisation de l'œuvre qu'avec l'autorisation du titulaire de droits. 
+
+L'organisme verse au titulaire de droits une compensation équitable du préjudice que celui-ci a subi du fait de cette
+utilisation. Cette compensation est fixée par accord entre l'organisme et le titulaire de droits. Elle peut tenir compte,
+lorsqu'ils existent, des accords ou tarifs en vigueur dans les secteurs professionnels concernés. 
+
+Le titulaire de droits peut se faire connaître à tout moment, nonobstant toute stipulation contraire. 
+
+L'organisme auprès duquel le titulaire de droits justifie de ses droits informe sans délai le ministre chargé de la culture,
+ou l'organisme désigné à cette fin par celui-ci, qui transmet cette information à l'Office de l'harmonisation dans le marché
+intérieur mentionné au 2° de l'article L. 135-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L135-3
+
+
+###### Article L135-7
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent chapitre, notamment les sources d'informations
+appropriées pour chaque catégorie d'œuvres qui doivent être consultées au titre des recherches prévues au 1° de l'article L.
+135-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L135-3
 
 
 ### Livre II : Les droits voisins du droit d'auteur
@@ -4935,6 +5081,17 @@ européen.
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L811-2-1 (V)
+
+
+###### Article L211-7
+
+Le chapitre V du titre III du livre Ier est applicable aux droits voisins.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 5
 
 
 ##### Chapitre II : Droits des artistes-interprètes
