@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-04-18
+Version Consolidée au 2015-05-08
 
 # Partie législative
 
@@ -25407,6 +25407,150 @@ Elle débute à la date prévue au premier alinéa de l'article R. 134-1 et se p
 	  - Code de la propriété intellectuelle - art. R134-1
 
 
+#### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines 
+
+
+
+###### Article R135-1
+
+I.-Lorsque les recherches prévues au 1° de l'article L. 135-3 doivent, en vertu de cet article, avoir lieu en France, les
+sources d'information qui doivent être consultées comprennent au moins les sources suivantes : 
+
+1° Pour les livres publiés : 
+
+a) Les registres du dépôt légal ; 
+
+b) Les index et catalogues des fonds et collections des bibliothèques accessibles au public et des institutions similaires ; 
+
+c) Les bases de données ou registres recensant les livres imprimés, tels que WATCH (Writers, Artists and Their Copyright
+Holders), ISBN (International Standard Book Number), ISNI (International Standard Name Identifier) et le répertoire BALZAC de
+la Société des gens de lettres ; 
+
+d) Les sources détenues par les associations d'éditeurs et d'auteurs ; 
+
+e) Les bases de données des sociétés de perception et de répartition des droits agréées pour la gestion du droit de
+reproduction par reprographie et pour la gestion collective de la rémunération au titre du prêt en bibliothèque ainsi que
+celle mentionnée à l'article L. 134-3 du code la propriété intellectuelle ; 
+
+f) Les sources qui intègrent des bases de données et registres multiples, tels que ELECTRE, VIAF (Virtual International
+Authority Files) et ARROW (Accessible Registries of Rights Information and Orphan Works) ; 
+
+2° Pour les journaux, magazines, revues et autres périodiques imprimés : 
+
+a) Les registres du dépôt légal ; 
+
+b) Les index et catalogues des fonds et collections de bibliothèques accessibles au public ; 
+
+c) Les bases de données ou registres qui recensent les périodiques imprimés, tels que ISSN (International Standard Serial
+Number) et ISNI (International Standard Name Identifier) ; 
+
+d) Le registre du commerce et des sociétés ; 
+
+e) Les sources détenues par les organisations professionnelles d'éditeurs de presse et les associations d'auteurs et de
+journalistes ; 
+
+f) Les bases de données des sociétés de perception et de répartition des droits agréées pour la gestion du droit de
+reproduction par reprographie ; 
+
+g) Les informations figurant dans l'encadré de l'imprimé contenant les mentions légales obligatoires et, le cas échéant, le
+nom des rédacteurs ; 
+
+3° Pour les œuvres visuelles, notamment celles relevant des beaux-arts, de la photographie, de l'illustration, du design et
+de l'architecture, et les croquis de ces œuvres et autres œuvres du même type figurant dans des livres, périodiques ou autres
+œuvres : 
+
+a) Les sources énumérées au 1° et au 2°, notamment les bases de données des sociétés de perception et de répartition des
+droits agréées pour la gestion du droit de reproduction par reprographie ; 
+
+b) Les bases de données des agences de presse et des agences photographiques et d'illustration ; 
+
+4° Pour les écrits non publiés faisant partie des collections des bibliothèques accessibles au public, des musées et des
+services d'archives : 
+
+a) Les registres du dépôt légal ; 
+
+b) Les index et catalogues des fonds des collections des bibliothèques accessibles au public et des institutions
+similaires ; 
+
+5° Pour les œuvres audiovisuelles et les phonogrammes : 
+
+a) Les registres du dépôt légal et le registre public du cinéma et de l'audiovisuel ; 
+
+b) Les bases de données des institutions dépositaires du patrimoine cinématographique ou sonore et des bibliothèques
+publiques ; 
+
+c) Les bases de données appliquant des normes et des identificateurs pertinents, tels que l'ISAN (International Standard
+Audiovisual Number) pour le matériel audiovisuel, l'ISWC (International Standard Musical Work Code) pour les œuvres musicales
+et l'ISRC (International Standard Recording Code) pour les phonogrammes ; 
+
+d) Les sources détenues par les associations de producteurs ou par d'autres associations ou organisations professionnelles
+pertinentes représentant une catégorie spécifique de titulaires de droits ; 
+
+e) Les bases de données des sociétés de perception et de répartition des droits concernées, en particulier celles regroupant
+des auteurs, des artistes-interprètes, des producteurs de phonogrammes et des producteurs audiovisuels ; 
+
+f) Le générique de l'œuvre et les autres informations figurant sur l'emballage de celle-ci. 
+
+II.-Lorsque les recherches prévues au 1° de l'article L. 135-1 doivent, en vertu de cet article, avoir lieu dans un autre
+Etat membre de l'Union européenne, les sources d'information qui doivent être consultées comprennent au moins les sources
+définies dans cet Etat conformément aux paragraphes 2 et 3 de l'article 3 de la directive 2012/28/UE du Parlement européen et
+du Conseil du 25 octobre 2012. 
+
+L'organisme procède en outre à des recherches des titulaires de droits auprès des sources similaires existant dans d'autres
+Etats lorsqu'il résulte de celles effectuées en application des premier et deuxième alinéas que des informations pertinentes
+sont susceptibles d'y être disponibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 1
+
+
+###### Article R135-2
+
+L'organisme mentionné à l'article L. 135-3 tient un registre précisant la date et le résultat de la consultation de
+l'ensemble des sources mentionnées à l'article R. 135-1. Il conserve les pièces justifiant de ces consultations. 
+
+Pour l'application du 2° de l'article L. 135-3, l'organisme communique au ministre chargé de la culture les coordonnées de la
+personne ou du service auquel les titulaires des droits sur l'œuvre doivent s'adresser pour mettre fin aux utilisations
+prévues à l'article L. 135-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 1
+
+
+###### Article R135-3
+
+Les informations prévues à l'article L. 135-4 sont communiquées au ministre chargé de la culture, en vue de leur transmission
+sans délai à l'Office de l'harmonisation dans le marché intérieur mentionné au 2° de l'article L. 135-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 1
+
+
+###### Article R135-4
+
+La justification des droits prévue à l'article L. 135-6 est présentée par lettre recommandée avec demande d'avis de réception
+ou par voie électronique avec demande d'accusé de réception. 
+
+A l'appui de sa demande, l'auteur produit la copie d'une pièce d'identité et une déclaration sur l'honneur attestant sa
+qualité. Ses éventuels ayants droit adressent en outre un acte de notoriété attestant leur qualité. Les autres titulaires de
+droits produisent, outre la copie d'une pièce d'identité, tout document de nature à justifier de leurs droits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 1
+
+
 ## Livre II : Les droits voisins du droit d'auteur
 
 ### Titre unique
@@ -25591,6 +25735,48 @@ de la culture.
 	**Créé par**:
 
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R212-8
+
+L'artiste-interprète qui souhaite exercer le droit de résiliation de l'autorisation donnée à un producteur de phonogrammes
+prévu à l'article L. 212-3-1 notifie au producteur son intention de résilier par lettre recommandée avec demande d'avis de
+réception. 
+
+La notification précise :
+
+- le nom, le prénom et l'adresse de l'artiste-interprète ;
+
+- le titre, le Code international normalisé des enregistrements (code ISRC) ou tout autre moyen permettant d'identifier le
+phonogramme qui n'est pas exploité dans les conditions prévues au I de l'article L. 212-3-1. 
+
+Le délai de résiliation mentionné au II de l'article L. 212-3-1 court à compter de la date figurant sur le cachet de la
+poste. 
+
+II.-L'artiste-interprète exerce le droit de résiliation de l'autorisation donnée à un producteur de phonogrammes prévu au II
+de l'article L. 212-3-1, en notifiant au producteur sa décision de résiliation par lettre recommandée avec demande d'avis de
+réception. 
+
+La notification précise :
+
+- le nom, le prénom et l'adresse de l'artiste-interprète ;
+
+- la date d'envoi de la notification prévue au I. 
+
+La résiliation prend effet le lendemain de la date figurant sur le cachet de la poste. 
+
+III.-Lorsqu'un phonogramme contient la fixation des prestations de plusieurs artistes-interprètes, ceux-ci notifient en
+commun leur intention de résilier et leur décision de résiliation dans les conditions prévues au I et au II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L212-3-1
 
 
 #### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes
@@ -27755,6 +27941,162 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 	**Nouveaux textes**:
 
 	  - Code de la propriété intellectuelle - art. R326-7 (V)
+
+
+#### Chapitre VIII : Sociétés agréées pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes 
+
+###### Article R328-1
+
+Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 212-3-3 si elle : 
+
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison
+des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires ; 
+
+2° Apporte la preuve de la représentation des artistes-interprètes au sein de ses organes dirigeants ; 
+
+3° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'artistes-interprètes ; 
+
+b) Ou de la nature et du niveau de leurs diplômes ; 
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ; 
+
+4° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
+
+b) Aux moyens mis en œuvre pour la perception des rémunérations et le traitement des données nécessaires à la répartition de
+ces rémunérations ; 
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+5° Donne les informations nécessaires relatives aux moyens mis en œuvre afin d'identifier et de retrouver les artistes-
+interprètes aux fins de répartir les sommes perçues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L212-3-3
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R327-1 (V)
+
+
+###### Article R328-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 328-1, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R327-2 (V)
+
+
+###### Article R328-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R327-3 (V)
+
+
+###### Article R328-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R327-4 (V)
+
+
+###### Article R328-5
+
+Tout changement de statut ou de règlement général et toute cessation de fonctions d'un membre des organes délibérants et
+dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R327-5 (V)
+
+
+###### Article R328-6
+
+Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 328-1, le ministre chargé de la culture la
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-506 du 6 mai 2015 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-924 du 6 mai 2017 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la propriété intellectuelle - art. R327-6 (V)
 
 
 ### Titre III : Procédures et sanctions
@@ -48336,8 +48678,6 @@ L'institut apporte une assistance aux déposants par tout moyen approprié, pré
 
 #### Chapitre II : Contentieux
 
-##### Section 1 : Mesures provisoires et conservatoires
-
 ##### Section 1 : Actions civiles
 
 ###### Article D722-6
@@ -48473,7 +48813,7 @@ livre VII.
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en
 Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises : 
 
-1° Les dispositions du livre Ier à l'exception des articles R. 133-1 et R. 133-2 (4°) ; 
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ; 
 
 2° Les dispositions du livre II ; 
 
@@ -48493,7 +48833,7 @@ R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industr
 
 Toutefois, l'article R. 613-63 est ainsi rédigé : 
 
-Art.R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n°
+Art. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n°
 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété
 industrielle. 
 
@@ -48520,38 +48860,38 @@ avis de non-imposition ou une justification équivalente.
 
 	**Cite**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 (V)
-	  - Code de la propriété intellectuelle - art. L612-20 (V)
-	  - Code de la propriété intellectuelle - art. R133-1 (V)
-	  - Code de la propriété intellectuelle - art. R326-1 (V)
-	  - Code de la propriété intellectuelle - art. R421-1 (V)
-	  - Code de la propriété intellectuelle - art. R422-1 (V)
-	  - Code de la propriété intellectuelle - art. R423-1 (V)
-	  - Code de la propriété intellectuelle - art. R512-13 (V)
-	  - Code de la propriété intellectuelle - art. R512-15 (V)
-	  - Code de la propriété intellectuelle - art. R512-2 (V)
-	  - Code de la propriété intellectuelle - art. R513-1 (V)
-	  - Code de la propriété intellectuelle - art. R522-1 (V)
-	  - Code de la propriété intellectuelle - art. R612-2 (V)
-	  - Code de la propriété intellectuelle - art. R612-38 (V)
-	  - Code de la propriété intellectuelle - art. R613-25-1 (V)
-	  - Code de la propriété intellectuelle - art. R613-46 (V)
-	  - Code de la propriété intellectuelle - art. R613-56 (V)
-	  - Code de la propriété intellectuelle - art. R613-58 (V)
-	  - Code de la propriété intellectuelle - art. R613-63 (V)
-	  - Code de la propriété intellectuelle - art. R712-13 (V)
-	  - Code de la propriété intellectuelle - art. R712-14 (V)
-	  - Code de la propriété intellectuelle - art. R712-2 (V)
-	  - Code de la propriété intellectuelle - art. R712-21 (V)
-	  - Code de la propriété intellectuelle - art. R712-24 (V)
-	  - Code de la propriété intellectuelle - art. R714-4 (V)
-	  - Code de la propriété intellectuelle - art. R714-6 (V)
-	  - Code de la propriété intellectuelle - art. R717-11 (V)
-	  - Code de la propriété intellectuelle - art. R811-3 (V)
+	  - Loi n°2005-842 du 26 juillet 2005
+	  - Code de la propriété intellectuelle - art. L612-20
+	  - Code de la propriété intellectuelle - art. R133-1
+	  - Code de la propriété intellectuelle - art. R326-1
+	  - Code de la propriété intellectuelle - art. R421-1
+	  - Code de la propriété intellectuelle - art. R422-1
+	  - Code de la propriété intellectuelle - art. R423-1
+	  - Code de la propriété intellectuelle - art. R512-13
+	  - Code de la propriété intellectuelle - art. R512-15
+	  - Code de la propriété intellectuelle - art. R512-2
+	  - Code de la propriété intellectuelle - art. R513-1
+	  - Code de la propriété intellectuelle - art. R522-1
+	  - Code de la propriété intellectuelle - art. R612-2
+	  - Code de la propriété intellectuelle - art. R612-38
+	  - Code de la propriété intellectuelle - art. R613-25-1
+	  - Code de la propriété intellectuelle - art. R613-46
+	  - Code de la propriété intellectuelle - art. R613-56
+	  - Code de la propriété intellectuelle - art. R613-58
+	  - Code de la propriété intellectuelle - art. R613-63
+	  - Code de la propriété intellectuelle - art. R712-13
+	  - Code de la propriété intellectuelle - art. R712-14
+	  - Code de la propriété intellectuelle - art. R712-2
+	  - Code de la propriété intellectuelle - art. R712-21
+	  - Code de la propriété intellectuelle - art. R712-24
+	  - Code de la propriété intellectuelle - art. R714-4
+	  - Code de la propriété intellectuelle - art. R714-6
+	  - Code de la propriété intellectuelle - art. R717-11
+	  - Code de la propriété intellectuelle - art. R811-3
 
 	**Modifié par**:
 
-	  - Décret n°2008-625 du 27 juin 2008 - art. 12 (V)
+	  - Décret n°2015-506 du 6 mai 2015 - art. 4 (V)
 
 
 ###### Article R811-1-1
