@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-05-08
+Version Consolidée au 2015-05-09
 
 # Partie législative
 
@@ -35873,6 +35873,17 @@ Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de
 
 #### Chapitre II : Formalités de dépôt
 
+###### Article R*512-9-3
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-9-2, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R512-1
 
 La demande d'enregistrement de dessin ou modèle est déposée au siège de l'Institut national de la propriété industrielle ou y
@@ -36292,6 +36303,19 @@ accompagnée du consentement écrit du bénéficiaire de ce droit ou du créanci
 	  - Décret n°95-385 1955-04-10
 
 
+###### Article R512-9-2
+
+Il est statué sur la demande d'enregistrement dans un délai de six mois. Ce délai est interrompu par la notification prévue
+aux premier et troisième alinéas de l'article R. 512-9 jusqu'à la levée de l'objection, ou par l'ajournement de la
+publication prévu à l'article R. 512-10, jusqu'à la renonciation à l'ajournement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R512-10
 
 Tout dépôt reconnu conforme est publié au Bulletin officiel de la propriété industrielle, sauf si le déposant a demandé lors
@@ -36695,6 +36719,18 @@ renonciations ou prorogation dont il a fait l'objet ;
 
 #### Chapitre III : Durée de la protection
 
+###### Article R*513-1-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 513-1-1, la déclaration de prorogation est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R513-1
 
 La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L. 513-1 résulte d'une déclaration de son titulaire
@@ -36745,6 +36781,18 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R513-1-1
+
+Il est statué sur la déclaration de prorogation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le
+cas échéant, jusqu'à la levée de l'objection prévue à l'article R. 512-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 
 ###### Article R513-2
@@ -41936,6 +41984,29 @@ Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appl
 
 ##### Section 2 : Transmission et perte des droits
 
+###### Article R*613-45-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-45-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
+###### Article R*613-49-1
+
+A défaut de décision expresse dans le délai mentionné au deuxième alinéa de l'article R. 613-49, la demande est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R613-45
 
 La requête en renonciation ou en limitation est faite par une déclaration écrite. 
@@ -41988,6 +42059,18 @@ l'auteur de la renonciation ou de la limitation.
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L612-6 (V)
+
+
+###### Article R613-45-1
+
+Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce
+délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue au neuvième alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 
 ###### Article R613-46
@@ -42103,7 +42186,7 @@ pas une cause de restauration des droits du propriétaire du brevet.
 La requête prévue à l'article L. 613-22, tendant à la constatation de la déchéance des droits attachés à une demande de
 brevet ou à un brevet, est présentée par écrit. 
 
-Il y est statué par décision motivée. La décision est notifiée au requérant.
+Il y est statué par décision motivée dans un délai de six mois. La décision est notifiée au requérant.
 
 **Liens relatifs à cet article**
 
@@ -42113,7 +42196,7 @@ Il y est statué par décision motivée. La décision est notifiée au requéran
 
 	**Modifié par**:
 
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 14
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 	**Cite**:
 
@@ -46659,6 +46742,29 @@ fixés conformément à l'article D. 211-6 du code de l'organisation judiciaire.
 
 #### Chapitre II : Acquisition du droit sur la marque
 
+###### Article R*712-23-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-23-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
+###### Article R*712-24-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-24-1, la déclaration de renouvellement est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R712-1
 
 La demande d'enregistrement de marque est déposée au siège de l'Institut national de la propriété industrielle ou y est
@@ -47464,6 +47570,19 @@ ou partielle du refus.
 	  - Code de la propriété intellectuelle - art. R717-4 (V)
 
 
+###### Article R712-23-1
+
+Il est statué sur la demande d'enregistrement de marque dans un délai de six mois à compter de la demande. Ce délai est
+interrompu, le cas échéant, jusqu'à la décision statuant sur la demande d'opposition prévue à l'article L. 712-4 ou jusqu'à
+la régularisation de la demande prévue à l'article R. 712-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+
+
 ###### Article R712-24
 
 L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque,
@@ -47516,6 +47635,18 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R712-24-1
+
+Il est statué sur la déclaration de renouvellement dans un délai de six mois à compter de son dépôt. Ce délai est interrompu,
+le cas échéant, jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-511 du 7 mai 2015 - art. 1
 
 
 ###### Article R712-25
