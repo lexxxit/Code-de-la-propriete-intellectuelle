@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-05-09
+Version Consolidée au 2015-05-11
 
 # Partie législative
 
@@ -31383,8 +31383,8 @@ par lui.
 
 Le conseil d'administration est composé de quatorze membres : 
 
-1° Une personnalité issue du monde économique et membre du Conseil supérieur de la propriété industrielle, président, nommée
-par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ; 
+1° Une personnalité issue du monde économique, président, nommée par arrêté du ministre chargé de la propriété industrielle
+pour une période de trois ans renouvelable une fois ; 
 
 2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ; 
 
@@ -31411,6 +31411,10 @@ d'administration.
 Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement
 et de séjour prévues par le décret n° 2006-781 du 3 juillet 2006. 
 
+En cas de vacance par décès, démission ou pour toute autre cause, de l'un des membres du conseil d'administration nommé par
+arrêté du ministre chargé de la propriété industrielle, il est pourvu à son remplacement pour la durée restant à courir de
+son mandat.
+
 Le directeur général, le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration avec
 voix consultative. 
 
@@ -31420,6 +31424,10 @@ Le secrétariat du conseil d'administration est assuré par un agent de l'instit
 général.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 	**Anciens textes**:
 
@@ -31431,15 +31439,11 @@ général.
 
 	**Modifié par**:
 
-	  - Décret n°2014-650 du 20 juin 2014 - art. 2
+	  - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2015-515 du 7 mai 2015 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R411-4
@@ -32397,206 +32401,6 @@ L'arrêt de la cour d'appel est exécuté dans les deux mois de sa notification.
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
-
-
-#### Chapitre III : Le Conseil supérieur de la propriété industrielle
-
-###### Article R413-1
-
-Il est institué auprès du ministre chargé de la propriété industrielle un Conseil supérieur de la propriété industrielle. Ce
-conseil a un rôle consultatif. Il donne son avis sur les questions qui lui sont soumises par le ministre. Il se réunit au
-moins deux fois par an.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-supérieur de la propriété industrielle).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2015-515 du 7 mai 2015 - art. 1
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°47-845 du 8 mai 1947 - art. 1 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
-
-	**Cité par**:
-
-	  - Décret n°2009-623 du 6 juin 2009 - art. Annexe (V)
-
-
-###### Article R413-2
-
-Le Conseil supérieur de la propriété industrielle est composé comme suit :
-
-1° Un représentant du ministre chargé de la propriété industrielle désigné par lui ;
-
-Un représentant du ministre des affaires étrangères désigné par lui ;
-
-Un représentant du ministre de la justice désigné par lui ;
-
-Un représentant du ministre chargé de la recherche désigné par lui ;
-
-Le directeur général de l'Institut national de la propriété industrielle ;
-
-2° Deux professeurs d'université ;
-
-Quatre personnalités représentant les intérêts du commerce et de l'industrie ;
-
-Deux personnalités représentant le monde de la recherche et de la technologie ;
-
-Trois personnalités représentant les praticiens de la propriété industrielle dont le président de la Compagnie nationale des
-conseils en propriété industrielle et un avocat ;
-
-Deux représentants des inventeurs indépendants ;
-
-Trois personnalités compétentes en matière de propriété industrielle.
-
-Les membres du conseil nommés au titre du 2° le sont pour une durée de trois ans par arrêté du ministre chargé de la
-propriété industrielle, à l'exception du président de la Compagnie nationale des conseils en propriété industrielle.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-supérieur de la propriété industrielle).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2015-515 du 7 mai 2015 - art. 1
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°47-845 du 8 mai 1947 - art. 2 (M)
-	  - Décret n°47-845 du 8 mai 1947 - art. 2 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
-
-
-###### Article R413-3
-
-Le ministre chargé de la propriété industrielle préside le conseil supérieur et désigne un vice-président parmi ses membres.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-supérieur de la propriété industrielle).
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2015-515 du 7 mai 2015 - art. 1
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°47-845 du 8 mai 1947 - art. 3 (M)
-	  - Décret n°47-845 du 8 mai 1947 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
-
-
-###### Article R413-4
-
-Le conseil peut constituer en son sein des commissions temporaires pour l'examen de questions particulières. Il associe à ses
-travaux les représentants des ministères sur les sujets relevant de leurs attributions et peut solliciter le concours de
-personnalités compétentes.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-supérieur de la propriété industrielle).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°47-845 du 8 mai 1947 - art. 4 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 8 () JORF 3 mars 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-515 du 7 mai 2015 - art. 1
-
-
-###### Article R413-5
-
-Le secrétariat du conseil est assuré par l'Institut national de la propriété industrielle.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-supérieur de la propriété industrielle).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Anciens textes**:
-
-	  - Décret n°47-845 du 8 mai 1947 - art. 5 (M)
-	  - Décret n°47-845 du 8 mai 1947 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2015-515 du 7 mai 2015 - art. 1
 
 
 ### Titre II : Qualification en propriété industrielle
