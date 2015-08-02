@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-06-18
+Version Consolidée au 2015-08-03
 
 # Partie législative
 
@@ -7529,9 +7529,14 @@ Elle est composée de trois membres, dont le président, nommés pour une durée
 
 Des membres suppléants sont nommés dans les mêmes conditions. 
 
+Lors de chaque renouvellement, le membre titulaire succédant à une femme est un homme et celui succédant à un homme, une
+femme.
+
+Le membre titulaire et son suppléant sont de sexe différent. 
+
 En cas de vacance d'un siège de membre de la commission de protection des droits, pour quelque cause que ce soit, il est
-procédé à la nomination, dans les conditions prévues au présent article, d'un nouveau membre pour la durée du mandat restant
-à courir. 
+procédé à la nomination, dans les conditions prévues au présent article, d'un nouveau membre de même sexe  pour la durée du
+mandat restant à courir. 
 
 Le mandat des membres n'est ni révocable, ni renouvelable. 
 
@@ -7553,7 +7558,7 @@ Les fonctions de membre du collège et de membre de la commission de protection 
 
 	**Modifié par**:
 
-	  - Loi n°2009-1311 du 28 octobre 2009 - art. 12
+	  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 19
 
 	**Cite**:
 
