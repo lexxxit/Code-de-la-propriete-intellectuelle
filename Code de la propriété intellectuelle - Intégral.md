@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-11-08
 
 # Partie législative
 
@@ -24755,6 +24755,30 @@ si le demandeur ne la conteste pas dans le délai de deux mois qui lui est impar
 	  - Code de la propriété intellectuelle - art. R132-9 (V)
 
 
+###### Article R132-14-1
+
+Il est statué sur la demande d'inscription dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas
+échéant, par la notification prévue à l'article R. 132-14, jusqu'à la régularisation de la demande ou la levée de
+l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 2
+
+
+###### Article R132-14-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 132-14-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 2
+
+
 ###### Article R132-15
 
 L'inscription cesse de produire effet si elle n'a pas été renouvelée, selon la procédure prévue à l'article R. 132-10, avant
@@ -32943,25 +32967,30 @@ ou aux articles R. 421-7 et R. 421-8.
 
 Il est donné récépissé de la demande.
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de
+lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette
+proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 6 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2007-731 du 7 mai 2007 - art. 7 () JORF 8 mai 2007
-
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 3
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R421-1 (V)
-	  - Code de la propriété intellectuelle - art. R421-1-1 (V)
-	  - Code de la propriété intellectuelle - art. R421-7 (V)
+	  - Code de la propriété intellectuelle - art. R421-1
+	  - Code de la propriété intellectuelle - art. R421-1-1
+	  - Code de la propriété intellectuelle - art. R421-7
 
 	**Codifié par**:
 
@@ -32991,6 +33020,30 @@ conformément aux articles R. 421-5 et R. 421-1-2 est notifiée à l'intéressé
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R421-10-1
+
+Il est statué sur la demande d'inscription dans un délai de quatre mois à compter de son dépôt. Ce délai est interrompu, le
+cas échéant, par la notification prévue à l'article R. 421-9, jusqu'à la régularisation de la demande ou la levée de
+l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 3
+
+
+###### Article R421-10-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 421-10-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 3
 
 
 ###### Article R421-11
@@ -33139,27 +33192,60 @@ justifications dans un délai de trois mois, ces justifications devant, après l
 La demande d'inscription est présentée au directeur général de l'institut. Lui est jointe la justification qu'il est
 satisfait aux conditions prévues à l'article R. 422-2.
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de
+lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette
+proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 12 (Ab)
 
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 4
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R422-2 (V)
+	  - Code de la propriété intellectuelle - art. R422-2
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R422-3-1
+
+Il est statué sur la demande d'inscription dans un délai de quatre mois à compter de son dépôt. Ce délai est interrompu, le
+cas échéant, par la notification prévue à l'article R. 422-3, jusqu'à la régularisation de la demande ou la levée de
+l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R422-51-17 (V)
+
+
+###### Article R422-3-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 422-3-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 4
 
 
 ###### Article R422-4
@@ -36275,6 +36361,11 @@ La demande n'est recevable qu'après paiement de la redevance prescrite.
 
 La demande est écrite. Elle indique les faits et justifications invoqués à son appui. 
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de
+lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette
+proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.  
+
 La décision motivée est notifiée au demandeur.
 
 **Liens relatifs à cet article**
@@ -36283,25 +36374,45 @@ La décision motivée est notifiée au demandeur.
 
 	  - Décret n°92-792 du 13 août 1992 - art. 25 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 20 () JORF 3 mars 2004
-
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 5
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L512-3 (V)
+	  - Code de la propriété intellectuelle - art. L512-3
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R512-12-1
+
+Il est statué sur la demande de relevé de déchéance dans un délai de six mois à compter de son dépôt. Ce délai est
+interrompu, le cas échéant, par la notification prévue à l'article R. 512-12, jusqu'à la régularisation de la demande ou la
+levée de l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 5
+
+
+###### Article R512-12-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-12-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 5
 
 
 ###### Article R512-13
@@ -36538,6 +36649,30 @@ ne la conteste pas dans le délai qui lui est imparti.
 	  - Décret n°2004-199 du 25 février 2004 - art. 25 () JORF 3 mars 2004
 
 
+###### Article R512-18-1
+
+Il est statué sur la demande d'inscription mentionnée aux articles R. 512-15 et R. 512-17 dans un délai de six mois à compter
+de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 512-18, jusqu'à la
+régularisation de la demande ou la levée de l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 5
+
+
+###### Article R512-18-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-18-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 5
+
+
 ###### Article R512-19
 
 Toute inscription portée au Registre national des dessins et modèles fait l'objet d'une mention au Bulletin officiel de la
@@ -36636,13 +36771,13 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 ###### Article R513-1-1
 
 Il est statué sur la déclaration de prorogation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le
-cas échéant, jusqu'à la levée de l'objection prévue à l'article R. 512-9.
+cas échéant, par la notification prévue à l'article R. 512-9, jusqu'à la levée de l'objection.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 6
 
 
 ###### Article R513-2
@@ -36658,12 +36793,12 @@ de son mandataire ;
 
 Les dispositions de l'article R. 512-9-1 sont applicables à la renonciation.
 
+En cas de non-conformité de la déclaration, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser la déclaration ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant
+de lever l'objection, la déclaration est rejetée. La notification peut être assortie d'une proposition de régularisation.
+Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-792 1992-08-13 art. 11
-	  - Décret n°92-792 du 13 août 1992 - art. 11 (Ab)
 
 	**Cité par**:
 
@@ -36673,21 +36808,45 @@ Les dispositions de l'article R. 512-9-1 sont applicables à la renonciation.
 	  - Code de la propriété intellectuelle - art. R513-3 (M)
 	  - Code de la propriété intellectuelle - art. R811-1 (M)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+	  - Décret n°92-792 du 13 août 1992 - art. 11 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 27 () JORF 3 mars 2004
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 6
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R512-9-1 (V)
+	  - Code de la propriété intellectuelle - art. R512-9-1
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R513-2-1
+
+Il est statué sur la déclaration de renonciation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu,
+le cas échéant, par la notification prévue à l'article R. 513-2, jusqu'à la régularisation de la demande ou la levée de
+l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 6
+
+
+###### Article R513-2-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 513-2-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 6
 
 
 ###### Article R513-3
@@ -40390,6 +40549,17 @@ apparaître la modification du rapport de recherche.
 
 ##### Sous-section 6 : Délivrance et publication du brevet
 
+###### Article R*612-73-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 612-73-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 8
+
+
 ###### Article R612-70
 
 Au terme de l'instruction de la demande de brevet, invitation est faite au demandeur d'acquitter, dans le délai qui lui est
@@ -40409,6 +40579,29 @@ imparti par l'Institut national de la propriété industrielle, la redevance de 
 	**Créé par**:
 
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R612-70-1
+
+Il est statué sur la demande de brevet dans un délai de quatre mois à compter du paiement de la redevance de délivrance et
+d'impression du fascicule mentionnée à l'article R. 612-70.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 7
+
+
+###### Article R612-70-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 612-70-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 7
 
 
 ###### Article R612-71
@@ -40522,6 +40715,18 @@ est rejetée.
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R612-73-1
+
+Il est statué sur la demande de modification de revendication dans un délai de douze mois à compter de son dépôt. Ce délai
+est interrompu, le cas échéant, par la notification prévue à l'article R. 612-73, jusqu'à la régularisation de la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 8
 
 
 ##### Section 3 : Diffusion légale des inventions
@@ -41914,13 +42119,14 @@ l'auteur de la renonciation ou de la limitation.
 ###### Article R613-45-1
 
 Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce
-délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue au neuvième alinéa du même article.
+délai est interrompu, le cas échéant, par la notification prévue au neuvième alinéa du même article jusqu'à la levée de
+l'objection.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
 ###### Article R613-46
@@ -42125,6 +42331,11 @@ Le recours n'est recevable qu'après paiement de la redevance prescrite.
 
 Le recours est écrit. Il indique les faits et justifications invoqués à son appui. 
 
+En cas de non-conformité du recours, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser le recours ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de
+lever l'objection, le recours est rejeté. La notification peut être assortie d'une proposition de régularisation. Cette
+proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti. 
+
 La décision motivée est notifiée au requérant.
 
 **Liens relatifs à cet article**
@@ -42133,19 +42344,43 @@ La décision motivée est notifiée au requérant.
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 108 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2008-1472 du 30 décembre 2008 - art. 16
-
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code de la propriété intellectuelle - art. R618-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
+
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L612-16
 	  - Code de la propriété intellectuelle - art. L612-16-1
+
+
+###### Article R613-52-1
+
+Il est statué sur le recours en restauration dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le
+cas échéant, par la notification prévue à l'article R. 613-52, jusqu'à la régularisation du recours ou la levée de
+l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
+
+
+###### Article R613-52-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-52-1, le recours est réputé accepté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
 ##### Section 5 : Registre national des brevets
@@ -42379,6 +42614,30 @@ si le demandeur ne la conteste pas dans le délai qui lui est imparti.
 
 	  - Code de la propriété intellectuelle - art. R618-2 (V)
 	  - Code de la propriété intellectuelle - art. R811-1 (V)
+
+
+###### Article R613-58-1
+
+Il est statué sur la demande d'inscription mentionnée aux articles R. 613-55 et R. 613-57 dans un délai de six mois à compter
+de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 613-58, jusqu'à la
+régularisation de la demande ou la levée de l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
+
+
+###### Article R613-58-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-58-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 9
 
 
 ###### Article R613-59
@@ -44137,6 +44396,17 @@ d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-53 
 
 #### Chapitre VII : Le certificat complémentaire de protection
 
+###### Article R*617-2-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 617-2-1, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 10
+
+
 ###### Article R617-1
 
 La redevance de dépôt d'un certificat complémentaire de protection ne couvre pas la première annuité. Le paiement des
@@ -44187,6 +44457,26 @@ complémentaires de protection.
 	  - Code de la propriété intellectuelle - art. R612-71 (V)
 	  - Code de la propriété intellectuelle - art. R613-45 (V)
 	  - Code de la propriété intellectuelle - art. R618-1 (V)
+
+
+###### Article R617-2-1
+
+Il est statué sur la demande de certificat complémentaire de protection dans un délai de douze mois à compter de son dépôt.
+Ce délai est interrompu en cas de notification d'irrégularité émise par l'Institut national de la propriété industrielle,
+jusqu'à la régularisation de la demande conformément aux règlements (CE) n° 1610/96 du Parlement européen et du Conseil du 23
+juillet 1996 concernant la création d'un certificat complémentaire de protection pour les produits phytopharmaceutiques et
+(CE) n° 469/2009 du Parlement européen et du Conseil du 6 mai 2009 concernant le certificat complémentaire de protection pour
+les médicaments. 
+
+Les dispositions du premier alinéa sont applicables aux demandes de prorogation présentées conformément aux dispositions de
+l'article 36 du règlement (CE) n° 1901/2006 du 12 décembre 2006 relatif aux médicaments à usage pédiatrique, modifiant le
+règlement (CEE) n° 1768/92, les directives 2001/20/CE et 2011/83/CE ainsi que le règlement (CE) n° 726/2004.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 10
 
 
 #### Chapitre VIII : Dispositions communes
@@ -44379,6 +44669,17 @@ L'institut apporte une assistance aux déposants par tout moyen approprié, pré
 
 #### Chapitre II : Produits semi-conducteurs
 
+###### Article R*622-3-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 622-3-1, le dépôt est réputé rejeté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 11
+
+
 ###### Article R622-1
 
 Les topographies de produits semi-conducteurs sont déposées à l'Institut national de la propriété industrielle ou y sont
@@ -44465,6 +44766,18 @@ officiel de la propriété industrielle.
 	**Créé par**:
 
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R622-3-1
+
+Il est statué sur le dépôt de topographie de produit semi-conducteur dans un délai de six mois à compter du dépôt. Ce délai
+est interrompu par la notification prévue à l'article R. 622-3, jusqu'à la régularisation du dépôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 11
 
 
 ###### Article R622-4
@@ -47104,6 +47417,11 @@ Elle n'est recevable qu'après paiement de la redevance prescrite.
 
 La demande est écrite. Elle indique les faits et justifications invoqués à son appui. 
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de
+lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette
+proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti. 
+
 La décision motivée est notifiée au demandeur.
 
 **Liens relatifs à cet article**
@@ -47112,29 +47430,49 @@ La décision motivée est notifiée au demandeur.
 
 	  - Décret n°92-100 du 30 janvier 1992 - art. 44 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-199 du 25 février 2004 - art. 66 () JORF 3 mars 2004
-
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 12
+
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L712-10 (V)
-	  - Code de la propriété intellectuelle - art. R712-16 (V)
-	  - Code de la propriété intellectuelle - art. R712-24 (V)
-	  - Code de la propriété intellectuelle - art. R717-2 (V)
-	  - Code de la propriété intellectuelle - art. R717-5 (V)
+	  - Code de la propriété intellectuelle - art. L712-10
+	  - Code de la propriété intellectuelle - art. R712-16
+	  - Code de la propriété intellectuelle - art. R712-24
+	  - Code de la propriété intellectuelle - art. R717-2
+	  - Code de la propriété intellectuelle - art. R717-5
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+
+###### Article R712-12-1
+
+Il est statué sur la demande de relevé de déchéance dans un délai de six mois à compter de son dépôt. Ce délai est
+interrompu, le cas échéant, par la notification prévue par l'article R. 712-12, jusqu'à la régularisation de la demande ou la
+levée de l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 12
+
+
+###### Article R712-12-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-12-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 12
 
 
 ###### Article R712-13
@@ -47484,14 +47822,18 @@ ou partielle du refus.
 ###### Article R712-23-1
 
 Il est statué sur la demande d'enregistrement de marque dans un délai de six mois à compter de la demande. Ce délai est
-interrompu, le cas échéant, jusqu'à la décision statuant sur la demande d'opposition prévue à l'article L. 712-4 ou jusqu'à
-la régularisation de la demande prévue à l'article R. 712-11.
+interrompu, le cas échéant, par la demande d'opposition prévue à l'article L. 712-4 jusqu'à la décision statuant sur cette
+dernière ou par la notification prévue à l'article R. 712-11 jusqu'à la régularisation de la demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L712-4
 
 
 ###### Article R712-24
@@ -47551,13 +47893,13 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 ###### Article R712-24-1
 
 Il est statué sur la déclaration de renouvellement dans un délai de six mois à compter de son dépôt. Ce délai est interrompu,
-le cas échéant, jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+le cas échéant, par la notification prévue à l'article R. 712-11 jusqu'à la régularisation de la déclaration.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-511 du 7 mai 2015 - art. 1
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 12
 
 
 ###### Article R712-25
@@ -47701,7 +48043,16 @@ mandataire ;
 
 Les dispositions de l'article R. 712-21 sont applicables à la renonciation.
 
+En cas de non-conformité de la déclaration, notification motivée en est faite au demandeur. Un délai lui est imparti pour
+régulariser la déclaration ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant
+de lever l'objection, la déclaration est rejetée. La notification peut être assortie d'une proposition de régularisation.
+Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-100 du 30 janvier 1992 - art. 21 (Ab)
 
 	**Cité par**:
 
@@ -47710,25 +48061,41 @@ Les dispositions de l'article R. 712-21 sont applicables à la renonciation.
 	  - Code de la propriété intellectuelle - art. R712-2 (V)
 	  - Code de la propriété intellectuelle - art. R712-26 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-21 (V)
+	  - Code de la propriété intellectuelle - art. R712-21
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Anciens textes**:
 
-	  - Décret n°92-100 du 30 janvier 1992 - art. 21 (Ab)
+###### Article R714-1-1
 
-	**Modifié par**:
+Il est statué sur la déclaration de renonciation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu,
+le cas échéant, par la notification prévue par l'article R. 714-1, jusqu'à la régularisation de la demande ou la levée de
+l'objection.
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 75 () JORF 3 mars 2004
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 13
+
+
+###### Article R714-1-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 714-1-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 13
 
 
 ###### Article R714-2
@@ -47964,6 +48331,30 @@ ne la conteste pas dans le délai qui lui est imparti.
 	**Modifié par**:
 
 	  - Décret n°2004-199 du 25 février 2004 - art. 80 () JORF 3 mars 2004
+
+
+###### Article R714-7-1
+
+Il est statué sur la demande d'inscription mentionnée aux articles R. 714-4 et R. 714-6 dans un délai de six mois à compter
+de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 714-7, jusqu'à la
+régularisation de la demande ou la levée de l'objection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 13
+
+
+###### Article R714-7-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 714-4-1, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 13
 
 
 ###### Article R714-8
@@ -48231,11 +48622,24 @@ annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
 ##### Section 1 : Marque internationale
 
+###### Article R*717-1-1
+
+L'article R. * 712-23-2 est applicable aux enregistrements internationaux de marque mentionnés à l'article R. 717-1, dans la
+même limite et sous la même réserve.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
+
+
 ###### Article R717-1
 
-Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 714-2 et R. 714-4 à R. 714-8 sont applicables
-aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891 et
-du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
+Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 712-23 et R. 712-23-1, R. 714-2  et R. 714-4 à
+R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de
+Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues
+au présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -48247,7 +48651,6 @@ du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des d
 
 	  - TXT_SOURCE: Arrêté du 6 décembre 1995
 	  - TXT_SOURCE: Arrêté du 6 décembre 1995 - art. 1 (V)
-	  - SPEC_APPLI: Décret n°2004-199 2004-02-25 art. 89 : spécificité d'application
 
 	**Cité par**:
 
@@ -48255,15 +48658,15 @@ du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des d
 
 	**Modifié par**:
 
-	  - Décret n°2004-199 du 25 février 2004 - art. 83 () JORF 3 mars 2004
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R712-13 (V)
-	  - Code de la propriété intellectuelle - art. R712-3 (V)
-	  - Code de la propriété intellectuelle - art. R712-9 (V)
-	  - Code de la propriété intellectuelle - art. R714-2 (V)
-	  - Code de la propriété intellectuelle - art. R714-4 (V)
+	  - Code de la propriété intellectuelle - art. R712-13
+	  - Code de la propriété intellectuelle - art. R712-3
+	  - Code de la propriété intellectuelle - art. R712-9
+	  - Code de la propriété intellectuelle - art. R714-2
+	  - Code de la propriété intellectuelle - art. R714-4
 
 	**Codifié par**:
 
@@ -48486,6 +48889,18 @@ précédent. La date de saisine de l'Institut national de la propriété industr
 
 ##### Section 2 : Marque communautaire
 
+###### Article R*717-10-1
+
+La demande de marque nationale issue de la requête en transformation est également examinée et enregistrée ou rejetée dans
+les conditions prévues à l'article R. * 712-23-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
+
+
 ###### Article R717-9
 
 La marque communautaire ou la demande de marque communautaire est transformée en demande de marque française dès la réception
@@ -48536,18 +48951,13 @@ mentionnées à l'article L. 712-4 de former dans ce même délai opposition à 
 ###### Article R717-10
 
 La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les
-conditions prévues aux articles R. 712-9 à R. 712-23.
+conditions prévues aux articles R. 712-9 à R. 712-23-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-215 2002-02-18 art. 9 I, III JORF 20 février 2002
-	  - Décret n°2002-215 du 18 février 2002 - art. 9 () JORF 20 février 2002
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R712-9 (V)
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 14
 
 	**Codifié par**:
 
@@ -48723,6 +49133,18 @@ L'institut apporte une assistance aux déposants par tout moyen approprié, pré
 #### Chapitre Ier : Généralités
 
 ##### Section unique : Indications géographiques protégeant les produits industriels et artisanaux 
+
+###### Article R*721-6-1
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 721-6, la demande d'homologation ou de modification du
+cahier des charges est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1436 du 6 novembre 2015 - art. 15
+
 
 ###### Article R721-1
 
