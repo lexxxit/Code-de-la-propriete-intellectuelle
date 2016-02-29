@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-01
 
 # Partie législative
 
@@ -10292,15 +10292,25 @@ entreprises, ainsi que d'engager toute action de sensibilisation et de formation
 2° D'appliquer les lois et règlements en matière de propriété industrielle et de registre du commerce et des sociétés ; à cet
 effet, l'Institut pourvoit, notamment, à la réception des dépôts de demandes des titres de propriété industrielle ou annexes
 à la propriété industrielle, à leur examen et à leur délivrance ou enregistrement et à la surveillance de leur maintien ; il
-centralise le registre du commerce et des sociétés et le Bulletin officiel des annonces civiles et commerciales ; il assure
-la diffusion des informations techniques, commerciales et financières contenues dans les titres de propriété industrielle et
-instruments centralisés de publicité légale ; il statue sur les demandes d'homologation ou de modification des cahiers des
-charges des indications géographiques définies à l'article L. 721-2 ; 
+centralise le registre du commerce et des sociétés, notamment sur la base de données informatiques transmises par les
+greffiers de tribunal de commerce, et le Bulletin officiel des annonces civiles et commerciales ; il assure la diffusion des
+informations techniques, commerciales et financières contenues dans les titres de propriété industrielle ; il assure la
+diffusion et la mise à la disposition gratuite du public, à des fins de réutilisation, des informations techniques,
+commerciales et financières qui sont contenues dans le registre national du commerce et des sociétés et dans les instruments
+centralisés de publicité légale, selon des modalités fixées par décret ; il statue sur les demandes d'homologation ou de
+modification des cahiers des charges des indications géographiques définies à l'article L. 721-2 ;
 
 3° De prendre toute initiative en vue d'une adaptation permanente du droit national et international aux besoins des
 innovateurs et des entreprises ; à ce titre, il propose au ministre chargé de la propriété industrielle toute réforme qu'il
 estime utile en ces matières ; il participe à l'élaboration des accords internationaux ainsi qu'à la représentation de la
 France dans les organisations internationales compétentes.
+
+**Nota:**
+
+Aux termes du IV de l'article 60 de la loi n° 2015-990 du 6 août 2015, ces dispositions entrent en vigueur à la même date que
+le premier arrêté fixant les tarifs des prestations des greffiers des tribunaux de commerce en application de l'article 50 de
+la présente loi, et au plus tard à l'expiration du douzième mois suivant la promulgation de la même loi. L'arrêté du 26
+février 2016 est entré en vigueur le 1er mars 2016.
 
 **Liens relatifs à cet article**
 
@@ -10315,7 +10325,7 @@ France dans les organisations internationales compétentes.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 73 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 60 (V)
 
 	**Cite**:
 
