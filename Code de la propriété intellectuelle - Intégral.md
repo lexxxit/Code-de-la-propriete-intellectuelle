@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-03-01
+Version Consolidée au 2016-03-11
 
 # Partie législative
 
@@ -49537,24 +49537,28 @@ défense et de gestion ou d'un opérateur, sont des organismes de tierce partie,
 personnels ne doivent exercer aucune activité qui puisse, dans l'accomplissement de leur mission d'évaluation de la
 conformité, porter atteinte à leur indépendance de jugement, à leur impartialité et à leur intégrité. 
 
-Le contrôle du respect d'un cahier des charges homologué ne peut être réalisé que par un organisme ayant déposé une demande
-d'accréditation dont la recevabilité opérationnelle a fait l'objet d'une décision favorable par l'organisme d'accréditation,
-pour un champ de compétence couvrant le cahier des charges. 
+Le contrôle du respect d'un cahier des charges homologué ne peut être réalisé que par un organisme d'inspection ou de
+certification ayant déposé une demande d'accréditation dont la recevabilité opérationnelle a fait l'objet d'une décision
+favorable par l'organisme d'accréditation, pour un champ de compétence couvrant le cahier des charges. L'accréditation doit
+être obtenue dans le délai maximal d'un an à compter de la notification de cette décision favorable de recevabilité
+opérationnelle. 
 
-L'organisme d'accréditation met à disposition sur son site internet une liste actualisée des organismes accrédités. Ces
-organismes doivent informer sans délai les organismes de défense et de gestion de toute modification de l'état de leur
-accréditation. 
-
-Les organismes accrédités adressent à l'opérateur contrôlé et à l'organisme de défense et de gestion leur rapport sur le
-respect du cahier des charges dans le mois qui suit l'achèvement du contrôle. 
+L'organisme d'accréditation met à disposition sur son site internet une liste actualisée des organismes d'inspection ou de
+certification accrédités. Ces organismes doivent informer sans délai les organismes de défense et de gestion de toute
+modification de l'état de leur accréditation. 
 
 Ce rapport contient la marque d'accréditation ou une référence textuelle à l'accréditation.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2016-280 du 8 mars 2016, les présentes dispositions sont applicables aux demandes
+d'homologation d'indications géographiques déposées avant son entrée en vigueur.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-595 du 2 juin 2015 - art. 5
+	  - Décret n°2016-280 du 8 mars 2016 - art. 1
 
 	**Cite**:
 
@@ -49567,25 +49571,54 @@ Ce rapport contient la marque d'accréditation ou une référence textuelle à l
 
 ###### Article R721-10
 
-Sur la base du rapport adressé par l'organisme accrédité ou de tout autre élément porté à sa connaissance permettant
-d'établir qu'un opérateur ne respecte pas le cahier des charges, l'organisme de défense et de gestion invite celui-ci à se
-mettre en conformité dans un délai déterminé. L'opérateur lui indique les mesures correctives prises à cette fin. 
+I. - Les organismes d'inspection accrédités adressent à l'opérateur contrôlé et à l'organisme de défense et de gestion le
+rapport de contrôle dans le mois qui suit l'achèvement du contrôle.
+
+Sur la base du rapport adressé par l'organisme d'inspection accrédité, ou de tout autre élément porté à sa connaissance
+permettant d'établir que l'opérateur ne respecte pas le cahier des charges, l'organisme de défense et de gestion invite
+l'opérateur à se mettre en conformité dans un délai déterminé. L'opérateur indique à l'organisme de défense et de gestion les
+mesures correctives prises à cette fin.
 
 Avant l'exclusion d'un opérateur en application du 6° de l'article L. 721-6, l'organisme de défense et de gestion lui adresse
 une mise en demeure lui demandant de se conformer à ses obligations dans un délai déterminé qui ne peut être inférieur à un
-mois et l'informant de l'exclusion qu'il encourt s'il s'abstient de cette mise en conformité. 
+mois et l'informant de l'exclusion qu'il encourt s'il s'abstient de cette mise en conformité.
 
-Les informations, mentionnées au 3° de l'article L. 721-6, sur les résultats des contrôles effectués par les organismes
-accrédités et sur les mesures correctives prises sont transmises à l'Institut national de la propriété industrielle par
-l'organisme de défense et de gestion, par voie électronique, dans les délais et les conditions fixées par décision du
-directeur général de l'institut. L'institut vérifie la cohérence entre les rapports de contrôle et les mesures correctives
-demandées et appliquées.
+II. - Les organismes de certification accrédités adressent à l'opérateur contrôlé le rapport de contrôle dans le mois qui
+suit l'achèvement du contrôle.
+
+La certification n'est octroyée par l'organisme de certification qu'après correction des manquements majeurs par l'opérateur
+dans le délai fixé par l'organisme de certification. La décision de certification est matérialisée par un certificat adressé
+à l'opérateur. L'organisme de certification transmet à l'organisme de défense et de gestion une copie de la décision de
+certification.
+
+L'organisme de certification assure la surveillance de l'opérateur certifié. En cas de manquement majeur, l'organisme de
+certification lui adresse une mise en demeure de corriger ce manquement dans un délai déterminé.
+
+L'organisme de certification informe l'organisme de défense et de gestion en cas de modification du certificat ou de
+réduction, résiliation, suspension ou retrait de la certification. En cas de non-octroi, résiliation, suspension ou retrait
+de la certification, l'organisme de défense et de gestion exclut l'opérateur sans délai conformément au 6° de l'article L.
+721-6.
+
+III. - Le rapport de contrôle mentionné aux I et II du présent article et, le cas échéant, le certificat émis par l'organisme
+de certification contiennent la marque d'accréditation ou une référence textuelle à l'accréditation.
+
+IV. - Les informations sur les résultats des contrôles effectués par les organismes d'inspection ou de certification, sur les
+mesures correctives prises par les opérateurs, sur les décisions de certification, sur les modifications de certificat et sur
+les réductions, résiliations, suspensions ou retraits de certification sont transmises à l'Institut national de la propriété
+industrielle par l'organisme de défense et de gestion par voie électronique dans les délais et les conditions fixées par
+décision du directeur général de l'institut. L'institut vérifie la cohérence entre les rapports de contrôle et les mesures
+correctives demandées et appliquées.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2016-280 du 8 mars 2016, les présentes dispositions sont applicables aux demandes
+d'homologation d'indications géographiques déposées avant son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-595 du 2 juin 2015 - art. 5
+	  - Décret n°2016-280 du 8 mars 2016 - art. 2
 
 	**Cite**:
 
