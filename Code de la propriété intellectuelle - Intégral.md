@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-02
 
 # Partie législative
 
@@ -10850,7 +10850,7 @@ société constituée sous une autre forme. Dans ce dernier cas, il est nécessa
 et le ou les gérants ainsi que la majorité des membres du conseil d'administration ou du conseil de surveillance aient la
 qualité des personnes visées au premier alinéa ; 
 
-2° Les personnes visées au premier alinéa détiennent plus de la moitié du capital social et des droits de vote ; 
+2° (Abrogé) 
 
 3° L'admission de tout nouvel associé est subordonnée à l'agrément préalable, selon le cas, du conseil d'administration, du
 conseil de surveillance ou du ou des gérants. 
@@ -10875,7 +10875,7 @@ prévue à l'article L. 422-1.
 	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 4 (V)
 	  - Décret n°2017-794 du 5 mai 2017 - art. 8 (V)
 	  - Code de la propriété intellectuelle - art. L422-3 (V)
-	  - Code de la propriété intellectuelle - art. L423-2 (V)
+	  - Code de la propriété intellectuelle - art. L423-2 (VD)
 	  - Code de la propriété intellectuelle - art. R422-4 (V)
 	  - Code de la propriété intellectuelle - art. R422-51-15 (V)
 	  - Code de la propriété intellectuelle - art. R422-6 (V)
@@ -10885,7 +10885,7 @@ prévue à l'article L. 422-1.
 
 	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 39
+	  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 	**Cite**:
 
