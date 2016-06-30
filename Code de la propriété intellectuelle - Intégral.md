@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -6157,23 +6157,19 @@ privée ayant déjà donné lieu à compensation financière.
 
 ###### Article L311-4-1
 
-Le montant de la rémunération prévue à l'article L. 311-3  propre à chaque support est porté à la connaissance de l'acquéreur
+Le montant de la rémunération prévue à l'article L. 311-3 propre à chaque support est porté à la connaissance de l'acquéreur
 lors de la mise en vente des supports d'enregistrement mentionnés à l'article L. 311-4. Une notice explicative relative à
 cette rémunération et à ses finalités, qui peut être intégrée au support de façon dématérialisée, est également portée à sa
 connaissance. Cette notice mentionne la possibilité de conclure des conventions d'exonération ou d'obtenir le remboursement
 de la rémunération pour copie privée dans les conditions prévues à l'article L. 311-8. 
 
-Les manquements au présent article sont recherchés et constatés par les agents mentionnés au II de l'article L. 450-1 du code
-de commerce, dans les conditions fixées à l'article L. 141-1 du code de la consommation. Ces manquements sont sanctionnés par
-une amende administrative dont le montant ne peut être supérieur à 3 000 €. 
+Les manquements au présent article sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21
+du code de la consommation, dans les conditions prévues à l'article L. 511-5 du code de la consommation. Ces manquements sont
+sanctionnés par une amende administrative dont le montant ne peut être supérieur à 3 000 €. 
 
 Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-1898 du 20 décembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -6183,6 +6179,10 @@ Les conditions d'application du présent article sont définies par décret en C
 	  - Code de la propriété intellectuelle - art. R311-11 (VD)
 	  - Code de la propriété intellectuelle - art. R311-12 (VD)
 	  - Code de la propriété intellectuelle - art. R311-9 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 14
 
 	**Cite**:
 
@@ -23354,13 +23354,13 @@ La décision de retrait prend effet dix jours après sa notification.
 
 Tout manquement à l'article L. 731-2 est passible d'une amende administrative dont le montant ne peut excéder 100 000 €.
 L'amende est prononcée par l'autorité administrative chargée de la concurrence et de la consommation dans les conditions
-prévues à l'article L. 141-1-2 du code de la consommation.
+prévues au chapitre II du titre II du livre V du code de la consommation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 75
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 14
 
 	**Cite**:
 
@@ -23370,14 +23370,14 @@ prévues à l'article L. 141-1-2 du code de la consommation.
 
 ###### Article L731-4
 
-Les manquements au présent chapitre sont recherchés et constatés dans les conditions prévues au II de l'article L. 141-1 du
-code de la consommation.
+Les manquements au présent chapitre sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21
+du code de la consommation, dans les conditions prévues à l'article L. 511-6 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 75
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 14
 
 	**Cite**:
 
@@ -34481,62 +34481,22 @@ industrielle. Ces sociétés portent la dénomination de société d'exercice li
 
 Les actes et documents destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, émanant d'une
 société d'exercice libéral de conseils en propriété industrielle doivent indiquer la dénomination sociale précédée ou suivie
-immédiatement, selon le cas :
+immédiatement des mentions prévues au premier alinéa de l'article 2 de la loi du 31 décembre 1990 précitée.
 
-- soit de la mention "société d'exercice libéral à responsabilité limitée de conseils en propriété industrielle" ou de la
-mention "SELARL de conseils en propriété industrielle" ;
-
-- soit de la mention "société d'exercice libéral à forme anonyme de conseils en propriété industrielle" ou de la mention
-"SELAFA de conseils en propriété industrielle" ;
-
-- soit de la mention "société d'exercice libéral en commandite par actions de conseils en propriété industrielle" ou de la
-mention "SELCA de conseils en propriété industrielle",
-
-ainsi que de l'énonciation du montant de son capital social, de l'adresse de son siège social, de la mention de son
-inscription sur la liste des conseils en propriété industrielle et de son numéro d'immatriculation au registre du commerce et
-des sociétés.
+Ils indiquent également l'adresse de son siège social, la mention de son inscription sur la liste des conseils en propriété
+industrielle et son numéro d'immatriculation au registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
+
 	**Anciens textes**:
 
-	  - Décret n°93-1105 1993-09-17 art. 2
 	  - Décret n°93-1105 du 17 septembre 1993 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-
-###### Article R422-43
-
-Une même personne physique ou morale exerçant la profession de conseil en propriété industrielle ne peut, au titre du
-troisième alinéa de l'article 5 de la loi n° 90-1258 du 31 décembre 1990, détenir de participations dans plus de deux
-sociétés d'exercice libéral de conseils en propriété industrielle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Cite**:
-
-	  - Loi n°90-1258 du 31 décembre 1990 - art. 5
-
-	**Anciens textes**:
-
-	  - Décret n°93-1105 du 17 septembre 1993 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2016-875 du 29 juin 2016 - art. 1
 
@@ -34761,36 +34721,11 @@ professionnels et les correspondances de chaque associé.
 
 ###### Article R422-51-1
 
-Des conseils en propriété industrielle peuvent constituer, dans les conditions prévues à l'article 31-1 de la loi n° 90-1258
-du 31 décembre 1990, une ou plusieurs sociétés de participations financières de la profession libérale de conseil en
-propriété industrielle ayant pour objet la détention de parts ou d'actions de sociétés d'exercice libéral constituées pour
-l'exercice de leur profession ou de groupements de droit étranger ayant pour objet l'exercice de cette même profession. 
-
-Peuvent également être associés, à l'exclusion de toute autre personne :
-
-1° Pendant un délai de dix ans, des personnes physiques qui, ayant cessé toute activité professionnelle, ont exercé la
-profession de conseils en propriété industrielle ;
-
-2° Les ayants droit des personnes physiques mentionnées aux premier et troisième alinéas ci-dessus, pendant un délai de cinq
-ans suivant le décès de celles-ci ;
-
-3° Les personnes exerçant une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
-protégé, autre que les professions libérales de santé ou les professions libérales juridiques ou judiciaires ;
-
-4° Des ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique
-européen ou de la Confédération suisse, qui exercent en qualité de professionnel libéral, dans l'un de ces Etats membres ou
-parties ou dans la Confédération suisse, une activité soumise à un statut législatif ou réglementaire ou subordonnée à la
-possession d'une qualification nationale ou internationale reconnue et dont l'exercice constitue l'objet social de l'une des
-sociétés ou de l'un des groupements faisant l'objet d'une prise de participation.
-
-Ces sociétés sont régies par les dispositions du livre II du code de commerce, sous réserve des dispositions du présent
-chapitre.
+Les sociétés constituées, en application du titre IV de la loi n° 90-1258 du 31 décembre 1990, en vue de la détention de
+parts sociales ou d'actions dans des sociétés exerçant la profession de conseil en propriété industrielle sont régies par les
+dispositions du livre II du code de commerce, sous réserve des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
 
 	**Cite**:
 
@@ -34798,11 +34733,15 @@ chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°2013-746 du 14 août 2013 - art. 2
+	  - Décret n°2016-875 du 29 juin 2016 - art. 2
 
 	**Cité par**:
 
-	  - Code de la propriété intellectuelle - art. R422-51-3 (M)
+	  - Code de la propriété intellectuelle - art. R422-51-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-385 1955-04-10
 
 
 ###### Article R422-51-2
@@ -34841,7 +34780,7 @@ Cette déclaration est accompagnée, à peine d'irrecevabilité, des pièces sui
 
 2° Une attestation du greffier chargé de la tenue du registre du commerce et des sociétés au lieu du siège social constatant
 le dépôt au greffe de la demande, des actes annexés et des pièces nécessaires à l'immatriculation ultérieure de la société de
-participations financières ; 
+participations financières, ou tout document attestant de l'immatriculation ; 
 
 3° La liste des associés avec, selon le cas, l'indication de leur profession ou de leur qualité au regard de l'article R.
 422-51-1, suivie, pour chacun, de la mention de la part du capital qu'il détient dans la société dont l'inscription est
@@ -34853,13 +34792,9 @@ financières et précisant la répartition du capital qui résultera de ces part
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2013-746 du 14 août 2013 - art. 4
-
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. R422-51-1
+	  - Code de la propriété intellectuelle - art. R422-51-1 (V)
 
 	**Cité par**:
 
@@ -34869,6 +34804,10 @@ financières et précisant la répartition du capital qui résultera de ces part
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
+
+	**Modifié par**:
+
+	  - Décret n°2016-875 du 29 juin 2016 - art. 2
 
 
 ###### Article R422-51-5
@@ -34889,34 +34828,6 @@ d'une scission sont soumises aux dispositions des articles R. 422-51-2 à R. 422
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
-
-
-###### Article R422-51-6
-
-A la diligence du directeur de l'Institut national de la propriété industrielle, une ampliation de la déclaration
-d'inscription de la société est adressée au greffe du tribunal où a été déposée la demande d'immatriculation au registre du
-commerce et des sociétés. Au reçu de cette ampliation, le greffier procède à l'immatriculation et en informe le directeur
-général de l'Institut national de la propriété industrielle. 
-
-La société est dispensée de procéder aux formalités de publicité prévues à l'article R. 210-16 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-385 1955-04-10
-
-	**Modifié par**:
-
-	  - Décret n°2013-746 du 14 août 2013 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2016-875 du 29 juin 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de commerce - art. R210-16
 
 
 ###### Article R422-51-7
@@ -34952,7 +34863,7 @@ réglementaires en vigueur, la société est mise en demeure par le directeur g�
 dans le délai indiqué par cette mise en demeure. 
 
 Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le directeur général de l'Institut saisit, à
-l'encontre des associés, la chambre de discipline prévue à l'article L. 422-10.
+l'encontre des associés exerçant la profession, la chambre de discipline prévue à l'article L. 422-10.
 
 **Liens relatifs à cet article**
 
@@ -34970,7 +34881,7 @@ l'encontre des associés, la chambre de discipline prévue à l'article L. 422-1
 
 	**Modifié par**:
 
-	  - Décret n°2013-746 du 14 août 2013 - art. 8
+	  - Décret n°2016-875 du 29 juin 2016 - art. 2
 
 
 ###### Article R422-51-9
