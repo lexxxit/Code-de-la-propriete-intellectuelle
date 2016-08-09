@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-08-01
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -13791,6 +13791,9 @@ instituant un régime de protection communautaire des obtentions végétales ;
 3° Les procédés essentiellement biologiques pour l'obtention des végétaux et des animaux ; sont considérés comme tels les
 procédés qui font exclusivement appel à des phénomènes naturels comme le croisement ou la sélection ;
 
+3° bis Les produits exclusivement obtenus par des procédés essentiellement biologiques définis au 3°, y compris les éléments
+qui constituent ces produits et les informations génétiques qu'ils contiennent ;
+
 4° Les procédés de modification de l'identité génétique des animaux de nature à provoquer chez eux des souffrances sans
 utilité médicale substantielle pour l'homme ou l'animal, ainsi que les animaux issus de tels procédés.
 
@@ -13805,16 +13808,15 @@ procédé utilisant ou produisant une matière biologique ou comportant une inte
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Modifié par**:
 
-	  - Loi n°2004-1338 du 8 décembre 2004 - art. 2 () JORF 9 décembre 2004
+	  - Loi n°2016-1087 du 8 août 2016 - art. 9
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
 	  - Code de la propriété intellectuelle - art. L611-19 (M)
-	  - Code de la propriété intellectuelle L611-19, L611-20 (1res versions)
 
 	**Cite**:
 
@@ -14814,15 +14816,20 @@ La protection conférée par un brevet relatif à un procédé permettant de pro
 l'invention, de propriétés déterminées s'étend à la matière biologique directement obtenue par ce procédé et à toute autre
 matière biologique obtenue, à partir de cette dernière, par reproduction ou multiplication et dotée de ces mêmes propriétés.
 
+La protection conférée par un brevet relatif à une matière biologique dotée, du fait de l'invention, de propriétés
+déterminées ne s'étend pas aux matières biologiques dotées de ces propriétés déterminées, obtenues indépendamment de la
+matière biologique brevetée et par procédé essentiellement biologique, ni aux matières biologiques obtenues à partir de ces
+dernières, par reproduction ou multiplication.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1338 du 8 décembre 2004 - art. 5 () JORF 9 décembre 2004
+	  - Loi n°2016-1087 du 8 août 2016 - art. 10
 
 
 ###### Article L613-2-4
