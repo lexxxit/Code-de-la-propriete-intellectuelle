@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-08-31
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -2210,7 +2210,7 @@ Les contrats de représentation, d'édition et de production audiovisuelle défi
 
 Les contrats par lesquels sont transmis des droits d'auteur doivent être constatés par écrit. 
 
-Dans tous les autres cas, les dispositions des articles 1341 à 1348 du code civil sont applicables.
+Dans tous les autres cas, les dispositions des articles 1359 à 1362 du code civil sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -2220,6 +2220,7 @@ Dans tous les autres cas, les dispositions des articles 1341 à 1348 du code civ
 
 	**Modifié par**:
 
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 7
 
 	**Cité par**:
@@ -2228,7 +2229,7 @@ Dans tous les autres cas, les dispositions des articles 1341 à 1348 du code civ
 
 	**Cite**:
 
-	  - Code civil - art. 1341
+	  - Code civil - art. 1359 (VT)
 
 
 ###### Article L131-3
@@ -29496,8 +29497,13 @@ Dès réception de la saisine, la commission de protection des droits en accuse 
 
 Les procès-verbaux dressés par les agents assermentés et agréés mentionnés à l'article L. 331-24 peuvent être établis sous la
 forme électronique. Dans ce cas, il est fait usage d'une signature électronique sécurisée dans les conditions prévues par
-l'article 1316-4 du code civil et le décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code
+l'article 1367 du code civil et le décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code
 civil et relatif à la signature électronique.
+
+**Nota:**
+
+Conformément au décret n° 2016-1278 du 29 septembre 2016, article 1, l'article 1316-4 du code civil est devenu l'article 1367
+dudit code.
 
 **Liens relatifs à cet article**
 
@@ -29505,11 +29511,11 @@ civil et relatif à la signature électronique.
 
 	  - Décret n°2001-272 du 30 mars 2001
 	  - Code de la propriété intellectuelle - art. L331-24
-	  - Code civil - art. 1316-4
+	  - Code civil - art. 1367
 
 	**Modifié par**:
 
-	  - Décret n°2010-872 du 26 juillet 2010 - art. 1
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 
 ###### Article R331-37
