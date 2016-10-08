@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -1226,7 +1226,16 @@ par voie de presse écrite, audiovisuelle ou en ligne, dans un but exclusif d'in
 avec cette dernière, sous réserve d'indiquer clairement le nom de l'auteur. 
 
 Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-
-mêmes à rendre compte de l'information. 
+mêmes à rendre compte de l'information ;
+
+10° Les copies ou reproductions numériques réalisées à partir d'une source licite, en vue de l'exploration de textes et de
+données incluses ou associées aux écrits scientifiques pour les besoins de la recherche publique, à l'exclusion de toute
+finalité commerciale. Un décret fixe les conditions dans lesquelles l'exploration des textes et des données est mise en
+œuvre, ainsi que les modalités de conservation et de communication des fichiers produits au terme des activités de recherche
+pour lesquelles elles ont été produites ; ces fichiers constituent des données de la recherche ;
+
+11° Les reproductions et représentations d'œuvres architecturales et de sculptures, placées en permanence sur la voie
+publique, réalisées par des personnes physiques, à l'exclusion de tout usage à caractère commercial. 
 
 Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion
 avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent
@@ -1263,7 +1272,7 @@ documents mentionnés au d du 3°, sont précisées par décret en Conseil d'Eta
 	  - Code de la propriété intellectuelle - art. L331-41 (MMN)
 	  - Code de la propriété intellectuelle - art. L331-42 (MMN)
 	  - Code de la propriété intellectuelle - art. L331-8 (V)
-	  - Code de la propriété intellectuelle - art. L331-9 (V)
+	  - Code de la propriété intellectuelle - art. L331-9 (VD)
 	  - Code de la propriété intellectuelle - art. L342-3 (V)
 	  - Code de la propriété intellectuelle - art. R122-1 (V)
 	  - Code de la propriété intellectuelle - art. R122-12 (V)
@@ -1277,7 +1286,8 @@ documents mentionnés au d du 3°, sont précisées par décret en Conseil d'Eta
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 33
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 38
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 39
 
 	**Cite**:
 
@@ -10236,7 +10246,13 @@ numérique de l'écrit, à des fins exclusives d'illustration dans le cadre de l
 de toute activité ludique ou récréative, dès lors que le public auquel cette extraction et cette réutilisation sont destinées
 est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que la source est
 indiquée, que l'utilisation de cette extraction et cette réutilisation ne donne lieu à aucune exploitation commerciale et
-qu'elle est compensée par une rémunération négociée sur une base forfaitaire. 
+qu'elle est compensée par une rémunération négociée sur une base forfaitaire ;
+
+5° Les copies ou reproductions numériques de la base réalisées par une personne qui y a licitement accès, en vue de fouilles
+de textes et de données incluses ou associées aux écrits scientifiques dans un cadre de recherche, à l'exclusion de toute
+finalité commerciale. La conservation et la communication des copies techniques issues des traitements, au terme des
+activités de recherche pour lesquelles elles ont été produites, sont assurées par des organismes désignés par décret. Les
+autres copies ou reproductions sont détruites. 
 
 Toute clause contraire au 1° ci-dessus est nulle. 
 
@@ -10264,12 +10280,12 @@ s'appliquent à compter du 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 37
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 38
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L122-5
-	  - Code de la propriété intellectuelle - art. L122-5-1 (V)
+	  - Code de la propriété intellectuelle - art. L122-5-1
 
 
 ###### Article L342-3-1
