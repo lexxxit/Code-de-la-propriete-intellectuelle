@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-11-01
 
 # Partie législative
 
@@ -5740,6 +5740,140 @@ Sa décision a effet pour une durée de trois ans, sauf accord des intéressés 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R212-1 (V)
+
+
+##### Section 3 : Contrats conclus entre un artiste-interprète et un producteur de phonogrammes 
+
+
+###### Article L212-10
+
+L'existence ou la conclusion d'un contrat de louage d'ouvrage ou de service avec un producteur de phonogrammes n'emporte pas
+dérogation à la jouissance des droits reconnus à l'artiste-interprète par les articles L. 212-2 et L. 212-3, sous réserve des
+exceptions prévues au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 10
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L212-2 (V)
+
+
+###### Article L212-11
+
+La cession des droits de l'artiste-interprète mentionnés au présent code est subordonnée à la condition que chacun des droits
+cédés fasse l'objet d'une mention distincte dans le contrat conclu avec le producteur de phonogrammes et que le domaine
+d'exploitation de ces droits soit délimité quant à son étendue et à sa destination, quant au lieu et quant à la durée. 
+
+Toute clause qui tend à conférer le droit d'exploiter la prestation de l'artiste-interprète sous une forme non prévisible ou
+non prévue à la date de signature est expresse et stipule, au bénéfice des artistes-interprètes dont les contrats prévoient
+le paiement direct par le producteur d'une rémunération proportionnelle aux recettes de l'exploitation, une participation
+corrélative auxdites recettes. 
+
+Lorsque l'artiste-interprète cède à un producteur de phonogrammes une créance sur les rémunérations provenant d'exploitations
+à venir de sa prestation en contrepartie d'une avance consentie par ce dernier, cette cession ne peut porter sur les
+rémunérations mentionnées aux articles L. 214-1 et L. 311-1. Toute clause contraire est nulle. 
+
+La cession au producteur de phonogrammes de droits de l'artiste-interprète autres que ceux mentionnés au présent code est
+subordonnée à la condition que chacun des droits cédés fasse l'objet d'une mention expresse distincte dans le contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 10
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L214-1 (V)
+	  - Code de la propriété intellectuelle - art. L311-1 (V)
+
+
+###### Article L212-12
+
+En cas d'abus notoire dans le non-usage par un producteur de phonogrammes des droits d'exploitation qui lui ont été cédés, la
+juridiction civile compétente peut ordonner toute mesure appropriée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 10
+
+
+###### Article L212-13
+
+Le contrat conclu entre l'artiste-interprète et le producteur de phonogrammes fixe une rémunération minimale garantie en
+contrepartie de l'autorisation de fixation, rémunérée sous forme de salaire, de la prestation de l'artiste-interprète.
+
+Chaque mode d'exploitation du phonogramme incorporant la prestation de l'artiste-interprète prévu au contrat fait l'objet
+d'une rémunération distincte.
+
+Sont regardées comme des modes d'exploitation distincts la mise à disposition du phonogramme sous une forme physique et sa
+mise à disposition par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 10
+
+
+###### Article L212-14
+
+I.-La mise à disposition d'un phonogramme de manière que chacun puisse y avoir accès de sa propre initiative, dans le cadre
+des diffusions en flux, fait l'objet d'une garantie de rémunération minimale. 
+
+II.-Les modalités de la garantie de rémunération minimale prévue au I et son niveau sont établis par un accord collectif de
+travail conclu entre les organisations représentatives des artistes-interprètes et les organisations représentatives des
+producteurs de phonogrammes. 
+
+Cet accord peut être rendu obligatoire par arrêté du ministre chargé du travail. 
+
+III.-A défaut d'accord collectif dans un délai de douze mois à compter de la promulgation de la loi n° 2016-925 du 7 juillet
+2016 relative à la liberté de la création, à l'architecture et au patrimoine, la garantie de rémunération minimale versée par
+le producteur aux artistes-interprètes prévue au I est fixée de manière à associer justement les artistes-interprètes à
+l'exploitation des phonogrammes, par une commission présidée par un représentant de l'Etat et composée, en outre, pour
+moitié, de personnes désignées par les organisations représentant les artistes-interprètes et, pour moitié, de personnes
+désignées par les organisations représentant les producteurs de phonogrammes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 10
+
+
+###### Article L212-15
+
+Lorsque le contrat conclu entre un artiste-interprète et un producteur de phonogrammes prévoit le paiement direct par le
+producteur d'une rémunération qui est fonction des recettes de l'exploitation, le producteur de phonogrammes rend compte
+semestriellement à l'artiste-interprète du calcul de sa rémunération, de façon explicite et transparente.
+
+A la demande de l'artiste-interprète, le producteur de phonogrammes fournit à un expert-comptable mandaté par l'artiste-
+interprète toutes justifications propres à établir l'exactitude de ses comptes.
+
+**Nota:**
+
+Conformément à l'article 110 II de la loi n° 2016-925 du 7 juillet 2016, le présent article, dans sa rédaction résultant de
+l'article 10 de ladite loi est applicable aux contrats en cours à la date d'entrée en vigueur du même article 10.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 110 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 10
 
 
 ##### Chapitre III : Droits des producteurs de phonogrammes
