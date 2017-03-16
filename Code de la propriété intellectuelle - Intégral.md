@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-03-12
+Version Consolidée au 2017-03-17
 
 # Partie législative
 
@@ -27537,6 +27537,8 @@ commun leur intention de résilier et leur décision de résiliation dans les co
 
 #### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes
 
+##### Section 1 : Commission prévue à l'article L. 214-4
+
 ###### Article R214-1
 
 La commission prévue à l'article L. 214-4 siège soit en formation plénière, soit en formations spécialisées dans une ou
@@ -27549,13 +27551,13 @@ nombre égal de représentants des bénéficiaires du droit à rémunération et
 
 	  - Décret n°86-537 du 14 mars 1986 - art. 1 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L214-4 (V)
+	  - Code de la propriété intellectuelle - art. L214-4
 
 	**Codifié par**:
 
@@ -27571,6 +27573,10 @@ titulaire qu'ils suppléent.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L214-4
+
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
@@ -27579,13 +27585,9 @@ titulaire qu'ils suppléent.
 
 	  - Décret n°86-537 du 14 mars 1986 - art. 2 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2005-578 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L214-4 (V)
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
 ###### Article R214-3
@@ -27603,9 +27605,9 @@ mandat par une désignation faite pour la durée du mandat restant à courir.
 
 	  - Décret n°86-537 du 14 mars 1986 - art. 3 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
 ###### Article R214-4
@@ -27625,9 +27627,9 @@ culture, soit par un tiers des membres de la commission.
 
 	  - Décret n°86-537 du 14 mars 1986 - art. 4 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
 ###### Article R214-5
@@ -27646,9 +27648,9 @@ jours ; elle peut alors délibérer quel que soit le nombre des membres présent
 
 	  - Décret n°86-537 du 14 mars 1986 - art. 5 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
 ###### Article R214-6
@@ -27666,9 +27668,9 @@ ont eu connaissance.
 
 	  - Décret n°86-537 du 14 mars 1986 - art. 6 (Ab)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
 ###### Article R214-7
@@ -27685,17 +27687,260 @@ de la culture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-537 1986-03-14 art. 7 à art. 10
-
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-338 du 15 mars 2017 - art. 1
+
+
+##### Section 2 : Médiateur de la musique
+
+###### Article R214-8
+
+Le médiateur de la musique est nommé par décret pris sur le rapport du ministre chargé de la culture pour une durée de trois
+ans renouvelable. 
+
+Il est choisi parmi les membres ou anciens membres du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes ou
+parmi des personnalités qualifiées, à raison de leur compétence dans le secteur de la musique ou des industries culturelles. 
+
+La fonction de médiateur est incompatible avec le fait d'avoir exercé au cours des trois dernières années les fonctions de
+dirigeant, d'associé, de mandataire social ou de salarié d'une entreprise ou d'un organisme relevant d'une des catégories
+prévues au sixième alinéa du I de l'article L. 214-6. 
+
+Le médiateur ne peut, directement ou indirectement, détenir d'intérêt dans une entreprise ou un organisme relevant d'une des
+catégories prévues au sixième alinéa du I de l'article L. 214-6 ou disposer d'un contrat de prestation de services avec une
+telle entreprise ou avec un tel organisme. 
+
+Il veille à faire cesser immédiatement ou à prévenir les situations de conflit d'intérêts dans lesquelles il se trouve ou
+pourrait se trouver.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L214-6 (V)
+
+
+###### Article R214-9
+
+Le médiateur peut faire appel aux services du ministre chargé de la culture. Celui-ci met à sa disposition les moyens
+nécessaires à l'exercice de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+
+###### Article R214-10
+
+I.-La saisine du médiateur est effectuée par lettre remise contre signature ou par tout autre moyen propre à établir la
+preuve de la date de cette saisine et comporte : 
+
+1° Si le demandeur est une personne physique, ses nom, prénom et domicile ; s'il est une personne morale, sa forme, sa
+dénomination, son siège social et l'identité de son représentant légal. La personne morale annexe une copie de ses statuts ; 
+
+2° Le cas échéant, le nom de son conseil ou de son mandataire et le mandat donné à ce dernier ; 
+
+3° Les pièces justifiant que le demandeur relève d'une des catégories prévues au sixième alinéa du I de l'article L. 214-6 ; 
+
+4° L'objet de la demande avec un exposé du litige et les pièces sur lesquelles la demande est fondée ; 
+
+5° Si la ou les autres parties au litige sont des personnes physiques, leurs nom, prénom et domicile ; si elles sont des
+personnes morales, leur dénomination et leur siège social. 
+
+II.-Si la saisine ne satisfait pas aux prescriptions du I du présent article, le médiateur adresse une demande de
+régularisation sous un délai d'un mois au demandeur ou le cas échéant à son mandataire. En l'absence de régularisation, ou si
+les éléments produits à la suite de la demande de régularisation ne permettent pas d'établir que le litige entre dans le
+champ du I de l'article L. 214-6, le médiateur déclare irrecevable la demande. 
+
+III.-Lorsque le litige dont le médiateur est saisi relève du champ de compétence d'une autre instance de conciliation créée
+par une convention ou un accord collectif de travail, le médiateur saisit cette instance pour avis. L'avis est réputé rendu
+si l'instance n'a pas répondu au médiateur dans un délai d'un mois à compter de la réception de la saisine de celui-ci. Le
+médiateur se déclare incompétent si cette instance lui en fait la demande. 
+
+IV.-Le médiateur informe de sa saisine, dans un délai de huit jours à compter de la réception de la demande, la ou les autres
+parties par lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de réception de
+cette information. 
+
+La ou les parties disposent alors d'un délai d'un mois pour adresser leurs observations au médiateur et au demandeur par
+lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de réception de ces
+observations. Ce délai peut être renouvelé une fois sur décision du médiateur, qui en informe la ou les mêmes parties par
+lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de réception de cette
+information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L214-6
+
+
+###### Article R214-11
+
+Pour l'exercice de sa mission, le médiateur dispose d'un délai de trois mois, à compter de la date de réception de la demande
+ou, le cas échéant, de la date de réception des observations de la ou des parties que le médiateur a informées de la demande
+ou de la date d'expiration du délai imparti pour produire ces observations.
+
+Le délai de trois mois peut être prolongé une fois, pour une même durée, à l'initiative du médiateur et avec l'accord des
+parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R214-15 (V)
+	  - Code de la propriété intellectuelle - art. R214-16 (V)
+
+
+###### Article R214-12
+
+Le médiateur entend les parties et toute personne dont l'audition lui paraît utile. Les parties peuvent se faire assister par
+toute personne de leur choix, dont elles communiquent l'identité préalablement à leur audition.
+
+Le médiateur établit un compte rendu de ces auditions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+
+###### Article R214-13
+
+Lorsqu'une partie se prévaut du secret des affaires, elle signale au médiateur les informations, documents ou partie de
+documents qu'elle estime, à l'occasion de leur communication, couverts par ce secret et qui ne peuvent alors être rendus
+publics.
+
+Le médiateur ne peut porter à la connaissance de la ou des autres parties ces informations ou documents ou partie de
+documents couverts par le secret des affaires qu'avec l'accord de la partie qui s'en prévaut.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R214-17 (V)
+
+
+###### Article R214-14
+
+Lorsque le médiateur constate un accord entre les parties, la teneur de l'accord est consignée dans un procès-verbal de
+conciliation qui est signé par les parties ainsi que par le médiateur et qui précise, d'une part, les mesures à prendre pour
+mettre en œuvre cet accord, d'autre part, le délai fixé par le médiateur pour son exécution.
+
+Une copie du procès-verbal de conciliation est remise à chaque partie contre émargement ou adressée par lettre remise contre
+signature ou par tout autre moyen propre à établir la preuve de la date de réception de cette copie, dans un délai de dix
+jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+
+###### Article R214-15
+
+Si, à l'issue du délai prévu à l'article R. 214-11, aucun accord n'a pu être trouvé entre les parties, le médiateur peut
+émettre une recommandation proposant des mesures tendant à mettre fin au litige, qui est notifiée dans un délai de dix jours
+aux parties par lettre remise contre émargement ou par lettre remise contre signature ou par tout autre moyen propre à
+établir la preuve de la date de réception de cette notification. 
+
+Dans un délai de trois mois à compter de la date de réception de la recommandation, les parties informent le médiateur, par
+lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de réception de cette
+information, des suites qu'elles comptent donner à la recommandation. Faute d'avoir procédé à cette information, les parties
+sont réputées avoir accepté la recommandation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R214-11
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R214-16 (V)
+
+
+###### Article R214-16
+
+L'échec de la conciliation résulte de l'une des situations suivantes : 
+
+1° Aucun accord n'est trouvé entre les parties dans le délai prévu à l'article R. 214-11 ; 
+
+2° La recommandation du médiateur, mentionnée au premier alinéa de l'article R. 214-15, a été rejetée par une au moins des
+parties. 
+
+Cet échec donne lieu à l'établissement par le médiateur d'un procès-verbal de constat de la non-conciliation, dont une copie
+est remise à chaque partie contre émargement ou adressée par lettre remise contre signature ou par tout autre moyen propre à
+établir la preuve de la date de réception de cette copie, dans un délai de dix jours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R214-11
+	  - Code de la propriété intellectuelle - art. R214-15
+
+
+###### Article R214-17
+
+Le médiateur peut, dans le respect des dispositions du premier alinéa de l'article R. 214-13, décider de la publication de
+l'accord de conciliation ou de la recommandation, en intégralité ou par extraits, dans les journaux ou sur les services de
+communication au public en ligne, qu'il désigne et selon les modalités qu'il précise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R214-13
+
+
+###### Article R214-18
+
+Les constatations du médiateur, autres que celles rendues publiques par lui, les déclarations qu'il a recueillies et les
+informations qui ont été portées à sa connaissance ne peuvent être ni produites ni invoquées par une partie sans l'accord de
+l'autre ou des autres parties dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une instance
+juridictionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-338 du 15 mars 2017 - art. 1
 
 
 ## Livre III : Dispositions générales
@@ -51707,7 +51952,8 @@ Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
 
 1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ; 
 
-2° Les dispositions du livre II ; 
+2° Les dispositions du livre II dans leur rédaction, pour leur application dans les îles Wallis et Futuna, résultant du
+décret n° 2017-338 du 15 mars 2017 ; 
 
 3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ; 
 
@@ -51753,6 +51999,7 @@ avis de non-imposition ou une justification équivalente.
 	**Cite**:
 
 	  - Loi n°2005-842 du 26 juillet 2005
+	  - Décret n°2017-338 du 15 mars 2017
 	  - Code de la propriété intellectuelle - art. L612-20
 	  - Code de la propriété intellectuelle - art. R133-1
 	  - Code de la propriété intellectuelle - art. R326-1
@@ -51783,7 +52030,7 @@ avis de non-imposition ou une justification équivalente.
 
 	**Modifié par**:
 
-	  - Décret n°2015-506 du 6 mai 2015 - art. 4 (V)
+	  - Décret n°2017-338 du 15 mars 2017 - art. 2
 
 
 ###### Article R811-1-1
