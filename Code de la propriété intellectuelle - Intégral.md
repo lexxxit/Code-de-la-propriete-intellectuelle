@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-04-10
+Version Consolidée au 2017-05-08
 
 # Partie législative
 
@@ -12551,22 +12551,32 @@ Nul ne peut être inscrit sur la liste prévue au premier alinéa s'il n'est pas
 ###### Article L422-6
 
 Le conseil en propriété industrielle exerce sa profession soit à titre individuel ou en groupe, soit en qualité de salarié
-d'un autre conseil en propriété industrielle.
+d'une personne physique ou morale exerçant la profession de conseil en propriété industrielle.
+
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-1052 1990-11-26 art. 37
 	  - Loi n°90-1052 du 26 novembre 1990 - art. 37 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 	**Cité par**:
 
@@ -12627,6 +12637,51 @@ prévue à l'article L. 422-1.
 	  - Code de commerce - art. L225-22
 	  - Code de commerce - art. L225-44
 	  - Code de la propriété intellectuelle - art. L422-1
+
+
+###### Article L422-7-1
+
+Le conseil en propriété industrielle peut exercer sa profession dans le cadre d'une société pluri-professionnelle d'exercice,
+prévue au 
+titre IV bis de la loi n° 90-1258 du 31 décembre 1990
+relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou
+dont le titre est protégé et aux sociétés de participations financières de professions libérales, ayant pour objet l'exercice
+en commun de la profession de conseil en propriété industrielle et d'une ou plusieurs autres professions prévues à ce titre. 
+
+La société comprend, parmi ses associés, une personne physique qui remplit les conditions requises pour exercer la
+profession. 
+
+Au moins un membre de la profession de conseil en propriété industrielle exerçant au sein de la société, en qualité d'associé
+ou de salarié, doit être membre du conseil d'administration ou du conseil de surveillance de la société. 
+
+Le dernier alinéa de l'article L. 422-7 est applicable.
+
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-1258 du 31 décembre 1990
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R422-51-15 (V)
+	  - Code de la propriété intellectuelle - art. R422-6 (V)
+	  - Code de la propriété intellectuelle - art. R422-7 (V)
 
 
 ###### Article L422-8
@@ -12781,21 +12836,29 @@ La profession de conseil en propriété industrielle est incompatible :
 par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du
 directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par
 actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession
-de conseil en propriété industrielle ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
+de conseil en propriété industrielle ou d'une profession prévue au titre IV bis de la loi n° 90-1258 du 31 décembre 1990
+précitée ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
 
 3° Avec la qualité de membre du conseil de surveillance ou d'administrateur d'une société commerciale, lorsque le conseil en
 propriété industrielle a moins de sept années d'exercice professionnel et n'a pas obtenu préalablement une dispense dans des
 conditions prévues par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
-
-	**Créé par**:
-
-	  - Loi n°2004-130 du 11 février 2004 - art. 67 () JORF 12 février 2004
+	  - Loi n°92-597 du 1 juillet 1992
 
 	**Cité par**:
 
@@ -12803,6 +12866,10 @@ conditions prévues par décret en Conseil d'Etat.
 	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 16 (V)
 	  - Ordonnance n°2006-639 du 1 juin 2006 - art. 4 (V)
 	  - Code de la propriété intellectuelle - art. R422-55 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 
 ###### Article L422-13
@@ -12875,31 +12942,44 @@ d) Les conditions d'application de l'article L. 422-5 ;
 e) Les conditions dans lesquelles il peut être dérogé à l'obligation mentionnée au b de l'article L. 422-7 afin de permettre
 le regroupement interprofessionnel avec d'autres prestataires de services intervenant dans le processus d'innovation ; 
 
-f) Les règles de déontologie applicables aux conseils en propriété industrielle ; 
+f) Les conditions d'application du dernier alinéa de l'article L. 422-7 et de l'article L. 422-7-1, notamment les modalités
+d'application des règles de discipline prévues à l'article L. 422-10 ;  
 
-g) L'organisation et les modalités de fonctionnement de la Compagnie nationale des conseils en propriété industrielle ainsi
+g) Les règles de déontologie applicables aux conseils en propriété industrielle ; 
+
+h) L'organisation et les modalités de fonctionnement de la Compagnie nationale des conseils en propriété industrielle ainsi
 que les modalités de fixation du montant des cotisations qu'elle perçoit de ses membres.
+
+**Nota:**
+
+Ordonnance n° 2016-394 du 31 mars 2016, Art. 13 : Les dispositions des chapitres Ier à VIII du titre II de la présente
+ordonnance, à l'exception des 2° et 4° de l'article 5, du 2° de l'article 6 et du 7° de l'article 8, entrent en vigueur aux
+dates qui seront fixées, pour chacune des professions concernées, par les décrets en Conseil d'Etat pris pour l'application
+des dispositions législatives que ces chapitres modifient, et au plus tard le 1er juillet 2017.
+
+Décret n° 2017-797 du 5 mai 2017, Art. 2 : Le chapitre II du titre II de l'ordonnance du 31 mars 2016, à l'exception du 2° de
+l'article 6, entre en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République
+française (8 mai 2017).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-1052 1990-11-26 art. 45
 	  - Loi n°90-1052 du 26 novembre 1990 - art. 45 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°92-597 1992-07-01
+	  - Loi n°92-597 du 1 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-597 1992-07-01 annexe JORF 3 juillet 1992
+	  - Ordonnance n°2016-394 du 31 mars 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-1 (V)
-	  - Code de la propriété intellectuelle - art. L422-4 (V)
-	  - Code de la propriété intellectuelle - art. L422-5 (V)
+	  - Code de la propriété intellectuelle - art. L422-1
+	  - Code de la propriété intellectuelle - art. L422-4
+	  - Code de la propriété intellectuelle - art. L422-5
 	  - Code de la propriété intellectuelle - art. L422-7 (V)
 
 	**Cité par**:
@@ -35633,16 +35713,17 @@ Il est sursis à la radiation en cas de saisine de la chambre de discipline pré
 
 ###### Article R422-6
 
-En cas d'exercice en société, l'inscription de cette dernière dans la section spéciale prévue à l'article L. 422-7 est
-demandée collectivement par tous les associés. Elle est accompagnée de la justification du dépôt de la demande
-d'immatriculation au registre du commerce et des sociétés. 
+La demande d'inscription d'une société dans la section spéciale prévue à l'article L. 422-7 est présentée par son mandataire
+ou, lorsque la société n'est pas encore constituée, par le mandataire des associés. Dans le cas d'une société ne relevant pas
+de l'article L. 422-7-1, elle est accompagnée de la justification du dépôt de la demande d'immatriculation au registre du
+commerce et des sociétés. 
 
-Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie la
-décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu la demande
-d'immatriculation correspondante. 
+Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie, le
+cas échéant, la décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu
+la demande d'immatriculation correspondante. 
 
-Toute décision de radiation d'une société est, dans le mois de sa date, notifiée au greffier chargé de la tenue du registre
-auquel la société a été immatriculée.
+Toute décision de radiation d'une société est, dans le mois de sa date, notifiée, le cas échéant, au greffier chargé de la
+tenue du registre auquel la société a été immatriculée.
 
 **Liens relatifs à cet article**
 
@@ -35650,14 +35731,15 @@ auquel la société a été immatriculée.
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 15 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-7 (V)
-	  - Code de la propriété intellectuelle - art. R422-4 (V)
+	  - Code de la propriété intellectuelle - art. L422-7
+	  - Code de la propriété intellectuelle - art. L422-7-1
+	  - Code de la propriété intellectuelle - art. R422-4
 
 	**Cité par**:
 
@@ -35683,27 +35765,29 @@ exerçant à titre principal l'une des activités ci-après :
 
 3° Création de marques ; 
 
-4° Financement de l'innovation.
+4° Financement de l'innovation. 
+
+Les dispositions du présent article ne sont pas applicables aux sociétés prévues à l'article L. 422-7-1.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-360 1992-04-01 art. 30
-	  - Décret n°92-360 du 1 avril 1992 - art. 30 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°95-385 1955-04-10
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+	  - Décret n°92-360 du 1 avril 1992 - art. 30 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L422-7 (V)
-	  - Code de la propriété intellectuelle - art. L423-2 (V)
+	  - Code de la propriété intellectuelle - art. L422-7
+	  - Code de la propriété intellectuelle - art. L422-7-1
+	  - Code de la propriété intellectuelle - art. L423-2
 
 
 ##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
@@ -36271,6 +36355,18 @@ Toutefois, l'augmentation des engagements des associés ne peut être décidée 
 	**Créé par**:
 
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R422-24-1
+
+La majorité requise pour approuver une des opérations mentionnées au premier alinéa de l'article 27 de la loi n° 66-879 du 29
+novembre 1966 relative aux sociétés civiles professionnelles est celle prévue au premier alinéa de l'article R. 422-24.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
 ###### Article R422-25
@@ -37266,6 +37362,97 @@ immatriculée la société.
 	  - Décret n°2004-199 du 25 février 2004 - art. 9 () JORF 3 mars 2004
 
 
+##### Sous-section 5 : Sociétés pluri-professionnelles d'exercice 
+
+###### Article R422-51-15
+
+La société prévue à l'article L. 422-7-1 est inscrite sur la liste des conseils en propriété industrielle prévue par les
+articles L. 422-1 et L. 422-7, dans une section spécifique aux sociétés pluri-professionnelles d'exercice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-1
+	  - Code de la propriété intellectuelle - art. L422-7
+	  - Code de la propriété intellectuelle - art. L422-7-1
+
+
+###### Article R422-51-16
+
+La déclaration de constitution d'une société pluri-professionnelle d'exercice, dont l'objet est notamment l'exercice de la
+profession libérale de conseil en propriété industrielle est adressée au directeur général de l'Institut national de la
+propriété industrielle par lettre recommandée avec demande d'avis de réception ou par tout moyen permettant d'établir la date
+de réception de cette déclaration. 
+
+Cette déclaration est accompagnée des pièces prévues à l'article 2 du décret n° 2017-794 du 5 mai 2017 relatif à la
+constitution, au fonctionnement et au contrôle des sociétés pluri-professionnelles d'exercice de professions libérales
+juridiques, judicaires et d'expertise-comptable prévues au titre IV bis de la loi n° 90-1258 du 31 décembre 1990.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-1258 du 31 décembre 1990
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+
+###### Article R422-51-17
+
+Le directeur général de l'Institut national de la propriété industrielle procède à l'inscription de la société, par
+dérogation à l'article R. 422-3-1, dans un délai de deux mois suivant la réception de la déclaration prévue au premier alinéa
+de l'article précédent, dès lors que les conditions légales et règlementaires de cette inscription sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R422-3-1
+
+
+###### Article R422-51-18
+
+L'information prévue aux articles 9 et 18 du décret n° 2017-794 du 5 mai 2017 précité est transmise au directeur général de
+l'Institut national de la propriété industrielle et au président de la Compagnie des conseils en propriété industrielle.
+
+Les décisions prises par le directeur général de l'Institut national de la propriété industrielle à l'encontre d'une société,
+en application de la section 6 du chapitre 1er du même décret sont communiquées au président de la Compagnie des conseils en
+propriété industrielle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+
+###### Article R422-51-19
+
+La garantie prévue à l'article L. 422-8 ne couvre que les dommages survenus dans le cadre de l'exercice de la profession de
+conseil en propriété industrielle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-8
+
+
 ##### Section 4 : Obligations professionnelles
 
 ###### Article R422-52
@@ -37459,6 +37646,86 @@ l'activité de conseil en propriété industrielle.
 	  - Code de la propriété intellectuelle - art. L422-10-1
 
 
+##### Section 4 bis : Contrôle de l'exercice de la profession 
+
+###### Article R422-55-2
+
+Toute personne physique ou morale qui exerce la profession de conseil en propriété industrielle fait l'objet de contrôles
+diligentés par la Compagnie nationale des conseils en propriété industrielle et portant sur le respect des conditions de son
+inscription sur la liste des conseils en propriété industrielle prévues à l'article L. 422-5 ainsi que sur le respect des
+obligations professionnelle prévues à la section IV du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L422-5
+
+
+###### Article R422-55-3
+
+Les contrôles sont réalisés par un ou plusieurs contrôleurs choisis par le président de la Compagnie nationale des conseils
+en propriété industrielle parmi les conseils en propriété industrielle ou les anciens membres de la profession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+
+###### Article R422-55-4
+
+Le ou les contrôleurs communiquent immédiatement au directeur général de l'Institut national de la propriété industrielle et
+au président de la Compagnie nationale des conseils en propriété industrielle tout fait, constaté au cours d'un contrôle,
+susceptible de constituer un manquement aux conditions et obligations mentionnées à l'article R. 422-52-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+
+###### Article R422-55-5
+
+Dans les trente jours suivant la fin des opérations matérielles de contrôle, le ou les contrôleurs adressent à la personne
+qui en a fait l'objet un rapport provisoire.
+
+Cette dernière dispose d'un délai de trente jours pour former ses observations écrites sur le contenu du rapport.
+
+A l'issue de ce délai, le ou les contrôleurs établissent un rapport définitif, auquel ils annexent les observations écrites
+de la personne concernée si elle en a produites, et adresse ce rapport au président de la Compagnie nationale des conseils en
+propriété industrielle et au directeur général de l'Institut national de la propriété industrielle. Le rapport ne comporte
+aucune information couverte par le secret professionnel des différents professionnels exerçant au sein de la société.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2017-797 du 5 mai 2017 - art., v. init.
+
+
 ##### Section 5 : Régime disciplinaire
 
 ###### Article R422-56
@@ -37573,7 +37840,9 @@ Le secrétariat de la chambre est assuré par l'Institut national de la proprié
 ###### Article R422-60
 
 Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir de la personne mise en cause, de l'auteur
-de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à
+de la plainte ou de la plainte, du ou des contrôleurs mentionnés à la section IV bis du présent chapitre lorsque la personne
+mise en cause ou la société dans laquelle il exerce a fait l'objet d'un contrôle en application des dispositions de cette
+section ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à
 l'information de la chambre.
 
 Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur
@@ -37592,13 +37861,9 @@ la chambre peut désigner un autre rapporteur parmi les membres de la compagnie 
 
 	  - Décret n°92-360 du 1 avril 1992 - art. 25 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-215 2002-02-18 art. 11 (champ d'application territoriale)
-
 	**Modifié par**:
 
-	  - Décret n°2002-215 du 18 février 2002 - art. 4 () JORF 20 février 2002
+	  - Décret n°2017-797 du 5 mai 2017 - art. 1
 
 	**Cité par**:
 
