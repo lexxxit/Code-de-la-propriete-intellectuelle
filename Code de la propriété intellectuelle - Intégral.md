@@ -1,5 +1,5 @@
 # Code de la propriété intellectuelle  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-07-01
 
 # Partie législative
 
@@ -28307,7 +28307,7 @@ leur sanction.
 	  - Code de la consommation - art. R141-4
 
 
-### Titre II : Sociétés de perception et de répartition des droits
+### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme
 
 #### Chapitre Ier : Dispositions générales
 
@@ -28379,558 +28379,6 @@ d'œuvres musicales protégées sont également soumis aux dispositions des arti
 
 	  - Code de la propriété intellectuelle - art. R321-6-4 (Ab)
 
-
-#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne
-
-###### Article R324-1
-
-Pour l'application des articles L. 132-20-2 et L. 217-3, une liste de vingt médiateurs est établie par le ministre chargé de
-la culture sur proposition des organismes de gestion collective agréés figurant sur la liste mentionnée à l'article R. 323-4,
-des organisations professionnelles représentatives des organismes de télédiffusion et des organisations professionnelles
-représentatives des bénéficiaires du droit d'autoriser la retransmission par câble.
-
-Le ministre chargé de la culture arrête la liste des organisations professionnelles mentionnées à l'alinéa précédent.
-
-La liste des médiateurs est publiée au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L132-20-2
-	  - Code de la propriété intellectuelle - art. L217-3
-	  - Code de la propriété intellectuelle - art. R323-4 (V)
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R324-2 (V)
-	  - Code de la propriété intellectuelle - art. R324-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-
-###### Article R324-2
-
-Les médiateurs doivent remplir les conditions suivantes :
-
-1. Jouir de leurs droits civils et politiques ;
-
-2. Ne pas avoir été auteurs de faits contraires à l'honneur, à la probité et aux bonnes mœurs ayant donné lieu à une sanction
-disciplinaire ou administrative ;
-
-3. Posséder la qualification nécessaire à la résolution des différends dont ils seront saisis ;
-
-4. Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation et notamment ne pas être associé,
-dirigeant, mandataire social ou salarié d'un organisme de gestion mentionné à l'article R. 324-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R324-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Modifié par**:
-
-	  - Décret n°2017-924 du 6 mai 2017 - art. 4
-
-
-###### Article R324-3
-
-Les médiateurs sont désignés pour une durée de trois ans renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-
-###### Article R324-4
-
-Un médiateur peut demander sa radiation de la liste prévue à l'article R. 324-1 par lettre recommandée avec avis de réception
-adressée au ministre chargé de la culture. 
-
-Il est pourvu à son remplacement dans les conditions fixées à l'article R. 324-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R324-1 (V)
-
-
-###### Article R324-5
-
-Le médiateur peut être saisi sur requête conjointe des parties par lettre recommandée avec avis de réception exposant les
-points sur lesquels porte le différend.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-
-###### Article R324-6
-
-Le médiateur peut également être saisi par l'une des parties. Il informe de cette demande, par lettre recommandée avec avis
-de réception, dans un délai de huit jours, les autres parties qui disposent d'un délai d'un mois pour faire connaître leur
-position par lettre recommandée avec avis de réception et, en cas de désaccord sur le choix du médiateur, proposer un autre
-médiateur.
-
-Dès que le choix du médiateur est arrêté par toutes les parties, le médiateur choisi les en informe par lettre recommandée
-avec avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R324-7 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-
-###### Article R324-7
-
-La durée de la médiation ne peut excéder trois mois à compter de la date de réception de la requête conjointe ou de la date
-du dernier avis de réception dans le cas prévu au dernier alinéa de l'article précédent.
-
-La médiation peut être reconduite une fois pour la même durée à la demande du médiateur et avec l'accord des parties.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R324-12 (V)
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R324-6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-
-###### Article R324-8
-
-Le médiateur informe les parties du montant de sa rémunération. La charge de cette rémunération et des frais est supportée à
-parts égales par les parties.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-
-###### Article R324-9
-
-Le médiateur convoque les parties pour les entendre dès le début de la médiation.
-
-Il invite les parties à lui fournir toutes les précisions qu'il estime nécessaires et peut entendre toute personne dont
-l'audition lui paraît utile. Les parties peuvent se faire assister par un avocat ou par toute personne de leur choix qui a
-reçu l'accord du médiateur. Seules sont admises à participer aux réunions les personnes convoquées par lui.
-
-Le médiateur ne peut retenir aucun fait, grief, élément d'information ou de preuve sans en aviser les parties intéressées
-dans des conditions permettant à celles-ci d'en discuter le bien-fondé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-
-###### Article R324-10
-
-Le médiateur est tenu de garder le secret sur les affaires portées à sa connaissance.
-
-Les constatations du médiateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées sans l'accord
-des parties dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une instance judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-
-###### Article R324-11
-
-Lorsque le médiateur constate un accord entre les parties, il rédige un procès-verbal précisant les mesures à prendre pour le
-mettre en oeuvre et fixant un délai pour leur exécution. Il adresse copie de ce procès-verbal aux parties par lettre
-recommandée avec avis de réception dans un délai de dix jours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-
-###### Article R324-12
-
-Si, à l'issue du délai prévu à l'article R. 324-7, aucun accord n'a pu être trouvé entre les parties, le médiateur peut, par
-lettre recommandée avec avis de réception, soit faire des recommandations aux parties, soit proposer la solution qu'il juge
-appropriée au règlement de tout ou partie du différend. 
-
-Faute d'avoir exprimé au médiateur leur opposition par écrit dans un délai de trois mois à compter de la date de réception de
-sa proposition, les parties sont réputées avoir accepté celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R324-7 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
-	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
-
-	**Codifié par**:
-
-	  - Décret n°95-406 1955-04-14
-
-	**Créé par**:
-
-	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
-
-
-#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence
-
-###### Article R329-1
-
-Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 123-7, s'il : 
-
-1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
-des catégories et du nombre des ayants droit, et de leur importance économique exprimée en revenu ou en chiffre d'affaires ; 
-
-2° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
-
-a) De leur qualité d'auteur ; 
-
-b) Ou de la nature et du niveau de leurs diplômes ; 
-
-c) Ou de leur expérience de la gestion d'organismes professionnels ; 
-
-3° Apporte la preuve de la représentation des auteurs d'œuvres originales graphiques et plastiques bénéficiaires du droit de
-suite, au sens de l'article L. 122-8, au sein des organes dirigeants à raison de leur importance économique exprimée en
-revenu ou en chiffre d'affaires ; 
-
-4° Donne les informations nécessaires relatives : 
-
-a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
-
-b) Aux moyens humains et matériels mis en œuvre pour la perception du droit de suite ; 
-
-c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
-
-d) Aux modalités de mise en œuvre de l'affectation du droit de suite à la prise en charge d'une fraction des cotisations dues
-par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L122-8
-	  - Code de la propriété intellectuelle - art. L123-7
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R329-6 (V)
-
-
-###### Article R329-2
-
-La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-1, est transmise par lettre
-recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
-n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
-dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
-lettre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-3
-
-L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-4
-
-L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-5
-
-Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
-dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
-l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
-l'article R. 329-6.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-6
-
-Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-1, le ministre chargé de la culture le
-met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
-mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
-
-Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
-République française.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R329-1 (V)
-
-
-#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée
-
-###### Article R329-7
-
-Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 311-6, s'il : 
-
-1° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
-
-a) De leur qualité d'auteur ou de titulaire de droit voisin ; 
-
-b) Ou de la nature et du niveau de leurs diplômes ; 
-
-c) Ou de leur expérience de la gestion d'organismes professionnels ; 
-
-2° Donne les informations nécessaires relatives : 
-
-a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
-
-b) Aux moyens humains et matériels mis en œuvre pour la perception de la rémunération auprès des personnes mentionnées au
-premier alinéa de l'article L. 331-4 et le traitement des données nécessaires à la répartition de ces rémunérations ; 
-
-c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
-
-3° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
-des catégories et du nombre des ayants droit, appréciés selon leur qualité de titulaire de droits ou du type d'œuvre qu'ils
-représentent, de leur importance économique exprimée en revenu ou en chiffre d'affaires.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. L311-6
-	  - Code de la propriété intellectuelle - art. L331-4
-
-	**Cité par**:
-
-	  - Code de la propriété intellectuelle - art. R329-12 (V)
-
-
-###### Article R329-8
-
-La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-7, est transmise par lettre
-recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
-n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
-dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
-lettre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-9
-
-L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-10
-
-L'agrément est renouvelable dans les mêmes conditions que l'agrément initial.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-11
-
-Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
-dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
-l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
-l'article R. 329-12.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-
-###### Article R329-12
-
-Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-7, le ministre chargé de la culture la
-met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
-mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
-
-Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
-République française.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-284 du 2 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de la propriété intellectuelle - art. R329-7
-
-
-### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme
-
-#### Chapitre Ier : Dispositions générales
 
 #### Chapitre Ier ter : Organisations des organismes de gestion collective 
 
@@ -30447,6 +29895,319 @@ La rétractation peut être effectuée dans les conditions prévues par les stat
 
 #### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne
 
+###### Article R324-1
+
+Pour l'application des articles L. 132-20-2 et L. 217-3, une liste de vingt médiateurs est établie par le ministre chargé de
+la culture sur proposition des organismes de gestion collective agréés figurant sur la liste mentionnée à l'article R. 323-4,
+des organisations professionnelles représentatives des organismes de télédiffusion et des organisations professionnelles
+représentatives des bénéficiaires du droit d'autoriser la retransmission par câble.
+
+Le ministre chargé de la culture arrête la liste des organisations professionnelles mentionnées à l'alinéa précédent.
+
+La liste des médiateurs est publiée au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L132-20-2
+	  - Code de la propriété intellectuelle - art. L217-3
+	  - Code de la propriété intellectuelle - art. R323-4 (V)
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R324-2 (V)
+	  - Code de la propriété intellectuelle - art. R324-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+
+###### Article R324-2
+
+Les médiateurs doivent remplir les conditions suivantes :
+
+1. Jouir de leurs droits civils et politiques ;
+
+2. Ne pas avoir été auteurs de faits contraires à l'honneur, à la probité et aux bonnes mœurs ayant donné lieu à une sanction
+disciplinaire ou administrative ;
+
+3. Posséder la qualification nécessaire à la résolution des différends dont ils seront saisis ;
+
+4. Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation et notamment ne pas être associé,
+dirigeant, mandataire social ou salarié d'un organisme de gestion mentionné à l'article R. 324-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R324-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Modifié par**:
+
+	  - Décret n°2017-924 du 6 mai 2017 - art. 4
+
+
+###### Article R324-3
+
+Les médiateurs sont désignés pour une durée de trois ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+
+###### Article R324-4
+
+Un médiateur peut demander sa radiation de la liste prévue à l'article R. 324-1 par lettre recommandée avec avis de réception
+adressée au ministre chargé de la culture. 
+
+Il est pourvu à son remplacement dans les conditions fixées à l'article R. 324-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R324-1 (V)
+
+
+###### Article R324-5
+
+Le médiateur peut être saisi sur requête conjointe des parties par lettre recommandée avec avis de réception exposant les
+points sur lesquels porte le différend.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+
+###### Article R324-6
+
+Le médiateur peut également être saisi par l'une des parties. Il informe de cette demande, par lettre recommandée avec avis
+de réception, dans un délai de huit jours, les autres parties qui disposent d'un délai d'un mois pour faire connaître leur
+position par lettre recommandée avec avis de réception et, en cas de désaccord sur le choix du médiateur, proposer un autre
+médiateur.
+
+Dès que le choix du médiateur est arrêté par toutes les parties, le médiateur choisi les en informe par lettre recommandée
+avec avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R324-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+
+###### Article R324-7
+
+La durée de la médiation ne peut excéder trois mois à compter de la date de réception de la requête conjointe ou de la date
+du dernier avis de réception dans le cas prévu au dernier alinéa de l'article précédent.
+
+La médiation peut être reconduite une fois pour la même durée à la demande du médiateur et avec l'accord des parties.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R324-12 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R324-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+
+###### Article R324-8
+
+Le médiateur informe les parties du montant de sa rémunération. La charge de cette rémunération et des frais est supportée à
+parts égales par les parties.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+
+###### Article R324-9
+
+Le médiateur convoque les parties pour les entendre dès le début de la médiation.
+
+Il invite les parties à lui fournir toutes les précisions qu'il estime nécessaires et peut entendre toute personne dont
+l'audition lui paraît utile. Les parties peuvent se faire assister par un avocat ou par toute personne de leur choix qui a
+reçu l'accord du médiateur. Seules sont admises à participer aux réunions les personnes convoquées par lui.
+
+Le médiateur ne peut retenir aucun fait, grief, élément d'information ou de preuve sans en aviser les parties intéressées
+dans des conditions permettant à celles-ci d'en discuter le bien-fondé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+
+###### Article R324-10
+
+Le médiateur est tenu de garder le secret sur les affaires portées à sa connaissance.
+
+Les constatations du médiateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées sans l'accord
+des parties dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une instance judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+
+###### Article R324-11
+
+Lorsque le médiateur constate un accord entre les parties, il rédige un procès-verbal précisant les mesures à prendre pour le
+mettre en oeuvre et fixant un délai pour leur exécution. Il adresse copie de ce procès-verbal aux parties par lettre
+recommandée avec avis de réception dans un délai de dix jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+
+###### Article R324-12
+
+Si, à l'issue du délai prévu à l'article R. 324-7, aucun accord n'a pu être trouvé entre les parties, le médiateur peut, par
+lettre recommandée avec avis de réception, soit faire des recommandations aux parties, soit proposer la solution qu'il juge
+appropriée au règlement de tout ou partie du différend. 
+
+Faute d'avoir exprimé au médiateur leur opposition par écrit dans un délai de trois mois à compter de la date de réception de
+sa proposition, les parties sont réputées avoir accepté celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R324-7 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la propriété intellectuelle L132-20-2 et L217-3
+	  - SPEC_APPLI: Décret n°98-1042 1998-11-18 art. 2 (application aux TOM et à Mayotte)
+
+	**Codifié par**:
+
+	  - Décret n°95-406 1955-04-14
+
+	**Créé par**:
+
+	  - Décret n°98-1042 du 18 novembre 1998 - art. 1 () JORF 19 novembre 1998
+
+
 #### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque
 
 ###### Article R325-1
@@ -30992,7 +30753,236 @@ République française.
 
 #### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence
 
+###### Article R329-1
+
+Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 123-7, s'il : 
+
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
+des catégories et du nombre des ayants droit, et de leur importance économique exprimée en revenu ou en chiffre d'affaires ; 
+
+2° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'auteur ; 
+
+b) Ou de la nature et du niveau de leurs diplômes ; 
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ; 
+
+3° Apporte la preuve de la représentation des auteurs d'œuvres originales graphiques et plastiques bénéficiaires du droit de
+suite, au sens de l'article L. 122-8, au sein des organes dirigeants à raison de leur importance économique exprimée en
+revenu ou en chiffre d'affaires ; 
+
+4° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
+
+b) Aux moyens humains et matériels mis en œuvre pour la perception du droit de suite ; 
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+d) Aux modalités de mise en œuvre de l'affectation du droit de suite à la prise en charge d'une fraction des cotisations dues
+par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L122-8
+	  - Code de la propriété intellectuelle - art. L123-7
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R329-6 (V)
+
+
+###### Article R329-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-1, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-5
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
+dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
+l'article R. 329-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-6
+
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-1, le ministre chargé de la culture le
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R329-1 (V)
+
+
 #### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée
+
+###### Article R329-7
+
+Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 311-6, s'il : 
+
+1° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison : 
+
+a) De leur qualité d'auteur ou de titulaire de droit voisin ; 
+
+b) Ou de la nature et du niveau de leurs diplômes ; 
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ; 
+
+2° Donne les informations nécessaires relatives : 
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ; 
+
+b) Aux moyens humains et matériels mis en œuvre pour la perception de la rémunération auprès des personnes mentionnées au
+premier alinéa de l'article L. 331-4 et le traitement des données nécessaires à la répartition de ces rémunérations ; 
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ; 
+
+3° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison
+des catégories et du nombre des ayants droit, appréciés selon leur qualité de titulaire de droits ou du type d'œuvre qu'ils
+représentent, de leur importance économique exprimée en revenu ou en chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L311-6
+	  - Code de la propriété intellectuelle - art. L331-4
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R329-12 (V)
+
+
+###### Article R329-8
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-7, est transmise par lettre
+recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier
+n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un
+dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette
+lettre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-9
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-10
+
+L'agrément est renouvelable dans les mêmes conditions que l'agrément initial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-11
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et
+dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de
+l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à
+l'article R. 329-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+
+###### Article R329-12
+
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-7, le ministre chargé de la culture la
+met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un
+mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre. 
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la
+République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-284 du 2 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. R329-7
+
 
 ### Titre III : Procédures et sanctions
 
@@ -37393,6 +37383,20 @@ informe de la clôture de la liquidation.
 	**Créé par**:
 
 	  - Décret n°95-385 1995-04-10 annexe JORF 13 avril 1995
+
+
+###### Article R422-40-1
+
+Les associés peuvent exercer leur profession également au sein d'une autre société ne leur conférant pas la qualité de
+commerçant, notamment une société pluri-professionnelle d'exercice prévue au titre IV bis de la loi n° 90-1258 du 31 décembre
+1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire
+ou dont le titre est protégé et aux sociétés de participations financières de professions libérales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-795 du 5 mai 2017 - art. 2
 
 
 ##### Sous-section 2 : Sociétés d'exercice libéral
